@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 2259</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="2222">Houston Strauss, Marian</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">cc</ab>
+        <ab type="script">ts</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="18" type="write" cert="medium">Paris</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1938-12-30"><note>Brief</note>
+1938-12-30          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="1707">Schickele, René</persName>
+        </ab>
+        <ab type="no">fud-879</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Durchschlag ohne Signatur.&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-08-18">2014-08-18</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-09-08">2014-09-08</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-09-09">2014-09-09</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_kehe_scre_19381230_cc_01.tif"/>
+        </figure>
+        <p><persName key="17">Hermann Kesten</persName>,<lb/><placeName key="3106">85, rue Vaneau</placeName>, <placeName key="18">Paris VIIe</placeName></p>
+        <lb/>
+        <p rend="text-align:right">
+          <date type="write">30.XII.38.</date>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ F1">Lieber Herr <name role="rec"><persName key="1707">Schickele</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>schönsten Dank für Ihr liebes Telegramm, dessen freundschaftlicher Lakonismus mich sehr gefreut hat. Wir hoffen, Mitte Januar in <placeName key="46">Nice</placeName> zu sein und freuen uns sehr, Ihre liebe <persName key="2185">Frau</persName> und Sie wiederzusehen. Inzwischen wünschen wir Ihnen beiden<note type="com"><persName key="2185">Anna Schickele</persName>, <persName key="1707">René Schickele</persName></note> aufs Allerherzlichste ein gutes neues Jahr, Gesundheit, Glück, Erfolg, viel Geld und Frieden.</p>
+        <lb/>
+        <p rend="text-align:center">Mitden schönsten Grüssen Ihr sehr ergebener</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>René Schickele an Stefan Zweig</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Schickele</bibl></p>
+
+
+                <ab type="copyright"><orgName key="x">gemeinfrei</orgName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">1</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">tr</ab>
+                <ab type="script">ts-h</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="49697" type="write" cert="high"
+                        evidence="Brieftext">Nizza</placeName></ab>
+                <ab type="date"><date when="1938-04-25" cert="high" evidence="Brieftext"
+                        >25.4.1938</date></ab>
+                <ab type="role"><persName key="5454" role="aut">René Schickele</persName></ab>
+                <ab type="role"><persName key="10182" role="rec">Stefan Zweig</persName></ab>
+                <ab type="no">321013</ab>
+                <ab type="reg"/>
+                <ab type="desc">Abschrift mit handschriftlichen Korrekturen von René Schickele. In
+                    der rechten oberen Ecke ist mit Bleistift "An Stefan Zweig" vermerkt. Zu dem
+                    Brief existieren ein zweiseitiger Entwurf und ein Durchschlag, der ebenfalls mit
+                    handschriftlichen Korrekturen in blauer Farbe und der nachträglich mit Bleistift
+                    hinzugefügten Angabe "An Stefan Zweig" am oberen Rand rechts versehen ist. Auf
+                    dem Durchschlag ist der Adresszusatz "La Florida" mit Bleistift unterstrichen,
+                    die Anführungszeichen sind durchgestrichen, das Datum wurde um einen Punkt
+                    hinter der Jahreszahl ergänzt. Unter dem Adressblock steht in roter Schrift "in
+                    der Gesamtausgabe", der letzte Teil des Wortes ist unterstrichen.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2013-07-27">27.7.2013</date>, <date when="2014-07-31">31.7.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2015-01-28">28.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-14">14.11.2014</date>,
+                    <date when="2014-11-19">19.11.2014</date>, <date when="2014-11-25"
+                    >25.11.2014</date>, <date when="2015-04-20">20.4.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2013-10-16">16.10.2013</date>, <date when="2014-11-17">17.11.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="2013-11-07">7.11.2013</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_scre_zwst_19380425_tr_01"/>
+                </figure>
+
+                <p rend="right"><placeName key="49697" type="write">Nice</placeName> &#x2013;
+                    Fabron<lb/>"La Florida"<lb/>Chemin de la Lanterne<lb/><date when="1938-04-25"
+                        cert="high">25.4.1938</date></p>
+
+                <p><emph n="salutation">Lieber <persName key="10182" role="rec"
+                        >Freund</persName></emph>,</p>
+
+                <p>haben Sie vielen Dank für Ihre freundschaftliche Gesinnung &#x2013; ich habe
+                    nichts andres von Ihnen erwartet. Das Bild, das ich von Ihnen habe, steht fest
+                    seit den um Jahrhunderte zurückliegenden Tagen, da ich Sie bei <persName
+                        key="73217">E. M. Lilien</persName> in dem wüsten Hofatelier der wüsten
+                    Grossbeerenstrasse kennen lernte. Aber lassen Sie mich Ihnen sagen, dass Sie der
+                    letzte sind der mit dem Schwert auch die Leier ins Korn werfen sollte, obwohl
+                    unser Fähnlein sich gewiss in vollem Rückzug befindet und die Aussicht auf
+                    Verstärkung zur Zeit gering ist. Sie haben ja das doppelte Geleis schon lange
+                    und auf jedem den denkbar grössten Erfolg. Sie sind auf beiden rund um die Erde
+                    gefahren &#x2013; ein wahrer Trost und herzstärkender Trank für uns alle, dass
+                    dies einem von uns mit sauberen Mitteln gelang!</p>
+
+                <p>Niederlagen, wie wir sie erleben, haben mehr Grösse als die Siege, die
+                    hauptsächlich mit dem ungewaschensten Maul aller Zeiten erfochten werden. Wobei
+                    wir noch froh sein können, dass vorderhand noch der Lautsprecher die Verrichtung
+                    der Artillerie ausübt, die Flüsterpropaganda die des Mikrobenkriegs ausübt, und
+                    die "friedliche Durchdringung" die der Minierarbeit mit Gas und Dynamit. Kommt
+                    das dicke Ende, dann wird es keinesfalls unser Ende sein, auch wenn wir darüber
+                    das Zeitliche segnen sollten. Der Verlust <placeName key="48958"
+                        >Oesterreichs</placeName> ist grauenhaft. Das Beste, was vom alten
+                        <placeName key="49105">Deutschland</placeName> übriggeblieben war, sein
+                    süssester Kern, seine Musik, seine Lebensfreude, ja, dies vor allem: die
+                    köstliche von göttlichem Leichtsinn gleichsam duftende Lebensbejahung, der
+                    sinnliche Liebreiz, wie er allein schon in seiner Sprechweise zum Ausdruck kam,
+                    das ist dahin &#x2013; zumindest als gesellschaftliches Phänomen.
+                    Niedergetrampelt, niedergeschien, verdreht und verlogen, verpestet. Ich kann mir
+                    aber nicht denken, dass die echten Wiener und Erben einer jahrhundertalten
+                    Kultur, die es doch noch gibt und noch eine ganze Weile geben wird, dass die
+                    nicht soviel von der Kostbarkeit ihres Eigenlebens bewahren wie ein Tropfen
+                    Rosenöl, von dessen Duft bewahrt, ein Duft, wovon bekanntlich ein Tropfen
+                    genügt, um einen Raum mit Wohlgeruch zu erfüllen. Das muss so sein, es kann
+                    nicht anders sein. das "Klima" wird sich trotz allem behaupten. Ihre Heimat ist
+                    nicht gestorben, mein Freund, sie ist versklavt. Darin kann ein Segen liegen.
+                    Die Sklaven sind zäher als die Herren und aus vielen Gründen die natürlichen
+                    Anwärter auf die Herrschaft. Sie haben ihren Glauben und halten daran fest, weil
+                    er das einzige ist, was sie besitzen. Auf diesem Boden wurde <placeName
+                        key="73086">Israel</placeName> im Geiste stark und erstand das
+                    Christentum.</p>
+
+                <p>Doch, für uns handelt es sich nur daraum auszuhalten, zu dauern. Allerdings
+                    umschliesst das Aushalten (<foreign n="frz">à qui le dites-vous!</foreign>) den
+                    ganzen Mülleimer, aus dem Sie in Ihrem <rs n="321021">Brief</rs> einige
+                    alltägliche Stücke ans Licht ziehn. Sie werden auch den Mülleimer bereinigen,
+                    lieber Freund, und ich hoffe, will hoffen, ich auch &#x2013; obwohl meine
+                    "Manövrierfähigkeit" auf dem Gebiet der "tausend dreckigen
+                        Aeusserlichkeiten"<note type="com" cert="high">Vgl. Zweigs <rs n="321021"
+                            >Brief</rs> vom 22.4.1938.</note> soviel geringer und, die Wahrheit zu
+                    sagen, in kaum erträglicher Weise eingeschränkt ist.</p>
+
+                <p>Der Verlag<note type="com" cert="high">Es handelt sich um den Verlag <orgName
+                            key="73087">Forum-Bücher</orgName>, den die drei Exilverlage <orgName
+                            key="77125">Bermann Fischer</orgName>, <orgName key="73074"
+                            >Querido</orgName> und <orgName key="73072">Allert de Lange</orgName>
+                        1938 als Gemeinschaftsproduktion gründen.</note>, von dem Sie sprechen, wäre
+                    mehr als eine Wendung zum Guten, er wäre das Tor ins Freie. Hoffentlich gelingt
+                    das Unternehmen. Inzwischen will ich auf den sagenhaften Herrn <persName
+                        key="14512">Hübsch</persName> hoffen. Sagen Sie mir, bitte, seine Adresse.
+                    Ich schicke ihm dann die Vorrede.<note type="reg"><name type="wrk" key="73085"
+                            >Vorwort zu "La Veuve Bosca"</name></note></p>
+
+                <p>Kann Ihre Mutter<note type="reg"><persName key="73083">Zweig,
+                        Ida</persName></note> nicht von <placeName key="49451">Wien</placeName> weg?
+                    Wo ist Ihre Frau<note type="reg"><persName key="7914">Zweig,
+                            Friderike</persName></note>? Wie recht hatten Sie, als Sie seinerzeit
+                    auf der Liquidierung <placeName key="49190">Salzburgs</placeName> bestanden!</p>
+
+                <p rend="center"><emph n="salute">Vielen Dank und herzliche
+                    Grüsse<lb/>Ihres</emph></p>
+                <p rend="right">René Schickele.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

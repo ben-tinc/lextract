@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Salman Schocken an Siegfried Kracauer</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p>Herausgeberinformation:
+            <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Kracauer</bibl></p>
+
+        <ab type="copyright">unbekannt</ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="edition">Volltext</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="language">deutsch</ab>
+        <ab type="AF">F2</ab>
+        <ab type="location"><placeName key="74653" type="write" cert="medium" evidence="Vordruck"
+            >Stamford</placeName></ab>
+        <ab type="date"><date when="1947-09-05" cert="high" evidence="Brieftext"
+          >5.9.1947</date></ab>
+        <ab type="role"><persName key="73655" role="aut">Salman Schocken</persName></ab>
+        <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
+        <ab type="no">322223</ab>
+        <ab type="reg"/>
+        <ab type="desc">Original mit der Unterschrift von Salman Schocken. Als Vordruck ist in der
+          oberen Mitte des Blattes in Großbuchstaben die Absenderadresse ("Windy Hill, Hunting Ridge
+          Road, Stamford, Conn.") angegeben.</ab>
+
+
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2013-11-18">18.11.2013</date>
+      </change>
+
+      <change n="collation">
+        <persName key="77556">Roberta Toscano</persName>
+        <date when="2014-08-12">12.8.2014</date>, <date when="2014-11-12">12.11.2014</date>, <date
+          when="2015-01-26">26.1.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-08-26">26.8.2014</date>, <date when="2014-10-01">1.10.2014</date>, <date
+          when="2014-11-20">20.11.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="2013-11-20">20.11.2013</date>, <date when="2014-08-28">28.8.2014</date>, <date
+          when="2014-11-27">27.11.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="2014-02-11">11.2.2014</date>
+      </change>
+
+      <change n="edition"/>
+
+
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_scsa_krsi_19470905_or_01"/>
+        </figure>
+
+        <p rend="right"><date when="1947-09-05" cert="high">5. September 1947</date></p>
+
+        <p>Dr. Siegfried Kracauer<lb/>56 West 75<hi rend="sup">th</hi> Street<lb/><placeName
+            key="49021">New York</placeName> 23, <placeName key="50589">N.Y.</placeName></p>
+
+
+        <p><emph n="salutation">Lieber Herr Dr. <persName key="7721" role="rec"
+            >Kracauer</persName></emph>:</p>
+
+        <p>Meine Sekretaerin<note type="reg"><persName key="74652">Frau Engel</persName></note>
+          informierte mich, dass Sie sich kurz nach meiner Rueckkehr und wiederum vorige Woche
+          telefonisch erkundigt haetten, wann ich in der Stadt sein wuerde. Ich nehme an, dass Frl.
+            <persName key="74652">Engel</persName> Ihnen mitgeteilt hat, dass das aeusserst selten
+          der Fall ist.</p>
+
+        <p>Bereits vor meiner Reise und auch nach meiner Rueckkehr aus dem Westen habe ich
+          verschiedene Konferenzen im Buero gehabt, in denen wir alle Moeglichkeiten erwogen haben,
+          Sie zu einer Mitarbeit heranzuziehen.</p>
+
+        <p>Zu meinem grossen Bedauern muss ich Ihnen jedoch sagen, dass wir in unserem jetzigen
+          Programm wirklich keine Moeglichkeit sehen, Ihre Faehigkeiten zurzeit zu verwerten.<note
+            type="com" cert="high">Gemeint ist das Programm seines Verlages <orgName key="74647"
+              >Schocken Books</orgName>.</note></p>
+
+        <p>Mir tut es leid, Ihnen diesen negativen Bescheid geben zu muessen. Seinen<note type="intern">sic</note> Sie jedoch
+          versichert, dass ich mich mit Ihnen in Verbindung setzen werde, falls ich einen Weg fuer
+          eine Zusammenarbeit an einem Projekt sehen sollte.</p>
+
+        <p><emph n="salute">Mit den besten Gruessen</emph>,</p>
+
+        <p rend="right"><emph n="salute">Ihr</emph></p>
+
+        <p rend="right"><persName key="73655" role="signed">Salman Schocken</persName></p>
+
+        <p rend="right">Salman Schocken</p>
+
+        <p>SS:ie<note type="com" cert="high">Vermutlich die Initialen als Abkürzung für Salman Schocken und
+            seiner Sekretärin Frau <persName key="74652">Engel</persName>.</note></p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

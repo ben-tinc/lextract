@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hans Sahl an Hermann Broch</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Sahl</bibl></p>
+
+
+                <ab type="copyright"><persName key="77675">Nils Ulrich Kern</persName></ab>
+                <ab type="leaves">3</ab>
+                <ab type="pages">5</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">cc</ab>
+                <ab type="script">ts-h</ab>
+                <ab type="edition"/>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type=" language"/>
+                <ab type="AF">F1</ab>
+                <ab type="location"><placeName key="49021" type="write" cert="low"
+                        evidence="erschlossen">New York</placeName></ab>
+                <ab type="date"><date when="1943-11-06" cert="high" evidence="Brieftext"
+                        >6.11.1943</date></ab>
+                <ab type="role"><persName key="9687" role="aut">Hans Sahl</persName></ab>
+                <ab type="role"><persName key="75307" role="rec">Hermann Broch</persName></ab>
+                <ab type="no">323573</ab>
+                <ab type="reg"/>
+                <ab type="desc">Vermutlich ein Durchschlag mit handschriftlichen Korrekturen und
+                    Hervorhebungen und der Signatur von Hans Sahl.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-07-11">11.7.2014</date>, <date when="2014-08-12">12.8.2014</date>,
+                    <date when="2014-11-12">12.11.2014</date>, <date when="2014-12-10"
+                    >10.12.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2015-01-19">19.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-09-14">14.9.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_saha_brhe_19431106_cc_01"/>
+                    <graphic n="2" url="cor_saha_brhe_19431106_cc_02"/>
+                    <graphic n="3" url="cor_saha_brhe_19431106_cc_03"/>
+                    <graphic n="4" url="cor_saha_brhe_19431106_cc_04"/>
+                    <graphic n="5" url="cor_saha_brhe_19431106_cc_05"/>
+                </figure>
+
+                <p>73 Riverside Drive<lb/>Schuyler 4-0507<note type="com" cert="high">Es handelt
+                        sich um den Namen einer Telefonvermittlungsstelle in <placeName key="49021"
+                            >New York</placeName> und der Angabe der Telefonnummer.</note><space/>
+                    <date when="1943-11-06" cert="high"><foreign n="engl">November 6,
+                        1943</foreign></date></p>
+
+                <p><emph n="salutation">Lieber <persName key="75307" role="rec">Hermann
+                            Broch</persName></emph>!</p>
+
+                <p>Sie irren sich. Sie irren sich so sehr, dass ich mich gegen den Einbruch Ihrer
+                    Irrtümer in meine private, allerpersönlichste (sprich: narzisstische) Sphäre zur
+                    Wehr setzen muss.</p>
+
+                <p>Zunächst: Ich bewundere Sie nicht, <hi rend="ul">um</hi> von Ihnen bewundert zu
+                    werden. Ich will Sie nicht durch meine Bewunderung zu Gegenleistungen erpressen.
+                    Auch wenn Sie mich für einen Schmock, einen Stümper, einen abgefeimten
+                    Nichtskönner hielten, würde dies nichts an meiner Einschätzung Ihrer geistigen
+                    Position ändern. (<foreign n="engl">By the way</foreign>: ich habe nie zu denen
+                    gehört, die sich aus Opportunismus im Schatten grosser Männer aufhielten. Als
+                    mein Gedichtband<note type="com" cert="high">Vermutlich <name type="wrk"
+                            key="77768">Die hellen Nächte</name></note> erschien, war niemand da,
+                    der mir literarische Krücken borgte. Fremde Leute haben über mich geschrieben,
+                    mit Ausnahme jener vier Freunde, die mich im Prospekt vorstellten, <persName
+                        key="8668">Bruno Frank</persName>, <persName key="8171">Piscator</persName>,
+                        <persName key="80122">Tillich</persName>, <persName key="75134"
+                        >Kahler</persName>). Ich bin viel simpler, als Sie glauben, viel spontaner,
+                    viel aufrichtiger. Ich habe es beinahe mit allen wichtigen, einflussreichen
+                    Kreisen, hüben und drüben, verdorben, weil ich eben &#x2013; nicht bewundern
+                    kann, wenn ich es nicht meine (auch auf die Gefahr hin, um die &#x2013; kaum
+                    erwartete &#x2013; Gegenleistung zu kommen). Es fällt mir entsetzlich schwer,
+                    jemanden so plump, so geradeheraus und mit so viel Hartnäckigkeit immer wieder
+                    meine Bewunderung zunbeteuern, wie ich es in Ihrem Falle tue, und wenn ich es
+                    tue, und da ich es tue, so dürfen Sie gewiss sein, dass es etwas ganz Seltenes
+                    und sehr Aufrichtiges ist. Ich glaube, dass ich es in meinem Leben bisher nur
+                    einmal, allerdings mit viel mehr Einschränkung und Vorbehalten, getan habe, und
+                    zwar im Falle <persName key="8093">Brecht</persName>, der mich keineswegs
+                    bejaht, natürlich nicht, und von dem ich nie erwarten werde, dass er irgend eine
+                    Beziehung zu meinem romantischen Individualismus (mit kollektiven Ressentiments)
+                    haben kann. Aber lassen wir das. Nur um eins möchte ich Sie bitten: <foreign
+                        n="engl">For Haven's Sake</foreign>, lassen Sie mir doch endlich meinen
+                    Broch und mischen Sie sich nicht in Dinge ein, die Sie nichts angehen. (Ich
+                    meine die von Ihnen denunzierte Freude über den Autor der <name type="wrk"
+                        key="80125">"Schlafwandler"</name> und des <name type="wrk" key="80151"
+                        >"Vergil"</name>).</p>
+
+                <p>Weiter: Das <persName key="4052">van Gogh</persName>-Script<note type="reg"><name
+                            type="wrk.p" key="80167">Vincent</name></note>, vor fünf Jahren in
+                        <placeName key="49096">Paris</placeName> geschrieben, ist, wie ich in dem
+                    Vorwort ausdrücklich bemerkt habe, kein Werk der Literatur, sondern ein Film,
+                    und zwar ein dokumentarischer, biographischer, kunsthistorischer Film (etwa in
+                    der Art des <name type="wrk" key="77107">"Rembrandt"</name> mit <persName
+                        key="18629">Charles Laughton</persName>, zu dem <persName key="8170"
+                        >Zuckmayer</persName> das Script schrieb &#x2013; ein anfechtbarer, aber
+                    durchaus nich abzulehnender Versuch, Kunstgeschichte im Film zu zeigen). Ich
+                    weiss nicht, ob Sie je ein Filmmanuskript in Händen hatten. Jedenfalls beweist
+                    mir Ihre Kritik, dass Sie den <name type="wrk.p" key="80167">Entwurf</name>
+                    unter einem sachfremden Aspekt sehen, nämlich einem rein-literarischen (wie
+                    könnte es anders sein!), während es sich in Wahrheit um eine Gebrauchsanweisung
+                    für Techniker handelt, und an die <hi rend="ul">technische</hi> Phantasie
+                    appelliert, nicht an die literarische. (Ich habe einmal in <placeName
+                        key="49096">Paris</placeName> in einer Diskussion mit <persName key="6334"
+                        >Walter Benjamin</persName> auf den prinzipiellen Unterschied zwischen
+                    Filmmanuskript und Literatur hingewiesen). Aus diesem Grundirrtum<pb n="2"/>
+                    heraus vermissen Sie &#x2013; mit Recht &#x2013; die "Symbolkraft" des
+                    Entwurfes, verwerfen Szenen, auf die ich besonders stolz bin (das abgeschnittene
+                    Ohr), weil sie bildhaft gedacht sind und das Resultat strengster biographischer
+                    Akribie auf die kürzeste, optische Formel bringen, und gehen am Wesentlichen
+                    vorbei: nämlich an der Tatsache, dass, da es sich um einen Filmentwurf handelt,
+                    die <hi rend="ul">Symbolkraft</hi> in das Bild verlegt und auf das Bild hin
+                    konzipiert wurde. Ich habe mit Filmleuten von künstlerischem Rang darüber
+                    gesprochen (z.B. <persName key="80286">Karl Koch</persName>, der Mann von
+                        <persName key="5521">Lotte Reiniger</persName>, Assistent von <persName
+                            key="79463">Renoir</persName> in <placeName key="49096">Paris</placeName>),
+                    die sich gerade von der trickhaften Symbolsprache angesprochen fühlten, eben von
+                    dem bisher noch nicht unternommenen Versuch, die Bilder selbst, ich meine die
+                    Bilder <persName key="4052">van Goghs</persName>, dramatisch in die Handlung
+                    einzuführen, das Drama dieser Bilder zu zeigen und ihre Symbolkraft für das
+                    Leben desjenigen, der sie malte.... Um noch einmal auf das abgeschnittene Ohr
+                    zurückzukommen: diese Szene ist der Schnittpunkt von drei Ebenen: der
+                    künstlerischen, der biographischen, der klinischen. Künsterlisch hat mir das
+                    Studium der Selbstporträts <persName key="4052">van Gogh's</persName> gezeigt,
+                    dass sie nichts anderes sind als die furchtbare, selbstquälerische,
+                    lebenslänglich gestellte Frage an sich selber: "Wer bin ich?", kombiniert mit
+                    einem Trieb zur Selbstverstümmelung, zur Selbstdegradierung, der eben dann bis
+                    zur faktischen Selbstverstümmelung führte. Ich glaube auch heute noch, d.h.
+                    sogar nach Ihrer Kritik, dass dies die beste, die einzig richtige Erklärung
+                    jenes ungeheuerlichen Aktes darstellt, eine Interpretation, die sich ebenso aus
+                    den Bildern selbst, wie aus seinen Briefen ableiten lässt, die ich aufs
+                    genaueste studiert habe. Die klinische Bestätigung lieferte mir eine kleine
+                    Schrift über <persName key="4052">van Gogh's</persName> Krankheit, die ich auf
+                    der Pariser <orgName key="66940">Staatsbibliothek</orgName> fand, von einem
+                    jungen Psychiater<note type="intern">Nicht ermittelt.</note> stammend (ich habe
+                    seinen Namen vergessen), der sich gegen die Jasper'sche These von <persName
+                        key="4052">van Gogh's</persName> Irrsinn wandte und &#x2013; sehr
+                    überzeugend &#x2013; nachwies, dass es sich um eine, von dem Psychiater
+                        <persName key="80290">Kleist</persName> zuerst entdeckte, spezielle Form von
+                    Epilepsie handelte, die cca um das 35. Jahr auftritt und bei der die Kranken
+                    unter ganz bestimmten Geräusch-Halluzinationen leiden, die so stark, so
+                    unverträglich werden können, dass sie versuchen sich die Ohren abzuschneiden.
+                        (<persName key="4052">Van Gogh</persName> spricht in seinen Briefen immer
+                    wieder von diesen Geräusch-Halluzinationen). Die Symbolkraft jener (von Ihnen
+                    beanstandeten) Szene liegt also, meines Erachtens, darin, dass hier,
+                    gleichzeitig und zusammengefasst in einem grossen visionären Augenblick, etwas
+                    über den Mann, sein Werk und seine Krankheit ausgesagt, auf eine optische Formel
+                    gebracht wird. Mehr will dieser <name type="wrk.p" key="80167">Film</name>
+                    nicht, mehr kann er gar nicht wollen, und wenn ich mich so leidenschaftlich
+                    gegen Ihre Kritik zur Wehr setze, so geschieht es nicht aus "gekrämter
+                    Eitelkeit" oder ähnlichen, narzisstischen Wucherungen meiner verhinderten
+                    Dichterseele, sondern einfach aus der Gewissheit, dass Sie mit einem Masstab
+                    messen, der nicht kongenial ist (was zwar Ihrem literarisch-dichterischen
+                    Gewissen zur Ehre gereicht, aber an der Absicht des <name type="wrk.p"
+                        key="80167">Scripts</name> vorbeigeht.)</p>
+
+                <p>Etwas anderes ist es, ob der <name type="wrk.p" key="80167">Film</name> als Film
+                    gut ist. Der Agent <persName key="77905">Paul Kohner</persName> in <placeName
+                        key="75552">Hollywood</placeName> war sehr begeistert, meinte aber, dass
+                    man, wenn überhaupt, nicht ein Original-Script, sondern das Buch von <persName
+                        key="80291">Irving Stone</persName>
+                    <name type="wrk" key="80296">"Lust for Life"</name> wählen würde. (Und auf
+                    diesen <name type="wrk" key="80296">Roman</name> trifft<pb n="3"/> in der Tat
+                    genau das zu, was Sie über <name type="wrk.p" key="80167">meinen van Gogh</name>
+                    sagen. Es ist ein Werk der Literatur, und als solches dumm, oberflächlich,
+                    banal, naturalistisch, ohne jede Symbolkraft).</p>
+
+                <p>Ich bekenne mich allerdings zu dem Fehler, dass ich einen Augenblick lang daran
+                    dachte, es in Buchform herauszubringen. (Als Filmentwurf, genau so wie jetzt in
+                        <persName key="80292">Lillian Hellmann's</persName> Manuskript<note
+                        type="reg"><name type="wrk" key="80301">The North Star</name></note> für den
+                    Film <name type="wrk" key="80297">"North Star"</name> als Buch herausgebracht
+                    wird). Es ist das positive Etgebnis Ihrer Einwände, dass ich dies als einen
+                    Fehler betrachte und hiermit jeder trügerischen Hoffnung entsage.</p>
+
+                <p>Dies alles hat nichts damit zu tun, dass Sie wunderbare Dinge über Künstlertum
+                    und Wahnsinn und über <persName key="4052">van Gogh</persName> im besonderen
+                    gesagt haben, wie denn überhaupt &#x2013; aber nun wäre es wohl an der Zeit,
+                    dass ich Ihnen Ihre "psychologischen Grobheiten" zurückgebe &#x2013; auch auf
+                    die Gefahr hin, nunmehr weniger bejaht zu werden. Ja, es ist nun so weit, die
+                    Unterdrückten erheben sich gegen ihre (psycho-analytischen) Unterdrücker,
+                    jahrelange dialektische Knechtschaft, feiges Sich-Ducken unter den fortgesetzten
+                    Keulenschlägen Ihrer erbarmungslosen Formulierwut rufen zum Gegenangriff
+                    &#x2013;</p>
+
+                <p>Lange, viel zu lange habe ich es mir gefallen lassen, von Ihnen als eine Art
+                    Versuchs-Rabbit in Ihrem Nerven-Laboratorium missbraucht zu werden. Mit Ihren
+                    Betrachtungen über den (meinen) Narzissmus haben Sie mich bereits einmal an den
+                    Rand des Grabes gebracht. Jetzt entreisse ich Ihnen die Schleuder und werfe den
+                    Stein zurück: Wollen Sie leugnen, dass meine Bewunderung für Sie Ihnen sehr wohl
+                    tut, so sehr, dass Ihr ("noch ungebrochener") Narzissmuss Sie dazu verleitet,
+                    mich, aus Dankbarkeit, mehr zu bejahen, als Sie es tun würden, wenn ich Ihnen
+                    sagte, dass der <name type="wrk" key="80151">"Vergil"</name>, was ich nicht
+                    glaube, ein elendes Machwerk sei, wert, nach Erscheinen sofort eingestampft zu
+                    werden? Wollen Sie leugnen, dass Sie, entgegen Ihrer Behauptung, auf meine
+                    wohlberechneten Schmeicheleien und plumpen Beteuerungen immer wieder
+                    hereinfallen, ja, dass Sie etwas beim Frühstück vermissen würden, sollte einmal
+                    in einem Brief des genannten H.S. nichts derartiges zu finden sein? Wollen Sie
+                    leugnen, dass Sie, viel zu gescheit, um Ihren (narzisstischen) Erfolgshunger
+                    offen zur Schau zu tragen, ihn hinter einer gewissen, sozusagen apokalyptischen
+                        Unzufriednheit<note type="intern">sic</note> und Selbstzerstörung verbergen,
+                    die natürlich nur Ihnen allein erlaubt ist und eher eine Art Test ist, denn wehe
+                    dem, der darauf hereinfallen und, Ihnen beipflichtend, sagen würde; Ja, Sie
+                    haben Recht, der <name type="wrk" key="80151">"Vergil"</name> beweist, dass der
+                    Roman tot ist, und dass man das Schreiben aufgeben soll.... Wollen Sie leugnen,
+                    dass vieles von dem, ja, beinahe alles, womit Sie mir den Schlaf verscheuchen,
+                    die Projektion Ihres eigenen narzisstischen Ichs auf ein wehrloses anderes Ich
+                    darstellt? Natürlich, so will es ja die Methode, der Sie anhängen und die ich
+                    &#x2013; auf die Gefahr hin, nunmehr endgültig von Ihnen verneint zu werden
+                    &#x2013; aus Einsicht und Instinkt, aus Wachheit und aus tiefer ahnungsvoller
+                    Dumpfheit so sehr ablehne, eben jene, die psychoanalytische, die, des bin ich
+                    gewiss, in all ihrer terminologischen Prätention eines Tages ebenso verlacht
+                    werden wird wie wir heute den aufklärerischen Bombast des Barock verlachen.
+                    Lieber, verehrter, grosser, bewunderungswerter Hermann Broch (sic!), es wird Sie
+                    kaum interessieren, die Meinung eines Sie aus selbstischen Gründen so masslos
+                    überschätzenden Anbeters über den grossen Hexenmeister <persName key="5786"
+                        >Freud</persName> zu er<pb n="4"/>fahren, aber wenn es Sie doch in einem
+                    Winkel Ihres gütigen Vaterherzens interessiert, so hören Sie, was ein einfacher
+                    Mann aus dem Volke darüber denkt. Ich glaube nicht mehr daran, ich habe nie
+                    daran geglaubt, und ich werde nie an jene primitive Kausalität glauben, weder an
+                    die psychoanalytische noch an die mechanistisch-marxistische, denn beide denken
+                    gleicherweise kausal, die eine macht's mit der Libido, die andere mit der
+                    Wirtschaft, oder, vielmehr, mit dem Klassenkampf. Das hat nichts mit meinem
+                    Respekt für die beiden Genies unserer Epoche, <persName key="12873"
+                        >Marx</persName> und <persName key="5786">Freud</persName>, zu tun, aber
+                    alles mit ihrer &#x2013; noch nicht vollzogenen &#x2013; Einordung, d.h.
+                    Richtigstellung. Mit andern Worten: die Denkmethoden, die beide geschaffen
+                    haben, werden ihre Ergebnisse überleben. Aber auch die Methode führt sich selbst
+                        <foreign n="lat">ad aburdum</foreign>, wenn damit bewiesen werden soll,
+                    dass, beispielsweise,</p>
+
+                <p rend="center">a.) ein ungebrochener Narzissmuss vorliegt, wenn ein Mensch, der
+                    das Schreiben seit frühester Jugend betreibt, nicht davon ablässt, natürlich um
+                    des Erfolges willen, d.h. um bestätigt zu werden. Jede Leistung auf jedem Gebiet
+                    entspringt dem Bedürfnis nach Bestätigung. Jedes-normale-Mitglied einer
+                    Gemeinschaft hat den Wunsch, sich auszuzeichnen, "anerkannt" zu werden. Anormal
+                    wird es erst dort, wo der Erfolg ohne Leistung gesucht wird, nur um des Erfolges
+                    willen (was ich aus tiefstem Herzen verabscheue).</p>
+
+                <p rend="center">b) ein Mensch nur deshalb einen andern bewundert muß<note
+                        type="com" cert="high">Das Hilfsverb wurde hier handschriftlich
+                        eingefügt.</note>, um von ihm bewundert zu werden. Natürlich macht es mehr
+                    Spass, es ist wertvoller und positiver, von jemandem bejaht zu werden, den man
+                    selber bejaht, als von einem, dessen Urteil und dessen Leistung man ablehnt. Ich
+                    habe mich noch nie für das Lob von Leuten interessiert, die mich nichts angehen
+                    &#x2013; es sagt mir nichts, es macht mich nicht eine Minute lang froh
+                    (höchstens zehn Sekunden).</p>
+
+                <p rend="center">etc. etc. etc.</p>
+
+                <p>Mein Fehler war, dass ich dies alles ernst, viel zu ernst nahm, dass ich es nicht
+                    einordnete in dieses grosse literarische Phänomen Hermann Broch, über das sich
+                    folgende kurze Eintragungen in meinem Tagebuch finden:</p>
+
+                <p>Hermann Broch: Die genialste, die produktivste Form von <hi rend="ul"
+                        >Ideenflucht,</hi> &#x2013; ein <hi rend="ul">Schneetreiben von
+                        Assoziationen</hi> &#x2013; eine Musik der Philosophie &#x2013; die Logik
+                    des Alogischen &#x2013; die Schönheit des Ungeordneten &#x2013;
+                    psychoanalytischer Pointillismus &#x2013; dies ist eine neue Sprache, die weder
+                    Dichtung noch Wissenschaft, sondern die Vermählung beider darstellt &#x2013;
+                    Symbol und Aussage werden eins &#x2013; Satz und Gegensatz identisch &#x2013; es
+                    ist das dämonische Zerlegen eines Ichs &#x2013; in jedem Teil wird das Ganze
+                    sichtbar, erst im Zusammenhang wird es "schön".</p>
+
+                <p>es ist die Dichtung einer sich selbst auflösenden, sich selbst aufhebenden Epoche
+                    (Konflikt zwischen Gleichnis und Wirklichkeit, Kunst und Erkenntnis). Darüber
+                    hinaus ein Anfang. Die Konturen einer neuen Gestaltungsform zeichnen sich ab.
+                    (Musik der Philosophie). &#x2013;</p>
+
+                <p>Kennt er die Gnade, einen Satz zu kneten, wie ein Bäcker ein<pb n="5"/> Brot?
+                    Weiss er um den Geruch des frisch gebackenen Brote? Hier ist keine Demut, hier
+                    ist titanische Ausstülpung eines Ichs in den Urraum. Hier werden keine Sätze
+                    geschrieben, sondern Feuerräder angesteckt.<lb/>Ideenflucht, in kosmischen
+                    Masstab...</p>
+
+                <p>Mit diesen, etwas wirren Eintragungen will ich meinen Brief schliessen und Sie
+                    bitten, dem Knecht zu verzeihen, dass er sich, einen Augenblick lang,
+                    erdreistete, über die Strenge zu schlagen.</p>
+
+                <p>Für <persName key="75134">Kahler</persName> lege ich einen kleinen Warnzettel
+                    bei.</p>
+
+                <p>Ihnen, lieber H.B., vielen Dank für die guten Ratschläge, den Roman und Miss
+                        <persName key="75098">Drury</persName> betreffend, und die Versicherung,
+                    dass ich mich, trotz allem, nicht abschrecken lassen werde, Ihnen auch weiterhin
+                    nach Gebühr zu huldigen.</p>
+
+                <p rend="center"><emph n="salute">In alter Herzlichkeit</emph></p>
+
+                <p rend="center">Ihr</p>
+
+                <p rend="center"><persName key="9687" role="signed">H.S.</persName></p>
+
+                <p>Der Roman<note type="reg"><name type="wrk" key="80116">Die Wenigen und die
+                            Vielen</name></note> maht mich krank. Ich komme jetzt nicht mehr weiter,
+                    werde aber am Montag, nach viertätiger Pause, erneut vorstossen.</p>
+
+
+
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

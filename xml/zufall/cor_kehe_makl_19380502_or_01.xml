@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>KM B 140</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="2222">Houston Strauss, Marian</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">2</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="2783" type="write" cert="medium">Amsterdam</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1938-05-02"><note>Brief</note>
+1938-05-02          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="16">Mann, Klaus</persName>
+        </ab>
+        <ab type="no">fud-950</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit wenigen handschriftlichen Korrekturen und der Signatur Hermann Kestens.&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-04-03">2014-04-03</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-06-13">2014-06-13</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-07-07">2014-07-07</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_kehe_makl_19380502_or_01.tif"/>
+          <graphic n="1" url="cor_kehe_makl_19380502_or_02.tif"/>
+        </figure>
+        <p><persName key="17">Hermann Kesten</persName><lb/>c/o <persName key="3090">Bakker</persName><lb/><placeName key="3089">2 Rozengracht</placeName><placeName key="2783">Amsterdam</placeName>.</p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <date type="write">2. Mai 1938.</date>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="16">Klaus Mann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>schönen Dank für Ihren letzten Brief. Er war des Neuen und Freundlichen voll. So lobe ich mir Briefe. Freilich hätten Sie <placeName key="2783">Amsterdam</placeName> weniger gerühmt, wenn Sie in diesen windigen Wochen hier längs der pissefarbenen Grachten hätten wandeln müssen, gleich mir, und dabei von südlicheren Gegenden in gültiger Prosa berichten sollten, von <placeName key="3097">Bilbao</placeName> und <placeName key="3098">Gernika</placeName> und <placeName key="18">Paris</placeName> und <placeName key="2951">London</placeName>, wo überall mein neuer Roman <name type="wrk" key="2844">"Die Kinder von Gernika"</name> spielt. Ja, gegen <placeName key="2783">Amsterdam</placeName>, dieser Stadt, wo sogar ein <persName key="3103">Rembrandt</persName> gestorben ist, erscheint mir auch <placeName key="2951">London</placeName> südlicher Natur zu sein trotz seinem widerlichen Kaffeehausmangel und Geruch nach Hammelfett und gegorenem Christentum. Vorgestern feierten wir den Geburtstag von <persName key="4025">Julianchen</persName>, es regnete. Gestern feierten wir den 1. Mai, es regnete. Heute feiern wir gar nichts, es regnet. Und so die ganzen Wochen. Und <persName key="2034">Landshoff</persName>, den Sie mir offenbar rühmen, ist unterwegs nach <placeName key="41">Amerika</placeName>, wer weiss ob er wiederkommen wird. Ich stelle mir <placeName key="41">Amerika</placeName> wie eine Wildnis mit Wolkenkratzern vor, ein langweiliges Labyrinth, wo jeder sehnsüchtig einen Ariadnefaden sucht, um sich endlich zu verirren, ein Land mit einer niederträchtigen Vergangenheit und einer wüsten Zukunft, ein Land, das uns um den Völkerbund und einen ehrlichen Emigrantenstaat geprellt hat, Leute, die weder essen noch schreiben können. Ich setze gar kein so grosses Vertrauen in die moralischen Eigenschaften dieser Nation. Aber ich misstraue allen Völkern. Man müsste alle grossen Nationen auflösen. Schon die <placeName key="108">Schweiz</placeName> ist ein sehr weitläuftiges Gebilde. Wäre <placeName key="2780">Oesterreich</placeName> kleiner gewesen, wahrscheinlich existierte es noch!</p>
+        <lb/>
+        <p>Sitzen Sie schon im <placeName key="3099">Engadin</placeName>? Auf Ihre beiden <name type="wrk" key="2964"><name type="wrk" key="3093">Emigrantenbücher</name></name> bin ich sehr neugierig. Schade, dass Ihre Philipp-Kritik nur wegen des Untergangs einer Zeitschrift<note type="com">Es konnte nicht ermittelt werden, auf welche Zeitschrift <persName key="17">Hermann Kesten</persName> sich hier bezieht.</note> nicht deutsch erscheinen soll. Vielleicht<pb/> versuchen Sie es, sie der <name type="per" key="718">"weltbühne"</name> zu geben, die über meine beiden historischen <name type="wrk" key="2850"><name type="wrk" key="2901">Romane</name></name> nichts gebracht hat? Der <name type="wrk" key="3105">Borgese</name> gefällt mir auch. Was für ein Abstand zu unsern <persName key="2059">Emil Ludwig</persName> oder <persName key="1960">Heiden</persName>.</p>
+        <lb/>
+        <p><persName key="71">Landauer</persName> hat mich über Wochenende auch allein gelassen, er fuhr nach <placeName key="2951">London</placeName> und <placeName key="18">Paris</placeName>. Das sind so Ausflüge reicher Verleger.</p>
+        <lb/>
+        <p>Hier sollen diese Woche <persName key="2267">Franz Werfel</persName> und <persName key="1979">Oedoen Horvath</persName> eintreffen. Ich fahre. Ich will ab 15. Mai in <placeName key="18">Paris</placeName> sein. Was dann eintreten soll, wohin des gar nicht Wandermüden Schritte oder Schrittchen sich wenden, weiss Tyche, in welcher Göttin meiner Mythologie zufolge Gott Mammon sich verbirgt, allein. Unter uns, der Teufel hole die alte Hure Tyche. Ich hatte nie Glück bei Huren.</p>
+        <lb/>
+        <p>Dass man in <placeName key="3100">Rom</placeName> <placeName key="3101">Florenz</placeName> <placeName key="3102">Neapel</placeName> alle deutschen Emigranten eingesperrt hat, damit sie nicht Attentate auf <persName key="1971">Hitler</persName> verübten, werden Sie ja wissen. Aber die deutschen Emigranten sind viel harmloser als die <orgName key="1717">Gestapo</orgName> glaubt. Da schiesst keiner.</p>
+        <lb/>
+        <p>Ich freue mich auf <placeName key="18">Paris</placeName> und den Sommer. Wir können nicht einmal mehr sagen, <foreign xml:lang="">après nous le deluge</foreign>, denn wir stecken schon mitten darin. Ich hätte nie geglaubt, dass man immerhin noch so vergnügt in der Hölle leben kann. Die Leute übertreiben aber auch. Der Teufel ist ganz gemütlich. Er ist nur vulgärer, als man dachte.</p>
+        <lb/>
+        <p>Auch ich habe das echte Bedürfnis, Sie wiederzusehen, bevor Sie ins amerikanische Fegefeuer hinüberschiffen. Meine wechselnden Adressen sollen Ihnen immer zugehn,.</p>
+        <lb/>
+        <p>Arbeiten Sie nicht zu fleissig, und bleiben Sie heiter, und denken Sie freundlich von Ihrem alten Freunde</p>
+        <lb/>
+        <p rend="text-align:right"><span type="Signatur"><name role="aut"><persName key="17">Kesten</persName></name></span>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

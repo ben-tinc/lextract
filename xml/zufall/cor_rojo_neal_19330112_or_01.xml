@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>AN B 238</bibl>
+        </p>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ms</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="2788" type="write" cert="high">Berlin</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1933-01-12"><note>Brief</note>
+1933-01-12          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="26">Roth, Joseph</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="2113">Neumann, Alfred</persName>
+        </ab>
+        <ab type="no">fud-649</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit der Signatur Joseph Roths.&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-10-30">2014-10-30</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-11-19">2014-11-19</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-12-16">2014-12-16</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_rojo_neal_19330112_or_01.tif"/>
+        </figure>
+        <p rend="text-align:right">
+          <hi rend="underline"><placeName type="write">Berlin</placeName>, am <date type="write">12. I. 1933</date>.</hi>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Sehr verehrter und lieber Herr <name role="rec"><persName key="2113">Alfred Neumann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>Ihr guter Brief war mir eine große Freude. Von einem Könner Ihres Ranges gelobt zu werden, ist meinen Sinnen und meinem Herzen eine Wonne. Sie wissen selbst, wieviel Sie können und wie meisterlich Sie schreiben, und es gibt ja auch bei unsereinem kein Zeremoniell der Komplimente. Aber eine menschliche Beziehung zu Ihnen täte mir wohl und Das kann ich Ihnen ja schreiben. Ich fahre am 20. I. nach <placeName key="18">Paris</placeName> und werde gegen den 20. II. hoffentlich wieder in <placeName key="2788">Berlin</placeName> sein. Wo können wir uns treffen? Schreiben Sie mir, bitte, über den Verlag <orgName key="1176">Kiepenheuer</orgName>.</p>
+        <lb/>
+        <p rend="text-align:right">Ihr herzlich ergebener<lb/><name role="aut"><span type="Signatur"><persName key="26">Joseph Roth</persName></span></name>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

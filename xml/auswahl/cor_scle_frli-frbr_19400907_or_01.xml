@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>BF 46</bibl>
+        </p>
+        <ab type="leaves">2</ab>
+        <ab type="pages">4</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ms</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="date">
+          <date cert="high" when="1940-09-07"><note>Brief</note>
+1940-09-07          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="53">Schwarzschild, Leopold</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="118">Frank, Elisabeth</persName>
+          <persName role="rec" key="1898">Frank, Bruno</persName>
+        </ab>
+        <ab type="no">fud-651</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Handschriftliches Original auf zwei Briefbögen der "General Steam Navigation Co., Ltd., of Greece, T.S.S. 'Nea Hellas'". Die Bögen sind jeweils in der Mitte gefaltet, sodass sich je vier Seiten ergeben. Beschriftet sind jedoch bei beiden Bögen jeweils nur die erste und die dritte Seite.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2014-11-14">2014-11-14</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-11-18">2014-11-18</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-12-10">2014-12-10</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_scle_frbr_19400907_or_01.tif"/>
+          <graphic n="1" url="cor_scle_frbr_19400907_or_02.tif"/>
+          <graphic n="2" url="cor_scle_frbr_19400907_or_03.tif"/>
+          <graphic n="3" url="cor_scle_frbr_19400907_or_04.tif"/>
+        </figure>
+        <p rend="text-align:right">
+          <date type="write">7.9.40</date>
+        </p>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Liebe <name role="rec">Franks<note type="com"><persName key="118">Elisabeth Frank</persName>, <persName key="1898">Bruno Frank</persName></note></name>,</span>
+        </p>
+        <lb/>
+        <p>Nach Abenteuern verschiedener Art sitze ich auf diesem Schiff und beginne mir langsam über das unverhoffte Wunder klar zu werden, das mir über Nacht in Gestalt des Visums nach <placeName key="41">U.S.A.</placeName> und dieser Überfahrt zuteil geworden ist.</p>
+        <lb/>
+        <p>Eine grosse Dankbarkeit ist in mir für alle Urheber dieses Wunders; und da zu ihnen, wie <persName key="2066">Erika Mann</persName> mir verriet, vornan und vor allem Ihr gehört, möchte ich Euch das sagen. Noch weiß ich nicht, welchem Zweck es dienen soll, daß ich meinem fast gewissen Ende entrissen und an den Strand eines völlig ungewissen Lebens geworfen worden bin. Aber was immer daraus werden wird, ohne Euch wäre wahrscheinlich alles aus gewesen, für mich und viele andre; und ich habe genug von der allgemeinen <pb/>Verzweiflung und dann vom Wieder-Erwachen der Hoffnungen gesehen, um das Sprachrohr aller derjenigen sein zu können, denen durch Euch und Eure Freunde in den schwärzesten Tagen wenigstens eine Möglichkeit des Entrinnens eröffnet worden ist, obwohl viele in Wirklichlichkeit noch nicht zu entrinnen vermochten.</p>
+        <lb/>
+        <p>Woran das liegt – zum Beispiel im Falle der Polgars<note type="com"><persName key="5086">Lisl Polgar</persName>, <persName key="2142">Alfred Polgar</persName></note> – wißt Ihr wahrscheinlich. Es liegt daran, dass demjenigen, der mit allen Ein- und Durchreisevisen versehen ist, die Franzosen schliesslich nicht mehr das Ausreisevisum geben, – und dass die meisten unsrer Freunde zu gebrochen und verprügelt sind, um noch das kleine Risiko zu wagen, das in der "schwarzen" Ausreise auf einem der zahlreichen dafür möglichen Wege liegt. So sind die Polgars<note type="com"><persName key="5086">Lisl Polgar</persName>, <persName key="2142">Alfred Polgar</persName></note>, die uns unmittelbar folgen wollten, während unsrer 14 Warte-Tage in <placeName key="125">Lissabon</placeName> tatsächlich nicht dort erschienen und vermutlich gar nicht aus <placeName key="124">Marseille</placeName> abgereist, – und inzwischen ist als neue grosse Schwierigkeit eine vollkommene Grenzsperre in <placeName key="43">Spanien</placeName> hinzugekommen. Sie <pb/>wird hoffentlich nur temporär sein, – aber man kann nicht verkennen, daß die Bedingungen fortschreitend unvorteilhafter werden, und manchmal frage ich mich, ob auch nur die Mehrzahl derjenigen, die gerettet werden sollten und gerettet hätten werden können, tatsächlich gerettet werden wird. Da ich in <placeName key="125">Lissabon</placeName> einige Tage lang den Repräsentanten<note type="com">Nicht ermittelt.</note> eines der beteiligten amerikanischen Committees<note type="com">Um die Ausreise der Flüchtlinge bemühen sich neben dem <orgName key="1087">Emergency Rescue Committee</orgName> auch weitere Hilfskomitees wie das <orgName key="2745">Unitarian Service Committee</orgName> oder die jüdische Organisation <orgName key="1208">HICEM</orgName>.<lb/><lb/><lb/>(Vgl. Walter: Internierung, S. 319–321; Fry: Auslieferung, S. 297)</note> vertrat, habe ich einen gewissen Überblick über die Sache und kann in <placeName key="84">New York</placeName> nach meiner Ankunft die Mittel darstellen, die allein noch imstande sein werden, eine grössere Anzahl herauszubringen. Seien wir optimistisch und hoffen wir, dass das Notwendige noch getan werden kann. Es wäre tragisch, – obwohl es das Verdienst der Urheber nicht schmälern würde, – wenn die Aktion mittendrin, und sogar ziemlich <pb/>am Anfang, stecken bliebe.</p>
+        <lb/>
+        <p>Aber vielleicht gibt es, bis dieser Brief mehrere Tage nach meiner Ankunft in <placeName key="84">New York</placeName> bei Euch eintrifft, schon bessere Nachrichten. Ich stehe mit jeder Auskunft und zu jedem Dienst zur Verfügung. Wo ich in <placeName key="84">New York</placeName> wohnen werde, weiß ich noch nicht; es ist eine der vielen Unbekanntheiten, die vor mir liegen, und gewiss die kleinste. Aber in der Zwischenzeit erreichen mich Nachrichten unter der Adresse <persName key="5087">S. M. Schwarzschild</persName>, <placeName key="84">New York-Brooklyn</placeName>, <placeName key="5088">1359 51<hi rend="sup"><hi rend="underline">st</hi></hi> str.</placeName></p>
+        <lb/>
+        <p>Nochmals Dank. Ich hoffe auf ein Wiedersehen, in dem auch Schatten aus den letzten Monaten, jetzt ignoriert, ganz und glücklich verschwinden werden. Und angesichts der furchtbar aufregenden Schiffsradio-Nachrichten: hoffen wir, dass <placeName key="1705">England</placeName>, die letzte Säule unsrer Welt, bis dahin noch steht.</p>
+        <lb/>
+        <p>In müder, wahrer, warmer Herzlichkeit</p>
+        <lb/>
+        <p rend="text-align:right">Euer<lb/><span type="Signatur"><name role="aut"><persName key="53">Schwarzschild</persName></name></span></p>
+      </div>
+    </body>
+  </text>
+</TEI>

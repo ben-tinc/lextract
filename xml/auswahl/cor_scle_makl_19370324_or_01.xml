@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>KM B 256</bibl>
+        </p>
+        <ab type="leaves">2</ab>
+        <ab type="pages">3</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="18" type="write" cert="medium">Paris</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1937-03-24"><note>Brief</note>
+1937-03-24          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="53">Schwarzschild, Leopold</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="16">Mann, Klaus</persName>
+        </ab>
+        <ab type="no">fud-987</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit wenigen handschriftlichen Korrekturen und der Signatur Leopold Schwarzschilds. Der Brief wurde auf dem Briefbogen der Exilzeitschrift "Das Neue Tage-Buch" verfasst. Im teilweise vorgedruckten Datumsfeld ist der "24. März 1937" eingetragen. Das zweite Blatt trägt am Kopf die Nummerierung "2.)". Die Bleistiftmarkierungen und -unterstreichungen auf der dritten Seite stammen möglicherweise von Klaus Mann.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2014-11-04">2014-11-04</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-11-18">2014-11-18</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2015-02-25">2015-02-25</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_scle_makl_19370324_or_01.tif"/>
+          <graphic n="1" url="cor_scle_makl_19370324_or_02.tif"/>
+          <graphic n="2" url="cor_scle_makl_19370324_or_03.tif"/>
+        </figure>
+        <p>Herrn<lb/><persName key="16">Klaus Mann</persName>,<lb/><hi rend="underline"><placeName key="2820">Küssnacht/Zürich</placeName></hi><lb/><placeName key="3763">Schiedhaldenstr. 33</placeName></p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="16">Klaus Mann</persName></name>,</span>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>Ueber Ihre Zuschrift<note type="com">In einem zur Veröffentlichung im <name type="per" key="717">Neuen Tage-Buch</name> vorgesehenen Brief antwortet <persName key="16">Klaus Mann</persName> auf <persName key="1960">Konrad Heidens</persName> Artikel <name type="wrk" key="5306">Der Prüfungsfall der Emigration</name>. Darin bewertet <persName key="1960">Heiden</persName> die Affäre um das <name type="per" key="730">Pariser Tageblatt</name> und kritisiert unter anderem die schwache Qualität der aus dem <name type="per" key="730">Pariser Tageblatt</name> hervorgegangenen <name type="per" key="731">Pariser Tageszeitung</name>. <persName key="16">Klaus Mann</persName> sieht sich veranlasst, die <name type="per" key="731">Zeitung</name> und ihren Chefredakteur <persName key="1806">Georg Bernhard</persName> zu verteidigen. Auf Anraten <persName key="1960">Heidens</persName> und <persName key="53">Leopold Schwarzschilds</persName> veröffentlicht er seine Antwort letztlich nicht (vgl. den <ref target="fud://987">Brief</ref> von <persName key="53">Leopold Schwarzschild</persName> an <persName key="16">Klaus Mann</persName> vom 24.3.1937 und den <ref target="fud://1009">Brief</ref> von <persName key="16">Klaus Mann</persName> an <persName key="53">Leopold Schwarzschild</persName> vom 27.3.1937).<lb/><lb/><lb/>(Vgl. Mann, Klaus: Briefe I, S. 282–292, 296–298)</note> habe ich mit <persName key="1960">Heiden</persName> gesprochen und wir finden, dass Sie sich doch dringend überlegen sollten, ob Sie etwas Derartiges überhaupt veröffentlichen wollen. Ich kann mir vorstellen und erlebe es, dass jemand in dieser Sache<note type="com">In einer <name type="wrk" key="5293">Erklärung</name> auf der ersten Seite des <name type="per" key="730">Pariser Tageblatts</name> macht die Redaktion am 11.6.1936 angebliche Verkaufsverhandlungen ihres Verlegers <persName key="2143">Vladimir Poliakov</persName> mit nationalsozialistischen Stellen öffentlich und berichtet von einer Neuausrichtung der <name type="per" key="730">Zeitung</name>, die sich künftig "gegenüber <persName key="1971">Hitler</persName> und dessen Bestrebungen loyaler einstellen" werde. Als Konsequenz beschließt die Redaktion, sich von ihrem <persName key="2143">Verleger</persName> zu lösen und verkündet die Neugründung der antifaschistischen <name type="per" key="731">Pariser Tageszeitung</name> zum nächsten Tag. Tatsächlich handelt es sich bei diesem Vorgang jedoch um eine Intrige gegen <persName key="2143">Poliakov</persName>: Dieser hatte sich aufgrund finanzieller Schwierigkeiten nach einem Mitfinanzier umgesehen und wäre bereit gewesen, die alte Redaktion, einschließlich des Chefredakteurs <persName key="1806">Georg Bernhard</persName>, auszutauschen. Das Komplott hat Erfolg: Das <name type="per" key="730">Pariser Tageblatt</name> wird eingestellt, die neu gegründete <name type="per" key="731">Pariser Tageszeitung</name> erscheint dagegen bis 1940. Aufgedeckt wird die Affäre schließlich durch das <name type="per" key="717">Neue Tage-Buch</name>, ebenso bestätigten Gerichte die böswillige Verleumdung <persName key="2143">Poliakovs</persName>. Die "Exilöffentlichkeit" hält die Anschuldigungen gegen <persName key="2143">Poliakov</persName> dagegen zunächst für glaubwürdig.<lb/><lb/><lb/>(Vgl. Maas: Kurfürstendamm, S. 113–116; Grossmann: Emigration, S. 99–104)</note> sagt: Ich will meine Hände draussen halten, ich will in die Sache nicht hineinvermischt sein, ich bleibe neutral. Aber Sie tun etwas anderes. Trotz einigen vorüberhuschenden moralischen Reservaten ist Ihr Brief im ganzen eine Deklaration der Solidarität mit erwiesenen Verbrechern<note type="com">An der Intrige gegen <persName key="2143">Vladimir Poliakov</persName> maßgeblich beteiligt sind der Chefredakteur des <name type="per" key="730">Pariser Tageblatts</name> <persName key="1806">Georg Bernhard</persName>, dessen Stellvertreter <persName key="1846">Kurt Caro</persName> und der spätere Verleger der <name type="per" key="731">Pariser Tageszeitung</name> <persName key="5294">Fritz Wolff</persName>.</note> und eine Aufforderung an andere, ebenfalls solche Solidarität zu üben. Ihr Schreiben ist nichts anderes als die Vorstellungen, die der Generalstabschef <persName key="5273">Boisdeffre</persName> dem Oberst <persName key="5274">Picard</persName> gemacht hat, als dieser sich anschickte, die Sache <persName key="5275">Dreyfus</persName> zu betreiben. Genau dieselben Argumente: was liegt schliesslich an <persName key="5275">Dreyfus</persName>, wir haben doch eine hohe gemeinsame Sache, wir müssen gegen einen grossen gemeinsamen Feind doch zusammenstehen, wie soll es da auf ein bischen mehr oder weniger Teufelsinsel für einen kleinen Itzig gross ankommen. Das ist diesmal nun also Ihre These, und Sie sollten sich genau überlegen, ob Sie die wirklich aufstellen wollen. Es ist die These, die jedesmal, überall, ausnahmslos und immer vertreten wird, wenn man jemanden aus dem eigenen Kreis, der schuldig geworden ist, zur Verantwortung ziehen will. Wenn es nach dieser These ginge, wäre noch niemals ein wirkliches Unrecht gesühnt worden, und wo es gesühnt worden ist, ist es immer gegen diese These geschehen.</p>
+        <lb/>
+        <p>In unserem Fall kommt noch etwas hinzu. In unserem Fall handelt <pb/>es sich nicht nur darum, dass Leute<note type="com">Gemeint sind wohl <persName key="1806">Georg Bernhard</persName> und <persName key="1846">Kurt Caro</persName>.</note> aus unserem Lager sich als Schweine erwiesen haben, und zwar öffentlich, was an sich reichlich genug wäre, uns von ihnen zu trennen. Es kommt hinzu, dass sie ihr Diebshandwerk gerade in der Weise ausübten, dass sie sich die Maske der Gesinnung vorbanden, für die Sie und ich und wir alle einstehen. Indem sie die schändliche Methode wählten, den braven <persName key="2143">Poliakoff</persName> gerade der Hitlerei zu bezichtigen, und indem sie den Antihitlerismus als Diebsdietrich für ihre Geldschrankknackerei benutzten, haben sie ihn entwürdigt, haben sie ihn zu einer Gaunerei gemacht und das können wir nicht weiter dulden. Wir können es nicht dulden, weil jeder von uns, wenn er als Antihitlerianer auftritt, damit künftighin in den Verdacht gerät: und welche Gaunerei steckt bei ihm dahinter? Und wir können es weiter nicht dulden aus dem sehr primitiven Grund, dass, wenn die Sache diesmal glückt, sie morgen und übermorgen gegen jeden anderen, der der Bande<note type="com">Gemeint sind wohl <persName key="1806">Georg Bernhard</persName> und <persName key="1846">Kurt Caro</persName>.</note> nicht passt, wiederholt werden kann. Sie sehen, dass es bei mir schon angefangen hat; bei mir hat die Bande<note type="com">Gemeint sind wohl <persName key="1806">Georg Bernhard</persName> und <persName key="1846">Kurt Caro</persName>.</note> schon mit den "Hep Hep"-Rufen <persName key="1971">'Hitler'</persName> angefangen. Uebermorgen können Sie dran kommen, vielleicht wenn Sie wieder einmal ein Buch<note type="com">In seinem Artikel <name type="wrk" key="3000">Der Streit um André Gide</name> verteidigt <persName key="16">Klaus Mann</persName> <persName key="1706">André Gides</persName> kritischen Reisebericht <name type="wrk" key="5297">Zurück aus Sowjet-Russland</name>. Die darin geäußerte Kritik an der <placeName key="3667">Sowjetunion</placeName> hatte <persName key="1706">Gide</persName> aus kommunistischen Kreisen den Vorwurf eingetragen, durch seinen <name type="wrk" key="5297">Bericht</name> indirekt <persName key="1971">Hitler</persName>-<placeName key="1704">Deutschland</placeName> zu unterstützen.</note> von <persName key="1706">Gide</persName> verteidigen. Wir können nicht gestatten, dass diese Methoden gelingen.</p>
+        <lb/>
+        <p>Ein weiterer Punkt: ich lege Wert darauf, als ein Mitglied der gesitteten Welt betrachtet zu werden. Die gesittete Welt, in den Teilen, die mir wichtig sind und die auf uns überhaupt ein Auge werfen, hat sich mit nur allzu gutem Grund gegen die Partei Bernhard<note type="com">An der Intrige gegen <persName key="2143">Vladimir Poliakov</persName> maßgeblich beteiligt sind der Chefredakteur des <name type="per" key="730">Pariser Tageblatts</name> <persName key="1806">Georg Bernhard</persName>, dessen Stellvertreter <persName key="1846">Kurt Caro</persName> und der spätere Verleger der <name type="per" key="731">Pariser Tageszeitung</name> <persName key="5294">Fritz Wolff</persName>.</note> erklärt und sie in der schärfsten Form verurteilt. 5 jüdische Richter haben es getan, 10 Richter der internationalen Presse und zwei<note type="com"><persName key="53">Leopold Schwarzschilds</persName> Aufdeckung der tatsächlichen Vorgänge in der Affäre um das <name type="per" key="730">Pariser Tageblatt</name> und der daraus resultierende Konflikt mit den Redakteuren <persName key="1806">Georg Bernhard</persName> und <persName key="1846">Kurt Caro</persName> führt schließlich zur Einsetzung einer Untersuchungskommission des <orgName key="1635">Verbandes deutscher Journalisten in der Emigration</orgName>. Nur zwei Mitglieder der insgesamt fünfköpfigen Kommisson, die Journalisten <persName key="5295">Berthold Jacob</persName> und <persName key="5296">Paul Dreyfus</persName>, sind tatsächlich um Aufklärung bemüht und bewerten die Intrige als absichtsvoll.<lb/><lb/><lb/>(Vgl. Maas: Kurfürstendamm, S. 116; s.a. Dreyfus/Jacob: Bericht)</note> aus unseren eigenen Reihen. Macht zusammen 17. Diese und nicht die drei Angestellten oder Halbangestellten, die sich unter schauerlichen, an sich jeder Sitte, jedem Treu und Glauben widersprechenden Lügen und Fälschungen ein Votum zugunsten <persName key="1806">Bernhards</persName> abgequält haben, sind das Symbol des moralischen Urteils der Welt. In dieselbe Kerbe hat soeben die grosse <orgName key="5276">"Ligue des Droits de l'Homme"</orgName> gehauen, gegründet während und wegen des Falles <persName key="5275">Dreyfus</persName>, die den Fall <persName key="2143">Poliakoff</persName> offiziell zu dem ihren gemacht hat. Und schliesslich sind die Berichte da, befasst mit 4 Prozessen; es kann noch einmal oder noch zweimal mit Krampf gelingen, den Verhandlungstermin verschieben zu lassen, aber an dem Ausgang ist darum nichts zu ändern, und da ist ein weiteres Symbol der gesitteten Welt. Man passt auf uns auf, und unsere Haltung in diesem Fall ist vollkommen massgeblich dafür, ob man uns ins Register der anständigen Menschen oder der Gauner eintragen wird. Wir haben die Pflicht, nicht nur gegen uns, sondern gegen alles, was wir vertreten, das Erdenkliche dafür zu tun, dass wir bei den anständigen registriert werden.</p>
+        <lb/>
+        <p>Ich glaube übrigens, das alles kam schon, wenn auch nur <foreign xml:lang="la">in nuce</foreign>, in <persName key="1960">Heidens</persName> <name type="wrk" key="5306">Artikel</name> vor, und ich glaube ferner, dass eigentlich schon alles darin erwähnt und widerlegt war, was Sie jetzt als Argument für die Solidarität vorbrachten. Bei Einzelheiten halte ich mich nicht auf. Ich weiss nicht, warum Sie sich daran stossen, dass <persName key="1960">Heiden</persName> den <persName key="2143">Poliakoff</persName>, der völlig an den Bettelstab gebracht ist, "unglücklich" <pb/>nennt, (je höher Sie das <name type="per" key="730">"Pariser Tageblatt"</name> schätzen, umso stärkere Gefühle der Verpflichtung gegen diesen <persName key="2143">Mann</persName> sollten sie eigentlich haben, denn er war ja der einzige, buchstäblich der einzige, der für eine solche Blattgründung<note type="com">Die erste Ausgabe des <name type="per" key="730">Pariser Tageblatts</name> erscheint am 12.12.1933.</note> zu haben war, dem das ganze Dasein dieses <name type="per" key="730">Blattes</name> zu danken ist,) Ich weiss noch weniger, was es bedeuten soll, dass Sie ihm <persName key="1806">Bernhard</persName> gegenüberstellten, der ja auch einiges verloren habe, z.B. die Staatsbürgerschaft; als ob <persName key="2143">Poliakoff</persName> derjenige wäre, der ihm die Staatsbürgerschaft genommen hat. In der Tat, ich vermisse ein primitives Gerechtigkeitsgefühl, wenn Sie, sich selbst irreführend, dermassen mit falschen Gewichten auf den beiden Seiten wiegen. Auch halte ich Sie für einen zu grossen Sachverständigen, als dass Sie ernstlich aus ein paar Beiträgen einiger aussenstehender Autoren einen Schluss auf die Qualität des <name type="per" key="731">Blattes</name> ziehen zu können glauben, denn nicht Beiträge, sondern die Redaktionsarbeit charakterisiert eine Zeitung. Ich für meinen Teil finde übrigens auch nicht, dass die ganze Geschichte irgendetwas mit der Qualität des <name type="per" key="731">Blattes</name> zu tun hat, denn auch wenn das <name type="per" key="731">Blatt</name> besser wäre, läge die Sache nicht anders, und umgekehrt handelt es sich auch nicht um die Existenz des <name type="per" key="731">Blattes</name>, das weiter leben kann und soll und wird, auch wenn die Gaunerbande<note type="com">An der Intrige gegen <persName key="2143">Vladimir Poliakov</persName> maßgeblich beteiligt sind der Chefredakteur des <name type="per" key="730">Pariser Tageblatts</name> <persName key="1806">Georg Bernhard</persName>, dessen Stellvertreter <persName key="1846">Kurt Caro</persName> und der spätere Verleger der <name type="per" key="731">Pariser Tageszeitung</name> <persName key="5294">Fritz Wolff</persName>.</note> aus ihm herausgeworfen sein wird. Aber auf das alles, wie gesagt, braucht kaum eingegangen zu werden, denn das bei weitem entscheidende sind die grossen Fragen und grossen Linien, von denen ich zuvor gesprochen habe.</p>
+        <lb/>
+        <p>Tun Sie mir einen Gefallen, lieber <persName key="16">Klaus Mann</persName>, und überlegen Sie sich sehr genau und mit grossem Bedacht, ob Sie in diesen grossen Fragen mit zu den Vertuschern und den unausbleiblich Diskreditierten von Morgen gehören wollen, oder zu den Rechtschaffenen und zu den Mitgliedern der gesitteten Welt. Nehmen Sie nicht an, dass ich diese Sache aus Spass angefangen habe, und glauben Sie nicht, dass man sie von draussen so gut beurteilen kann wie von hier. Ich bin kein Bruder Leichtfuss und ich habe zwei Jahre lang bewiesen, dass ich für die Solidarität, selbst wenn sie in Gemeinschaft mit Menschen ausgeübt werden muss, von denen ich in jeder Hinsicht mit aller möglichen Berechtigung schlecht und niedrig denke, allerhand Opfer zu bringen imstande bin. Auch an <persName key="1960">Heiden</persName> werden Sie noch nicht bemerkt haben, dass er ein schäumender Krakehler ist. Wenn wir Ihnen die Argumente geben, die Sie hier und in der <name type="per" key="717">Zeitschrift</name> gelesen haben, so sollten Sie glauben, dass wir die Berechtigung dieser Argumente mit besonderer Deutlichkeit zu ermessen imstande sind.</p>
+        <lb/>
+        <p>Lassen Sie sich, ich beschwöre Sie, sich das alles gut durch den Kopf gehen, ehe Sie in die verlorene und besiegelte Sache noch die Reputation eines weiteren Namens hineinmengen.</p>
+        <lb/>
+        <p>Ich grüsse Sie bestens</p>
+        <lb/>
+        <p rend="text-align:center">der Ihre<lb/><span type="Signatur"><name role="aut"><persName key="53">Schwarzschild</persName></name></span></p>
+      </div>
+    </body>
+  </text>
+</TEI>

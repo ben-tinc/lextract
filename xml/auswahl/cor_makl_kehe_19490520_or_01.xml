@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 755</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="5970">Mann, Frido</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="3751" type="write" cert="medium">Cannes</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1949-05-20"><note>Brief</note>
+1949-05-20          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="16">Mann, Klaus</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="no">fud-619</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit der Signatur Klaus Manns.&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-05-13">2014-05-13</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-07-01">2014-07-01</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-07-16">2014-07-16</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_makl_kehe_19490520_or_01.tif"/>
+          <graphic n="1" url="cor_makl_kehe_19490520_or_u01.tif"/>
+          <graphic n="2" url="cor_makl_kehe_19490520_or_u02.tif"/>
+        </figure>
+        <p rend="text-align:right"><persName key="16">K. M.</persName><lb/><orgName key="4045">Pavillon Madrid</orgName><lb/><placeName key="4044">Avenue du Parc Madrid</placeName><lb/><placeName key="3751">CANNES</placeName> (<placeName key="2879">A. M.</placeName>)</p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p rend="text-align:right">
+          <date type="write">20 May, 1949</date>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="17">Hermann Kesten</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>meine Spione, Spitzel, Häscher und Agenten tragen mir das Gerücht zu, dass Sie "im Juni" nach <placeName key="47">Frankreich</placeName> zu kommen gedenken. Ist daran etwas Wahres? Und um welchen Teil des Junius würde es sich handeln? Und um welchen Teil <placeName key="47">Frankreichs</placeName>?</p>
+        <lb/>
+        <p>Es wäre charmant, Sie hier zu begrüssen.</p>
+        <lb/>
+        <p>Ich werde wohl noch bis gegen Ende Juni hier in <placeName key="3751">Cannes</placeName> sein. Es gefällt mir wieder recht gut an unserer <placeName key="3686">Küste</placeName> – nur dass es leider <hi rend="underline">immer</hi> regnet: aber wirklich schier ohne Unterlass! Das verdriesst. – Als nächstes Statiönchen steht <placeName key="2780">Oesterreich</placeName> auf meinem Programm. Dort ist man wenigstens <foreign xml:lang="la">a priori</foreign> auf schlechtes Wetter gefasst...</p>
+        <lb/>
+        <p>Aus <placeName key="2783">Amsterdam</placeName> höre ich nur wenig, und das Wenige klingt trüb. <persName key="2034">Landshoff</persName> scheint in miserabler Form. Versprochene Zahlungen verzögern sich; erwartete Druckbogen lassen auf sich warten... Es ist zum Verzweifeln. Aber was soll man tun? – Ich versuche, mich auf meinen neuen <name type="wrk" key="4017">Roman</name> zu konzentrieren; aber dazwischen muss immer wieder Kleinkram erledigt werden.</p>
+        <lb/>
+        <p>Was treiben Sie? <foreign xml:lang="en">Let me hear.</foreign></p>
+        <lb/>
+        <p rend="text-align:right">Stets Ihr alter<lb/><span type="Signatur"><name role="aut"><persName key="16">KLAUS<lb/>M.</persName></name></span></p>
+      </div>
+    </body>
+  </text>
+</TEI>

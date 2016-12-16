@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Max Tau an Siegfried Kracauer</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Kracauer</bibl></p>
+
+                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName
+                        key="77608">Aase Gjerdrum</persName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">1</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">or</ab>
+                <ab type="script">ts</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P2</ab>
+                <ab type="location"><placeName key="49025" type="write" cert="medium"
+                        evidence="Vordruck">Berlin</placeName></ab>
+                <ab type="date"><date when="1933-03-29" cert="high" evidence="Brieftext"
+                        >29.3.1933</date></ab>
+                <ab type="role"><persName key="74658" role="aut">Max Tau</persName></ab>
+                <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
+                <ab type="role"><persName key="74110" role="rec">Elisabeth Kracauer</persName></ab>
+                <ab type="no">322391</ab>
+                <ab type="reg"/>
+                <ab type="desc">Original mit der Unterschrift von Max Tau. Im Vordruck des
+                    Briefkopfs wurden Strasse und Hausnummer (Lietzenburger Str. 4) und eine weitere
+                    Angabe (vermutlich die des Fernsprechers) vom Verfasser maschinell überschrieben
+                    und ersetzt, so dass vom Vordruck nur die Angabe "Dr. Max Tau" am linken und
+                    "Berlin W15" am rechten Rand zu lesen ist.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2013-11-29">29.11.2013</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-12">12.8.2014</date>, <date when="2014-11-12">12.11.2014</date>,
+                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-19"
+                    >19.1.2015</date>
+            </change>
+
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-02-02">2.2.2015</date>, <date when="2015-02-09">9.2.2015</date>,
+                <date when="2015-03-20">20.3.2015</date>, <date when="2015-04-07">7.4.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2015-02-05">5.2.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="2015-04-07">7.4.2015</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_tama_krsi_19330329_or_01"/>
+                </figure>
+
+                <p>Oliva 1487<space/> Uhlandstrasse 43 III</p>
+
+                <p rend="right"><date when="1933-03-29" cert="high">29.3.33</date>.</p>
+
+                <p><emph n="salutation">Meine lieben Freunde<note type="reg"><persName key="7721"
+                                role="rec">Kracauer, Siegfried</persName> und <persName key="74110"
+                                role="rec">Kracauer, Elisabeth</persName></note></emph>,</p>
+
+                <p>es ist hier sehr schwer. Aber ich muss Ihnen schreiben und sagen, dass ich für
+                        Friedel tun werde, was nur in meinen Kräften steht. Bitte, schreiben
+                    Sie mir doch bald wieder. Ich verstehe gar nicht, warum <persName key="77583"
+                        >Ernst Heilborn</persName> nach <placeName key="49307">Frankfurt</placeName>
+                    geht, um das Literaturblatt<note type="com" cert="high">Literaturblatt der <name type="per" key="70949">Frankfurter
+                        Zeitung</name>.</note> für Herrn <persName key="74462">Geck</persName>
+                    vertretungsweise zu machen, und Ihr noch in <placeName key="49096"
+                        >Paris</placeName> sein müsst. Denn ich kann mir doch keinen besseren Leiter
+                    des Literaturblattes denken als Friedel. Bitte, unternehmen Sie in dieser
+                    Hinsicht doch alles, was möglich ist.</p>
+
+                <p>Bei <orgName key="74659">Cassierer</orgName> ist leider alles krank, und er
+                    selber hat jetzt die Haupt-Rennsitzung, so dass ich ihn seit vier Tagen
+                    überhaupt nicht zu Gesicht bekommen habe. Aber morgen, spätestens übermorgen,
+                    kommt der Prokurist<note type="com" cert="high">Nicht ermittelt.</note> von <persName
+                        key="77516">Paul List</persName> her, mit dem werde ich auch ernsthaft
+                    reden.</p>
+
+                <p>Heute habe ich endlich <persName key="77716">Hanni</persName> telefonisch erreicht, und morgen
+                    werde ich in der Wohnung nach dem Rechten sehen.</p>
+
+                <p>Ich will nicht viel Worte sagen, Sie wissen ja auch so, wie ich alles mit Ihnen
+                    empfinde. Ich tue, was ich kann. Aber manchmal weiss ich für mich selber nicht
+                    mehr, was ich tun soll.</p>
+
+                <p rend="center"><emph n="salute">Von Herzen grüsse ich Sie und bin immer<lb/>Ihr
+                        Ihnen getreuer</emph></p>
+
+                <p rend="right"><persName key="74658" role="signed">Max Tau</persName></p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Joseph Breitbach an Thea Sternheim</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Sternheim, Thea</bibl></p>
+
+
+                <ab type="copyright"><persName key="77557">Wolfgang Mettmann</persName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">2</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">or</ab>
+                <ab type="script">ms</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="49096" type="write" cert="medium"
+                        evidence="Vordruck">Paris</placeName></ab>
+                <ab type="date"><date when="1934-10-26" type="write" cert="high"
+                        evidence="Brieftext">26.10.1934</date></ab>
+                <ab type="role"><persName key="13164" role="aut">Joseph Breitbach</persName></ab>
+                <ab type="role"><persName key="4551" role="rec">Thea Sternheim</persName></ab>
+                <ab type="no">323779</ab>
+                <ab type="reg"/>
+                <ab type="desc">Original mit der Unterschrift von Joseph Breitbach. Als Vordruck ist
+                    oben rechts die Adresse vermerkt ("7, Rue Sébastien-Mercier, Paris XV<hi
+                        rend="sup">e</hi>, Tél.: Vaugirard 25-26").</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-13">13.8.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-25">25.11.2014</date>,
+                    <date when="2015-01-19">19.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-02-16">16.2.2015</date>, <date when="2015-02-20">20.2.2015</date>,
+                    <date when="2015-03-30">30.3.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2015-02-19">19.2.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="2015-04-14">14.4.2015</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_brjo_stth_19341026_or_01"/>
+                    <graphic n="2" url="cor_brjo_stth_19341026_or_02"/>
+                    <graphic n="3" url="cor_brjo_stth_19341026_or_u01"/>
+                </figure>
+
+
+
+                <p rend="right"><date when="1934-10-26" cert="high">26. October 1934</date></p>
+
+                <p><emph n="salutation"><persName key="4551" role="rec">Verehrteste</persName>.</emph></p>
+
+                <p>Ich hörte eben von <persName key="11328">Jean Schlumberger</persName> dass Sie
+                    ihn vorgestern nach mir gefragt haben und dass auch Sie dabei meinten, ich sei
+                    in <placeName key="49105">Deutschland</placeName> gewesen. Nein, ich bin seit
+                    <persName key="7793">Hitler</persName> nie im <placeName key="49105">Reich</placeName> gewesen und <hi
+                        rend="ul">kann</hi> auch nicht hingehen.</p>
+
+                <p>In <hi rend="ul">Ihrem Kreise</hi>, teure Stoisy, sind allerdings so tolle,
+                    ehrabschneidende Dinge über mich erzählt worden, dass es mir meine Selbstachtung
+                    gebot, nicht einmal darauf einzugehen.</p>
+                <pb n="2"/>
+
+                <p>In Ihren Kreisen hat man mich einen dummen, charakterlosen Goi genannt u.s.w.</p>
+
+                <p>Ich habe mich deswegen nie mehr bei Ihnen gemeldet, weil ich mit unseren
+                    gemeinsamen Bekannten um <persName key="5584">Roth</persName>, <persName
+                        key="9160">Kesten</persName> u. <persName key="519">Klaus Mann</persName>
+                    herum nicht mehr zusammentreffen will.</p>
+
+                <p>Mir hat das alles sehr leid getan und ich habe Sie persönlich sehr oft vermisst
+                    in den letzten Monaten. Aber ich wollte nicht der Anlass zu neuen <foreign
+                        n="frz">brouillements</foreign> sein.</p>
+
+                <p>Dass Sie nach mir gefragt haben, veranlasst mich Ihnen zu schreiben und Ihnen zu
+                    sagen, daß ich Sie sehr sähe, wenn ich Sie <hi rend="ul">allein</hi> sehen
+                    kann.</p>
+
+                <p rend="center"><emph n="salute">Beste Grüsse</emph></p>
+
+                <p rend="right">Ihr<lb/><persName key="13164" role="signed">Josef
+                        Breitbach</persName></p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

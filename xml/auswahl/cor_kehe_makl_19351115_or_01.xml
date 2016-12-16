@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>KM B 140</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="2222">Houston Strauss, Marian</persName>
+        </ab>
+        <ab type="leaves">2</ab>
+        <ab type="pages">4</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="2783" type="write" cert="medium">Amsterdam</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1935-11-15"><note>Brief</note>
+1935-11-15          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="16">Mann, Klaus</persName>
+        </ab>
+        <ab type="no">fud-939</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit wenigen Bleistiftkorrekturen und der handschriftlichen Signatur Hermann Kestens. Am Kopf des zweiten Blattes ist jeweils angegeben "Seite 3." und "Seite 4.".&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-04-01">2014-04-01</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-06-18">2014-06-18</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-07-28">2014-07-28</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_kehe_makl_19350124_or_01.tif"/>
+          <graphic n="1" url="cor_kehe_makl_19350124_or_02.tif"/>
+        </figure>
+        <p><persName key="17">Hermann Kesten</persName><lb/><orgName key="3016">Pension Hirsch</orgName><lb/><placeName key="2946">21 Jan Willem Brouwerstraat</placeName><lb/><placeName key="2783">Amsterdam</placeName> – <date type="write">15.11.35.</date></p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Lieber und verehrter <name role="rec"><persName key="16">Klaus Mann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>ich habe meine Amsterdamer Monate in einer solchen Arbeitswut verbracht, dass ich alle meine Gewohnheiten beiseite setzte, schaudernd, nur um mein dickes <name type="wrk" key="2901">Buch</name> nicht nur fertig zu schreiben, sondern auch fertig zu drucken, denn ich drang selber bis zur Druckerei vor, um dort Korrekturen zu lesen. Nun, da ich die ganze Mühsal hinter mir habe, habe ich sofort zu Ihrem <name type="wrk" key="2934">Buch</name> gegriffen, habe es mit Freude gelesen, und bitte Sie um die doppelte Erlaubnis, Ihnen einmal ein paar Bemerkungen dazu sagen zu dürfen, und zweitens – mir sogar anzumassen, Ihnen einen Vorschlag für Ihr nächstes Buch zu machen.</p>
+        <lb/>
+        <p>Was das Gesamte Ihres neuen <name type="wrk" key="2934">Buches</name> betrifft, so beglückwünsche ich Sie. Auch bei diesem <name type="wrk" key="2934">Buch</name> glaube ich den weiteren Aufstieg Ihres Talentes und Ihrer epischen Mittel zu gewahren, der mir schon bei der <name type="wrk" key="2830">"Flucht in den Norden"</name> so viel Vergnügen bereitete. Die Hauptsache des <name type="wrk" key="2934">Buches</name>, diese bedeutende und zweideutige Figur des Halbgenies, erscheint mir sehr geglückt, und geglückt alles, was damit unmittelbar zusammenhängt, diese ironische Stimmung der unreifen Tragödie, der Halb-Tragödie, mit dem längst erwarteten und doch überraschenden, nicht mehr erwarteten echten Tragöden-schluss, der scharf und wunderbar entlarvt wird, als halber Kopistenscherz. Dass Sie eine so vielfältige und verzwickte Figur schaffen konnten und einen so schillernden und vielbedeutenden Aspekt des Schicksals und des Charakters, erweist die Reife Ihrer psychologischen und epischen Mittel. Das <name type="wrk" key="2934">Buch</name> hat verschiedene intensive Stellen. Ohne damit prahlen zu wollen oder zu können, ein gründlicher und<pb/>  umfassender Kenner Ihres Gesamtwerks zu sein, wage ich doch, zu glauben, ja sogar dem Autor gegenüber zu behaupten, dass einige Kapitel dieses neuesten <name type="wrk" key="2934">Buches</name> das Beste sind, was Sie je schrieben – und wirklich gute Kapitel sind. Ich bin entzückt, zum Beispiel, von der Szene Seite 176–189 "Cirque Medrano", lobe Seite 286, bewundere Seite 256–261, den Krankenbesuch, den <persName key="2939">Tschaikowsky</persName> seiner Schwester <persName key="2940">Sascha</persName> macht. bewahre meinen Beifall dem Beginn des <name type="wrk" key="2934">Romans</name> samt dem Herrn Neugebauer (was für ein feiner Zug, die Aehnlichkeit des Empfangschefs und Neugebauers, die Welt der Feisten rigs um das Talent) und selbstverständlich rühme ich das Ende, das "Kleine Meisterstück".</p>
+        <lb/>
+        <p>Da ich weiss, dass Sie (privat und unter uns!) auch gerne Einwände hören, so will ich Ihnen auch diese nicht verschweigen. Es ist eigentlich nur ein einziger, er betrifft einige "Tote Seelen"<note type="com">Anspielung auf <persName key="2935">Nikolaj V. Gogols</persName> Roman <name type="wrk" key="2942">Die toten Seelen</name>.</note>, die Sie, ein <persName key="2935">Gogolscher</persName> Held, uns zu verkaufen suchten und einige "Ruheplätze". Die toten Seelen, nun, das sind die berühmten Namen, die zuweilen auftreten und in die Handlung hereinspazieren, quasi den Hut auf dem Kopf und den Lorbeer ihres Ruhmes als Maske vor ihr papierenes Antlitz haltend. Wir stehn vor einem der schwersten Probleme des historischen Romans – wieviel darf der Verfasser voraussetzen, soll er wie <persName key="2936">Homer</persName> sogar die Götter genau und als wären sie unbekannt schildern und erzählen, oder soll er einfach <persName key="2937">Alexander den Grossen</persName> in unsere Stube führen, und <persName key="2937">Alexander</persName> sagt: Ich bin nämlich <persName key="2937">Alexander</persName>. Ich heisse der Grosse. Mein Vater <persName key="2938">Philipp</persName> – </p>
+        <lb/>
+        <p>Die Ruheplätze hingegen sind in jedem grösseren Roman sehr notwendig, und man kann sie nach hundert Methoden bauen. Ihre Methode, – dann reiste er, dann sah er, dann sprach er mit, dann verging die Zeit. ist gar nicht so schlecht, gar nicht so unepisch – bei sehr viel äusserer Szenik; vielleicht nicht immer so reizvoll in einem Roman, dessen Reize im Psychologischen teils, und teils eben schon in<pb/> der Darstellung eines äusserlich mechanischen Daseins ruhen.</p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>Doch sind diese Einwände nur Detail-Einwände, die dem Ganzen nichts anhaben können, das mir grosse Freude und viel Vergnügen und sehr oft Spass machte.</p>
+        <lb/>
+        <p>Nun zum unbescheidenen Teil meines Briefes, für den ich mich gleich zum Voraus entschuldigen will. Da mir aber <persName key="2034">Landshoff</persName> sagte, Sie suchten nach einem neuen Stoff für Ihren neuen Roman<note type="com"><persName key="17">Hermann Kesten</persName> macht hier erste Vorschläge zu <persName key="16">Klaus Manns</persName> 1936 veröffentlichtem Roman <name type="wrk" key="2945">Mephisto</name>.</note>, und da ich selbst für mich, für meinen neuen Roman<note type="com">Im Frühjahr 1936 beginnt <persName key="17">Hermann Kestens</persName> Arbeit an seinem Roman <name type="wrk" key="2850">König Philipp der Zweite</name> (vgl. den Brief von <persName key="17">Hermann Kesten</persName> an <persName key="2193">Franz Schoenberner</persName> vom 5.4.1936).<lb/><lb/><lb/>(Vgl. Kesten/Schoenberner: Briefwechsel, S. 110).</note>, hin und her überlege, so überlegte ich mir – für mich – dieses und jenes und kam an eine Sache, von der ich glaube, dass ich Sie sehr schlecht, und Sie sie sehr gut machen könnten. Um es kurz zu machen, meine ich, Sie sollten den Roman eines homosexuellen Karrieristen im dritten Reich schreiben, und zwar schwebte mir die Figur des von Ihnen künstlerisch (wie man mir sagt) schon bedachten Herrn Staatstheaterintendanten <persName key="1939">Gründgens</persName> vor. (Titel: "Der Intendant") Dabei denke ich nicht daran, dass Sie eine hochpolitische Satire schrieben, sondern – fast – einen unpolitischen Roman, Vorbild der ewige <name type="wrk" key="2944">"Bel Ami"</name> von <persName key="2504">Maupassant</persName>, der schon Ihrem <persName key="1709">Onkel</persName> das köstliche <name type="wrk" key="4071">"Schlaraffenland"</name> entdecken half. Also keine <persName key="1971">Hitler</persName> und <persName key="2383">Göring</persName> und <persName key="1926">Goebbels</persName> als Romanfiguren, kein Agitprop, keine kommunistischen "Wühlmäuse", keine <persName key="2106">Münzenbergiaden</persName>, aber doch – etwa – auch die Ermordung dieses Berliner Schauspielers<note type="com">Gemeint ist der Schauspieler <persName key="4689">Hans Otto</persName>, den die <orgName key="1581">SA</orgName> aufgrund seiner politischen Aktivitäten für die <orgName key="1318">KPD</orgName> verhaftete und schwer misshandelte. Er stirbt am 24.11.1933 an seinen Verletzungen, nachdem man ihn aus dem dritten Stock gestürzt hatte, um einen Selbstmord vorzutäuschen. In <persName key="16">Klaus Manns</persName> Roman <name type="wrk" key="2945">Mephisto</name> erinnert die Figur des Schauspielers Otto Ulrich an den <persName key="4689">Ermordeten</persName>.</note>, dessen Namen mir jetzt gerade nicht einfällt,. Das Ganze im ironischen Spiegel einer grossen versteckten, freilich spürbaren Leidenschaft. Keine politischen Darstellungen. Gesellschaftssatire. Satire auf gewisse homosexuelle Figuren. Satire auf den Streber, auf – vielleicht – viele Arten Streber. Im Ganzen: der <placeName key="2788">Hauptstadt</placeName> erzählt, wie man Intendant wird.</p>
+        <lb/>
+        <p>Ich glaube, solch ein Stoff könnte Ihnen sehr gelingen, und könnte durch die dritte Reich-Sphäre auch grössere Chancen bieten.<pb/> Ich sprach mit <persName key="2034">Landshoff</persName> darüber, und er ist gleichfalls meiner Meinung, – wird es Ihnen auch wohl schreiben.</p>
+        <lb/>
+        <p>Es würde mich sehr freuen, wenn ich Ihnen eine vage Anregung zu einem "Theater"-roman damit gegeben hätte.</p>
+        <lb/>
+        <p>Ich höre mit Freude von <persName key="2034">Landshoff</persName>, dass Sie in der <placeName key="2947">Tschechei</placeName> eine Tournée unternehmen und wünsche Ihnen vielen Spass.</p>
+        <lb/>
+        <p>Vom <name type="wrk" key="2934">Tschaikowsky</name> erzählte mir <persName key="2034">Landshoff</persName>, dass Sie schon einige Uebersetzungen und einen für heutige Verhältnisse schon ganz stattlichen Verkauf haben. Ich wünsche Ihnen noch sehr schöne Erfolge für dieses vieltönige <name type="wrk" key="2934">Buch</name>.</p>
+        <lb/>
+        <p>Lassen Sie recht bald wieder hören und vergeben Sie meiner Arbeitswut, dass ich solange nichts von mir hören liess.</p>
+        <lb/>
+        <p rend="text-align:right">Mit den herzlichsten Grüssen Ihr<lb/><span type="Signatur"><name role="aut"><persName key="17">Hermann Kesten</persName></name></span>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

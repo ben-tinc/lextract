@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 755</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="5970">Mann, Frido</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="2783" type="write" cert="medium">Amsterdam</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1934-03-28"><note>Brief</note>
+1934-03-28          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="16">Mann, Klaus</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="no">fud-691</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit der Signatur von Klaus Mann. Der Brief wurde verfasst auf dem Briefbogen der Zeitschrift "Die Sammlung". Die Angabe des Schreiborts "Amsterdam, den" ist Teil des Vordrucks.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-04-30">2014-04-30</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-06-27">2014-06-27</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-07-28">2014-07-28</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_makl_kehe_19340328_or_01.tif"/>
+        </figure>
+        <p rend="text-align:right">
+          <date type="write">28.3.34.</date>
+        </p>
+        <lb/>
+        <p><span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="17">Hermann Kesten</persName></name> –</span> wie geht es Ihnen? Freuen Sie sich jeden Tag bisschen, dass Ihr <name type="wrk" key="2755">Roman</name> fertig ist? – was für ein beneidenswerter Zustand! Hat auch in <placeName key="18">Paris</placeName> mit einem solchen Eclat der Frühling angefangen wie hier? Eigentlich wollte ich über das Osterfest dorthin kommen, aber nun tue ich es doch wieder nicht, es ist ja viel billiger, <hi rend="spaced">nicht</hi> zu reisen, und am liebsten möchte ich doch gleich bis an den <placeName key="3773">Kongo</placeName>. – Ich wollte Sie fragen, ob ich eigentlich für die <name type="per" key="2878">Mai-Nummer</name> auf Ihren <name type="wrk" key="3776">Aufsatz</name> kann und darf. Machen Sie ihn? Bekomme ich ihn bis spätestens zum 10. April? Ich hoffe: ja. Aber bestätigen Sie es mir doch bitte. – Wie <hi rend="spaced">unsäglich</hi> mich die Affäre <orgName key="1301">Kittl</orgName>-<persName key="3770">Grünberg</persName><note type="com">Im Auftrag des <orgName key="4115">Piper Verlages</orgName> hatte <persName key="3770">Isak Grünberg</persName> eine deutsche Übersetzung von <persName key="3771">Louis-Ferdinand Célines</persName> <name type="wrk" key="4109">Reise ans Ende der Nacht</name> angefertigt. <orgName key="4115">Piper</orgName> verkauft die Übersetzung wie auch die Rechte am Roman an den <orgName key="1301">Kittl Verlag</orgName>. Dieser veröffentlicht <persName key="3770">Grünbergs</persName> Übersetzung in einer überarbeiteten Fassung, wogegen sich <persName key="3770">Grünberg</persName> heftig wehrt. <persName key="3770">Grünbergs</persName> <name type="wrk" key="4111">Widerspruch</name> und <name type="wrk" key="4114">Auszüge</name> seiner Übersetzung sowie die <name type="wrk" key="4113">Antwort</name> des <orgName key="1301">Kittl Verlages</orgName> druckt <persName key="16">Klaus Mann</persName> in der <name type="per" key="3774">April-Nummer</name> der <name type="per" key="739">Sammlung</name>.<lb/><lb/><lb/>(Vgl. auch von Bitter: Produkt, S. 36–77, 233 f.)</note> langweilt, <hi rend="spaced">kann</hi> ich Ihnen nicht schildern; und nun muss ich, eigens dieser Sauce wegen, das <name type="per" key="3774">Heft</name> vier Seiten länger machen als jemals, und <persName key="2149">Queri</persName> wird mich verfluchen, wäre doch <persName key="3771">Céline</persName> nie geboren, hätte <orgName key="1301">Kittl</orgName> nie ein Buch<note type="com">Anspielung auf <persName key="3771">Louis-Ferdinand Célines</persName> Roman <name type="wrk" key="4109">Reise ans Ende der Nacht</name>, dessen Publikation den erwähnten Konflikt auslöst.</note> verlegt und wäre <persName key="3770">Grünberg</persName> so rechtzeitig und mit solchem Aufwand verstorben wie unsre <persName key="3772">Königin Emma</persName>. – Hatten Sie schon Gelegenheit, unliebenswürdig gegen den <persName key="1827">Breitbach</persName> zu sein? – Alles Nette –</p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p rend="text-align:right">von Ihrem <lb/><name role="aut"><span type="Signatur"><persName key="16">Klaus<lb/>Mann</persName></span></name></p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Albert Ehrenstein an Kurt Held</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p>Herausgeberinformation:
+            <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Kläber</bibl></p>
+
+
+        <ab type="copyright"><orgName key="76043">Albert Ehrenstein Archiv</orgName></ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ms</ab>
+        <ab type="edition">Volltext</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="language">deutsch</ab>
+        <ab type="AF">F1</ab>
+        <ab type="location"><placeName key="49021" type="write" cert="medium" evidence="Adresszeile"
+            >New York</placeName></ab>
+        <ab type="date"><date when="1946-03-16" cert="high" evidence="Brieftext"
+          >16.3.1946</date></ab>
+        <ab type="role"><persName key="12472" role="aut">Albert Ehrenstein</persName></ab>
+        <ab type="role"><persName key="8427" role="rec">Kurt Held</persName></ab>
+        <ab type="no">322705</ab>
+        <ab type="reg"/>
+        <ab type="desc">Original mit der Signatur von Albert Ehrenstein. Die Signatur besteht
+          aus einer Ligatur aus "A" und "E". Am linken Rand ist das Dokument gelocht.</ab>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-02-14">14.2.2014</date>, <date when="2014-08-12">12.8.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="77556">Roberta Toscano</persName>
+        <date when="2015-01-28">28.1.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="2014-03-19">19.3.2014</date>, <date when="2014-03-24">24.3.2014</date>, <date
+          when="2014-04-04">4.4.2014</date>, <date when="2014-04-15">15.4.2014</date>, <date
+          when="2014-04-30">30.4.2014</date>, <date when="2014-05-07">7.5.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-04-02">2.4.2014</date>, <date when="2014-04-14">14.4.2014</date>, <date
+          when="2014-04-16">16.4.2014</date>, <date when="2014-04-30">30.4.2014</date>, <date
+          when="2014-05-21">21.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date
+            when="2014-11-24">24.11.2014</date>, <date when="2015-04-07">7.4.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_ehal_heku_19460316_or_01"/>
+        </figure>
+
+        <p rend="right">60W49, <placeName key="49021" type="write">New York</placeName> 25</p>
+
+        <p><emph n="salutation">Lieber <persName key="8427" role="rec">Kläber</persName></emph>,<space/>
+          <date when="1946-03-16" cert="high">16.III.46</date></p>
+
+        <p>es wundert mich sehr, daß Sie nicht der Abwechslung halber den Spieß umdrehen u. mit
+          Hilfe von <placeName key="75550">Carona</placeName>, <persName key="75377"
+          >Nobs</persName>, <persName key="9897">Hans Oprecht</persName> u. wen Sie eben sonst an
+          Gönnern haben, um die Schweizer Staatsbürgerschaft via <placeName key="75550"
+            >Carona</placeName>, <placeName key="49667">Bellinzona</placeName>, <placeName
+            key="49647">Bern</placeName> einreichen? (Ersessen hätten Sie sie längst). Familie
+            Mayer<note type="reg"><persName key="75333">Mayer, Bernhard</persName> und <persName
+              key="75332">Mayer, Auguste</persName></note><note type="intern">Kinder
+            nicht ermittelt.</note>, alt u. jung, sind begeistert von den Kinderbüchern der Fa. Kläber<note
+            type="reg"><persName key="8154">Tetzner, Lisa</persName></note> &#x2013;
+          wobei gestritten wird, ob Ihre Arbeiten oder die Tetznerschen besser sind! Infolge des großen Umfanges der am 1. Juni
+          heimkehrenden Fa. Mayer<note type="reg"><persName key="75333">Mayer, Bernhard</persName>
+            und <persName key="75332">Mayer, Auguste</persName></note> habe ich bisher kein Ex. zu
+          lesen gekriegt. Hoffentlich hält der Erfolg bei den Verlagen auch an &#x2013; die
+          allerdings auf amerik. Illustrationen bestehen dürften u. vielleicht an der hohen u.
+          pazifistisch-sozialen Qualität anstoß nehmen könnten, denn hiesige Kinderbücher wirken oft
+          leicht verblödend. &#x2013; Ich beneide Sie sehr um Ihr caronautisches Dasein! Von
+          Zeitschriften halte ich wenig. Solange die S.U.<note type="reg"><placeName key="75359"
+              >Sowjetunion</placeName></note> sich so wildöstlich gebärdet, ist <name type="per"
+                key="75374">Europa</name> eine Utopie u. ich glaube, Sie könnten besser, intensiver mit
+          einer Autobiographie wirken, wenn sie nicht zu lang wird!<note type="com" cert="high"
+            >Ehrenstein spielt hier auf Helds Vorhaben an, zusammen mit <persName key="75373"
+              >Franc&#x0327;ois Bondy</persName> unter dem Titel <name type="per" key="75374"
+              >Europa</name> eine Zeitschrift herauszugeben. Das Projekt wird schließlich von
+              <persName key="75373">Bondy</persName> 1951 mit der Gründung der Zeitschrift <name
+              type="per" key="75374">Preuves</name> realisiert.</note> Sie haben viel mitgemacht,
+          zur Natur zurück gefunden u. es wäre wichtig, daß jemand sein Leben erzählt, dem all das
+          politische Erpressertum der Großmächte u. Gernegroßmächtige längst nicht mehr geheuer
+          vorkam. <persName key="75358">Silone</persName> soll zusammen mit dem Kopf der <orgName
+            key="68387">Laborparty</orgName> eine international-sozialdemokratische Tagung für den
+          April nach <placeName key="49096">Paris</placeName> dirigiert haben &#x2013; wenn es wahr
+          ist u. die Leute konstruktiv arbeiten, könnte es ein Gegengewicht gegen den
+          Sozialfaschismus von M.<note type="reg"><persName key="75378">Masaryk,
+            Jan</persName></note> werden, der zur Zeit auch meine alte österreichische Heimat
+          frikassiert. Wenn Sie einmal von Verlegern hören, wissen oder ahnen, die für meine
+          chinesischen Sachen (Roman, Novellen, Verse) Interesse haben sollten, wäre ich froh.
+          Hoffentlich seh ich Sie, von diesem Zopf befreit, in einem Jahr wieder!</p>
+
+        <p><emph n="salute">Herzlichst grüßt Sie beide<note type="reg"><persName
+                key="8154">Tetzner, Lisa</persName></note> Ihr alter</emph>
+          <persName role="signed" key="12472">&#198;</persName></p>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

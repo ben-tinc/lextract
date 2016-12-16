@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hans Sahl an Hermann Broch</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Sahl</bibl></p>
+
+
+                <ab type="copyright"><persName key="77675">Nils Ulrich Kern</persName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">2</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">cc</ab>
+                <ab type="script">ts</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">F1</ab>
+                <ab type="location"><placeName type="write" cert="unknown">o. O.</placeName></ab>
+                <ab type="date"><date when="1944-11-19" cert="high" evidence="Brieftext"
+                        >19.11.1944</date></ab>
+                <ab type="role"><persName key="9687" role="aut">Hans Sahl</persName></ab>
+                <ab type="role"><persName key="75307" role="rec">Hermann Broch</persName></ab>
+                <ab type="no">323593</ab>
+                <ab type="reg"/>
+                <ab type="desc">Vermutlich der Durchschlag eines Briefes von Hans Sahl. Es existiert
+                    eine weitere längere und wahrscheinlich spätere Fassung des Briefes, dieser
+                    beidseitig beschrieben und wahrscheinlich ein Entwurf als Typoskript.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-07-22">22.7.2014</date>, <date when="2014-08-12">12.8.2014</date>,
+                    <date when="2014-11-12">12.11.2014</date>, <date when="2014-12-10"
+                    >10.12.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2015-01-19">19.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-09-28">28.9.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_saha_brhe_19441119_cc_01"/>
+                    <graphic n="2" url="cor_saha_brhe_19441119_cc_02"/>
+                </figure>
+
+                <p rend="right"><date when="1944-11-19" cert="high"><foreign n="engl">Nov. 19,
+                            1944</foreign></date></p>
+
+                <p><emph n="salutation">Mein lieber <persName key="75307" role="rec">Hermann
+                            Broch</persName></emph>:</p>
+
+                <p>Ich will eine kurze Atempause in meinem nunmehr zwölf- bis vierzehnstündigen
+                    Tages- (und Nacht-)Werk benutzen, um Ihnen auf Ihren letzten Brief<note
+                        type="intern">Nicht im Neli-Korpus.</note> zu antworten.</p>
+
+                <p>"Kategorien-Verwechslung" ist eine sehr glückliche Formulierung. Jede
+                    chiliastische Lehre, also auch der Sozialismus, jede Milieutheorie, jede
+                    materialistische Konzeption der Freiheit oder des Fortschritts oder der
+                    Gerechtigkeit ist "Kategorien-Verwechslung" &#x2013; aber auch jede Mystik (als
+                    die Manifestation des Transcendentalen im Dinglichen). Aber indem Sie das
+                    auss-rechen, treffen Sie ja gerade den Sozialismus ins Herz. Er ist, in allen
+                    seinen Varianten (und selbstverständlich muss man in diesem Zusammenhang auch
+                    Facismus und Nationalsozialismus hinzurechnen, als eine perverse soz. Variante)
+                    die grösste "Kategorien-Verwechslung" aller Zeiten, der grösste "Massenwahn",
+                    den die Erde je gesehen hat. Dies, so dachte ich mir immer, würde auch das Thema
+                    Ihres Buches<note type="reg"><name type="wrk" key="80152"
+                            >Massenwahntheorie</name></note> sein, über das ich bisher nur
+                    versteckte Andeutungen zu hören bekam. Aber ich habe den Eindruck &#x2013; und
+                    ich bitte Sie inständig, mir diese Bemerkung zu verzeihen; es ist eine
+                    Einmischung in Dinge, die mich "nichts angehen" sollten, die mich aber unerhört
+                    viel angehen, sowohl aus persönlich-freundschaftlichen, als auch prinzipiellen
+                    Gründen &#x2013; ich habe den Eindruck, dass Sie nicht bis ans Ende Ihrer
+                    eigenen Ideen gehen wolen. Denn täten Sie es, so müssten Sie unweigerlich zu
+                    Konsequenzen kommen, die im Widerspruch zu ihren früheren (brieflichen)
+                    Aeusserungen stehen. z.B. Ihrer humanistisch-optimistischen Konzeption des
+                    Fortschritts (Sie erinnern sich noch an unsere erbitterte Steinaxt-Debatte?).
+                    Die Verblendung der heutigen Menschheit, der "Massenwahn" des zwanzigsten (und
+                    wohl auch des neunzehnten Jahrhunderts) Jahrhunderts besteht ja nicht nur in der
+                    Unterwerfung unter die faschistische Ideologie &#x2013; diese stellt nur eine
+                    Phase in einem viel grösseren Prozess dar, der noch nicht abgeschlossen ist
+                    &#x2013; sondern er besteht in der "Massenflucht in die Unfreiheit", in eine
+                    Unfreiheit, die tragischerweise unter vielen falschen Decknamen, sei es
+                    Sozialismus, Kommunismus, Marxismus etc. als FREIHEIT konzipiert worden ist
+                    &#x2013; was früher einmal stimmte, heute aber objektiv falsch geworden ist. Das
+                    Tragische an unserer heutigen Situation ist doch, dass die Männner des
+                    Fortschritts, die Männer der Freheit im besten Glauben an die gute Sache diese
+                    und sich dem Todfeind freiwillig ausliefern. Die sog. "Linke", gestern noch
+                    objektiv ein Faktor des menschlichen Fortschritts, führt heute objektiv die
+                    Menschheit in die Massen-Unfreiheit. Sie vergessen, dass die ethische Wurzel
+                    ihrer sozialistischen Haltung ein echter, menschlicher Protest gegen die
+                    Ungerechtigkeiten des Kapitalismus war. Und sie kapitulieren heute vor der viel
+                    grösseren, weil totalitären Ungerechtigkeit einer kommunistischen
+                    Gewaltherrschaft, die unter dem Banner der Freiheit diese und nichts anderes
+                    liquidieren will. Es hat in diesen Tagen nur einen einzigen "fortschrittlichen"
+                    Schriftsteller gegeben, der öffentlich gegen die Warschauer Affaire protestiert
+                    und sie ein "zweites <placeName key="80355">Lidice</placeName>" genannt
+                        hat.<note type="com" cert="high">Sahl bezieht sich auf den Warschauer
+                        Aufstand im August 1944 und das Massaker an der Bevölkerung von <placeName
+                            key="80355">Lidice</placeName> durch die Sicherheitsbehörden der
+                        Nationalsozialistischen Besatzungmacht 1942.</note> Sein Name ist <persName
+                        key="10081">Arzhur Koestler</persName>, und sein Protest ist<pb n="2"/>
+                    nicht einmal mehr von der <name type="per" key="71109">TImes</name> abgedruckt
+                    worden &#x2013; ich fand ihn, bezeichnenderweise, an einer versteckten Stelle im
+                        <name type="per" key="71037">NEW LEADER</name>.</p>
+
+                <p>Es ist bestimmt nicht "Kategorien-Verwechslung", wenn ich die ökonomische Lehre
+                    des Kommunismus und seiner Abarten für die aktuelle moralische Verkommenheit
+                    haftbar mache. Spndern ich wende mich gegen einen Massenwahn, der die
+                    ethisch-moralischen Werte in einer Weise abzubauen im Begriff ist, wie es die
+                    bürgerlich-kapitalistische Epoche niemals gewagt hätte. DENN GEGENÜBER DEM
+                    REGIERENDEN KOMMUNISMUS HAT DER KAPITALISMUS WENIGSTENS DAS EINE FUER SICH, DASS
+                    MAN AUCH GEGEN IHN SEIN DARF, ja, alle Kritik am Kapitalismus ist im Grunde mit
+                    seiner &#x2013; freiwilligen oder erzwungenen &#x2013; Billigung geschehen, aus
+                    dem einfachen Grunde, weil er von Anfang an ein schlechtes Gewissen. hatte. Das
+                    "gute Gewissen" der Linken aber, die heute jede Massenabschlachtung, sofern sie
+                    von links kommt, jedes Massen-Unrecht, das sie gestern noch empört hätte,
+                    "weltanschaulich" rechtfertigt, das ist der "Massenwahn" von heute &#x2013; und
+                    von morgen.</p>
+
+                <p>Eben weil ich zu diesen Konsequenzen kam, habe ich die Arbeit an meinem Buch<note
+                        type="reg"><name type="wrk" key="80116">Die Wenigen und die
+                        Vielen</name></note> eingestellt. Es war nicht die Form des Romans oder
+                    sonst irgend ein asthetisches Problem, das mich dazu geführt hat. Es war, wenn
+                    Sie wollen, letzte Resignation, und eine Verzweiflung, aus der ich, privatim und
+                    prinzipiell, keinen Ausweg mehr sehe. Sie sind er erste Mensch, dem ich das
+                    anvertraue. Ich habe keine Freunde mehr und ich finde sie nicht mehr unter
+                    denen, die sich so selbszufrieden mit der "Bekämpfung <persName key="7793"
+                        >Hitlers</persName>" begnügen. Aber bei alledem habe ich nicht das Zeug zum
+                    Märtyrer. Ich bin nicht gross genug, um die Rolle des Propheten in der Wüste zu
+                    spielen. Ich bin 3 in kleines Talent, das seinen Ambitionen nicht gewachsen
+                    ist.</p>
+
+                <p>Im übrigen habe ich jetzt eine Arbeit angenommen, die mir kaum noch Zeit lässt,
+                    viel über mich selbst nachzudenken: die Uebersetzung &#x2013; ins Deutsche
+                    &#x2013; einen ausserordentlich interessanten Buches von <persName key="79066"
+                        >Kazin</persName>, <name type="wrk" key="80356">ON NATIVE GROUNDS</name>,
+                    eine Geschichte der amerikanischen Literatur in den letzten fünfzig Jahren,
+                    geschrieben von einem Mann, der weiss, was los ist, und die Dinge aufregend gut
+                    sieht. Das <name type="wrk" key="80356">Buch</name> hat über 550 Seiten, ist
+                    ungeheuer schwer zu übersetzen und muss bis 1. Februar abgeliefert werden. (Ein
+                    Regierungs-Auftrag). Ich werde genug dafür bekommen, um den Winter,
+                    nachträglich, zu finanzieren.</p>
+
+                <p>Das ist alles. Von <persName key="79995">Otto Zoff</persName> hörte ich, dass Sie
+                    Uebersetzungs-Schwierigkeiten mit Ihrem Roman<note type="reg"><name type="wrk"
+                            key="80151">Der Tod des Vergil</name></note> hatten. Hoffentlich ist nun
+                    alles in Ordnung.</p>
+
+                <p>Ich grüsse Sie sehr herzlich. Ueber die <persName key="75134"
+                    >Kahler</persName>-Sache müssen wir einmal sprechen. Sie hat mich sehr
+                    betrübt.</p>
+
+                <p><emph n="salute">Alles Gute, heute und immer</emph></p>
+
+                <p rend="center"><emph n="salute">Ihr</emph></p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manfred Georg an Bruno Frank</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                    <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+                
+                
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:George</bibl></p>
+
+                <ab type="copyright"><persName key="77244">Frank George</persName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">2</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">cc</ab>
+                <ab type="script">ts</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">F1</ab>
+                <ab type="location">o. O.</ab>
+                <ab type="date"><date when="1940-06-07" cert="high" evidence="Brieftext"
+                        >7.6.1940</date></ab>
+                <ab type="role"><persName key="10038" role="aut">Manfred Georg</persName></ab>
+                <ab type="role"><persName key="8668" role="rec">Bruno Frank</persName></ab>
+                <ab type="no">322423</ab>
+                <ab type="reg"/>
+                <ab type="desc">Vermutlich ein Durchschlag, unsigniert, ohne Ortsangabe. Statt des
+                    kapitalen "I" ist bis auf eine Ausnahme im drittletzten Absatz durchgängig ein
+                    kapitales "J" verwendet worden.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2013-12-12">12.12.2013</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-05">5.8.2014</date>, <date when="2014-11-05">5.11.2014</date>,
+                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-01-14"
+                    >14.1.2015</date>, <date when="2015-01-28">28.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2014-07-08">8.7.2014</date>, <date when="2014-12-02">2.12.2014</date>, <date when="2015-04-01">1.4.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2014-03-17">17.3.2014</date>, <date when="2014-12-17">17.12.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_gema_frbr_19400607_cc_01"/>
+                    <graphic n="2" url="cor_gema_frbr_19400607_cc_02"/>
+                </figure>
+
+                <p rend="right"><date when="1940-06-07" cert="high">7. Juni 1940</date></p>
+
+                <p><emph n="salutation">Lieber <persName key="8668" role="rec">Bruno
+                            Frank</persName></emph>:</p>
+
+                <p>Ich weiss nicht, ob die Entwicklung der Dinge im Verband<note type="reg"><orgName key="76686">Deutscher PEN-Club im
+                            Exil</orgName></note> Sie ebenso ueberrascht hat wie mich. Was ich gern
+                    von Ihnen moechte, ist, dass Sie diesen Brief als privat und vertraulich
+                    betrachten, so wie ich es mit Ihrer eventuellen <rs n="322421">Antwort</rs> tun
+                    wuerde.</p>
+
+                <p>Ich will von der persoenlichen Eroerterung der Gruende absehen, die zu der
+                    jetzigen Situation gefuehrt haben und moechte nur eines eroertern:</p>
+
+                <p>Glauben Sie, dass die Einstellung <persName key="8771">Thomas Mann's</persName>,
+                    wie sie vom Kollegen <persName key="77248">Ries</persName> mitgeteilt wird, eine
+                    urspruengliche ist und von ihm vertretene oder ist sie ihm in irgend einer Weise
+                    erst zurechtgemacht worden? Ich kann mir naemlich nach der Lekture des letzten
+                    Pamphlets von <persName key="8771">Mann</persName>
+                    <name type="wrk" key="77251">"This War"</name> nicht denken, dass er die
+                    Unterscheidung zwischen den zwei <placeName key="49105">Deutschland</placeName>
+                    endgueltig hat fallen lassen, so wie es <persName key="9733">Bruckner</persName>
+                    in der Radiostunde von sich aus angedeutet hat.</p>
+
+                <p>Ich habe vor zwei Tagen mit Erika<note type="reg"><persName key="76553">Mann,
+                            Erika</persName></note> gesprochen. Alles, was sie sagte, war sehr
+                    vernuenftig und viel weniger exaltiert, als die Interpretation, die ich gehoert
+                    habe. Sie ist fuer einen anderen Namen und fuer eine engere
+                    Mitgliedschaftsbasis, wogegen garnichts einzuwenden ist &#x2013; darueber ist
+                    natuerlich gut und leicht zu reden.</p>
+
+                <p>Was ich aber fuer das Wichtigste halte: Wenn man dem <orgName key="76686"
+                        >Verband</orgName> heute explodieren laesst, so gibt man die letzte
+                    Widerstandsfront auf und eine Kampfmoeglichkeit, die, wenn auch nicht heute, so
+                    doch vielleicht morgen, von viel groesserer Wirkung sein kann als bei einem
+                    Untertauchen und Verschwinden.</p>
+
+                <p>Wir haben jetzt im <orgName key="77252">German Jewish Club</orgName> aehnliche
+                    Fragen eroertert, insbesondere wegen der Aenderung des Namens. Ich verweise auf
+                    die bei aus <placeName key="49105">Deutschland</placeName> stammenden Juden viel
+                    kompliziertere Eroertung der Frage und lege noch einmal einen Aufsatz<note
+                        type="com" cert="high">Wahrscheinlich <persName
+                            key="77515">Cohn-Hülse, Wilfried</persName>, <name
+                            type="wrk" key="77514">Nochmals: die deutsche Sprache</name>.</note>
+                    ueber die deutsche Sprache bei, der im letzten <name type="per" key="75026"
+                        >Aufbau</name> stand. Ich glaube, wenn Juden in dieser Art die Probleme
+                    behandeln, sollte es fuer Schriftseller deutscher Sprache eigentlich leichter
+                    sein, zu einem Resultat zu kommen. Vor allem aber<pb n="2"/> ist die kampflose
+                    Aufgabe eines Frontabschnitts der Antinazi-Linie in diesem Augenblick durchaus
+                    nicht das, was in unserer Tendenz liegt, den Alliierten und Amerikanern bei
+                    ihrem Kampf gegen Nazis zu helfen.</p>
+
+                <p>Ich kann das Entsetzen und die Wut sehr verstehen, von der man (und ich selbst)
+                    gepackt wird, wenn man die Berichte aus <placeName key="49439"
+                        >Europa</placeName> liest. Ich bin auch der Meinung, dass der <orgName
+                        key="76686">Verband</orgName> in jeder Beziehung, also auch gegen eine
+                    kommunistische Infiltration, hieb- und stichfest sein muss, aber sind Sie nicht
+                    mit mir einer Meinung, dass bisher von solch einer Infiltration ueberhaupt
+                    nichts zu merken war? Sind nicht Programme und Radiostunde wirklich sinn- und
+                    zweckentsprechend gewesen?</p>
+
+                <p>Ich schreibe Ihnen dies alles nicht deshalb, weil ich mein Leben und meine
+                    Existenz mit dem <orgName key="76686">Verband</orgName> unloesbar verknuepft
+                    fuehle. Meine Einstellung ist ja immer nur eine aus der Sprache und Arbeit,
+                    nicht aus der Nation heraus herruehrende gewesen. Aber ich habe den Eindruck,
+                    dass hier ein schwerwiegender Fehler begangen wird und glaube, dass mit Ihrer
+                    Hilfe Mittel und Wege gefunden werden koennen, um zwischen Motiven
+                    verschiedenster Art einen Ausgleich zu finden.</p>
+
+                <p>Bitte schreiben Sie mir doch umgehend einige mich ueber Ihre Haltung
+                    orientierende Zeilen, am besten per Flugpost, und <emph n="salute">seien Sie und
+                        Ihre Gattin<note type="reg"><persName key="75308">Frank,
+                                Liesl</persName></note> herzlichst gegruesst von</emph></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

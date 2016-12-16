@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Annette Kolb an Hermann Broch</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Broch</bibl></p>
+
+
+                <ab type="copyright"><persName key="78465">Annette Mallin Ryder</persName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">2</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">or</ab>
+                <ab type="script">ms</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="49021" type="write" cert="medium"
+                        evidence="Vordruck">New York</placeName></ab>
+                <ab type="date"><date when="1941-10-16" cert="high" evidence="Brieftext"
+                        >16.10.1941</date></ab>
+                <ab type="role"><persName key="10039" role="aut">Annette Kolb</persName></ab>
+                <ab type="role"><persName key="75307" role="rec">Hermann Broch</persName></ab>
+                <ab type="no">323559</ab>
+                <ab type="reg"/>
+                <ab type="desc">Original mit der Unterschrift von Annette Kolb. Als Vordruck
+                    befindet sich oben in der Mitte über drei Zeilen die Adressangabe ("The Bedford,
+                    118 East 40th Street, New York").</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="77656">Anne Bendel</persName>
+                <date when="2014-07-11">11.7.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>,
+                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-01-19"
+                    >19.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-08-17">17.8.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_koan_brhe_19411016_or_01"/>
+                    <graphic n="2" url="cor_koan_brhe_19411016_or_02"/>
+                </figure>
+
+                <p><date when="1941-10-16" cert="high">16. X 41</date></p>
+
+                <p><emph n="salutation">Lieber <persName key="75307" role="rec">Hermann
+                            Broch</persName></emph>,</p>
+
+                <p>Ich suchte Sie im Telefon fand Sie aber nicht! Diese nächsten Tage muss ich von
+                    hier heraus ohne noch zu wissen wohin. Wollen<pb n="2"/> Sie mich nicht vorher
+                    anrufen, sonst weiß man wieder nicht wo man gegenseitig steckt</p>
+
+                <p><emph n="salute">Herzliche Grüße</emph></p>
+
+                <p rend="center"><persName key="10039" role="signed">Annette Kolb</persName></p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

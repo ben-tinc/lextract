@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Salman Schocken an Siegfried Kracauer</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p>Herausgeberinformation:
+          <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+        
+        
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Kracauer</bibl></p>
+
+        <ab type="copyright">unbekannt</ab>
+        <ab type="leaves">2</ab>
+        <ab type="pages">2</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="edition">Volltext</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="language">deutsch</ab>
+        <ab type="AF">F2</ab>
+        <ab type="location"><placeName key="74653" type="write" cert="medium" evidence="Vordruck"
+            >Stamford</placeName></ab>
+        <ab type="date"><date when="1947-09-23" cert="high" evidence="Brieftext"
+          >23.9.1947</date></ab>
+        <ab type="role"><persName key="73655" role="aut">Salman Schocken</persName></ab>
+        <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
+        <ab type="no">322225</ab>
+        <ab type="reg"/>
+        <ab type="desc">Original, vermutlich ein Diktatbrief mit der Unterschrift von Salman
+          Schocken. Als Vordruck ist in der oberen Mitte des Blattes in Großbuchstaben die
+          Abseneradresse ("Windy Hill, Hunting Ridge Road, Stamford, Conn.") angegeben. Die
+          Fortsetzung des Textes auf dem zweiten Blatt ist in der rechten Ecke unten mit "-2-"
+          angegeben, das zweite Blatt oben mittig mit "-2-" gekennzeichnet.</ab>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2013-11-18">18.11.2013</date>
+      </change>
+
+      <change n="collation">
+        <persName key="77556">Roberta Toscano</persName>
+        <date when="2014-08-12">12.8.2014</date>, <date when="2014-11-12">12.11.2014</date>, <date
+          when="2015-01-26">26.1.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-08-26">26.8.2014</date>, <date when="2014-10-01">1.10.2014</date>, <date
+          when="2014-11-24">24.11.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="2013-11-20">20.11.2013</date>, <date when="2014-08-28">28.8.2014</date>, <date
+          when="2014-11-27">27.11.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="2014-02-11">11.2.2014</date>
+      </change>
+
+      <change n="edition"/>
+
+
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_scsa_krsi_19470923_or_01"/>
+          <graphic n="2" url="cor_scsa_krsi_19470923_or_02"/>
+        </figure>
+
+        <p rend="right"><date when="1947-09-23" cert="high">September 23,
+          1947</date><lb/>(Dictaphone: 9/20.)</p>
+
+
+        <p>Dr. Siegfried Kracauer<lb/>56 West 75th
+            Street<lb/><placeName key="49021">New York</placeName> 23, <placeName key="50589"
+            >N.Y.</placeName></p>
+
+
+        <p><emph n="salutation">Lieber Dr. <persName key="7721" role="rec"
+            >Kracauer</persName></emph>:</p>
+
+        <p>Ich glaube, Sie wissen, wie schwer es mir war, meinen letzten <rs n="322223">Brief</rs>
+          an Sie zu schreiben.</p>
+
+        <p>Wir versuchen einen amerikanischen juedischen Verlag<note type="reg"><orgName key="74647"
+              >Schocken Books</orgName></note> aufzubauen. Was wir bisher herausgebracht haben,
+          zeigt, was wir aus eigenen Mitteln und aus unseren alten Bestaenden mit unserem bisherigen
+          Kreis der Autoren bieten koennen.</p>
+
+        <p>Wo wir aus diesem Kreise herausgehen, muesste es rein amerikanisch sein, denn wir leiden
+          jetzt schon daran, dass wir, vom amerikanischen Gesichtspunkt aus gesehen, "<foreign
+            n="engl">Reprints</foreign> von aussen bringen".</p>
+
+        <p>Die Herausgabe von Werken von <persName key="5584">Joseph Roth</persName> liegt ganz
+          ausserhalb des Rahmens unseres Planes. Haetten wir solche Plaene, dann koennte ich mir gut
+          vorstellen, wie leicht es waere, Sie fuer eine Mitarbeit einzuladen.</p>
+
+        <p>Ich weiss nicht, ob Ihnen aus unseren Gespraechen deutlich geworden ist, dass, soweit es
+          sich um meine<pb n="2"/> Arbeit und Beratung handelt, der <orgName key="74647">Schocken
+            Verlag</orgName> eine ganz bestimmte Aufgabe hat.</p>
+
+        <p>Ich wuerde es sehr begruessen, wenn Sie mir kurz ueber Ihre zwei Vorschlaege schreiben
+            wuerden.<note type="com" cert="high">In seinem <rs n="321983">Brief</rs> an Schocken vom 14.9.1947 spricht Kracauer von zwei für den <orgName key="74647">Verlag</orgName>
+            interessanten Buchprojekten, ohne jedoch weitere Hinweise zu geben.</note></p>
+
+        <p><emph n="salute">Mit den besten Gruessen</emph></p>
+
+        <p rend="right"><emph n="salute">Ihr</emph></p>
+
+        <p rend="right"><persName key="73655" role="signed">Salman Schocken</persName></p>
+
+        <p rend="right">Salman Schocken</p>
+
+        <p>Dic.ss:fw<note type="com" cert="high">Vermutlich die Kürzel für Salman Schocken und die sein Diktat notierende Person.</note></p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

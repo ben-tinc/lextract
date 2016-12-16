@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alfred Neumann an René Schickele</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Schickele</bibl></p>
+
+                <ab type="copyright"><persName key="77920">Alfred Guggenheim</persName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">2</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">or</ab>
+                <ab type="script">ms</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="48954" type="write" cert="medium"
+                        evidence="Vordruck">München</placeName></ab>
+                <ab type="date"><date when="1932-06-15" cert="high" evidence="Brieftext"
+                        >15.6.1932</date></ab>
+                <ab type="role"><persName key="5592" role="aut">Alfred Neumann</persName></ab>
+                <ab type="role"><persName key="5454" role="rec">René Schickele</persName></ab>
+                <ab type="no">323481</ab>
+                <ab type="reg"/>
+                <ab type="desc">Original mit der Unterschrift von Alfred Neumann. Als Vordruck
+                    befinden sich oben links sein Namenskürzel ("A. N.") und rechts über zwei Zeilen
+                    die Adressangabe ("München-Herzogpark, Felix Dahnstr. 6").</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="77656">Anne Bendel</persName>
+                <date when="2014-05-19">19.5.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>,
+                    <date when="2014-12-03">3.12.2014</date>, <date when="2015-01-19"
+                    >19.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-05-13">13.5.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_neal_scre_19320615_or_01"/>
+                    <graphic n="2" url="cor_neal_scre_19320615_or_02"/>
+                </figure>
+
+                <p rend="right"><date when="1932-06-15" cert="high">15. Juni 1932</date></p>
+
+                <p><emph n="salutation">Lieber <persName key="5454" role="rec">Rene
+                            Schickele</persName></emph>,</p>
+
+                <p>Ihr <rs n="b3-b3-00ji">Brief</rs> hat mir gut getan. Wieder segne ich unsere
+                    <name type="wrk" key="72368">Freundin Lo</name>, die uns zusammengebracht hat.
+                    Wir werden uns immer nötiger haben, wir werden uns immer mehr auf uns paar
+                    Freunde besinnen und stützen müssen. Lassen Sie sich von Herzen für Ihr liebes
+                    Lob meiner Narrheit danken.</p>
+
+                <p>Es wird nicht schön, und Sie sprechen mir aus dem Herzen. Aber das eine wissen
+                    wir auch: wie fabelhaft einfach auch für das gröbste Hirn die Diktaturtechnik
+                    geworden ist. Ich meine damit: wenn der schöne Adolf<note type="reg"><persName
+                            key="7793">Hitler, Adolf</persName></note> da ist, mit <orgName
+                                key="68285">Reichswehr</orgName>, <orgName key="79881">Polizei</orgName> und
+                    Prätorianern, dann mag seine Anhängerschaft von 15 auf 5, auf 1 Million fallen
+                    &#x2013; und er wird fröhlich im Scherbenhaufen weiter diktieren. Denn er wird
+                    schießen lassen. Natürlich kann es nicht ewig dauern, weil die Arbeiterschaft
+                    nicht &#x2013; wie die italienische &#x2013; kleinzukriegen ist und weil der
+                    deutsche Süden jedenfalls überhaupt nicht mitmacht (<placeName key="49308"
+                        >Bayern</placeName> sicher nicht): aber das Intermezzo wird uns
+                    genügen...</p>
+                <pb n="2"/>
+
+                <p>Ich werde es einrichten, daß wir uns im Sommer sehen. Wir müssen uns wieder
+                    aussprechen, wir wollen auch über <placeName key="73073">Sanary</placeName>
+                    sprechen. Ich möchte dort im Winter für ein paar Monate (oder doch Wochen)
+                    arbeiten. Ich glaube, es ist noch billiger als <placeName key="48893"
+                        >Florenz</placeName>, wo ich in meiner kleinen Pension (nicht in meinem
+                    Fiesolener Haushalt, der noch teurer ist) doch für uns Beide<note type="reg"
+                            ><persName key="77922">Neumann, Kitty</persName></note> alles in allem
+                    100 Lire täglich gebrauche und noch außerdem für die Arbeit zu laut ist.
+                    &#x2013;</p>
+
+                <p>Was für ein reizendes "Verlobungsbriefchen" des Urgroßvaters Schickele<note
+                        type="com" cert="high">Vermutlich aus der väterlichen Linie, <persName
+                            key="77958">Franz Schickele</persName>. Vgl. Schickeles <rs
+                            n="b3-b3-00ji">Brief</rs> vom 11.6.1932, in dem der Verlobungsbrief als
+                        Beilage genannt wird.</note>! Und wie hübsch, dabei an seinen
+                        Heinrich-<unclear>Bauch</unclear> und Heinrich-<unclear>Durs</unclear><note
+                        type="intern">Nicht ermittelt.</note> zu denken! Was waren die Menschen
+                    damals gefühlszierlich und von welcher geschmackvollen Art der Empfindsamkeit.
+                    Ich danke Ihnen. <persName key="77922">Meine Frau</persName> und ich haben es
+                    mit innigem Vergnügen entblätttert. Es folgt pietätvoll zurück.</p>
+
+                <p><emph n="salute">Für Sie und ihre liebe Frau<note type="reg"><persName key="7093"
+                                >Schickele, Anna</persName></note> die herzlichsten Grüße der
+                        meinen</emph></p>
+
+                <p rend="center"><emph n="salute">und Ihres treuen Freundes</emph></p>
+
+                <p rend="right"><persName key="5592" role="signed">Alfred Neumann</persName></p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

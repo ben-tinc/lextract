@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Siegfried Kracauer an Max Tau</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Kracauer</bibl></p>
+
+                <ab type="copyright"><orgName key="77582">Suhrkamp Verlag</orgName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">2</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">cc</ab>
+                <ab type="script">ts</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="49096" type="write" cert="high"
+                        evidence="Brieftext">Paris</placeName></ab>
+                <ab type="date"><date when="1934-10-31" cert="high" evidence="Brieftext"
+                        >31.10.1934</date></ab>
+                <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
+                <ab type="role"><persName key="74658" role="rec">Max Tau</persName></ab>
+                <ab type="no">322373</ab>
+                <ab type="reg"/>
+                <ab type="desc">Vermutlich ein Durchschlag, unsigniert.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2013-11-26">26.11.2013</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>,
+                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-01-19"
+                    >19.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-02-12">12.2.2015</date>, <date when="2015-02-19">19.2.2015</date>,
+                <date when="2015-03-20">20.3.2015</date>, <date when="2015-04-07">7.4.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2015-02-18">18.2.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="2015-04-07">7.4.2015</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_krsi_tama_19341031_cc_01"/>
+                    <graphic n="2" url="cor_krsi_tama_19341031_cc_02"/>
+                </figure>
+
+                <p><placeName key="49096" type="write">Paris</placeName> (6<hi rend="sup"
+                        >e</hi>),<lb/><orgName key="69059">Madison-Hotel</orgName>,<lb/>143,
+                    Boulevard Saint-Germain.<space/>
+                    <date when="1934-10-31" cert="high">31. Oktober 34.</date></p>
+
+                <p><emph n="salutation">Lieber Freund <persName key="74658"
+                    role="rec">Max</persName></emph>,</p>
+
+                <p>Sie werden sich sicher schon gefragt haben, warum ich nach meinen paar
+                        Zeilen<note type="intern">Nicht ermittelt.</note> vor knapp 14 Tagen noch immer mit
+                    dem Manuskript<note type="reg"><name type="wrk" key="74424">Georg</name></note>
+                    und dem versprochenen Brief zögere. Nun, hier ist zum mindesten der Brief. Was
+                    das <name type="wrk" key="74424">Manuskript</name> betrifft, so habe ich lange
+                    hin und her geschwankt und bin zu folgendem Ergebnis gekommen: es Ihnen nicht zu
+                    schicken. Ich würde es Ihnen nur in unvollständigem Zustand schicken können;
+                    sodass Sie nicht in der Lage wären, es für die Verlags-Unterhandlungen richtig
+                    zu beurteilen und mit dem Verlag<note type="reg"><orgName key="70065">Max
+                            Rascher Verlag AG</orgName></note> darüber zu korrespondieren. Kurzum,
+                    die Situation ist die: dass Ihre liebe Absicht, einen Verlag zu vermitteln, sich
+                    nur durch eine persönliche Zusammenkunft realisieren liesse. Lili<note
+                        type="reg"><persName key="74110">Kracauer, Elisabeth</persName></note> ist
+                    auch der Meinung, und Sie werden uns das gewiss glauben, ohne dass ich es lang
+                    und breit begründe. Denken Sie nicht, lieber Max, dass wir Sie bedrängen und
+                    pressen wollten. Was nicht geht, geht eben nicht. Nur um eines bitten wir Sie
+                    von Herzen: sich zu überlegen, ob sich nicht in nächster Zeit eine
+                    Geschäftsreise für Sie ergibt, bei der wir Gelegenheit zu einer mündlichen
+                    Rücksprache hätten. Ich könnte mir denken, dass Sie wegen des II. Bandes
+                        "Morath"<note type="reg"><persName key="77612">Hesse, Max René</persName>,
+                            <name type="wrk" key="74660">Morath verwirklicht einen
+                        Traum</name></note> hier zu tun hätten, wo Sie sich billigst einrichten
+                    könnten, oder dass Sie vom Verlag<note type="reg"><orgName key="74659">Verlag
+                            Bruno Cassirer</orgName></note> aus nach <placeName key="49284"
+                        >Basel</placeName> bzw. <placeName key="49773">Strassburg</placeName> kämen.
+                    Jedenfalls wäre es, auch unabhängig von unserer Sehnsucht, Sie wieder einmal zu
+                    sehen und zu sprechen, im Interesse der Arbeit unerlässlich, dass wir uns
+                    sähen.</p>
+
+                <p>Diese Lösung schwebt mir als so real vor, dass ich das im Fall Ihrer Verhinderung
+                    zu Tuende nur wie beiläufig erwähne. In diesem Fall bliebe wohl nichts anderes
+                    übrig, als dass Sie <persName key="6746">Rascher</persName> schrieben, er,
+                    <persName key="6746">Rascher</persName>, möchte mir hierher mitteilen, ob er
+                        <name type="wrk" key="74424">mein Manuskript</name> schnell prüfen
+                    will...</p>
+
+                <p>Da ich nun starke Zweifel hege, ob <persName key="6746">Rascher</persName> (ohne
+                    den stärksten, von autoritativer Seite her auf ihn ausgeübten Druck) <name
+                        type="wrk" key="74424">mein Manuskript</name> nehmen wird, komme ich noch
+                    auf eine andere Sache zu sprechen, über die Sie vielleicht mit <persName
+                        key="6746">Rascher</persName> vorverhandeln könnten. Es handelt sich um eine
+                    neue Arbeit<note type="reg"><name type="wrk" key="74588">Jacques Offenbach und
+                            das Paris seiner Zeit</name></note>, die ich dieser Tage beginne und die
+                    ich infolge unserer jämmerlichen materiellen Verhältnisse aufs schnellste
+                    durchführen will und muss. Strengste Diskretion über diesen Plan brauche ich
+                    Ihnen natürlich nicht eigens anzuempfehlen. Also, ich werde eine <name
+                        type="wrk" key="74588">Jean-Jacques-Offenbach-Biographie</name> schreiben,
+                    die weniger eine Biographie in eingerem Sinn als eine Darstellung der sich um
+                        <persName key="8931">Offenbach</persName> gruppierenden Gesellschaft des II.
+                    Kaiserreichs werden soll. Das Material ist vollständig hier, die Schwierigkeiten
+                    sind nicht bedeutend. Meine Absicht ist, das <name type="wrk" key="74588"
+                        >Buch</name> selber zu einer Offenbachiade, gespickt mit Anekdoten zu
+                    machen. Es soll sehr leicht lesbar werden und doch in die Tiefe weisen, ohne
+                    dass diese immer explizit werden muss. Alles in allem ein Buch, das überall
+                    Chancen haben kann. Hier interessiert sich <orgName key="69116"
+                        >Grasset</orgName> dafür, und ist bereit, an Hand eines Probekapitels mit
+                    mir zu unterhandeln. Ein Londoner Agent<note type="com" cert="high">Eventuell
+                        handelt es sich um einen Mitarbeiter der Londoner Agentur <orgName
+                            key="77231">A. M. Heath &#x0026; Co.</orgName>.</note> bekundet
+                    Interesse für <placeName key="48887">England</placeName> und <placeName
+                        key="49115">Amerika</placeName>. Man kann das <name type="wrk" key="74588"
+                        >Buch</name> illustrieren. Wenn Sie es nun für ratsam halten &#x2013; ich
+                    überlasse das ganz Ihnen &#x2013; so tragen Sie bitte diesen Plan <persName
+                        key="6746">Rascher</persName> vor. Eine Verbindung mit ihm, auch in Bezug
+                    auf den <name type="wrk" key="74588">Offenbach</name>, wäre mir willkommen,
+                    wofern Sie <persName key="6746">Rascher</persName> für geeignet halten und dieser
+                    einen Vertrag mit Honorarvorschuss mit mir abschliesst.</p>
+
+                <p>Nun noch eine wichtige Angelegenheit. Sie schrieben uns und liessen es auch durch
+                    die gemeinsame Freundin<note type="com" cert="high">Vermutlich handelt es sich
+                        um Frau <persName key="77615">Chasins</persName>, die Kracauer in seinem <rs
+                            n="322375">Brief</rs> vom 8.12.1934 nennt.</note> ausrichten, dass
+                        Bruno<note type="reg"><persName key="9821">Cassirer, Bruno</persName></note>
+                    die wahrhaft freundschaftliche Absicht habe, uns zu helfen. Die Sache, an die er
+                    dachte, ist, wie ich Ihnen mitteilte, erledigt. Dagegen hat<pb n="2"/>
+                    <persName key="74110">Lili</persName> einen Plan zu einem Existenzaufbau, zu
+                    dessen Durchführung die in Aussicht gestellte Hilfe schlechterdings
+                    unentbehrlich wäre. Mein lieber, guter Freund, ich schreibe Ihnen von diesem
+                    Plan, weil ich weiss, dass ich mich auf Ihr Schweigen gegen jedermann verlassen
+                    kann. Bitte, sprechen Sie mit <hi rend="ul">niemandem</hi> über den Plan, solche
+                    zarten Anfänge können sich nur wie Pflanzen im schützenden Dunkel entwickeln.
+                    Also, <persName key="74110">Lili</persName> will Photographie erlernen. Der
+                    Apparat ist schon vorhanden, es fehlt noch alles zum Laboratorium Gehörige
+                    (Vergrösserungsapparat, Lampen usw.) und ein Objektiv. Sämtliche Gegenstände
+                    sind aus <placeName key="49105">Deutschland</placeName> zu beziehen. Genaue
+                    Angaben über die Gegenstände selber würde ich Ihnen erst machen, wenn Sie sich
+                    die Angelegenheit haben durch den Kopf gehen lassen und die Möglichkeit einer
+                    Realisierung für sich allein oder mit <persName key="9821">Bruno</persName>
+                    erwogen haben. Der Kostenpunkt beliefe sich, überschlägiger Schätzung nach, auf
+                    500-600 Mk. Ich schreibe Ihnen das, ohne eine Ahnung zu haben, ob sich
+                    dergleichen realisieren lässt.</p>
+
+                <p>Lieber Max, ich würde mich schämen &#x2013; oder vielmehr es überhaupt nicht tun
+                    &#x2013; Ihnen nur mit Bitten und eigenen Dingen zu kommen, wüsste ich nicht um
+                    unsere Freundschaft. Wir haben uns oft ausgemalt, wie herrlich es wäre, wenn Sie
+                    einmal hierher kämen, und uns neulich einen ganzen Abend lang an dieser
+                    Vorstellung gewärmt; so lebhaft, dass wir bis in die Einzelheiten Programme für
+                    Sie entwarfen und ganz beglückt wurden. Dann verschwand das Bild wieder. Sollte
+                    es nicht Wirklichkeit werden können? Schreiben Sie bald, lieber Freund.</p>
+
+                <p><emph n="salute">Alles Liebe und Gute von <persName key="74110">Lili</persName>
+                        und</emph></p>
+
+                <p rend="center"><emph n="salute">Ihrem</emph></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

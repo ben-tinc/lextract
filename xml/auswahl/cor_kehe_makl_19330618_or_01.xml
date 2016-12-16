@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>KM B 140</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="2222">Houston Strauss, Marian</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="2778" type="write" cert="high">Ostende</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1933-06-18"><note>Brief</note>
+1933-06-18          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="16">Mann, Klaus</persName>
+        </ab>
+        <ab type="no">fud-925</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit handschriftlicher Grußformel und der Unterschrift Hermann Kestens.&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-03-17">2014-03-17</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-06-23">2014-06-23</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-07-24">2014-07-24</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_kehe_makl_19330618_or_01.tif"/>
+        </figure>
+        <p><persName key="17">Hermann Kesten</persName><lb/>chez <persName key="2787">Mathieu</persName><lb/><placeName key="2779">rue de Varsovie 19</placeName><lb/><placeName key="2778">Ostende</placeName> (<placeName key="2777">Belgique</placeName>)</p>
+        <lb/>
+        <p rend="text-align:right"><placeName type="write"><placeName key="2778">Ostende</placeName></placeName>, den <date type="write">18.6.33</date>.</p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="16">Klaus Mann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>herzlichen Dank für Ihren lieben Brief, ich freue mich sehr, dass Sie meine kleine <name type="wrk" key="105">Erzählung</name> brauchen können und dass sie Ihnen gefällt. Die Korrektur lese ich postwendend. Darin bin ich zuverlässiger als ein alter Verleger.</p>
+        <lb/>
+        <p>Ich werde nächste Woche dieses Land <placeName key="2777">Belgien</placeName> verlassen, dankbar für Sonne Wasser und Wind, die ich hier in Fülle genoss, ich fahre über <placeName key="18">Paris</placeName> nach <placeName key="5">Sanary</placeName> oder <placeName key="124">Marseille</placeName>, ich bin noch immer nicht ganz entschlossen. Den Winter will ich dann doch in <placeName key="18">Paris</placeName> verbringen, mir scheint <placeName key="2781">Wien</placeName> doch recht unruhig. Ich freue mich also sehr, Sie in <placeName key="18">Paris</placeName> zu wissen, wir werden hoffe ich manchen Kaffee geminsam im <orgName key="2786">Deux magots</orgName> trinken. Es wird ein herrliches Leben, <foreign xml:lang="">vive la litterature!</foreign></p>
+        <lb/>
+        <p>Für meine Anthologie-einleitung<note type="com"><persName key="17">Hermann Kestens</persName> Anthologie <name type="wrk" key="102">Novellen deutscher Dichter der Gegenwart</name> wird, nachdem <persName key="72">Stefan Zweig</persName> das von <persName key="17">Kesten</persName> verfasste Vorwort heftig kritisiert, ohne Einleitung veröffentlicht (vgl. auch das <ref target="fud://766">Telegramm</ref> von <persName key="26">Joseph Roth</persName> an <persName key="17">Hermann Kesten</persName> vom 22.8.1933 und den <ref target="fud://55">Brief</ref> von <persName key="26">Joseph Roth</persName> an <persName key="17">Hermann Kesten</persName> vom 23.8.1933).</note> habe ich dankbarst Ihre Ratschläge befolgt und alles das gekürzt, was Ihnen missfiel. Es ist sehr angenehm sich so gut und freundlich beraten lassen zu können.<lb/><persName key="2193">Schoenberner</persName> schrieb mir wieder, unter anderem schickt er mir einen Briefwechsel<note type="com">Vgl. den <ref target="fud://54">Brief</ref> von <persName key="2193">Franz Schoenberner</persName> an <persName key="17">Hermann Kesten</persName> vom 15.8.1933.</note>, den ich Ihnen beilege, weil ich weiss, dass er Sie interessieren wird. Doch bitte ich Sie, keinen Gebrauch davon zu machen (auch <persName key="2224">Süskind</persName> gegenüber nicht) und mir das Manuskript zurückzusenden, an obige Adresse. Meine Post wird mir nachgesandt.</p>
+        <lb/>
+        <p>Auf Ihre erste <name type="per" key="2891">Nummer</name> warte ich mit vergnügter Neugier. Wann verlassen Sie <placeName key="2782">Holland</placeName>?</p>
+        <lb/>
+        <p><persName key="2152">Regler</persName> schrieb mir, dass Sie einem Irrtum zum Opfer gefallen wären, wenn Sie glaubten, dass er der <name type="per" key="4686">Republique</name> angehörte, er sei einmal bei einer demokratischen Zeitung gewesen und das genügte ihm.<lb/>der Arme!</p>
+        <lb/>
+        <p>Was macht Ihre eigene Arbeit? Kommen Sie voran? Ich arbeite sehr stetig und sehr langsam, aber eines Tages ist man am Ende, in jedem Sinn.</p>
+        <lb/>
+        <p rend="text-align:center">Es grüsst Sie herzlichst Ihr <name role="aut"><span type="Signatur"><persName key="17">H Kesten</persName></span></name>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

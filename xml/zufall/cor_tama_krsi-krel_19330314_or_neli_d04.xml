@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Max Tau an Siegfried Kracauer</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                    <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+                
+                
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Kracauer</bibl></p>
+                
+                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName
+                    key="77608">Aase Gjerdrum</persName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">1</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">or</ab>
+                <ab type="script">ts</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="49025" type="write" cert="high"
+                        evidence="Brieftext">Berlin</placeName></ab>
+                <ab type="date"><date when="1933-03-14" cert="high" evidence="Brieftext"
+                        >14.3.1933</date></ab>
+                <ab type="role"><persName key="74658" role="aut">Max Tau</persName></ab>
+                <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
+                <ab type="role"><persName key="74110" role="rec">Elisabeth Kracauer</persName></ab>
+                <ab type="no">322387</ab>
+                <ab type="reg"/>
+                <ab type="desc">Original mit der Unterschrift von Max Tau.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2013-11-29">29.11.2013</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-12">12.8.2014</date>, <date when="2014-11-12">12.11.2014</date>,
+                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-28"
+                    >28.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-01-15">15.1.2015</date>, <date when="2015-02-02">2.2.2015</date>, <date when="2015-03-23">23.3.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2015-01-23">23.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_tama_krsi_19330314_or_01"/>
+                </figure>
+
+                <p rend="center"><placeName key="49025" type="write">Berlin</placeName> W 15,
+                    Uhlandstrasse 43 III<lb/><date when="1933-03-14" cert="high">14.3.33.</date></p>
+
+                <p><emph n="salutation">Meine lieben Freunde<note type="reg"><persName key="7721"
+                                role="rec">Kracauer, Siegfried</persName> und <persName key="74110"
+                                role="rec">Kracauer, Elisabeth</persName></note></emph>,</p>
+
+                <p>da <persName key="9821">Cassirer</persName> durch ein persönliches Missgeschick,
+                    das seine Tochter<note type="com" cert="high">Es handelt sich entweder um
+                            <persName key="77521">Sophie Cassirer Walzer</persName> oder um
+                            <persName key="77519">Agnes Olga Hill</persName>.</note> betroffen hat,
+                    sehr mitgenommen ist und seit Tagen nicht im Verlag<note type="reg"><orgName
+                            key="74659">Verlag Bruno Cassirer</orgName></note> war, konnte ich ihn
+                    leider noch nicht sprechen. Sobald er wieder da ist, werde ich es
+                    selbstverständlich tun. Sonst ist das Leben hier sehr schwer geworden, die
+                    Verlage verkaufen kaum noch Bücher. Das einzig Schöne ist, dass es jetzt
+                    Frühling wird. Denn das beruhigt. Aber sonst weiss man eigentlich nicht, wie man
+                    geistig und real weitermachen soll. Nutzen Sie nur die Zeit Ihrer Erholung recht
+                    aus und glauben Sie mir, dass ich herzlich an Sie denke.</p>
+
+                <p rend="center"><emph n="salute">Ihr getreuer</emph></p>
+
+                <p rend="right"><persName key="74658" role="signed">Max Tau</persName></p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

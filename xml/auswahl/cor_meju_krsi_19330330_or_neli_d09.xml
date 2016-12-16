@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Julius Meier-Graefe an Siegfried Kracauer</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p>Herausgeberinformation:
+            <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Kracauer</bibl></p>
+
+        <ab type="copyright"><orgName key="x">gemeinfrei</orgName></ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">2</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ms</ab>
+        <ab type="edition">Volltext</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="language">deutsch</ab>
+        <ab type="AF">F1</ab>
+        <ab type="location"><placeName key="73075" type="write" cert="high" evidence="Brieftext"
+            >Saint-Cyr-sur-Mer</placeName></ab>
+        <ab type="date"><date when="1933-03-30" cert="low" evidence="erschlossen"
+          >30.3.1933</date></ab>
+        <ab type="role"><persName key="434" role="aut">Julius Meier-Graefe</persName></ab>
+        <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
+        <ab type="no">321363</ab>
+        <ab type="reg"/>
+        <ab type="desc">Original mit der Unterschrift von Julius Meier-Graefe.</ab>
+
+
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2013-09-18">18.9.2013</date>, <date when="2014-07-31">31.7.2014</date>, <date
+          when="2014-08-12">12.8.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="77556">Roberta Toscano</persName>
+        <date when="2015-01-26">26.1.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="2013-11-19">19.11.2013</date>, <date when="2014-05-21">21.5.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-05-20">20.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date
+          when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+    </revisionDesc>
+
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_meju_krsi_19330330_or_01"/>
+          <graphic n="2" url="cor_meju_krsi_19330330_or_02"/>
+        </figure>
+
+
+        <p rend="right"><placeName key="73075" type="write">St. Cyr s. Mer</placeName> (<placeName
+            key="74114">Var</placeName>)</p>
+
+        <p rend="right"><date when="1933-03-30" cert="low">30. III</date></p>
+
+
+        <p><emph n="salutation">Lieber Herr <persName key="7721" role="rec"
+            >Kracauer</persName></emph></p>
+
+        <p>Jedenfalls ein Glück, daß Sie draußen sind, denn Sie wären schwerlich den Bestien
+          entgangen. Vor allem: läßt die <name type="per" key="70949">Frankf. Zeitung</name> Sie
+          sitzen? Das möchte ich gerne wissen. Oder verhindert aber <persName key="9900"
+            >Sieburg</persName> Ihre Mitarbeit in <placeName key="49096">Paris</placeName>?
+          Schriftstellerische Tätigkeit eines Deutschen in <placeName key="49096">Paris</placeName>
+          für eine französische Zeitung oder Zeitschrift sehr schwierig, immer miserabel bezahlt.
+          Ich habe eine einzige Beziehung, die Ihnen vielleicht nützlich werden könnte: <persName
+            key="74111">Waldemar George</persName> 122 Boulevard Murat. Er redigiert die
+          Kunstzeitschrift <name type="per" key="70876">Formes</name>. Sie treffen ihn in der
+          Redaktion 18 Rue Godot de Mauroy (am Boulevard des Capucines) gewöhnlich nachmittags, aber
+          besser, Sie schicken ihm mit. Brief und bitten um ein Rendezvous. Er spricht deutsch, ist
+          ein gebildeter Mensch mit leidlichen Intentionen und wird, wenn er kann, Ihnen behilflich
+          sein. Sollten Sie, was ich stark bezweifele, mit <persName key="9900">Sieburg</persName>
+          sprechen, kann das Ihnen natürlich helfen. Sein Buch<note type="com" cert="high"
+            >Vermutlich seine politische Schrift <name type="wrk" key="33412">Es werde
+              Deutschland</name>.</note>, das ich im Manuskript gelesen habe, hat mir die
+          Möglichkeit, mit ihm zu korrespondieren, genommen. Geeigneter scheinen mir südliche
+          Kreise. Ich frage mich, ob <persName key="8448">Einstein</persName> Ihnen nicht helfen
+          könnte, der vor Kurzem aus <placeName key="49115">Amerika</placeName> zurückgekehrt ist.
+          Seiner Güte traue ich alles zu. Ob sich nicht, wenn die Emigranten zunehmen, eine deutsche
+          Zeitschrift im Ausland lohnen könnte? Ich habe <persName key="5454">Schickele</persName>,
+          der in unserer Nähe wohnt,<pb n="2"/> in Ihrem Interesse gefragt. Er grüßt Sie herzlich,
+          weiß nichts. Sprechen Sie französisch? Ich weiß nicht, ob es nicht franz. Zeitungen gäbe,
+          denen Ihre authentischen Berichte über <placeName key="49105">Deutschland</placeName>
+          willkommen wären. Fragen Sie <persName key="74111">W. George</persName>.</p>
+
+        <p>Ob ich nach <placeName key="49096">Paris</placeName> komme, ganz unbekannt. Wir haben
+          noch für ein paar Monate zu leben. Auch für mich ist die Zukunft absolut schleierhaft.
+          Wenn ich komme, suche ich Sie auf. Vielleicht sehe ich <persName key="11561"
+            >Fischer</persName> und <persName key="15182">Bermann</persName>, die gegenwärtig in
+            <placeName key="51545">Rapallo</placeName> sind und möglicherweise in die Nähe kommen.
+          Werde fragen. Halten Sie mich bitte auf dem Laufenden! Grüßen Sie
+            u.a. Ihre Frau<note type="reg"><persName key="74110">Kracauer,
+              Elisabeth</persName></note>. Wo auch immer Sie glauben, ein Wort von mir könne Ihnen
+          helfen, stehe ich natürlich zur Verfügung.</p>
+
+        <p rend="right"><emph n="salute">Herzlich Ihr</emph>
+          <persName key="434" role="signed">Meier-Graefe</persName></p>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 1051</bibl>
+        </p>
+        <ab type="leaves">2</ab>
+        <ab type="pages">2</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">cc</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="5" type="write" cert="medium">Sanary-sur-Mer </placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1933-11-18"><note>Brief</note>
+1933-11-18          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="1707">Schickele, René</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="2070">Mann, Thomas </persName>
+        </ab>
+        <ab type="no">fud-772</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Durchschlag mit einigen Korrekturen. Zusätzlich weist der Brief handschriftliche Korrekturen und Ergänzungen auf, die vermutlich nicht von René Schickele stammen; sie wurden bei der Transkription nicht berücksichtigt. Am linken Seitenrand der ersten Seite stehen außerdem, zur Auflösung der im Brief implizit genannten Werke, die Titel "Die Geschichten Jacobs" und "Die Witwe Bosca".&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2014-11-25">2014-11-25</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-12-08">2014-12-08</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2015-02-16">2015-02-16</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_scre_mato_19331118_tr_01.tif"/>
+          <graphic n="1" url="cor_scre_mato_19331118_tr_02.tif"/>
+        </figure>
+        <p rend="text-align:right"><placeName key="5">Sanary-sur-mer</placeName> (<placeName key="2896">Var</placeName>)<lb/><orgName key="4746">"Le Chêne"</orgName><lb/><date type="write">18. XI. 33.</date></p>
+        <lb/>
+        <p rend="text-align:center">
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="2070">Thomas Mann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>Ihr <name type="wrk" key="3027">Buch</name> habe ich nun zum zweiten und manches daraus zum dritten Mal gelesen. Und ich bedauere alle, die sich einen solchen Lese-Luxus nicht erlauben können. Schliesslich ist es auch nicht viel anders als bei einer Partitur, die man zwar herunterlesen kann, deren Schönheiten sich aber erst bei "voreingenommenem" Gehör recht erschliessen. Man hört auch beim Lesen erst einmal zu flüchtig, umsomehr als der Dichter zum Unterschied vom Musiker dem Leser mit etwas grob Sinnlichem, fast allzu Handgreiflichem nämlich mit einer "Handlung" zusetzt.</p>
+        <lb/>
+        <p>Ich finde das <name type="wrk" key="3027">Buch</name> meisterhaft, und wenn ich beim ersten Lesen zuweilen den Eindruck von Ueberlelastung hatte, so fand ich beim Wiederlesen allen Stoff restlos bewältigt und in die seltsam jüdisch-sacrale Musik dieser Sprache aufgelöst. Auch dort, wo Ihr Barock (unbegreiflich, dass Sie <persName key="5215">Jean Paul</persName> nicht lieben!) gleichsam in den Jesuitenstil übergreift, diese Ihre steifkomische, bewusste Koketterie, diese ironische Ekstase Ihres Stils, ein "Nichtgenugkriegenkönnen" an dem Ihnen eigenen sprachlichen Liebreiz – ja also, wie soll ich sagen: auch wenn Ihre Sprache zur lübeckischen Kurtisane wird, auch dort und gerade dann war ich im heiterer Weise entzückt</p>
+        <lb/>
+        <p>Aber – es ist ein schweres <name type="wrk" key="3027">Buch</name>. Und das ist gerade jetzt gut. Da es vermutlich das letzte ist, dass die guten Deutschen von Ihnen ohne List und Tücke lesen werden, haben sie reichlich Zeit, es sichanzueignen.</p>
+        <lb/>
+        <p>Heute las ich in der <name type="per" key="679">Frankfurter Zeitung"</name> von der feierlichen Verkündigung der deutschen <orgName key="4748">Kulturkammer</orgName> und hatte gleich zu Beginn ein feuchtes Auge, weil ich mir so gut <persName key="1971">Hitler</persName> und <persName key="1952">Hauptmann</persName> Auge in Auge vorstellen konnte und den Händedruck, der dieses Bündnis besiegelte – ketzt, da der Staat<note type="com">Das nationalsozialistische <placeName key="1704">Deutschland</placeName>.</note> so total geworden ist, dass sogar das <orgName key="3743">Dachauer Konzentrationslager</orgName> fast geschlossen für <persName key="1971">Hitler</persName> stimmte! Vom 1 Dezember an werden wir also dem deutschen Schrifttum nicht mehr angehören. Ausländer und Inländer sind in den Statuten ausdrücklich gleichgestellt – nebenbei eine Frachheit.</p>
+        <lb/>
+        <p>Mit meinem <name type="wrk" key="2849">Buch</name> gab es ein langes Hin und Her, weil <persName key="1803">Bermann</persName> so gern massenhaft gestrichen hätte. <persName key="3183">Loerke</persName> schrieb mir einen Brief, den ich Ihnen zeigen werde, wenn Sie das <name type="wrk" key="2849">Buch</name> gelesen haben. Jetzt erscheint es ohne Striche, aber um Wochen verspätet, ich denke gerade, bevor der Vorhang fällt, kurz vor dem 15. Dezember. Möglich, dass es am gleichen Tag verboten wird. Dann werde ich nach <placeName key="2783">Amsterdam</placeName> "gehn", aber nicht zu <orgName key="1489">Querido</orgName>, sondern zu <orgName key="4244">de Langen</orgName>, dessen Verlag politicch <hi rend="underline">nicht</hi> polemisieren will. Bei <orgName key="1489">Querido</orgName> weiss man nicht, in welche Gesellschaft man gerät, und ich will weder mit offenem, noch mit getarntem Bolschewismus etwas zu tun haben. Abgesehn von anderm, vergesse ich nicht, dass <hi rend="underline"><placeName key="3942">Moskau</placeName></hi> die Welt mit den Methoden beschert hat, die jetzt, mit verschiedenen Vorzeichen, die halbe Welt beherrschen. Ich weiss, es ist schwer, seine Selbständigkeit zi wahren und vielleicht nicht einmal richtig. Ich bin aber in jeder Weise unfähig, anders zu handeln.</p>
+        <lb/>
+        <p>Hat <persName key="2170">Rolland</persName> bei Ihnen angefragt, bevor er "spontan" (statt <persName key="1709">Heinrich Manns</persName>...) <persName key="16">Klaus</persName> seinen kleinen Bannstrahl<note type="com">In einem <name type="wrk" key="5217">Brief</name> an <persName key="16">Klaus Mann</persName> äußert <persName key="2170">Romain Rolland</persName> seine Verwunderung über die Reaktion "de vos collaborateurs allemands" – gemeint sind <persName key="109">Alfred Döblin</persName>, <persName key="2070">Thomas Mann</persName>, <persName key="1707">René Schickele</persName> und <persName key="72">Stefan Zweig</persName> – die sich aufgrund des politischen Charakters der Zeitschrift öffentlich von <name type="per" key="739">Der Sammlung</name> distanziert hatten. Zugleich zieht <persName key="2170">Rolland</persName> eine Parallele zu <persName key="4827">Victor Hugo</persName>, der sich während seines Exils niemals jenseits des Politischen positioniert habe. <persName key="2170">Rollands</persName> <name type="wrk" key="5217">Brief</name> wird im <name type="per" key="5218">dritten Heft</name> der <name type="per" key="739">Zeitschrift</name> abgedruckt und ersetzt jeden weiteren Kommentar zum Streit um die <name type="per" key="739">Sammlung</name>.</note> zur Verfügung stellte? Mich hat er nicht gefragt, was ich mit Rücksicht auf die Art, wie ich in Jahren, die er nicht vergessen haben kann, zu ihm gestanden habe, verwunderlich finde. Freilich geht er heute durch Dick und Dünn mit <placeName key="3942">Moskau</placeName>. Und ich weiss längst, wie man dann wird, wenn man erst so weit ist! Pfaffen allesamt! Grosse und Kleine. Bei <persName key="1706">Gide</persName> ist es anders. Was blieb dem moralisch strapazierten Mädchen in seinem Alter viel anders übrig als fromm zu werden! Und heute bekehrt man sich eben nicht mehr zum Katholizismus wie zur Zeit der <persName key="5216">Huysmans</persName> und <persName key="3124">Claudel</persName>, sondern zum Kommunismus aktivster Form.</p>
+        <lb/>
+        <p>Raten Sie, wer wm meisten über uns entrüstet war! Nein, Sie werden es nie. <persName key="1806">Georg Bernhard</persName>, dessen Frisch-fromm-fröhliches Abendessen Ihnen hoffentlich noch aus der Erzählung Ihres <persName key="1709">Bruders</persName> in Erinnerung ist, der sich bis zuletzt anklammerte und zu jedem Kompromiss bereit war, wenn man ihn nur leben liesse – und der sagenhafte Dr. <persName key="2335">Breitscheid</persName>, der in feierlicher Reichstagsitzung für <persName key="1971">Hitler</persName> stimmte... Immerhin war <persName key="53">Schwarzschild</persName> nicht töricht genug, das zu tun, <hi rend="underline">was die Nazis erwarteten,</hi> nämlich einen Teil der Emigrierten gegen den andern aufzuwiegeln, der, allein durch Ihre Gegenwart, kaum der unbeträchtlichere ist. Dagegen telegrafierte <gap evidence="Seitenende"/><pb/>an<note type="com">In der Vorlage ist an dieser Stelle "Hatzfeld an" von fremder Hand ergänzt. Es ist ungewiss, ob damit der Schriftsteller <persName key="5223">Adolf von Hatzfeld</persName> gemeint sein könnte und ob diese Ergänzung tatsächlich sinvoll ist.</note> <persName key="1889">Feuchtwanger</persName> die Aufforderung, gegen die vier "Schweine"<note type="com">Gemeint sind <persName key="109">Alfred Döblin</persName>, <persName key="2070">Thomas Mann</persName>, <persName key="1707">René Schickele</persName> und <persName key="72">Stefan Zweig</persName>, die sich, auch auf Druck ihrer jeweiligen Verlage, öffentlich von einer Mitarbeit an <persName key="16">Klaus Manns</persName> Zeitschrift <name type="per" key="739">Die Sammlung</name> distanziert hatten.</note> zu schreiben.</p>
+        <lb/>
+        <p>Bezeichnender Weise drangen die Wellen der Empörung nicht über das Familiebplanschbecken hinaus. Die Franzosen ignorieren die Geschichte<note type="com">Nach dem Erscheinen des <name type="per" key="2891">ersten Hefts</name> der Zeitschrift <name type="per" key="739">Die Sammlung</name>, das prospektiv die gewonnenen Mitarbeiter nennt, kommt es zum sogenannten Streit um die <name type="per" key="739">Sammlung</name>. Auf Druck ihrer in <placeName key="1704">Deutschland</placeName> verbliebenen Verlage <orgName key="1108">S. Fischer</orgName> und <orgName key="1234">Insel</orgName>, die wiederum die Repressalien der nationalsozialistischen Kulturpolitik fürchten, dementieren <persName key="109">Alfred Döblin</persName>, <persName key="2070">Thomas Mann</persName>, <persName key="1707">René Schickele</persName> und <persName key="72">Stefan Zweig</persName> ihre Mitarbeit an <persName key="16">Klaus Manns</persName> <name type="per" key="739">Zeitschrift</name> mit der Begründung, über deren politischen Charakter nicht informiert gewesen zu sein. Mit dem Abdruck im <name type="per" key="659">Börsenblatt für den deutschen Buchhandel</name> werden diese Absagen Mitte Oktober 1933 öffentlich. Unter den Exilanten und in der Exilpresse entbrennt daraufhin eine heftige Diskussion, die sich zwischen den Positionen Empörung über und Verständnis für das Verhalten der genannten Autoren bewegt.</note> und auch das übrige Ausland. Die Franzosen vermutlich schon allein deshalb, weil ihnen die Emigranten schon beträchtlich auf die Nerven gehn – bis zur plumpen <name type="wrk" key="5222">Gehässigkeit</name> <persName key="2100">Paul Morands</persName> in <name type="per" key="5980">"1933"</name>. Das Präventiv krieg-Geflüster und çGehetze von Leuten, von denen nicht <hi rend="underline">einer</hi> im Ernstfall an die Front ginge, so sagen sie, lässt nicht nur die gebotene Zurückhaltung sondern das kümmerlichste Schamgefühl vermissen. In einem Jahr wird es, geistig gesehn, keine Spur mehr einer deutschen Emigration geben. Übrig bleiben w rden die "Einzigen" und "ihr Eigentum". Der eigentliche Feind ist der heutige Kollektivwahn. Das heutige "Kollektiv" ist nicht etwas Organisches wie im Mittelalter oder in noch früheren Kulturen, sondern die mit allen Mitteln der Hypnose und Gewalt erpresste Unterwerfung ganzer Völker unter den Willen eines Demagogen<note type="com">Gemeint ist wohl <persName key="1971">Adolf Hitler</persName>.</note>, der alle Machtmittel des Staates auf seine Seite gebracht hat, eine lückenlose Sklavenkette. Das ist beispiellos, das hat es <hi rend="underline">noch nie</hi> gegeben – die heutige Technik erst ermöglichte die Lückenlosigkeit der Versklavung. Und nachdem dieser Lückenlosigkeit gegenüber die bestorganisierten Parteien geradezu kläglich versagt haben, sollen Dichter auf jene Barrikade steigen, die zur lächerlichsten aller Metaphern geworden ist? <persName key="4827">Victor Hugo</persName> war verbannt, jawohl, aber (abgesehn davon davon, dass er als Politiker allemal humoristisch wirkte) jedes seiner Worte, ja, jeder seiner Atemzüge war in <placeName key="18">Paris</placeName> hörbar, er hatte seine Partei im <placeName key="47">Lande</placeName> und sogar am Hof. Die bonapartistische Diktatur verhält sich zur heutigen wie eine zierlich gearbeitete Pistole zu einem Maschinengewehr. Sie kann nicht abgelöst oder gestürzt werden, sie endet nicht anders als in einer neuen Weltkatastrophe. Oder aber sie hält sich so lange, dass sie sich in Sicherheit wiegt, sich grossmütig zeigt, und von einer neuen Generation durchsetzt wird, die unmerklich ihren Körper verwandelt, wie eben der Körper durch eine andre Lebensweise und der Geist durch eine andre Denkweise verwandelt wird. Und dann, dann erst wird eine aktive Opposition im alten Sinne möglich sein. Bis dahin können wir nichts tun als uns selbst behaupten und die Rüsthäuser des Geistes in Ordnung halten, indess die Barbaren Masken und Parolen wechseln immer mit dem gleichen Ziel: sich unter grenzenloser Anwendung von Gewalt und Lüge zu behaupten. Es sei denn, man nehme den roten Schleier und werde Kommunist Denn ein <persName key="2170">Romain Rolland</persName> kann tun, was er will: neben der <foreign xml:lang="la">Ecclesia militans</foreign> bleibt er ein Mann des Gebets, ein Klosterbruder, dem vor dem Blutvergiessen schaudert, sobald er es tatsächlich <hi rend="underline">sieht</hi>..</p>
+        <lb/>
+        <p>Herzliche Grüsse</p>
+        <lb/>
+        <p rend="text-align:center">Ihres<lb/><name role="aut"><persName key="1707">René Schickele</persName></name>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

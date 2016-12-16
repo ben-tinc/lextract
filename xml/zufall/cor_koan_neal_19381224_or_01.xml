@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>AN B 158</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="5971">Mallin-Ryder, Annette</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">2</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ms</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="18" type="write" cert="medium">Paris</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1938-12-24"><note>Brief</note>
+1938-12-24          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="2020">Kolb, Annette</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="2113">Neumann, Alfred</persName>
+        </ab>
+        <ab type="no">fud-648</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original in der Handschrift Annette Kolbs. Am Kopf der zweiten Seite wurde von je verschiedener fremder Hand "Nachl. Neumann" und "Annette Kolb" notiert.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-09-22">2014-09-22</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-09-24">2014-09-24</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-11-26">2014-11-26</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_koan_neal_19381224_or_01.tif"/>
+          <graphic n="1" url="cor_koan_neal_19381224_or_02.tif"/>
+        </figure>
+        <p rend="text-align:right">
+          <placeName key="5048">21 rue Casimir Périer</placeName>
+          <lb/>
+          <placeName key="18">Paris 7 <hi rend="sup">e</hi></placeName>
+          <lb/>
+          <date type="write">24. XII 38</date>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ F3">Sehr geehrter Herr <name role="rec"><persName key="2113">Neumann</persName></name></span>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>So oft höre ich von Ihnen, aber sehen tun wir uns nie. Nun denke ich am 28. nach <placeName key="3664">Vence</placeName> auf 10 oder 12 Tage zu fahren und vielleicht kommen wir bei Schickeles<note type="com"><persName key="2185">Anna Schickele</persName>, <persName key="1707">René Schickele</persName></note> einmal zusammen. Es ist nicht der Grund meines Schreibens – sondern dieser Brief von Borchardts<note type="com"><persName key="5067">Marie Luise Borchardt</persName>, <persName key="5066">Rudolf Borchardt</persName></note> – hat man denn noch Zeit in dieser Epoche für einander? das <pb/>ist heute schon ein Glücksfall nicht wahr. Ich vermute Sie mit noch mehr Anliegen überhäuft als ich es bin, und doch kann ich sie kaum bewältigen. <persName key="1811">Blei</persName> ist ein besonderer Fall. <persName key="1922">Giraudoux</persName> verschaffte ihm die Einreise und jetzt fehlt ihm das Geld dafür. Ich schreibe an verschiedene Freunde auch in <placeName key="2789">Italien</placeName>. Aber werden sie "funktionieren?" In <placeName key="2789">Italien</placeName> ist er unbekannt. Kurz: es ist ein Fall den wir nicht auf sich beruhen lassen können. Er wollte nach <placeName key="4926">Cagnes</placeName> wo er billig leben könnte. In <placeName key="5068">Lucca</placeName> ist offenbar kein Bleiben mehr für ihn. Borchardts<note type="com"><persName key="5067">Marie Luise Borchardt</persName>, <persName key="5066">Rudolf Borchardt</persName></note> sind glaube ich auch in gar keiner günstigen Lage. Falls eine Collecte gestartet werden könnte für ihn würde ich natürlich auch alle Hebel in Bewegung setzen. Sagen Sie mir doch Ihre Ansicht! ab 29. bin ich täglich <placeName key="4791">15 rue du Pavillon</placeName>. <placeName key="3664">Vence</placeName> bei Schickeles<note type="com"><persName key="2185">Anna Schickele</persName>, <persName key="1707">René Schickele</persName></note>, wenn auch im Hotel wohne, dessen Name ich aber nicht weiss. Sein Telefon ist 293</p>
+        <lb/>
+        <p>Alles mögliche Gute! Alle Wünsche von Ihrer <span type="Signatur"><name role="aut"><persName key="2020">Annette Kolb</persName></name></span><note type="com">Nach einer 90° Drehung des Blattes am rechten Rand geschrieben.</note></p>
+      </div>
+    </body>
+  </text>
+</TEI>

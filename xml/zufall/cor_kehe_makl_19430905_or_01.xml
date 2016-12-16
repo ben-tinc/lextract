@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>KM B 140</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="2222">Houston Strauss, Marian</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="84" type="write" cert="medium">New York, NY</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1943-09-05"><note>Brief</note>
+1943-09-05          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="16">Mann, Klaus</persName>
+        </ab>
+        <ab type="no">fud-960</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit wenigen handschriftlichen Korrekturen und der Signatur Hermann Kestens.&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-04-08">2014-04-08</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-06-10">2014-06-10</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-07-08">2014-07-08</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_kehe_makl_19430905_or_01.tif"/>
+        </figure>
+        <p><persName key="17">Hermann Kesten</persName><lb/><orgName key="3244">Hotel Park Plaza</orgName><lb/><placeName key="3243">50 West 77th Street</placeName><lb/><placeName key="84">New York City, N.Y.</placeName><lb/>En 2-3700</p>
+        <lb/>
+        <p rend="text-align:right">
+          <date type="write">Sept. 5, 43.</date>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="16">Klaus Mann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>danke schönstens für Ihren lieben Brief. Uebermorgen soll die <name type="wrk" key="3086">Anthologie</name> endlich in Druck gehen, ich bin sehr froh darüber, denn sonst hören die Aenderungen und die Arbeit gar nicht mehr auf. Natürlich ist es ein Jammer, dass der <orgName key="3543">Buchklub</orgName> keinen bessern Geschmack hat, es wäre an der Zeit gewesen, dass wir beide reich werden, und so gemeinsam "Millionäre" zu werden, wäre ein besondrer Spass.</p>
+        <lb/>
+        <p>Inzwischen höre ich, dass <persName key="3501">Montherlant</persName> sich so hundsföttisch wie <persName key="1858">Cocteau</persName> benehmen soll, man müsste ihn also wieder streichen, auch könnte man jetzt wieder eine ganz andre italienische Abteilung einrichten alle die geheimen italienischen Dichter,, die gar nicht so faschistisch waren, als sie tun mussten. Uebrigens wachsen uns neue Generationen und Dichter herauf, wir wissen nichts mehr davon, alles aendert sich, also das <name type="wrk" key="3086">Buch</name> muss gedruckt werden, umso rascher in Vergessenheit geraten zu können. Ich habe Ihnen einen <name type="wrk" key="3072"><persName key="1961">Heine</persName></name> signiert gesandt, Alliance-Bücher<note type="com">Bei der <orgName key="801">Alliance Book Corporation</orgName> veröffentlicht <persName key="17">Hermann Kesten</persName> <name type="wrk" key="2844">Die Kinder von Gernika</name> und <name type="wrk" key="2850">König Philipp der Zweite</name>.</note> bekomme ich keine, ausser gegen schweres Geld, das ich nur hätte, wenn die <name type="wrk" key="3086">Anthologie</name> es mir brächte.</p>
+        <lb/>
+        <p>Wir waren auf dem <placeName key="3258">Cape Code</placeName> vier Wochen sehr glücklich, es war kühl, Fichtenwälder am Meer, ein schönes Haus, und billiger als <placeName key="84">New York</placeName>. Mein <name type="wrk" key="3234">Copernicus</name> ward 550 Seiten dick, nun muss ich ihn vorn und hinten beschneiden.</p>
+        <lb/>
+        <p>Sie warten, um rechtzeitig nach <placeName key="3101">Florenz</placeName> zu kommen, was ich Ihnen nicht verdenken kann.</p>
+        <lb/>
+        <p>Lassen Sie bald wieder von sich hören.</p>
+        <lb/>
+        <p rend="text-align:center">Herzlichst und alles Gute<lb/>stets Ihr<lb/><name role="aut"><span type="Signatur"><persName key="17">H Kesten</persName></span></name></p>
+      </div>
+    </body>
+  </text>
+</TEI>

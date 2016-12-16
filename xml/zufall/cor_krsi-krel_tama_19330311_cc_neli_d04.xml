@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Siegfried Kracauer an Max Tau</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Kracauer</bibl></p>
+
+                <ab type="copyright"><orgName key="77582">Suhrkamp Verlag</orgName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">1</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">cc</ab>
+                <ab type="script">ts</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="49096" type="write" cert="high"
+                        evidence="Brieftext">Paris</placeName></ab>
+                <ab type="date"><date when="1933-03-11" cert="high" evidence="Brieftext"
+                        >11.3.1933</date></ab>
+                <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
+                <ab type="role"><persName key="74110" role="aut">Elisabeth Kracauer</persName></ab>
+                <ab type="role"><persName key="74658" role="rec">Max Tau</persName></ab>
+                <ab type="no">322371</ab>
+                <ab type="reg"/>
+                <ab type="desc">Vermutlich ein Durchschlag, unsigniert.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2013-11-25">25.11.2013</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>,
+                    <date when="2014-11-25">25.11.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-01-15">15.1.2015</date>, <date when="2015-02-04">4.2.2015</date>,
+                <date when="2015-03-19">19.3.2015</date>, <date when="2015-04-07">7.4.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2015-01-23">23.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="2015-04-07">7.4.2015</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <figure>
+                    <graphic n="1" url="cor_krsi_tama_19330311_cc_01"/>
+                </figure>
+
+                <p><placeName key="49096" type="write">Paris</placeName>, <date when="1933-03-11"
+                        cert="high">11. März 33.</date></p>
+
+                <p><emph n="salutation">Lieber <persName key="74658" role="rec"
+                        >Max</persName></emph>,</p>
+
+                <p>wir haben uns sehr mit Ihren <rs n="322385">Zeilen</rs> gefreut. Vor allem sind
+                    wir froh, dass es Ihnen gesundheitlich besser geht. Eben aus Besorgnis über
+                    Ihren Zustand schrieben wir Ihnen gestern die Karte<note type="intern">Nicht
+                        ermittelt.</note>. Aus Ihrem <rs n="322385">Brief</rs> ersehen wir auch, dass
+                    im ärigen alles beim Alten geblieben ist; Natürlich hätten wir gerne noch viel
+                    mehr von Ihnen gehört, und wir bitten Sie sehr, uns doch recht bald
+                    ausführlicher zu schreiben, sobald Sie Zeit und die Möglichkeit dazu haben.</p>
+
+                <p>Nun noch die Sache mit meinem Manuskript<note type="reg"><name type="wrk"
+                            key="74424">Georg</name></note>. Tatsächlich hat Lili<note type="reg"
+                        >Kracauer, Elisabeth</note> keinen Brief von Herrn BC<note type="reg"
+                            ><persName key="9821">Cassirer, Bruno</persName></note> beim <name
+                        type="wrk" key="74424">Manuskript</name> gefunden; aber wir wollen noch
+                    einmal <persName key="77716">Hanni</persName> schreiben, dass sie das <name
+                        type="wrk" key="74424">Manuskript</name> genau durchsieht. Vielleicht ist
+                    der Brief<note type="intern">Nicht ermittelt.</note> doch darin enthalten. Ich weiss
+                    natürlich nicht, was in dem Brief steht,
+                    kann mir aber kaum anders denken, als dass er eine Absage enthält. Sollte dies
+                    der Fall sein, so würde mich die Sache sehr merkwürdig berühren. Schon in rein
+                    formaler Hinsicht ist mir unbegreiflich, dass das <name type="wrk" key="74424"
+                        >Manuskript</name> nicht über Sie geleitet worden ist. Man hat, offenbar um
+                    Rückfragen bei Ihnen zu vermeiden, das Konvolut an unsere schon vor über zwei
+                    Jahren aufgegebene Wohnung in der Pariser Strasse geschickt und noch dazu die
+                    Adresse falsch angegeben; sodass die Sendung zwei volle Tage durch <placeName
+                        key="49025">Berlin</placeName> irren musste, ehe sie uns erreichte. Das ist
+                    das eine. Zum andern erscheint mir die Retournierung &#x2013; immer
+                    vorausgesetzt, dass sie gleichbedeutend mit einer Absage ist &#x2013; darum so
+                    besonders unerklärlich, weil ich dem Verlag<note type="reg"><orgName key="74659"
+                            >Verlag Bruno Cassirer</orgName></note> mit <name type="wrk" key="74424"
+                        >meinem Manuskript</name> wirklich ein Buch von besonderer Qualität
+                    angeboten habe, das gerade zu diesem <orgName key="74659">Verlag</orgName> wie
+                    zu keinem andern gepasst hätte. Der Gedanke ist originell, die Ausführung kann
+                    sich sehen lassen und der Inhalt dürfte nicht den geringsten Anstoss erregen, da
+                    er doch im wesentlichen ein neutrales Gebiet betrifft. Dank meiner Erfahrungen,
+                    auch als Lektor, bin ich wahrhaftig in der Lage, dergleichen zu beurteilen. Und
+                    ich weiss auch, dass manche Publikationen des <orgName key="74659"
+                        >Verlags</orgName> an Qualität zweifellos hinter <name type="wrk"
+                        key="74424">meinem Manuskript</name> zurückstehen. Zuletzt befremdet mich
+                    die vermutliche Absage darum, weil mit der Herausgabe dieses <name type="wrk"
+                        key="74424">Buches</name> keinerlei Risiko verbunden gewesen wäre. Es
+                    scheint mir absolut festzustehen, dass auch und vielleicht<note type="com"
+                        cert="high">Das Wort "vielleicht" wurde nachträglich durch zwei
+                        Schrägstriche am linken Rand maschinell hinzugefügt.</note> gerade unter den
+                    heutigen Umständen <name type="wrk" key="74424">mein Buch</name> mit einem
+                    Leserkreis rechnen kann, der gross genug ist, um die Möglichkeit eines Verlusts
+                    auszuschalten. Um so mehr, als das Objekt klein ist. Kurz, wie immer ich die
+                    Angelegenheit betrachte, sie ist und bleibt rätselhaft. Die Ihnen ja von
+                        BC's<note type="reg"><persName key="9821">Cassirer, Bruno</persName></note>
+                    selber bestätigte Qualität und das Ausscheiden des geschäftlichen Risikos würden
+                    eine Refüsierung nicht rechtfertigen. Hinzu kommt das Umgehen des Lektors<note
+                        type="com" cert="high">Gemeint ist Max Tau selbst.</note> bei der
+                    Rücksendung. Schreiben Sie mir doch, lieber Freund Max, was ist hier geschehen
+                    und worum handelt es sich? Mir wäre die Absage, wie ich Ihnen gern gestehe, eine
+                    ausserordentliche Enttäuschung, und ich fände sie nur dann fasslich, wenn
+                    irgendwelche äussere Umstände sie erzwungen hätten. Diese aber konnten doch zur
+                    Zeit der Rücksendung noch nicht eingetreten sein. Sie werden sicherlich
+                    verstehen, dass ich den Fall sehr ernst nehme; denn ich hatte mit einem
+                    günstigen Verlauf gerechnet und aus begreiflichen Gründen rechnen müssen.</p>
+
+                <p>Wir versuchen uns hier nach Möglichkeit zu erholen, sind aber sehr
+                    niedergedrückt; nicht zuletzt der finanziellen Ungewissheit wegen, die durch
+                    meinen Abstecher keineswegs behoben wurde. Im Gegenteil. Hoffentlich können Sie
+                    sich bald in unserer Wohnung einrichten; der Gedanke daran ist uns sehr
+                    lieb.</p>
+
+
+                <p rend="center"><emph n="salute">Ihnen viel, viel Gutes und alles Liebe von
+                        Ihren</emph></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>KM B 324</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="5970">Mann, Frido</persName>
+        </ab>
+        <ab type="leaves">3</ab>
+        <ab type="pages">3</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">cc</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="4079" type="write" cert="high">Noordwijk</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1934-06-23"><note>Brief</note>
+1934-06-23          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="16">Mann, Klaus</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="1827">Breitbach, Joseph</persName>
+        </ab>
+        <ab type="no">fud-1003</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Durchschlag mit einigen handschriftlichen Korrekturen und Unterstreichungen. Ohne Grußformel und Signatur; möglicherweise fehlen die letzten Zeilen.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-09-08">2014-09-08</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-09-15">2014-09-15</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2015-02-18">2015-02-18</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_makl_brjo_19340623_cc_01.tif"/>
+          <graphic n="1" url="cor_makl_brjo_19340623_cc_02.tif"/>
+          <graphic n="2" url="cor_makl_brjo_19340623_cc_03.tif"/>
+        </figure>
+        <p rend="text-align:right">z.Zt. <placeName type="write"><placeName key="4079">Noordwij – Zee</placeName></placeName><lb/><orgName key="5236">Huize Clarenwijk</orgName><lb/><placeName key="5237">Zuid-Boulevard</placeName></p>
+        <lb/>
+        <p>den <placeName type="write">23.6.34.</placeName></p>
+        <lb/>
+        <p><span type="Anrede" n="Typ P2">Lieber <name role="rec"><persName key="1827">Josef</persName></name></span> – danke für deinen <ref target="fud://915">Brief</ref>. Er hat, um das nur gleich zu sagen, einen wesentlich anderen Ton, als dein <name type="wrk" key="2890">Artikel</name>. Deshalb kann ich auf den <ref target="fud://915">Brief</ref> auch privat antworten; auf den <name type="wrk" key="2890">Artikel</name> hin dir privat zu schreiben, fand ich wirklich die Möglichkeit nicht. – Aus deinem <ref target="fud://915">Brief</ref> geht hervor, dass du, trotz allem, ein Feind des <persName key="1971">Hitler</persName>-Regimes geblieben bist, wenigstens unter Freunden. Du erwähnst <persName key="5224">Segers</persName> "erschütternden" <name type="wrk" key="5228">Bericht</name>, und stellst fest, dass in <placeName key="1704">Deutschland</placeName> täglich Leute verurteilt werden, "weil sie sich nicht ducken." Das ist mir doch sehr interessant. Du schreibst auch, dass du "ganz im Sinne meines <persName key="2070">Vaters</persName>" gedacht habest und – da du ja jede Wandlung leugnest – weiterdenkst. Es ist dir vielleicht bekannt, dass mein <persName key="2070">Vater</persName> das neudeutsche Regime verabscheut und deshalb im Auslande<note type="com"><persName key="2070">Thomas Mann</persName> lebt zu dieser Zeit in <placeName key="2820">Küsnacht bei Zürich</placeName>, in der <placeName key="3763">Schiedhaldenstraße 33</placeName>.</note> lebt.</p>
+        <lb/>
+        <p>Wenn man so zu diesem Regime steht, wie ich es aus deinem <ref target="fud://915">Briefe</ref> schliessen muss, verstehe ich aber nicht, warum man – freiwillig und vom Ausland<note type="com"><persName key="1827">Joseph Breitbach</persName> lebt bereits vor 1933 überwiegend im Ausland, unter anderem in <placeName key="5">Sanary-sur-mer</placeName>, in <placeName key="3630">Toulon</placeName>, im <placeName key="5244">Elsass</placeName> und in der <placeName key="3108">Normandie</placeName>. Seit 1931 hat er seinen ständigen Wohnsitz in <placeName key="18">Paris</placeName>. 1933 hält sich <persName key="1827">Breitbach</persName> für einige Monate in <placeName key="3246">Griechenland</placeName> auf.<lb/><lb/><lb/>(Vgl. Meyer: Joseph Breitbach, S. 19)</note> aus – an einem so hundsgemeinen Blatt, wie dem <name type="per" key="5233">"Deutschen Wort"</name>, das aufs degoutanteste vor diesem Regime auf dem Bauche liegt und Literaten durch einen Herrn von Killinger abkanzeln lässt, mitarbeitet. (Als ich damals, mit Entsetzen, deinen <name type="wrk" key="5250">Beitrag</name> in diesem Scheissblatt<note type="com"><persName key="1827">Joseph Breitbachs</persName><name type="wrk" key="5250">Beitrag</name> erscheint in der <name type="per" key="700">Literarischen Welt. Neue Folge</name>. Nach der Emigration des früheren Herausgebers <persName key="1945">Willy Haas</persName> im Frühjahr 1933 erscheint die Literaturzeitschrift <name type="per" key="700">Die Literarische Welt</name> mit dem Titelzusatz "Neue Folge". Chefredakteur wird <persName key="2652">Karl Rauch</persName>. Der Titelzusatz verweist auf die inhaltliche Neuausrichtung der Zeitschrift, die sich nun an der nationalsozialistischen Kulturpolitik orientiert. Unter dem neuen Titel <name type="per" key="5233">Das deutsche Wort</name> wird sie ein Jahr später endgültig gleichgeschaltet.</note> fand, wusste ich, dass ich dir zunächst nicht mehr würde schreiben können.) Ich verstehe weiter nicht, wie man, als Feind des Regimes, für seine Kulturpolitik im Auslande mit solcher Vehemenz Reklame machen kann, wie du es ohne Frage getan hast. Hätte man vor fünf Jahren in einer Pariser Revue darauf aufmerksam gemacht, dass es in <placeName key="1704">Deutschland</placeName> ausser <persName key="2070">Th. M.</persName> und <persName key="1952">Gerhart Hauptmann</persName> auch <pb/>noch <persName key="5234">Hermann Stehr</persName> und <persName key="2790">Kolbenheyer</persName> gibt, so wäre das eine Harmlosigkeit gewesen. Damals aber hast du es nicht getan. Heute aber in <placeName key="47">Frankreich</placeName> die vom deutschen <orgName key="2845">Propagandaministerium</orgName> protegierte Literatur herauszustreichen und die emigrierte, auf den Scheiterhaufen verbrannte, ganz im Tonfall der Nazi-Presse, als "undeutsch", als "westlich infiziert" zu bezeichnen – das heisst eben, sich zum "<persName key="1926">Göbbels</persName>-Gehilfen" machen, ich kann dir nicht helfen. Man wird dich auf der <orgName key="5235">Deutschen Botschaft</orgName> nun doppelt so gern zum Abendessen einladen. Du darfst dich aber wirklich nicht wundern, wenn wir weniger freundlich reagieren.</p>
+        <lb/>
+        <p>Du findest, ich sei unsachlich in meiner "Antwort"<note type="com"><persName key="16">Klaus Manns</persName> Reaktion unter dem Titel <name type="wrk" key="5243">Josef Breitbach, der richtige</name> erscheint am 30.6.1934 im <name type="per" key="717">Neuen Tage-Buch</name>. Daneben veröffentlicht die <name type="per" key="4688">Revue hebdomadaire</name> im August 1934 <persName key="16">Klaus Manns</persName> etwa zweiseitigen <name type="wrk" key="5229">Brief</name> an den <persName key="5245">Chefredakteur</persName>. Zeitgleich erscheinen ein <name type="wrk" key="5247">Leserbrief</name> <persName key="26">Joseph Roths</persName> sowie eine <name type="wrk" key="5246">Replik</name> <persName key="1827">Joseph Breitbachs</persName>.</note>. Ich habe sie mir daraufhin noch einmal genau angeschaut. Ich habe mich auch zu Aenderungen entschlossen – da mir wirklich an der <hi rend="underline"><hi rend="spaced">privaten</hi></hi> Polemik nichts liegt. In der <name type="per" key="4688">"Revue Heb."</name> erscheint mein Artikel<note type="com">In seinem <name type="wrk" key="5229">Brief</name> an den <persName key="5245">Chefredakteur</persName> der <name type="per" key="4688">Revue hebdomadaire</name> nennt <persName key="16">Klaus Mann</persName> die wesentlichen Kritikpunkte.</note> sowieso sehr gekürzt – und übrigens überhaupt nicht in der Version, die du kennst –; in dieser französischen <name type="wrk" key="5229">Fassung</name> fällt also <hi rend="underline"><hi rend="spaced">alles</hi></hi> Persönliche über dich weg. (Ich lasse dir die Uebersetzung zugehen, die gerade angefertigt wird.) – Den deutschen <name type="wrk" key="5243">Text</name> will ich im <name type="per" key="717">"Neuen Tage-Buch"</name> erscheinen lassen. Auch hier habe ich die Stellen, an denen du besonders Anstoss nimmst – die also, die deine "Wandlung" betreffen – gekürzt. – Im Übrigen bleibe ich, persönlich, davon überzeugt, dass du eine Art von Wandlung durchgemacht hast. Du warst zwar, in den letzten Jahren, antikommunistisch; aber du warst nicht begeistert für die nationalstische Literatur, und für die nationalsozialistische schon gar nicht.</p>
+        <lb/>
+        <p>Den Vowurf der "Unsachlichkeit" muss ich dir leider zurück <pb/>geben. Dein etwas konfuser <ref target="fud://915">Brief</ref> strotzt von Unsachlichkeiten. Du bringst das Problem des Kommunismus herein und der Freiheitsbeschränkungen, die er bringen würde; das stand jedoch überhaupt nicht zur Debatte. Es war nicht von einer kommunistischen oder nicht-kommunistischen deutschen Literatur die Rede, sondern von einer nationalistischen oder nicht-nationalistischen. Ich hatte mich auch nicht auf <persName key="2106">Münzenberg</persName> berufen, sondern auf <persName key="1928">Goethe</persName> und <persName key="2116">Nietzsche</persName>. Du bringst alles Mögliche durcheinander. Du nimmst an, ich sei Parteimitglied – was ich nicht bin – und meinst, ich habe also kein Recht, über die "Freiheit" zu zetern. Ich habe jedoch, in diesem Zusammenhang, gar nicht über die Freiheit gezetert – wozu ich mir übrigens jederzeit das Recht nehmen würde –, sondern nur festgestellt, dass es ein demagogischer Schwindel sei, so zu tun, als sei nur das Nicht-Europäische deutsch. Das Urteil darüber, wer <placeName key="1704">Deutschlands</placeName> Namen mehr Ehre gemacht hat, <persName key="1971">Adolf Hitler</persName> oder <persName key="1709">Heinrich Mann</persName>, überlasse <hi rend="underline"><hi rend="spaced">ich</hi></hi> getrost der Geschichte.</p>
+        <lb/>
+        <p>Du fühlst dich unsicher und bist deshalb ungerecht; zum Beispiel gegen <persName key="17">Kesten</persName>, der dich aufs rührendste so lang verteidigt hat wie es nur irgend ging – und sogar etwas länger; so gern hatte er dich. Du wirst auch unfair aus lauter Unsicherheit – sonst könntest du mir nicht allen Ernstes schreiben, du wolltest private Briefstellen von mir publizieren. Was für eine unfeine und dumme Drohung!</p>
+        <lb/>
+        <p>Wie schade das alles ist und wie sehr von Herzen ich es bedaure! Du hattest so viel Reizendes an dir. Aber wenn man diesen Nazis den kleinen Finger reicht – und du hast ihnen schon ein paar Finger mehr zugestreckt –, kommt man herunter eh mans gedacht – hättest du das denn nötig gehabt? Vielleicht kannst du – und gerade in deiner Antwort an mich – noch manches zurücknehmen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

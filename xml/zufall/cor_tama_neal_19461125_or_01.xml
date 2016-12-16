@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>Tau, Max A III/4-6</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="5973">Gjerdrum, Tove</persName>
+          <persName key="5974">Gjerdrum, Aase</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="3663" type="write" cert="medium">Oslo</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1946-11-25"><note>Brief</note>
+1946-11-25          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="2227">Tau, Max</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="2113">Neumann, Alfred</persName>
+        </ab>
+        <ab type="no">fud-1034</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original auf einem Briefbogen mit dem dunkelblauen Vordruck "Dr. Max Tau" und der Ortsangabe "Oslo, Bygdø Allé 20".&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2014-11-28">2014-11-28</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-12-08">2014-12-08</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-12-15">2014-12-15</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_tama_neal_19461125_or_01.tif"/>
+        </figure>
+        <p>MT/O</p>
+        <lb/>
+        <p rend="text-align:right">
+          <date type="write">25. November 1946.</date>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>Herrn <persName key="2113">Alfred Neumann</persName>,<lb/><placeName key="5098">1517 North Genesee Ave.</placeName>,<lb/><placeName key="3678">Los Angeles 46</placeName>,<lb/><hi rend="underline"><placeName key="3675">California</placeName>.</hi></p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Mein verehrter, lieber <name role="rec"><persName key="2113">Alfred Neumann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>Heute feiere ich einen grossen Tag. Ihr Buch <name type="wrk" key="5102">"Es waren ihrer Sechs"</name>, auf Norwegisch "De var seks"<note type="com">Die norwegische Ausgabe von <persName key="2113">Alfred Neumanns</persName> Roman <name type="wrk" key="5102">Es waren ihrer sechs</name> erscheint im <orgName key="5116">Tanum</orgName> Verlag. </note> ist erschienen. Die ersten Exemplare sind heute an Sie abgegangen. Sie einleiten die Herausgabe Ihrer gesammelten Werke<note type="com">Von <persName key="2113">Alfred Neumann</persName> erscheinen auf Norwegisch beim <orgName key="5116">Tanum Verlag</orgName> die Romane <name type="wrk" key="5102">Es waren ihrer sechs</name> und <name type="wrk" key="3053">Desperados: William Walkers eventyrlige liv</name>.</note>, und ist es uns gelungen, Sie richtig einzuführen, so werde ich zum <name type="wrk" key="4730">"Teufel"</name>, der nächstes Jahr erscheinen soll, sicher eine kleine Studie als Nachwort<note type="com">Eine norwegische Ausgabe von <persName key="2113">Alfred Neumanns</persName> <name type="wrk" key="4730">Der Teufel</name> sowie das erläuternde Nachwort von <persName key="2227">Max Tau</persName> waren nicht zu ermitteln.</note> schreiben. Dies ist eine grosse Freude für mich. Wir haben eigentlich gedacht, Ihnen Ihr herrliches <name type="wrk" key="5102">Buch</name> in einer besonderen Ausgabe in Leder zu Weihnachten zu übersenden, aber ich fürchte, dass das Exemplar nicht mehr rechtzeitig fertig wird, was wir alle bedauern. Wir hoffen, dass es nächste Woche fertig ist und werden es Ihnen dann sofort übersenden.</p>
+        <lb/>
+        <p><persName key="5113">Tove</persName> und ich, wir sind glücklich, dass Ihr <name type="wrk" key="5102">Werk</name> jetzt erschienen ist, und wir freuen uns, Sie recht bald bei uns in <placeName key="3252">Norwegen</placeName> zu sehen. In der Zwischenzeit habe ich durch meinen guten, alten Freund <persName key="5114">Klaus Pinkus</persName>, <placeName key="5115">29 Rue des Favorites</placeName>, <placeName key="18">Paris 15</placeName>, verschiedene Verbindungen in <placeName key="47">Frankreich</placeName> angeknüpft, aber am Besten wäre es doch, wenn Sie die englische Ausgabe<note type="com">Die englische Ausgabe erscheint bereits 1944 unter dem Titel <name type="wrk" key="5102">Six of them</name> bei <orgName key="2763">Hutchinson</orgName> in <placeName key="2951">London</placeName>.</note> Ihres <name type="wrk" key="5102">Werkes</name> auf meine Veranlassung an <orgName key="790">Albin Michel</orgName> schicken würden. Ich glaube er ist der einzige Verleger, der Emmigrantenverfasser druckt. Sonst sieht es noch sehr dunkel aus. Aber Ihr <name type="wrk" key="5102">Werk</name> hat eine grosse Mission auch bei uns, und ich hoffe, dass alles was wir mit dem Herzen tun auch gelingen muss.</p>
+        <lb/>
+        <p>Viele Grüsse von</p>
+        <lb/>
+        <p rend="text-align:right">Ihrem Ihnen sehr verbundenen<lb/>und getreuen<lb/><name role="aut"><span type="Signatur"><persName key="2227">Max Tau</persName></span></name></p>
+      </div>
+    </body>
+  </text>
+</TEI>

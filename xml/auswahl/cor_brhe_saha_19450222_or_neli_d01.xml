@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hermann Broch an Hans Sahl</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Sahl</bibl></p>
+
+                <ab type="copyright"><persName key="78762">Sachiko Broch de
+                    Rothermann</persName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">2</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">or</ab>
+                <ab type="script">ts-h</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">F1</ab>
+                <ab type="location"><placeName key="51684" type="write" cert="high"
+                        evidence="Brieftext">Princeton</placeName></ab>
+                <ab type="date"><date when="1945-02-22" type="write" cert="high"
+                        evidence="Brieftext">22.2.1945</date></ab>
+                <ab type="role"><persName key="75307" role="aut">Hermann Broch</persName></ab>
+                <ab type="role"><persName key="9687" role="rec">Hans Sahl</persName></ab>
+                <ab type="no">323539</ab>
+                <ab type="reg"/>
+                <ab type="desc">Original mit handschriftlichen Korrekturen und der Unterschrift von
+                    Hermann Broch.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-06-27">27.6.2014</date>, <date when="2014-08-05">5.8.2014</date>,
+                    <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-25"
+                    >25.11.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2015-01-19">19.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-09-02">2.9.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_brhe_saha_19450222_or_01"/>
+                    <graphic n="2" url="cor_brhe_saha_19450222_or_02"/>
+                </figure>
+
+                <p rend="right"><placeName key="51684" type="write">Princeton</placeName>, <date
+                        when="1945-02-22" cert="high">22.2.45</date></p>
+
+                <p><emph n="salutation">Liebster <persName key="9687" role="rec"
+                        >H.S.</persName></emph>,</p>
+
+                <p>ich habe es auf mich nehmen müssen Sie durch Schweigsamkeit zu verärgern, weil es
+                    einfach nicht anders gegangen ist: ich sitze buchstäblich seit dem Sommer
+                    &#x2013; in dem mir dieses Regime<note type="reg"><orgName key="80219"
+                            >Reichsregierung</orgName></note> meinen ersten Zusammenbruch
+                    eingetragen hat &#x2013; tagaus-tagein 17 bis 18 Stunden an der Arbeit, und Sie
+                    können sich vorstellen was die verhältnismässig kleine Zusatzverpflichtung,
+                    welche Weihnachten heisst, da für katastrophale Folgen hatte. Alles ist bereits
+                    der Strohhalm, unter dem das Kamel zusammenbricht. Wie konnten Sie also so naiv
+                    an ruhige Feiertage glauben: aber für Ihre guten Wünsche hiezu lassen Sie sich
+                    jetzt noch danken; dass meine Wünsche bei Ihnen waren und sind, müssten Sie
+                    eigentlich wissen.</p>
+
+                <p>Die Sache war für mich noch verschärft, als mir der Drucker das Vergil-MS<note
+                        type="reg"><name type="wrk" key="80151">Der Tod des Vergil</name></note>
+                    wegen Unleserlichkeiten etc. zurückgab &#x2013;, ich habe innerhalb dieser
+                    letzten zwei Monate fast das halbe <name type="wrk" key="80151">Buch</name>
+                    selber abgeschrieben, weil ich mich auf niemand mehr verlassen wollte, und diese
+                    Abschreiberei hatte ausserdem den Segens-Fluch und Fluch-Segen letzter
+                    Textfehler-Entdeckungen. Da es aber in dem <name type="wrk" key="80151"
+                        >Buch</name> nichts Isoliertes gibt, so zog jede Korrektur
+                    strumpfmaschengleich eine ganze Reihe anderer nach sich. Sie wissen, dass es da
+                    nur ein einziges Gebot gibt, nämlich sich dem Objekt zu beugen, auch wenn man
+                    weiss, dass der Effekt von niemandem bemerkt wird. Für mich war es überdies ein
+                    schwerer gesundheitlicher Schock.</p>
+
+                <p>Und damit sind wir fast auch schon bei unserem Hauptthema, das eben ein ethisches
+                    ist. Denn die "Unterordnung unter das Objekt" gehört ja zu den Grundforderungen,
+                    die der Mensch, will er ethisch handeln, an sich zu stellen: er hat sich und all
+                    seine subjektiven Wünsche, Narzismen etc. vor dem Objekt auszulöschen. Es fragt
+                    sich aber: vor welchem Objekt &#x2013;, denn bekanntlich kann auch der
+                    Verbrecher objektiv-hingegeben sein und erstklassige Arbeit leisten (wie die
+                    Nazi wieder einmal bewiesen haben.) Nun die Antwort lautet: bei aller Demut für
+                    das eigene Ich, unbedingte Hochstellung der menschlichen Seele als solcher. Das
+                    klingt sehr christlich, ist aber sogar alttestamentarisch &#x2013;, und offenbar
+                    können wir darüber nicht hinaus; es gehört zu den Bedingungen aller möglichen,
+                    ethischen Erfahrung. Es gibt keine andere "Gesinnung", es gibt keine andere
+                    ethische "Ueberzeugung". Und alles was wir Freiheit oder Gerechtigkeit nennen,
+                    erprobt sich an dem einen abstrakt-regulativen Grundprinzip.</p>
+
+                <p>Wenn ich von Fortschritt spreche, so meine ich fortschreitende Bewusstwerdung,
+                    u.a. eben dieses regulativen Grundprinzipes. Obwohl mit <persName key="75134"
+                        >Kahler</persName> in allerlei Theoretischem nicht übereinstimmend, in
+                    dieser Heraushebung der "Bewusstwerdung" bin ich mit ihm einig. Die Gefahr für
+                    den Fortschritt ist aber zugleich auch in diesem Bewusstwerdungsprozess
+                    mitgegeben. Denn in der realen Welt geht alles konkret und nichts abstrakt vor
+                    sich, und die Bewusstwerdung vollzieht sich nicht in Göttern (die sie nicht
+                    nötig haben) sondern in Viechern von sehr endlichem Verstand. Reale Ethik ist
+                    Material-Ethik, also "Moral", und sie muss daher von vorneherein realtivistisch
+                    gewertet werden, hat auch nur Relativwert, obschon sie sich stets als "die
+                    Ethik", also absolut gebärdet. Jeder Vorstoss im Sinn des ethischen Fortschritts
+                    verwandelt sich daher unter der Hand sofort ins Dogmatische, wird zur
+                    Konvention, wird zur Phrase, zum blossen Schlagwort. So war es mit dem Chri<pb
+                        n="2"/>stentum, so ist es mit dem Sozialismus.</p>
+
+                <p>Und es kann auch gar nicht anders sein, denn das menschliche Viech ist denkfaul,
+                    will sich an "Ueberzeugungen", an "Gesinnungen" beruhigen, weil ihm "die"
+                    Gesinnung, "die" Ueberzeugung zu viel Kopfzerbrechen macht. Und damit wird er
+                    &#x2013; ohne es zu wissen &#x2013; zum Verbrecher, der andere für seine
+                    Ueberzeugung erschlägt und sich stolz als Märtyrer für sie erschlagen lässt. Die
+                    Sache wird aber noch komplizierter, weil fast jedes dieser Dogmen
+                    notwendigerweise auch ein Stück Wahrheit enthält. Sozialistische Massnahmen
+                    werden in dieser verelendeten Welt allüberall notwendig werden, und wenn dies zu
+                    einem Gesamt- oder zumindest Dreiviertesozialismus führt, so wird man dies zu
+                    akzeptieren haben, kann ihn also keinesfall von vorneherein (wegen der
+                    "Freiheit" oder der "Gerechtigkeit") ablehnen: das sind technische Probleme, die
+                    bloss an Hand von Tatsachen technisch zu lösen sind, sicherlich also nicht mit
+                    einer <persName key="12873">Marx</persName>-Verehrung einerseits, oder einer
+                        <foreign n="engl">free-enterprise</foreign>-Anbetung andererseits. Wenn aber
+                    Sozialisierung zur roten, oder <foreign n="engl">free enterprise</foreign> zur
+                    weissen Versklavung führt, dann ist es unsere Aufgabe dagegen Stellung zu
+                    nehmen, oder aber, wenn wir so weit konstruktiv planen können, <hi rend="ul"
+                        >vorher</hi> schon die Verhütungsmassnahmen anzugeben. In <hi rend="ul"
+                        >dieser</hi> Richtung bin ich mit <name type="wrk" key="80152">meinem
+                        Massenwahn</name> bemüht. Und dass er sich &#x2013; also ganz in Ihrem Sinn
+                    &#x2013; gegen die verschiedenen "Ueberzeugungen" richtet, scheint mir aus dem,
+                    was ich da gesagt habe, klar hervorzugehen.</p>
+
+                <p>Gleich Ihnen werde ich wild, wenn ich auf blinde <placeName key="49341">Russland</placeName>-"Verehrung" stosse, gleich Ihnen ist mir Warschau<note
+                        type="com" cert="high">Gemeint ist die von der <placeName key="75359">Sowjetunion</placeName> gestützte <orgName key="80217">Polnische Provisorische Regierung der nationalen Einheit</orgName> in <placeName
+                            key="49607">Warschau</placeName>.</note> ein Grauen, obgleich es vor den
+                    deutschen Gräueln verschwindet. Aber ich weiss auch, dass die Welt ein Sauhaufen
+                    ist, und dass sie, allen Fortschritt zutrotz, stets einer bleiben wird, so dass
+                    jeder, der in ihr verantwortungs-ethisch handeln muss, der Beteiligung an
+                    solcher Sauerei sich nicht entziehen kann. Dies gilt auch für den jetzt
+                    vielgeschmähten <persName key="7755">Churchill</persName>. Den Luxus der
+                    Gesinnungs-Ethik kann sich bloss der Intellektuelle leisten: doch der muss ihn
+                    sich leisten, denn sonst gehört er sofort vernichtet; er hat keine andere
+                    Existenzberechtigung.</p>
+
+                <p>Ich weiss nicht, ob <name type="wrk" key="80152">mein Massenwahn</name> von einem
+                    sozialistischen Staat akzeptiert werden wird; ich wollte es geschähe, nicht nur
+                    meiner persönlichen Fortexistenz zuliebe, sondern weil ich glaube, dass es zum
+                    Heil des Sozialismus sein könnte. Doch wenn es nicht geschieht und ich darob
+                    "liquidiert" werden sollte, so hätte solches Märtyrertum einen innern Sinn, weil
+                    ich für etwas einzustehen habe. Wenn Sie hingegen sich liquidieren liessen, weil
+                    Sie die Menschheitsrechte vom Sozialismus bedroht sehen, so scheint mir das ein
+                    sinnloses Beginnen zu sein. Es ist nämlich ausserhalb des Konkreten, ist einfach
+                    ein "Anti", das bei all seiner innern Berechtigung &#x2013; s. obige Zustimmung
+                    &#x2013; die Gefahr nicht lohnt. Ich habe mit <persName key="75134"
+                        >Kahler</persName> nicht weiter darüber gesprochen, aber ich meine, dass er
+                    mit dem "Kassandrismus", den Sie ihm so sehr verübeln, zumindest gefühlsmässig
+                    etwas ähnliches gemeint haben dürfte. Und ebendarum sollten Sie es ihm nicht
+                    verübeln; bei all meinen theoretischen Divergenzen mit <persName key="75134"
+                        >Kahler</persName> vergesse ich niemals, dass er einer der "reinsten"
+                    Menschen ist, deren ich je begegnet bin, und dass er eine echte Tiefensicht
+                    besitzt, die oftmals durch keinerlei theoretische Ueberlegung erreicht werden
+                    kann.</p>
+
+                <p>Doch das soll nicht wieder zu einem Disput führen. Wenn wir keine Bücher
+                    schreiben, können wir nichts Konstruktives zustandebringen; sicherlich nicht in
+                    Diskussionen. Ich bin daher froh, dass Sie mit der Uebersetzung fertig sind.
+                    Denn Sie werden jetzt natürlich &#x2013; trotz gegenteiligen Vorsatzes &#x2013;
+                    wieder an die eigene Arbeit gehen. <emph n="salute">Dies mein Wunsch sehr
+                        herzlich immer Ihr</emph>
+                    <persName key="75307" role="signed">HB</persName>.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

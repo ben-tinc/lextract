@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>KM B 140</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="2222">Houston Strauss, Marian</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="18" type="write" cert="medium">Paris</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1937-01-24"><note>Brief</note>
+1937-01-24          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="16">Mann, Klaus</persName>
+        </ab>
+        <ab type="no">fud-943</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit der Signatur Hermann Kestens und wenigen Bleistiftkorrekturen. Am Fuß des Briefes ist ein Halbsatz - wohl von Toni Kesten - nachgetragen. Am linken Rand steht ein Nachtrag von Kesten selbst.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-04-02">2014-04-02</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-06-17">2014-06-17</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-07-12">2014-07-12</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_kehe_makl_19370124_or_01.tif"/>
+          <graphic n="1" url="cor_kehe_makl_19370124_or_u01.tif"/>
+          <graphic n="2" url="cor_kehe_makl_19370124_or_u02.tif"/>
+        </figure>
+        <p><persName key="17">Hermann Kesten</persName>, <orgName key="2958">Le Bon Hôtel</orgName>,<lb/><placeName key="2957">42, rue Vaneau</placeName>, <placeName key="18">Paris VII.</placeName></p>
+        <lb/>
+        <p rend="text-align:right">
+          <date type="write">24.I.37.</date>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="16">Klaus Mann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>wie haben Sie unsere Freunde angetroffen? Ihren Scheck hat meine <persName key="2961">Wirtin</persName> anstandslos genommen. Mehr Mühe hatte ich mit dem <name type="wrk" key="4072">Artikel</name> bei <persName key="53">Schwarzschild</persName>, der das Lob zu reich und den Aufwand zu gross fand. Er wollte, ich solle die <name type="wrk" key="4072">Kritik</name> neu schreiben, doch wurde er von dem Dithyrambus, den ich, wie es Ihnen gebührt, auf Sie dichtete, schliesslich gerührt. Was den braven <persName key="2962">Heilbut</persName> betrifft, den ich bei dieser Gelegenheit auf der Redaktion des <name type="per" key="717">"Tagebuch"</name> fand, mit seiner Sammelkritik bewaffnet, so muss ich Ihnen verraten, dass Sie vor <persName key="2962">Heilbut</persName> wenig Gnade gefunden hatten. Nun, ich freue mich sehr, dass ich nicht zu spät kam.</p>
+        <lb/>
+        <p>Eben lese ich den ganzen Brief<note type="com">Am 19.12.1936 erhält <persName key="2070">Thomas Mann</persName> die Nachricht von der Aberkennung seiner Ehrendoktorwürde durch die <orgName key="2960">Universität Bonn</orgName>. <persName key="2070">Thomas Mann</persName> reagiert mit einem offenen Brief an den <persName key="4180">Dekan</persName> der philosophischen Fakultät und rechnet darin zugleich mit dem nationalsozialistischen Regime ab. Am 15.1.1937 veröffentlicht der <orgName key="1436">Oprecht Verlag</orgName> <persName key="2070">Thomas Manns</persName> Schreiben zusammen mit der Nachricht über die Aberkennung der Ehrenpromotion unter dem Titel <name type="wrk" key="4179">Ein Briefwechsel</name>. Am 24.1.1937 erscheinen die beiden Texte außerdem in der <name type="per" key="719">Neuen Zürcher Zeitung</name>.</note> Ihres <persName key="2070">Vaters</persName> an <placeName key="2959"><orgName key="2960">Bonn</orgName></placeName>. Es ist ein glänzendes Stück politischer Prosa, ich habe mich sehr damit gefreut. Sagen Sie bitte bei Gelegenheit <persName key="2034">Landshoff</persName>, dass ich gerne im <name type="per" key="717">"Tagebuch"</name> das neue Buch<note type="com">Wahrscheinlich <persName key="1709">Heinrich Manns</persName> <name type="wrk" key="2873">Die Vollendung des Königs Henri Quatre</name>. Eine <name type="wrk" key="2871">Rezension</name> zu diesem Werk veröffentlicht <persName key="17">Hermann Kesten</persName> im März 1939 in <name type="per" key="705">Maß und Wert</name>.</note> von <persName key="1709">Heinrich Mann</persName> besprechen würde, falls er oder <persName key="1709">Heinrich Mann</persName> nicht einen besseren oder würdigeren Referenten dafür bereits kennen. (Vorausgesetzt, dass das Buch <hi rend="underline">nicht allzufrüh</hi> erscheint.)</p>
+        <lb/>
+        <p>Lasen Sie, dass <persName key="1889">Feuchtwanger</persName>, "Der antifaschistische Schriftsteller und deutsche Jude", wie der <name type="per" key="4073">'Temps'</name> ihn nennt, vornean im Prozess <persName key="2151">Radek</persName> sitzt und dass "Die Augen des Angeklagten <persName key="2963">Piatakoff</persName>, des Schöpfers des zweiten Vierjahresplanes, voll überlegener Intelligenz und Verachtung von Zeit zu Zeit über ihn und seinesgleichen hinwegblicken", alles zufolge dem <name type="per" key="4073">'Temps'</name>.</p>
+        <lb/>
+        <p>Schönste Grüsse an <persName key="2034">Landshoff</persName>, <persName key="71">Landauer</persName> und an Sie Ihr <name role="aut"><span type="Signatur"><persName key="17">Kesten</persName></span></name>.</p>
+        <lb/>
+        <p>P.S. Die Stelle über <persName key="1793">Vicki Baum</persName> und <persName key="2151">Radek</persName> und <persName key="1826">Bredel</persName> in meinem <name type="wrk" key="4072">Aufsatz</name>, habe ich <add rend="other-hand">gleich gestrichen, noch bevor ich es <persName key="53">Schwarzschild</persName> gab.</add></p>
+        <lb/>
+        <p>Eben erhalte ich Ihren Brief. Den <persName key="1826">Bredel</persName> habe ich gleich, Ihrer leisesten ersten Anregung folgend samt <persName key="1793">Vicky</persName> <persName key="2151">Radek</persName> gestrichen. Freut mich, dass der <name type="wrk" key="4072">Aufsatz</name> Ihnen gefällt. Hoffentlich verkauft <persName key="2034">Landshoff</persName> daraufhin ein Dutzend <name type="wrk" key="2945">Mephistos</name>. Was macht das Zahnweh der Süssen?<note type="com">Nachtrag von <persName key="17">Kestens</persName> Hand am linken Rand.</note></p>
+      </div>
+    </body>
+  </text>
+</TEI>

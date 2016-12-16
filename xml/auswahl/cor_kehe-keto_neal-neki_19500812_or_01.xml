@@ -1,0 +1,116 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek</orgName>
+        </p>
+        <p>
+          <bibl>HK B 2099</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="2222">Houston Strauss, Marian</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="edition">Brief</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="PA"/>
+        <ab type="source">Original</ab>
+        <ab type="location">
+          <placeName cert="high" evidence="Brief" key="5064" type="write">Sils im Engadin/Segl</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1950-08-12"><note>
+Brief            </note>
+1950-08-12          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="17">Kesten, Hermann</persName>
+          <persName role="aut" key="73">Kesten, Toni</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="2113">Neumann, Alfred</persName>
+          <persName role="rec" key="2114">Neumann, Kitty</persName>
+        </ab>
+        <ab type="no">fud-872</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">
+Original mit wenigen handschriftlichen Korrekturen. Der Brief ist – in der Handschrift Hermann Kestens – unterzeichnet mit "Toni und Hermann".        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2015-01-09">2015-01-09</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2015-03-05">2015-03-05</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2015-04-13">2015-04-13</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="1" url="cor_kehe_neal_19500812_or_01.tif"/>
+        </figure>
+        <p><persName key="17">Hermann Kesten</persName><lb/>c/o <orgName key="4018">Querido Verlag</orgName><lb/>Singel 262<lb/><placeName key="2783">Amsterdam-C</placeName>, <placeName key="2782">Holland</placeName></p>
+        <p rend="right">
+          <date type="write">12. August 1950</date>
+          <lb/>
+          <placeName type="write">
+            <placeName key="5064">Sils Maria im Engadin</placeName>
+          </placeName>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <emph n="salutation" rend="Typ F2">Sehr verehrte, liebe Frau <name role="rec"><persName key="2114">Katharina</persName></name>,</emph>
+          <emph n="salutation" rend="Typ P3">lieber (und verehrter) <name role="rec"><persName key="2113">Alfred</persName></name>,</emph>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>wir haben uns sehr mit Ihrem lieben <rs type="fud" n="760">Brief</rs> vom 5. August gefreut, drei Tage zuvor sprachen wir ausführlich von Ihnen beiden<note type="com"><persName key="2113">Alfred Neumann</persName>, <persName key="2114">Kitty Neumann</persName></note> mit Mann's<note type="com"><persName key="2070">Thomas Mann</persName>, <persName key="2661">Katia Mann</persName></note>. Wir standen gerade vor unserer <orgName key="5705">Pension</orgName> in <placeName key="5064">Sils-Baselgia</placeName> (die Pension heisst <orgName key="5705">Chasté</orgName>), da brausten in einem kleinen englischen Wagen <persName key="2070">Thomas Mann</persName> und <persName key="2661">Katia</persName> heran und stiegen direkt vor uns aus, um einen Spaziergang zu beginnen. <persName key="2661">Katia</persName>, die ich begruesste, erkannte mich nicht, und war dann erstaunt. Den andern Tag besuchten wir Manns<note type="com"><persName key="2070">Thomas Mann</persName>, <persName key="2661">Katia Mann</persName></note> in ihrem <orgName key="5889">Hotel</orgName> bei <placeName key="5706">St. Moritz</placeName> zum Tee und trafen auch <persName key="2066">Erika</persName>. <persName key="2661">Katia</persName> ist noch leidend, von der Operation, aber alle sehn gut aus. Manns<note type="com"><persName key="2070">Thomas Mann</persName>, <persName key="2661">Katia Mann</persName></note> wunderten sich, keine Antwort von Ihnen zu haben, sind aber wohl inzwischen schon in <placeName key="3678">Hollywood</placeName>; denn sie wollten diese Woche nach <placeName key="84">New York</placeName> fliegen.</p>
+        <p>Es wimmelt hier in diesem bergstillen Dorf<note type="com"><placeName key="5064">Sils Maria</placeName></note> von Bekannten, gestern waren wir im <orgName key="5707">Waldhaus</orgName> bei <persName key="1708">Hermann Hesse</persName> zum Tee, ich traf ihn zum ersten Mal (wir hatten oefters korrespondiert); er wirkt viel aelter als <persName key="2070">Thomas Mann</persName>, ist aber im Gespraech angenehm, ebenso seine <persName key="5694">Frau</persName>.</p>
+        <p>Ferner gibt es einen oesterreichischen Dramatiker, <persName key="5695">Fritz Hochwaelder</persName> am Ort, die <persName key="5696">Tochter</persName> von <persName key="2179">Felix Salten</persName> mit Dr. <persName key="5697">Wyler</persName>, <persName key="5698">Ilse Heim</persName> von der <name type="per" key="769">Weltwoche</name>, Dr. Vollmer<note type="com">Möglicherweise der Kinderarzt <persName key="5700">Hermann Vollmer</persName>.</note> aus <placeName key="84">New York</placeName>, <persName key="5699">Martha Maria Gehrke</persName>, <persName key="5701">Huelsenbeck-Dada</persName>, Kalser<note type="com">Wohl der Schauspieler und Theaterregisseur <persName key="5702">Erwin Kalser</persName>.</note>, Maria Becker<note type="com">Wohl die Schauspielerin und Regisseurin <persName key="5703">Maria Becker</persName>.</note>, Dr. <persName key="5704">Heinsheimer</persName> vom <orgName key="5708">Schirmer Verlag</orgName>. Um diesem Trubel zu entfliehen – (es ist wunderschoen hier, regnet aber seit zwei Tagen) – fahren wir morgen frueh nach <placeName key="27">Zuerich</placeName>, wo wir <persName key="1866">Kurt Desch</persName> treffen (wir haben ihn schon zwölf Tagen nicht mehr gesehen!), dann fahren wir ueber <placeName key="2951">London</placeName>, um in <placeName key="3599">Edinburgh</placeName><note type="com">In <placeName key="3599">Edinburgh</placeName> findet im August der 22. Internationale PEN-Kongress statt.</note> <persName key="1996">Kästner</persName> wiederzusehn (den wir auch schon zwölf Tage nicht mehr sahn!)</p>
+        <p>Den September verbringen wir in <placeName key="2951">London</placeName>, <placeName key="18">Paris</placeName>, oder <placeName key="2783">Amsterdam</placeName>, am 10. Oktober wollen wir mit der New Amsterdam heimfahren.</p>
+        <p>Euer <rs type="fud" n="760">Brief</rs> war troestlich, insofern, als sich <placeName key="41">Amerika</placeName> nicht so schrecklich verwandelt hat, als es uns <persName key="2066">Erika</persName> erzaehlen wollte, und wie es auch in den Zeitungen ausschaut.</p>
+        <p>(<persName key="1899">Leonhard Frank</persName>, hoerte ich, habe seine Wohnung weil zu teuer aufgegeben. <persName key="1866">Desch</persName> scheint noch guter Dinge, er baut ein Haus, neben seinem <orgName key="4984">Verlag</orgName> und verspricht sich viel Spass davon. Polgars<note type="com"><persName key="2142">Alfred Polgar</persName>, <persName key="5086">Lisl Polgar</persName></note> sind noch immer in <placeName key="2774">Salzburg-Aigen</placeName>, Doktorschloesselweg 8. Wir sahen sie zweimal oder dreimal in <placeName key="2774">Salzburg</placeName>, sie schienen munter, fuerchteten sich weder vor Koreanern noch Russen und sprachen finster von ihrer Heimkehr in die Heimat<note type="com">Wohl die Rückkehr in die <placeName key="41">USA</placeName>.</note>.</p>
+        <p>In <placeName key="2788">Berlin</placeName> ging es auf dem Kongress<note type="com">Gemeint ist der Kongress für kulturelle Freiheit, der vom 26.6. bis zum 30.6.1950 in <placeName key="2788">Berlin</placeName> stattfindet. Der Kongress steht im Zeichen des Antikommunismus und ist eine direkte Reaktion auf verschiedene kommunistische Intellektuellenkonferenzen in <placeName key="40">Europa</placeName> und den <placeName key="41">USA</placeName>. Konzipiert als "Weltparlament" liberaler Intellektueller stellt der Kongress dem kommunistisch besetzten Begriff des Friedens den Freiheits- und Kulturbegriff westlicher Demokratien entgegen. Organisiert wird der Kongress aus dem Umfeld der Zeitschrift <name type="per" key="4906">Der Monat</name>, im Wesentlichen von deren Herausgeber <persName key="5690">Melvin J. Lasky</persName>. Am Kongress nehmen 118 Vertreter aus 21 Ländern teil; zumeist Persönlichkeiten, die aufgrund ihrer angenommenen Meinungsführerschaft gezielt eingeladen werden. Der Kongress endet mit einem <name type="wrk" key="5931">Manifest</name>, das den Wert kultureller und geistiger Freiheit betont und auch als Gründungsdokument der aus dem Kongress hervorgehenden Organisation <orgName key="5688">Congress for Cultural Freedom</orgName> (CCF) gelten kann. Mitte der 60er Jahre wird öffentlich, dass der Kongress wie auch der <orgName key="5688">CCF</orgName> maßgeblich von der <orgName key="5932">CIA</orgName> finanziert wurden.</note> beiweitem nicht koestlerlich<note type="com">Anspielung auf <persName key="2019">Arthur Koestler</persName> (vgl. den <rs type="fud" n="760">Brief</rs> von <persName key="2113">Alfred Neumann</persName> an <persName key="17">Hermann</persName> und <persName key="73">Toni Kesten</persName> vom 5.8.1950). Beim Aufbau linksintellektueller antikommunistischer Netzwerke nimmt der einstige Kommunist <persName key="2019">Koestler</persName> seit Mitte der 30er Jahre eine zentrale Rolle ein und gilt nach 1945 als populärer Vertreter eines linken Antikommunismus. In diesem Zeichen steht auch der hier erwähnte Kongress und die später daraus hervorgehende gleichnamige Organisation <orgName key="5688">Congress for Cultural Freedom</orgName>, für die <persName key="2019">Koestler</persName> insbesondere in den Anfangsjahren aktiv ist.</note> zu, wie es die Kongressleitung<note type="com">Das Komitee des Kongresses bilden der Berliner Oberbürgermeister <persName key="5874">Ernst Reuter</persName> sowie, als Vertreter der Berliner Hochschulen, <persName key="5875">Edwin Redslob</persName> (<orgName key="5880">Freie Universität</orgName>) und <persName key="5876">Otto Suhr</persName> (<orgName key="5881">Hochschule für Politik</orgName>). Für die Organisation des Kongresses ist außerdem der Generalsekretär <persName key="5690">Melvin J. Lasky</persName>, Herausgeber des <name type="per" key="4906">Monats</name>, verantwortlich. Als Ehrenpräsidenten figurieren <persName key="5877">Benedetto Croce</persName>, <persName key="5878">Karl Jaspers</persName>, <persName key="5879">John Dewey</persName>, <persName key="2499">Jacques Maritain</persName> und <persName key="5718">Bertrand Russell</persName>; sie sind während des Kongresses nicht anwesend.. Jg. 2, Nr. 22/23, S. 477)</note> wahrhaben wollte, und wie es nach der Berichterstattung ausschaut, freilich mag im Resultat der <persName key="2019">Koestler</persName> und die ganze Horde der kommunistischen Antikommunisten, der diktatorischen Antidiktatorianer, der Praetorianergarden Antistalins und <persName key="5711">Petljura</persName>gardisten recht behalten, vor dem Publikum, das stets bestrebt ist, das zu glauben, was man es glauben machen will.</p>
+        <p>Kurz die Majoritaet auf dem Kongress war viel gemaessigter, als man es in <placeName key="2788">Berlin</placeName> und in der Presse wahrhaben wollte. Immerhin war es neben allem Peinlichen und Abstossenden doch sehr lohnend in <placeName key="2788">Berlin</placeName> und sogar auf diesem Kongress gewesen zu sein.</p>
+        <p>Wie schade, dass unsere Heimkehr nach <placeName key="41">Amerika</placeName> noch lange nicht das Wiedersehn mit Ihnen bedeutet, wie mit unsern meisten amerikanischen Freunden. Aber doch werden wir uns dort Ihnen räumlich politisch schicksalsmässig näher fühlen, als hier im leichtfertigen und unglücklichen und bezaubernd schoenen <placeName key="40">Europa</placeName>.</p>
+        <p>(Den Europaeern schwaerme ich natuerlich von <placeName key="5710">Colorado</placeName> und <placeName key="3590">Maine</placeName> und <placeName key="3935">Francisco</placeName> vor, die Fahne hoch!)</p>
+        <p>Denken Sie noch an unsern Schickele Preis<note type="com">Literaturpreis zu Ehren des im Exil verstorbenen Autors <persName key="1707">René Schickele</persName>, dessen Stiftung auf Initiative <persName key="17">Hermann Kestens</persName> und <persName key="2113">Alfred Neumanns</persName> erfolgt. Die Genese des Preises führt <persName key="17">Kesten</persName> in einem – vermutlich nicht abgesandten <rs type="fud" n="849">Brief</rs> – an <persName key="1917">Manfred Georg</persName> vom 30.1.1950 aus: "Was den literarischen Preis betrifft, so haben (auf eine Anregung von <persName key="1866">Kurt Desch</persName>) <persName key="2113">Alfred Neumann</persName> und ich es übernommen, aus eigenen Mitteln und aus Mitteln einiger unserer Freunde im Ausland einen Preis zu finanzieren für das beste Buch oder literarische Werk eines in der deutschen <placeName key="5665">Bundesrepublik</placeName> lebenden jüngern deutschen Autors, der in der Hauptsache erst nach 1945 hervorgetreten ist. Dieser Preis soll dem Andenken der im Exil gestorbenen deutschen Dichter zu Ehren 'Rene Schickele Preis' heissen." Die Preisjury bilden – nach einigen Unstimmigkeiten über die Zusammensetzung – <persName key="17">Kesten</persName>, <persName key="2070">Thomas Mann</persName> und <persName key="2113">Alfred Neumann</persName> sowie zeitweise <persName key="2020">Annette Kolb</persName> und <persName key="5644">Ernst Penzoldt</persName> (vgl. den <rs type="fud" n="755">Brief</rs> von <persName key="2113">Alfred Neumann</persName> an <persName key="17">Hermann</persName> und <persName key="73">Toni Kesten</persName> vom 25.3.1950, den <rs type="fud" n="756">Brief</rs> von <persName key="2113">Alfred Neumann</persName> an <persName key="17">Hermann</persName> und <persName key="73">Toni Kesten</persName> vom 4.4.1950, den <rs type="fud" n="866">Brief</rs> von <persName key="17">Hermann Kesten</persName> an <persName key="2113">Alfred</persName> und <persName key="2114">Kitty Neumann</persName> vom 11.4.1950, den <rs type="fud" n="867">Brief</rs> von <persName key="17">Hermann Kesten</persName> an <persName key="2113">Alfred Neumann</persName> vom 12.4.1950, den <rs type="fud" n="757">Brief</rs> von <persName key="2113">Alfred Neumann</persName> an <persName key="17">Hermann Kesten</persName> vom 14.4.1950 und den <rs type="fud" n="868">Brief</rs> von <persName key="17">Hermann Kesten</persName> an <persName key="2113">Alfred</persName> und <persName key="2114">Kitty Neumann</persName> vom 16.4.1950). Der Preis, dessen Verleihung ursprünglich jährlich erfolgen soll, wird – auch wegen geringer Resonanz der deutschen Nachkriegspresse – am 29.2.1952 einmalig vergeben an <persName key="4979">Hans Werner Richter</persName> für seinen Roman <name type="wrk" key="5650">Sie fielen aus Gottes Hand</name>. Zusätzlich werden sechs Ehrungen ausgesprochen für <persName key="5890">Ilse Aichinger</persName>: <name type="wrk" key="5898">Die größere Hoffnung</name>, <persName key="5891">Franziska Becker</persName>: <name type="wrk" key="5900">Bevor die Nacht kam</name>, <persName key="5892">Heinrich Böll</persName>: <name type="wrk" key="5902">Wo warst Du, Adam?</name>, <persName key="5893">Siegfried Lenz</persName>: <name type="wrk" key="5904">Es waren Habichte in der Luft</name>, <persName key="2565">Luise Rinser</persName>: <name type="wrk" key="5851">Mitte des Lebens</name> und <persName key="5894">Heinz Risse</persName>: <name type="wrk" key="5896">Wenn die Erde bebt</name>.</note>? Und was tun Sie? Was arbeiten Sie?</p>
+        <p><persName key="73">Toni</persName> erzählte mir, dass man jetzt bei <orgName key="5882">Migros</orgName> den <name type="wrk" key="3053">"Pakt"</name> kaufen kann, so kommt man direkt ins Volk. Alles Schoene und Herzliche von</p>
+        <p rend="center"><name role="aut"><persName key="73">Toni</persName></name> und <span type="Signatur"><name role="aut"><persName key="17">Hermann</persName></name></span></p>
+      </div>
+    </body>
+  </text>
+</TEI>

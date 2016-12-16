@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 859</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="5972">Guggenheim, Alfred Kim</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">2</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="3101" type="write" cert="medium">Florenz</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1950-04-20"><note>Brief</note>
+1950-04-20          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="2113">Neumann, Alfred</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="no">fud-758</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit handschriftlichen Ergänzungen und der Signatur Alfred Neumanns. Am Briefkopf links ist der Namenszug "Alfred Neumann" eingedruckt. Auf der Rückseite hat, nach einer 90° Drehung des Blattes, Hermann Kesten Verschiedenes notiert: "Glückliche Menschen, Josef sucht die Freiheit, Stuttgart ab 19&lt;sup&gt;h&lt;/sup&gt;, Inzighofen, eine Station vor Sigmaringen, Vier Jahreszeiten, 20681". Einige weitere Notizen sind durchgestrichen.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2015-01-28">2015-01-28</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2015-03-05">2015-03-05</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2015-04-07">2015-04-07</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_neal_kehe_19500420_or_01.tif"/>
+          <graphic n="1" url="cor_neal_kehe_19500420_or_02.tif"/>
+        </figure>
+        <p rend="text-align:right">
+          <orgName key="5666">Hotel Majestic</orgName>
+          <lb/>
+          <hi rend="spaced">
+            <placeName key="3101">Florenz</placeName>
+          </hi>
+          <lb/>
+          <date type="write">20. April 1950</date>
+        </p>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="17">Hermann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>die Antwort auf Ihren <ref target="fud://868">Brief</ref> vom 16. April kann kurz sein; denn <hi rend="underline">wir sehen uns bald wieder</hi>. Mein Filmmann<note type="com">Nicht ermittelt. Wohl der Produzent des Films <name type="wrk" key="5746">K – Das Haus des Schweigens</name> (vgl. den <ref target="fud://757">Brief</ref> von <persName key="2113">Alfred Neumann</persName> an <persName key="17">Hermann Kesten</persName> vom 14.4.1950). Der <name type="wrk" key="5746">Film</name> wird produziert von der <orgName key="5885">Internationalen Filmkunst GmbH</orgName>, Herstellungsleiter ist <persName key="5884">Werner Drake</persName>.</note> nämlich, den ich hier erwartete, ist nur ein staatenloser lettischer Jude mit 5 Jahren KZ – wie konnte er hoffen, innerhalb der verfügbaren Zeit seine Reisepapiere zu bekommen, wie etwa die lieben alten Nazis, die hier pompös durch das Heilige Jahr autorollen? – Wir müssen also nach <placeName key="3616">München</placeName> fahren und hoffen, innerhalb einer Woche das (ich glaube 5. oder 6.) <foreign xml:lang="en">Permit</foreign> aus <placeName key="3100">Rom</placeName> zu bekommen. Wir werden uns also um den 1. Mai in der Hauptstadt der Bewegung<note type="com"><placeName key="3616">München</placeName></note> wiedersehen <orgName key="5672">VIER JAHRESZEITEN<note type="com">Unten, am linken Seitenrand ergänzt.</note></orgName> – und DARAUF freuen wir uns. Dort auch können wir über alles sprechen, was in Ihrem <ref target="fud://868">Brief</ref> angeschnitten.</p>
+        <lb/>
+        <p>Nur EINE Antwort, weil sie vielleicht für Ihren Amsterdamer Aufenthalt wichtig ist. Hinsichtlich der Filmrechtpreise: 2000 Dollars Auszahlung <placeName key="84">NY</placeName> bedeuten im Ganzen rund DM 20,000.– für die Rechte, da stets nur maximal die Hälfte für US-Autoren transferiert werden kann. (Die DM-Hälfte bleibt – rettungslos, da kontrolliert, – auf Sperrkonto – und innerhalb welcher Zeit der Transfer nach <placeName key="41">USA</placeName> zustande kommt, hat mir noch niemand in <placeName key="1704">Deutschland</placeName> sagen können). Ich selber bekomme in DM umgerechnet rund 10,000 Dollars, ABER ich liefere für diesen Preis auch das <foreign xml:lang="en">screen play<note type="com">Wohl das Drehbuch zum Film <name type="wrk" key="5746">K – Das Haus des Schweigens</name>, der laut eines <name type="wrk" key="5844">Zeitungsberichts</name> im Dezember 1950 in <placeName key="3919">Hamburg</placeName> produziert wird (vgl. auch den <ref target="fud://757">Brief</ref> von <persName key="2113">Alfred Neumann</persName> an <persName key="17">Hermann Kesten</persName> vom 14.4.1950).</note></foreign>. Das bedeutet, dass ich für die Rechte allein auch nicht viel mehr als die Ihnen angebotene Summe erhalte. $ 10,000.– ist als Auszahlung <placeName key="84">NY</placeName> völlig phantastisch, da es eben im ganzen – umgerechnet – $ 20,000. bedeuten würde, eine heutzutage selbst für <placeName key="3678">Hollywood</placeName> grosse Summe, in <placeName key="1704">Deutschland</placeName> undenkbar. Versuchen Sie, für die Rechte DM 25,000.– mit $ 3000.– Auszahlung <placeName key="84">NY</placeName> zu bekommen – einen schönen Preis! Wenn nicht erlangbar, ANGEBOT ANNEHMEN!</p>
+        <lb/>
+        <p><orgName key="4731">Callmann-Lévy</orgName> hat mir den <name type="wrk" key="4730">TEUFEL</name>-Vertrag geschickt – nur 50,000 frs Anzahlung – $ 150.– sehr wenig! Aber da mir an der Verbindung liegt und ich mirs augenblicklich leisten kann, sag ich ja.</p>
+        <lb/>
+        <p>In Eile und von Herzen und Auf Wiedersehen!</p>
+        <lb/>
+        <p rend="text-align:right">
+          <span type="Signatur">
+            <name role="aut">
+              <persName key="2113">Alfred</persName>
+            </name>
+          </span>
+        </p>
+        <lb/>
+        <p rend="text-align:center">und <persName key="2114">Kitty</persName> – und beide<note type="com"><persName key="2113">Alfred Neumann</persName>, <persName key="2114">Kitty Neumann</persName></note><lb/>umarmen die <persName key="73">Toni</persName></p>
+      </div>
+    </body>
+  </text>
+</TEI>

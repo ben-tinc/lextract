@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stefan Zweig an René Schickele</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p>Herausgeberinformation:
+            <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Schickele</bibl></p>
+
+        <ab type="copyright"><orgName key="x">gemeinfrei</orgName></ab>
+        <ab type="leaves">2</ab>
+        <ab type="pages">4</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="edition">Volltext</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>  
+        <ab type="language">deutsch</ab>
+        <ab type="AF">F1</ab>
+        <ab type="location"><placeName key="49050" type="write" cert="high" evidence="Brieftext"
+            >London</placeName></ab>
+        <ab type="date"><date when="1934-09-26" cert="high" evidence="Brieftext"
+          >26.9.1934</date></ab>
+        <ab type="role"><persName key="10182" role="aut">Stefan Zweig</persName></ab>
+        <ab type="role"><persName key="5454" role="rec">René Schickele</persName></ab>
+        <ab type="no">320979</ab>
+        <ab type="reg"/>
+        <ab type="desc">Original mit handschriftlichen Ergänzungen und Korrekturen und Unterschrift
+          in blauer Tinte von Stefan Zweig. Unterstriche sind bis auf einen maschinell erstellt. Das
+          zweite Blatt ist mit "2)" gekennzeichnet.</ab>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName>
+        <date cert="high" when="2013-07-02">2.7.2013</date>
+      </change>
+
+      <change n="collation">
+        <persName key="77556">Roberta Toscano</persName>
+        <date when="2015-01-28">28.1.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-11-03">3.11.2014</date>, <date when="2014-11-11">11.11.2014</date>, <date
+          when="2014-11-25">25.11.2014</date>, <date when="2015-04-20">20.4.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="2013-10-17">17.10.2013</date>, <date when="2014-11-12">12.11.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="2013-11-19">19.11.2013</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+
+    </revisionDesc>
+
+  </teiHeader>
+
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_zwst_scre_19340926_or_01"/>
+          <graphic n="2" url="cor_zwst_scre_19340926_or_02"/>
+          <graphic n="3" url="cor_zwst_scre_19340926_or_03"/>
+          <graphic n="4" url="cor_zwst_scre_19340926_or_04"/>
+        </figure>
+
+        <p>11 Portland Place<space/>
+          <placeName key="49050" type="write">London</placeName>, den <date when="1934-09-26"
+            cert="high">26. September 1934.</date></p>
+
+        <p><emph n="salutation">Lieber <persName key="5454" role="rec">René
+            Schickele</persName></emph>!</p>
+
+        <p>Vielen Dank für Ihren guten <rs n="321011">Brief</rs>. &#x2013; Die grösste Gefahr, in
+          die wir uns begeben können, ist ungerecht zu werden. Ich verstehe vollkommmen die Tragik
+          der Emigration und der darin kombattanten Schriftsteller. Wie ein Rad ständig laufen muss,
+          um nicht umzufallen, so müssen sie ständig opponieren &#x2013; eine furchtbare
+          Verpflichtung, von mir aus gesehen, sein ganzes Leben damit zu verbringen, <hi rend="ul"
+            >gegen</hi> etwas zu sein. Aber unsere Schwierigkeiten sind nicht geringer. Es besteht
+          kein Zweifel, dass <placeName key="49105">Deutschland</placeName> alles tun wird, um an
+          uns vergessen zu lassen, dass unsere Bücher allmählich verschwinden werden &#x2013;
+          wahrscheinlich sogar die Verleger selbst &#x2013; und eine Art Staatsverlag wie in
+            <placeName key="49341">Russland</placeName> sich aus der <orgName key="72887">Firma
+            Eher</orgName> entwickeln wird. Wir haben das gleiche in <placeName key="49341"
+            >Russland</placeName>, das gleiche in <placeName key="48900">Italien</placeName> gesehen
+          und müssen innerlich vorbereitet sein. Wir sollen aber, meine ich, nicht unsere beste
+          Kraft verschwenden, um mit der Stirn gegen die Gefängniszelle zu rennen, sondern lieber
+          diese Stirn uns erhalten und nach dem Vorbild des <persName key="8022"
+            >Cervantes</persName> in diesem unsichtbaren Gefängnis gute Bücher schreiben. Dass es
+          zwischendurch an Gewissensfragen nicht fehlt, wissen Sie und weiss ich. So macht es mir
+          der <orgName key="67555">Inselverlag</orgName> (alles was Sie hörten, ist dummes Gerede)
+          eigentlich nur dadurch schwer, dass er meine Bücher brin<pb n="2"/>gen <hi rend="ul"
+            >will</hi> und es ist schwer, so alte und persönliche Bindungen zu lösen und die
+          Isolierung drüben durch eignes Zutun zu vermehren. Aber ich glaube immer mehr, dass man
+          "Duldung" nicht dulden soll. Wie immer man tut, macht man es schlecht und kommt
+          schliesslich auf die Banalität aus dem Lesebuch zurück, dass es das Beste ist, vor sich
+          selber ein reines Gewissen zu haben.</p>
+
+        <p>Ihren letzten Roman <name type="wrk" key="72180">"Witwe Bosca"</name> habe ich leider
+          nicht bekommen. Vielleicht können Sie mir ihn noch herschicken lassen. Ich will alles
+          Denkbare versuchen, obwohl hier eigentlich das Interesse für Sachliches, Historisches,
+          Dokumentarisches stärker ist als für europäische Epik (gerade da liegt noch der Kanal quer
+          zwischen hüben und drüben) Nun erinnere ich mich immer und noch immer nach Jahren einer
+          grossartigen kleinen Darstellung<note type="reg"><name type="wrk" key="72368">Meine
+              Freundin Lo</name></note> von Ihnen, die Sie von <persName key="7898"
+            >Jaurès</persName> gegeben haben. Es war nur ein Bild, aber könnten Sie es nicht
+          erweitern, die Zeit um die Gestalt stellen, unsere Jugend, unseren Glauben von damals?
+          Fast könnte ich Ihnen versprechen, dass für eine Biographie <persName key="7898"
+            >Jaurès'</persName>, die gleichzeitig gewissermassen das Abendrot des idealistischen
+          Sozialismus bedeutete, hier und wohl auch in <placeName key="48914">Frankreich</placeName>
+          grosses Interesse wäre.<note type="com" cert="high">Nach dem ersten Halbsatz ist mit einem
+            Kreuz markiert am unteren Rand der Seite handschriftlich eingefügt: der Revolverschuss
+              <hi rend="ul">erschoss</hi> die ganze Bewegung zugleich</note> Ich mag sonst die
+          Biographienfabrikation nicht und lasse selbst von allem Biographischen, weil es so sehr
+          Mode und Erfolg wird. Aber in diesem Falle wäre es doch <hi rend="ul">Ihre</hi> Zeit, <hi
+            rend="ul">unsere</hi> Jugend, die Sie gleichzeitig mit in Erscheinung brächten und wenn
+          Sie eben auch an das Materielle denken<pb n="3"/> müssen, dies nach meinem Empfinden die
+          gewisseste Aussicht. Hier fehlt an einer Gestalt noch mit all den Neben- und
+          Gegengestalten, <persName key="7897">Clemenceau</persName>, <persName key="5421"
+            >Rochefort</persName>, und gerade weil es nicht aus dem Geiste der Partei, sondern eine
+          Darstellung aus dem Geiste wäre, würde ich darin eine notwendige Aufgabe sehen. &#x2013;
+          Und noch eines. Haben Sie einmal ein kleines Buch, bei dem Sie an eine bibliophile Ausgabe
+          denken, irgend etwas, was Ihnen dichterisch besonders lieb ist, so glaube ich, dass Sie
+          bei diesem <orgName key="72183">Verlage Reichner</orgName>, der <name type="wrk"
+            key="71582">meinen Erasmus</name> gemacht hat und der jetzt kultivierteste deutsche
+          Literatur jenseits aller Politik in bibliophilen vollendeten Ausgaben bringen will. sehr
+          zufrieden wären. Vielleicht haben Sie da etwas in der Lade oder im Herzen.</p>
+
+        <p>Was Sie von <persName key="7838">Rolland</persName> sagen, ist nur zu wahr. Wir stehen
+          eigentlich mehr zu ihm als er zu sich selbst, seit er (unter persönlichen privaten
+          Einflüssen) alles in <placeName key="49341">Russland</placeName> bejaht und alles
+          entschuldigt, auch die Unterdrückung. Dagegen hat <persName key="5772">Wells</persName>
+          jetzt offene Stellung genommen. Er war eben in <placeName key="49957">Moskau</placeName>,
+          um noch einmal zu versuchen, für die Literatur dort eine gewisse Freiheit durchzusetzen,
+          ohne den geringsten Erfolg zu erzielen. Er ist in diesem Sinne vollkommen entschlossen,
+          den Kampf gegen jede Unterdrückung im Namen welcher Ideologie immer durchzuführen. Man hat
+          manchmal hier das Gefühl, auf dem letzten Bollwerk der Freiheit zu stehen &#x2013; eine
+          Freiheit, die unserem Ideal im<pb n="4"/> Sittlichen und vielen Anderm gar nicht ähnlich
+          sieht. Sie riecht manchmal etwas säuerlich und abgestanden. Aber immerhin ist es Luft, in
+          der man atmen kann.</p>
+
+        <p>Seien Sie gewiss, lieber Schickele, dass ich keine Gelegenheit versäume und verfügen Sie
+          über mich, wie immer ich Ihnen meine alte herzliche Gesinnung erweisen kann.</p>
+
+        <p rend="center"><emph n="salute">Mit vielen Grüssen Ihr</emph></p>
+
+        <p rend="right"><persName key="10182" role="signed">Stefan Zweig</persName></p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

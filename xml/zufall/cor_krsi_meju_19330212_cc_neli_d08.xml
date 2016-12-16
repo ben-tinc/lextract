@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Siegfried Kracauer an Julius Meier-Graefe</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p>Herausgeberinformation:
+          <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+        
+        
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Kracauer</bibl></p>
+
+
+        <ab type="copyright"><orgName key="77582">Suhrkamp Verlag</orgName></ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">cc</ab>
+        <ab type="script">ts</ab>
+        <ab type="edition">Volltext</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="language">deutsch</ab>
+        <ab type="AF">F1</ab>
+        <ab type="location"><placeName key="49025" type="write" cert="medium" evidence="Adresszeile"
+            >Berlin</placeName></ab>
+        <ab type="date"><date when="1933-02-12" cert="high" evidence="Brieftext"
+          >12.2.1933</date></ab>
+        <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
+        <ab type="role"><persName key="434" role="rec">Julius Meier-Graefe</persName></ab>
+        <ab type="no">321323</ab>
+        <ab type="reg"/>
+        <ab type="desc">Ein unsignierter Durchschlag eines Briefes von Siegfried Kracauer.</ab>
+
+
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2013-09-06">6.9.2013</date>, <date when="2014-08-12">12.8.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="77556">Roberta Toscano</persName>
+        <date when="2014-07-29">29.7.2014</date>, <date when="2015-01-26">26.1.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="2013-11-19">19.11.2013</date>, <date when="2014-05-21">21.5.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-05-19">19.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date
+          when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_krsi_meju_19330212_cc_01"/>
+        </figure>
+
+        <p rend="right"><date when="1933-02-12" cert="high">12. Februar 33</date></p>
+
+        <p rend="right"><placeName key="49025" type="write">Berlin</placeName>-Charl.
+          4,<lb/>Sybelstr. 35</p>
+
+        <p><emph n="salutation">Sehr geehrter, lieber Herr <persName key="434" role="rec"
+              >Meier-Graefe</persName></emph>,</p>
+
+        <p>ich möchte Ihnen doch in einer Zeile sagen, wie sehr mich Ihre Geschichte: <name
+            type="wrk" key="74020">"Der Gauguin mit dem Baum"</name> entzückt hat. Wirklich, diese
+            <name type="wrk" key="74020">Geschichte</name> ist ganz grossartig erzählt und hat mich
+          geradezu beglückt. An vielen Stellen musste ich laut lachen, und auch der artistische
+          Genuss, den ich bei der Lektüre hatte, war sehr beträchtlich. Hoffentlich bringen Sie
+          diese <name type="wrk" key="73220">"Geschichten neben der Kunst"</name> einmal gesammelt
+          heraus. An dem Publikum hierfür wird es nicht fehlen, und ich selber werde jedenfalls ein
+          verständnisvoller Leser sein.</p>
+
+        <p>Es tat mir sehr leid, dass ich Sie in <placeName key="49025">Berlin</placeName> nicht
+          sah. Unser Zusammensein beim ersten Wackerprozess<note type="com" cert="high">In der
+            Gerichtsverhandlung, die am 6. April 1932 gegen den Kunsthändler <persName key="17585"
+              >Otto Wacker</persName> wegen Fälschung mehrerer Werke <persName key="4052">Van
+              Goghs</persName> eröffnet wird, räumt Meier-Graefe ein, sich bei seiner Expertise geirrt zu haben.</note> steht
+          mir noch in schöner Erinnerung.</p>
+
+        <p>Die Zeiten hier sind jetzt furchtbar. Wie lange sich noch die Existenz aufrecht erhalten
+          lässt, wird immer ungewisser.</p>
+
+
+        <p><emph n="salute">Mit herzlichen Grüssen</emph></p>
+
+        <p><emph n="salute">Ihr sehr ergebener</emph></p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

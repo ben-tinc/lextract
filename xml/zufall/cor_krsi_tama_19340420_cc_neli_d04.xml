@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Siegfried Kracauer an Max Tau</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Kracauer</bibl></p>
+
+                <ab type="copyright"><orgName key="77582">Suhrkamp Verlag</orgName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">1</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">cc</ab>
+                <ab type="script">ts</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="49096" type="write" cert="high"
+                        evidence="Brieftext">Paris</placeName></ab>
+                <ab type="date"><date when="1934-04-20" cert="high" evidence="Brieftext"
+                        >20.4.1934</date></ab>
+                <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
+                <ab type="role"><persName key="74658" role="rec">Max Tau</persName></ab>
+                <ab type="no">322369</ab>
+                <ab type="reg"/>
+                <ab type="desc">Ein Durchschlag, unsigniert.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2013-11-26">26.11.2013</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>,
+                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-01-19"
+                    >19.1.2015</date>
+            </change>
+
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-02-10">10.2.2015</date>, <date when="2015-02-13">13.2.2015</date>,
+                <date when="2015-03-19">19.3.2015</date>, <date when="2015-04-07">7.4.2015</date>
+            </change>
+
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2015-02-12">12.2.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="2015-04-07">7.4.2015</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_krsi_tama_19340420_cc_01"/>
+                </figure>
+
+                <p><placeName key="49096" type="write">Paris</placeName> (6<hi rend="sup"
+                        >e</hi>),<lb/><orgName key="69059">Madison-Hotel</orgName>,<lb/>143,
+                    Boulevard Saint-Germain.<space/>
+                    <date when="1934-04-20" cert="high">20. April 1934.</date></p>
+
+                <p><emph n="salutation">Lieber <persName key="74658" role="rec"
+                        >Max</persName></emph>,</p>
+
+                <p>wir haben uns sehr mit Ihren lieben Nachrichten gefreut: dem <rs n="322403"
+                        >Brief</rs> aus <placeName key="49025">Berlin</placeName> und dem aus
+                        <placeName key="49284">Basel</placeName>, welch letzteren wir eine Post
+                    später erhielten.<note type="com" cert="high">Letzterer ist ein undatierter <rs
+                            n="322411">Brief</rs>.</note> Sie machen uns Kummer, mein Freund! Warum
+                    haben Sie uns nicht geschrieben, dass Sie so krank waren, und wollen Sie uns
+                    nicht noch ein paar Worte darüber schreiben? Schliesslich muss man das
+                    Wesentlichste von einander wissen. Jetzt hoffen wir von ganzem Herzen, dass
+                    Ihnen die Mittelmeerreise die volle Gesundheit wiederschenkt. Wie wir aus Ihrer
+                    Reiseroute ersehen, besuchen Sie ja die schönsten Orte<note type="com"
+                        cert="high">Als Stationen seiner Reise gibt Tau in seinem aus <placeName
+                            key="49284">Basel</placeName> gesandten <rs n="322411">Brief</rs> die
+                        Orte <placeName key="77597">Port Said</placeName>, <placeName key="77599"
+                            >Haifa</placeName>, <placeName key="77600">Beirut</placeName>,
+                            <placeName key="49458">Korfu</placeName> und <placeName key="48897"
+                            >Venedig</placeName> an.</note>, und wenn Sie nur das entsprechende
+                    Wetter haben, wird die Seereise selber sicher Wunder bewirken. Vorausgesetzt,
+                    dass Sie sich ruhig verhalten und sich nicht zu sehr mit Sehenswürdigkeiten
+                    belasten. Aber so klug werden Sie schon selber gewesen sein. Es ist wirklich
+                    rührend von Ihnen, dass Sie extra meinetwegen in <placeName key="49284"
+                        >Basel</placeName> ausgestiegen sind. Natürlich ist es in der <placeName
+                        key="49625">Schweiz</placeName> jetzt auch sehr schwer, vor allem mit
+                    Büchern, von denen man nicht weiss, ob sie auf dem deutschen Markt
+                    unterzubringen sein werden. Immerhin könnte es mit mir, wenn man es geschickt
+                    anfängt, in <placeName key="49153">Zürich</placeName> glücken. Ich habe die
+                    schwache Chance, dass literarische Freunde hier einen sehr berühmten,
+                    international gefeierten französischen Autor dazu bewegen, ein <hi rend="ul"
+                        >Préface</hi> zu meinem Buch <name type="wrk" key="74424">Georg</name> zu
+                    schreiben. Das kann sich allerdings bis tief in den Monat Juni hineinziehen, da
+                    zu diesem Zweck erst ein französischer Extrakt aus dem <name type="wrk"
+                        key="74424">Roman</name> hergestellt sein muss, der noch nicht beendet ist.
+                    (Ich arbeite jede Woche mit meiner Uebersetzerin<note type="com" cert="high"
+                        >Wahrscheinlich handelt es sich um <persName key="76051">Clara
+                            Malraux</persName></note>, einer sehr klugen Franösin<note type="intern"
+                        >sic</note>, zusammen und hoffe auf eine mustergültige Uebertragung.)
+                    Immerhin dürfte durch die Aussicht auf ein solches Préface auch das Interesse
+                    der Züricher Verleger geweckt werden. (Ausserdem habe ich Briefe von <persName
+                        key="77139">André Malraux</persName> und <persName key="522">Gabriel
+                        Marcel</persName>, dem Lektor von <orgName key="69823">Plon</orgName>, die
+                    sich beide sehr entzückt über meine Arbeit äussern. Lieber Max, ich wäre Ihnen
+                    unendlich dankbar dafür, wenn Sie täten, was irgend in Ihrer Macht steht, um dem
+                        <name type="wrk" key="74424">Buch</name> zu helfen. Aber erst müssen Sie
+                    völlig gesund sein! Die Aussicht Sie einmal hier zu sehen, freut uns innig.
+                    Neulich traf der junge <persName key="77800">Bernstein</persName> hier wieder
+                    ein, der uns Grüsse von Ihnen brachte. Wir wünschen sehr, dass Sie Ihre Reise zu
+                    einem schönen Ende führen, und warten begierig auf Nachricht von Ihnen.</p>
+
+
+                <p rend="center"><emph n="salute">Viele guten Wünsche und alles Liebe von Lili<note
+                            type="reg"><persName key="74110">Kracauer, Elisabeth</persName></note>
+                        und mir.<lb/>Ihr</emph></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

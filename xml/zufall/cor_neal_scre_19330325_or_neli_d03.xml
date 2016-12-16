@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alfred Neumann an René Schickele</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Schickele</bibl></p>
+
+                <ab type="copyright"><persName key="77920">Alfred Guggenheim</persName></ab>
+                <ab type="leaves">2</ab>
+                <ab type="pages">2</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">or</ab>
+                <ab type="script">ms</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="77924" type="write" cert="high"
+                        evidence="Brieftext">Brannenburg</placeName></ab>
+                <ab type="date"><date when="1933-03-25" cert="high" evidence="Brieftext"
+                        >25.3.1933</date></ab>
+                <ab type="role"><persName key="5592" role="aut">Alfred Neumann</persName></ab>
+                <ab type="role"><persName key="5454" role="rec">René Schickele</persName></ab>
+                <ab type="no">323489</ab>
+                <ab type="reg"/>
+                <ab type="desc">Original mit der Unterschrift von Alfred Neumann. Der Schreibort ist
+                    mit der Abkürzung "B'g." für Brannenburg angegeben, vgl. z.B. Neumanns Brief vom
+                    10.3.1933.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="77656">Anne Bendel</persName>
+                <date when="2014-05-19">19.5.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>,
+                    <date when="2014-12-03">3.12.2014</date>, <date when="2015-01-19"
+                    >19.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2015-05-15">15.5.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2015-05-21">21.5.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_neal_scre_19330325_or_01"/>
+                    <graphic n="2" url="cor_neal_scre_19330325_or_02"/>
+                </figure>
+
+                <p rend="right">B'g.<note type="reg"><placeName key="77924" type="write"
+                            >Brannenburg</placeName></note>, <date when="1933-03-25" cert="high">25.
+                        III. 33</date></p>
+
+                <p><emph n="salutation"><persName key="5454" role="rec">Mein
+                        Lieber</persName></emph>,</p>
+
+                <p>wenn ich wieder einmal eine tirolischer Jausenfahrt mache, schreibe ich Ihnen
+                    unbekümmerter von den Kümmernissen; (die mir übrigens bisher nicht auf den
+                    persönlichen Leib rückten &#x2013; Lob des Landes!) Heute will ich Ihnen nur für
+                    die Freundschaft Ihres <rs n="b3-b3-00jk">Briefes</rs> danken. Daß Sie bei alledem
+                    noch an die Übersetzung meines neuen Romans<note type="reg"><name type="wrk"
+                            key="77926">Neuer Cäsar</name></note> denken, ist aber rührend. Es ist
+                    ja so merkwürdig: meine Bücher und der <name type="wrk" key="77935"
+                        >"Teufel"</name> vor allem sind bis in die balkanischsten Sprachen übersetzt
+                    &#x2013; aber nicht ins Französische. Es haben sich viele Leute dafür
+                    interessiert und M. <persName key="77933">Boucher</persName> hat schon in eines
+                    der ersten Hefte seiner <name type="per" key="77936">Revue d'Allemagne</name>
+                    für mich geworben und Buchteile übertragen: aber es gelang nicht. Es scheint,
+                    daß meine Art der geschichtlichen Dichtung den Franzosen nicht liegt oder daß
+                    sie meine eigenwillige Beschäftigung mit ihrem <persName key="5407">Louis
+                        XI</persName> als Anmaßung emfinden.<note type="com" cert="high">Neumann
+                        bezieht sich auf seinen historischen Roman <name type="wrk" key="77935">Der
+                            Teufel</name>.</note> Es ist nur erstaunlich, daß viele auch andere von
+                    meinen Büchern wie der <name type="wrk" key="77937">"Held"</name> aber vor allem
+                        <name type="wrk" key="77938">"König Haber"</name> trotz vorzüglicher
+                    französischer Presse ebenfalls noch nicht übersetzt sind. Vielleicht aber werden
+                    sie an <name type="wrk.p" key="77927">meinem Nap. III</name><note type="com"
+                        cert="high">Gemeint ist seine Romantrilogie um <persName key="8086">Napoleon
+                            III.</persName></note> und der Art, wie ich ihn gestalte und durch ihn
+                    die bürgerliche Tragödie des 19. Jh., nicht vorbei gehen können. Wenn Sie etwas
+                    dafür tun könnten, wäre ich froh und dankbar. Ich stehe mit der Arbeit im
+                    vorletzten Kapitel und werde wohl im Juni mit dem ersten Roman: <name type="wrk"
+                        key="77926">"Neuer Cäsar"</name> fertig, der bis zum Staatsstreich
+                    reicht.</p>
+                <pb n="2"/>
+
+                <p>Nach Ostern will ich eine Pause machen und langsam nach <placeName key="48893"
+                        >Florenz</placeName> rutschen. Wenn ich ein bisschen mehr Geld haben sollte
+                    als mir im Augenblick zur Verfügung steht, fahre ich über Südfrankreich &#x2013;
+                        <placeName key="50450">Genf</placeName> zurück und komme zu Ihnen. Aber ich
+                    weiß eben noch nicht, ob es dazu langen wird.</p>
+
+                <p rend="center"><emph n="salute">Ihnen und Ihrer lieben Frau<note type="reg"
+                                ><persName key="7093">Schickele, Anna</persName></note> alles Gute
+                        von der meinen<note type="reg"><persName key="77922">Neumann,
+                                Kitty</persName></note></emph></p>
+
+                <p rend="center"><emph n="salute">und Ihrem getreuen Freund</emph></p>
+
+                <p rend="right"><persName key="5592" role="signed">A.N.</persName></p>
+
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

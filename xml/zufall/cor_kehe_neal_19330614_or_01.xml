@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 2099</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="2222">Houston Strauss, Marian</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">2</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">cc</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="18" type="write" cert="medium">Paris</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1933-06-14"><note>Brief</note>
+1933-06-14          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="2113">Neumann, Alfred</persName>
+        </ab>
+        <ab type="no">fud-854</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Durchschlag mit der handschriftlichen Signatur Hermann Kestens sowie einigen Korrekturen. Die Signatur sowie eine anschließende handschriftliche Ergänzung sind durchgestrichen und wurden bei der Transkription nicht berücksichtigt.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2014-12-16">2014-12-16</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2015-03-02">2015-03-02</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2015-03-19">2015-03-19</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_kehe_neal_19330614_or_01.tif"/>
+          <graphic n="1" url="cor_kehe_neal_19330614_or_02.tif"/>
+        </figure>
+        <p>
+          <persName key="17">Hermann Kesten</persName>
+          <lb/>
+          <placeName key="18">Paris (1.)</placeName>
+          <lb/>
+          <placeName key="4268">11 place Dauphine</placeName>
+        </p>
+        <lb/>
+        <p rend="text-align:right">
+          <date type="write">14.6.1933.</date>
+        </p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ F3">Sehr verehrter Herr <name role="rec"><persName key="2113">Alfred Neumann</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>ich wende micht heute mit folgender Bitte an Sie.</p>
+        <lb/>
+        <p>Ich mache für den <orgName key="4244">Allert de Lange Verlag</orgName>, <placeName key="2783">Amsterdam (C.)</placeName> <placeName key="4269">Damrak 62</placeName>.– eine <name type="wrk" key="102">Anthologie</name> von Novellen berühmter gegenwärtiger deutscher Autoren, die <hi rend="spaced">Juden</hi> sind.</p>
+        <lb/>
+        <p>Der holländische Verlag <orgName key="4244">Allert de Lange</orgName> hat in <placeName key="2783">Amsterdam</placeName> einen deutschen Verlag gegründet, der unter der Leitung von Frau <persName key="2144">van Praag-Sanders</persName> steht und bereits eine Reihe von deutschen Autoren erworben hat, und für den ich das Lektorat übernommen habe.</p>
+        <lb/>
+        <p>Ich wende mich u. a. an folgende Autoren:<lb/><persName key="3179">Beer-Hofmann</persName>. <persName key="1831">Max Brod</persName>. <persName key="109">Alfred Döblin</persName>, <persName key="1889">Lion Feuchtwanger</persName>. <persName key="4267">Georg Hermann</persName>, <persName key="1986">H. E. Jacob</persName>. <persName key="2113">Alfred Neumann</persName>. <persName key="75">Robert Neumann</persName>. <persName key="26">Joseph Roth</persName>. <persName key="2179">Felix Salten</persName>. <persName key="51">Ernst Toller</persName>. <persName key="2259">Jakob Wassermann</persName>. <persName key="2264">Ernst Weiss</persName>. <persName key="2267">Franz Werfel</persName>. <persName key="2290">Arnold Zweig</persName>. <persName key="72">Stefan Zweig</persName>.</p>
+        <lb/>
+        <p>Ich bitte um unveröffentlichte Novellen, bin aber bereit auch eine schon veröffentlichte Novelle aufzunehmen. Der <orgName key="4244">Verlag</orgName> will generell 60 holländische Gulden (das sind circa 105 Reichsmark) per Druckbogen zahlen. Der <orgName key="4244">Verlag</orgName> plant eine Erstauflage von 5000 Exemplaren, einen Gesamtumfang von etwa 20 Bogen. Ich denke also an Erzählungen zwischen 15–4o Seiten etwa. Das <name type="wrk" key="102">Buch</name> soll noch diesen Herbst erscheinen. Der Schlusstermin für die Einsendungen wäre der 15. August.</p>
+        <lb/>
+        <p>Doch bitte ich Sie sehr nir recht bald schreiben zu wollen, ob Sie geneigt wären für diese <name type="wrk" key="102">Anthologie</name> eine Novelle zu geben, da der <orgName key="4244">Verlag</orgName> und ich sehr bald schon wissen möchten, auf welche Autoren wir fest rechnen dürfen. Der <orgName key="4244">Verlag</orgName> will am Ende des <name type="wrk" key="102">Buches</name> ein bibliographisches <pb/>Verzeichnis des Gesamtwerks der Autoren geben. Ich würde Sie also bitten, im Falle Ihrer Mitarbeit mir ein Verzeichnis aller Ihrer Schriften mitsenden zu wollen.</p>
+        <lb/>
+        <p>Ich bitte Sie, mir mitteilen zu wollen, ob Sie mit den vom <orgName key="4244">Verlag</orgName> vorgeschlagenen Bedingungen einverstanden sind.</p>
+        <lb/>
+        <p>Ich hoffe keine Fehlbitte zu tun. Ich darf Sie versichern, wie ausserordentlich viel dem <orgName key="4244">Verlage</orgName> und mir daranliegt, gerade von Ihnen eine Arbeit<note type="com">Von <persName key="2113">Alfred Neumann</persName> erscheint kein Beitrag in der <name type="wrk" key="102">Anthologie</name>. Zu den Gründen siehe den <ref target="fud://734">Brief</ref> von <persName key="2113">Alfred Neumann</persName> an <persName key="17">Hermann Kesten</persName> vom 30.6.1933.</note> zu erhalten.</p>
+        <lb/>
+        <p>Dieses <name type="wrk" key="102">Buch</name> soll durch nichts anderes wirken als durch die dichterische Qualität seiner Beiträge.</p>
+        <lb/>
+        <p>Wie geht es Ihnen? Ich werde mich sehr freuen, von Ihnen zu hören und ich hoffe eine zustimmende Antwort von Ihnen zu erhalten.</p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p rend="text-align:right">Ich bin mit besten Grüssen<lb/>Ihnen stets ergeben</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 1051</bibl>
+        </p>
+        <ab type="leaves">4</ab>
+        <ab type="pages">7</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="5" type="write" cert="medium">Sanary-sur-Mer </placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1934-01-28"><note>Brief</note>
+1934-01-28          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="1707">Schickele, René</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="26">Roth, Joseph</persName>
+        </ab>
+        <ab type="no">fud-1072</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Siebenseitiges Original mit der Signatur René Schickeles sowie zahlreichen handschriftlichen Verbesserungen und Unterstreichungen, sowohl mit Tinte als auch mit Bleistift. Anders als die Korrekturen mit Tinte stammen die Bleistiftkorrekturen vermutlich nicht von Schickele selbst und wurden daher bei der Transkription nicht berücksichtigt. Am Kopf der Seiten 2-7 ist jeweils die entsprechende Seitenzahl angegeben. Im Text verwendet Schickele für die Majuskel "I" konsequent ein großes "J".  &lt;lb/&gt;Am Briefkopf der ersten Seite hat Hermann Kesten mit Bleistift notiert: "Eigentum von Hermann Kesten". Daneben steht, ebenfalls mit Bleistift und umrahmt, die Zahl "248". Am Ende der zweiten Seite wurde von fremder Hand mit Bleistift notiert: "Nachl. Kesten: Schickele". Auf Seite 5 steht unmittelbar unter der Seitenzahl, ebenfalls verfasst von fremder Hand, mit Bleistift: "René Schickele an Joseph Roth".&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2014-08-06">2014-08-06</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-08-20">2014-08-20</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-09-05">2014-09-05</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_scre_rojo_19340128_or_01.tif"/>
+          <graphic n="1" url="cor_scre_rojo_19340128_or_02.tif"/>
+          <graphic n="2" url="cor_scre_rojo_19340128_or_03.tif"/>
+          <graphic n="3" url="cor_scre_rojo_19340128_or_04.tif"/>
+          <graphic n="4" url="cor_scre_rojo_19340128_or_05.tif"/>
+          <graphic n="5" url="cor_scre_rojo_19340128_or_06.tif"/>
+          <graphic n="6" url="cor_scre_rojo_19340128_or_07.tif"/>
+        </figure>
+        <p rend="text-align:right"><placeName key="5">Sanary-sur-mer</placeName> (<placeName key="2896">Var</placeName>)<lb/><orgName key="4746">"Le Chêne"</orgName><lb/><date type="write">28. I. 34.</date></p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p rend="text-align:center">
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="26">Josef Roth</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>mir scheint, ein grösseres Kompliment können Sie meinem <name type="wrk" key="2849">Buch</name> nicht machen, als dass es Sie Jhren grossen und langen Zorn habe vergessen lassen. Um mir aber Jhre wiedergewonnene Freundschaft zu erhalten, auch wenn die Reize der <name type="wrk" key="2849">Witwe Bosca</name> nicht mehr so frisch sind, benutze ich die Gelegenheit, mich einmal gründlich auszusprechen, und es ist gewiss kein Zufall, dass <hi rend="underline">Sie</hi> der Gegenstand meiner An- und Aussprache sind.</p>
+        <lb/>
+        <p>An das Telegramm<note type="com">Gemeint ist <persName key="1707">René Schickeles</persName> Telegramm an seinen <orgName key="1108">Verlag S. Fischer</orgName>, in dem er sich von der Mitarbeit an der von <persName key="16">Klaus Mann</persName> herausgegebenen Exilzeitschrift <name type="per" key="739">Die Sammlung</name> distanziert. Dieses Telegramm wird schließlich zusammen mit ähnlich lautenden Distanzierungsschreiben der <orgName key="1108">S. Fischer</orgName>-Autoren <persName key="2070">Thomas Mann</persName> und <persName key="109">Alfred Döblin</persName> sowie von <persName key="72">Stefan Zweig</persName>, der beim <orgName key="1234">Insel Verlag</orgName> publiziert, am 14.10.1933 im <name type="per" key="659">Börsenblatt des deutschen Buchhandels</name> veröffentlicht. Vorausgegangen war diesen Absagen eine Warnung der <orgName key="4837">Reichsstelle zur Förderung des deutschen Schrifttums</orgName> (ebenfalls abgedruckt im <name type="per" key="659">Börsenblatt</name>), die mit dem innerdeutschen Boykott von Autoren droht, die für Emigrantenzeitschriften schreiben. Die <orgName key="1108"><orgName key="1234">Verlage</orgName></orgName> geben den Druck an ihre Autoren weiter und fordern – zunächst noch für den internen Gebrauch – von denjenigen, die der <name type="per" key="739">Sammlung</name> prospektiv ihre Mitarbeit zugesagt hatten, entsprechende Dementis. Das Gros der Emigranten hat kein Verständnis für das opportunistische Verhalten der genannten <persName key="2070"><persName key="109"><persName key="1707"><persName key="72">Autoren</persName></persName></persName></persName> und reagiert, wie auch <persName key="26">Joseph Roth</persName> (vgl. den <ref target="fud://48">Brief</ref> von <persName key="26">Joseph Roth</persName> an <persName key="72">Stefan Zweig</persName> vom 7.11.1933), empört.<lb/><lb/><lb/>(Vgl. Walter: Exilpresse, S. 426 f.; Buchinger: Stefan Zweig; S. 217–223.)</note> denke ich mit Unbehagen zurrück. Vor allem im Hinblick auf <persName key="16">Klaus Mann</persName>, den ich damit blossstellte. Jch war damals in der Arbeit, und bei der eruptiven, mich ganz gefangen nehmenden Art, wie ich arbeite, bin ich dann tatsächlich nicht ganz zurechnungsfähig (was beileibe keine Entschuldigung sein soll, aber eine Erklärung meines Leichtsinns, der mich veranlasste, <persName key="2020">Annette Kolbs</persName> und <persName key="2091">Meier-Graefes</persName> Warnung vor einer Mitarbeit an der <name type="per" key="739">"Sammlung"</name> in den Wind zu schlagen.) Denn wenn <persName key="16">Klaus Mann</persName> auch nicht korrekt handelte, als er, ohne zu fragen, meinen Namen auf die Mitarbeiterliste<note type="com">In Prospekten, Annoncen und auf Buchumschlägen des <orgName key="1489">Querido-Verlages</orgName> wirbt die <name type="per" key="739">Sammlung</name> mit einer Liste voraussichtlicher Mitarbeiter.<lb/><lb/><lb/>(Vgl. Buchinger: Stefan Zweig, S. 219)</note> einer <name type="per" key="739">Zeitschrift</name> setzte, die meiner Vorstellung nicht entsprach, hätte ich ihn doch nicht desavouieren dürfen. Dass ich ihn desavouierte, fiel mir erst viel später ein, ebenfals wie das andere, dass der "Gebrauch", den der <orgName key="1108">Verlag Fischer</orgName> von dem Telegramm nur "im äussersten Notfall" machen zu wollen erklärte, seine Veröffentlichung zur Folge haben könnte. Die Gelegenheit, mein Versagen <persName key="16">Kl. M.</persName> gegenüber gutzumachen, wird sich früh genug bieten, und ich werde sie wahrnehmen. Jch sage das, obwohl ich weiss, dass Sie <persName key="16">K. M.</persName> nicht sonderlich mögen. Jch aber mag ihn. Jch haben eine ausgesprochene Sympathie für ihn.</p>
+        <lb/>
+        <p><pb/>Nun zum Telegramm.</p>
+        <lb/>
+        <p>Jch bin dabei im Wortlaut weitergegangen als <persName key="2070">Thomas Mann</persName>, (was ich zu bemerken bitte!) der lediglich eine Tatsache feststellte, nämlich, dass er bei seiner Zusage eine andere Vorstellung vom Charakter der <name type="per" key="739">"Sammlung"</name> gehabt habe. Das Telegramm war nicht an irgend eine <orgName key="4837">"Reichstelle"</orgName> gerichtet, sondern <hi rend="underline">an den <orgName key="1108">Verlag S. Fischer</orgName></hi>, dem ich mich, zweifellos mit Recht, vielfach verpflichtet fühlte. (Hier die Vorgeschichte. Nach längerer brieflicher Vorbereitung erschien bei uns Prof. <persName key="4830">Saenger</persName> und setzte uns über die Lage der Familie Fischer<note type="com"><persName key="4743">Samuel Fischer</persName>,<persName key="4831"> Hedwig Fischer</persName>, <persName key="1803">Gottfried Bermann Fischer</persName>, <persName key="4032">Brigitte Bermann Fischer</persName>.</note> und des <orgName key="1108">Verlages</orgName> umständlich ins Bild. Er sagte mir unter vielem anderen, worüber man sich schliesslich hätte hinwegsetzten können, <persName key="4743">Fischer</persName> sei körperlich bedroht. Er sagte, der alte <persName key="4743">Sami</persName>, den ich wirklich liebe, würde sich eher mit Knüppeln totschlagen lassen als <placeName key="1704">Deutschland</placeName> zu verlassen. Er sprach stundenlang, zwei Tage hintereinander. Er selbst machte einen so bejammernswerten Eindruck, dass sein Aussehen überzeugender war als alle seine Worte. Ob ich nun recht tat, oder nicht, ich gab die Erklärung ab. Jch hielt mich für verpflichtet, sie abzugeben, und zwar genau, wie es der <orgName key="1108">Verlag</orgName> wünschte. Es spielten noch andere Ueberlegungen mit. 1.) waren wir der Meinung: wer von uns in <placeName key="1704">Deutschland</placeName> erscheinen <hi rend="underline">könne</hi>, muss es tun, solange es mit Anstand möglich wäre, jedes nicht gleichgeschaltete Wort sei dort wichtiger als alle Verwünschungen, von denen keine Seele in <placeName key="1704">Deutschland</placeName> erfahre. 2.) war ich entschlossen, politisch nicht hervorzutreten, weil ich weiss, dass der politisch tätige Emigrant heute zwangsläufig auf einen der beiden äussersten Flügel der Politik gedrängt wird und entweder bei der K.P.<note type="com">Gemeint sind vermutlich die <orgName key="1463">Kommunistische Partei Frankreichs</orgName> oder die <orgName key="1318">Kommunistische Partei Deutschlands</orgName>. Letztere ist während des Exils auch in <placeName key="47">Frankreich</placeName> organisiert, etwa mit einem <orgName key="4832">Auslandssekretariat</orgName> in <placeName key="18">Paris</placeName>.</note> oder bei den (fanzösischen) Nationalisten landet. 3.) wäre ich, von <persName key="4743">Fischer</persName> im Stich gelassen, völlig ohne Geld gewesen. Dieser letzte Punk ist wichtig genug, denn ich habe gar <pb/>kein Talent zu Hilfsaktionen finanzieller Art, wenn es sich um meine Person handelt. Aber schliesslich hätte ich <persName key="2091">Meier-Graefe</persName>, mit dem ich intim befreundet bin, und der über eine kleine Geldreserve verfügt, um Hilfe angehn können, und er hätte sie mir nicht verweigert. Jch erwähne das, um dem ärgerlichen Punkt 3 nicht mehr Bedeutung zu geben, als er in Wirklichkeit besitzt.)</p>
+        <lb/>
+        <p>Was ich schon kurz nach Absendung des Telegramms bereute (und heute noch bereue), ist die Fassung, bei der ich mich zu sehr nach den Wünschen des <orgName key="1108">Verlages</orgName> richtete und die (es ist nicht unwichtig, dies zu erwähnen) von <persName key="2070">Thomas Mann</persName>, als ich ihm den Wortlaut zeigte, freundlich, aber unmissverständlich beanstandet wurde. Wohingegen <persName key="1709">Heinrich Mann</persName> lange, bevor ich mich zur Absendung des Telegramms entschloss, wörtlich sagte: "Dementieren Sie mit den gröbsten Worten!" Es war mir klar, dass er aus reiner Freundschaft so kräftig sprach, weil er der Meinung war, es sei hauptsächlich sein <name type="wrk" key="4833">Aufsatz</name>, der den Krach veranlasst habe.</p>
+        <lb/>
+        <p>Lieber <persName key="26">Roth</persName>, Sie sprechen von Kameradschaft in Jhrem Brief – worin unterscheidet sich aber der Feind vom Freund, wenn es jener leichten Herzens fertig bringt, den Kameraden zu verurteilen, ohne ihn gehört zu haben? Weder <persName key="2020">Annette Kolb</persName>, noch sonst jemand liess mich vermuten, dass Sie mit den Wölfen gegen mich heulten, was, abgesehen von unseren Beziehungen, ganz und gar nicht Jhre Art ist. So traf mich Jhr Brief unvorbereitet. Er ist ein schmerzliches Erlebnis, das schmerzlichste von allen, die ich in dieser Sache gehabt habe. Wenn Sie, <persName key="26">Josef Roth</persName>, mordeten und alle Welt gegen Sie aufstände, so würde ich erst einmal blind Ihre Partei ergreifen und das Licht bei <hi rend="double-underline">Jhnen</hi> suchen und gewiss nicht bei einer Bande bemitleidenswerter, darum aber nicht weniger bösartiger <pb/>Derwische.</p>
+        <lb/>
+        <p>Am 28. August 1932 sassen wir in <placeName key="3902">Badenweiler</placeName> auf unserer Terrasse... Nicht wahr, Sie erinnern sich? Wir waren <hi rend="underline">sehr</hi> einig – zu einer Zeit, als die hervorragensten heutigen Führer der Emigration ein "geringeres Uebel" nach dem anderen begrüssten, <persName key="2662">Brüning</persName>, <persName key="4824">Papen</persName>, <persName key="4825">Schleicher</persName>, und bereit waren, <hi rend="underline">alle</hi> Fusstritte entgegenzunehmen, wenn nur die Regierung ihnen die Möglichkeit liess, sie im eigenen Hause zu empfangen... Jch war, obwohl persöhnlich <hi rend="underline">nicht</hi> "betroffen", körperlich krank vom Anblick dieses Schauspiels, doch kam es mir keinen Augenblick in den Sinn, deshalb alte Freundschaften zu kündigen... Jch zürnte mit solchen Freunden, wenn sie da waren und sich wehren konnten, und im Grund liess das Mitleid mich nur noch stärker mit ihnen empfinden. Wie hätte ich Sie im Chor derer vermuten sollen, die einen Mann infamierten, der freiwillig, unbedroht, <hi rend="underline">mit ihnen <placeName key="1704">Deutschland</placeName> verliess</hi>, der <hi rend="underline">aus der <orgName key="1716">Akademie</orgName> austrat</hi> (und nicht wie andere, deren Namen auf allen Emigrantenzeitschriften figurieren, hinausflogen, ob sie gleich die Loyalitätserklärung unterschrieben) und ihn, von dem selbst seine Feinde erklärten, von ihm hätten sie das "am aller wenigsten erwartet", verurteilten, ohne sich auch nur die Mühe gemacht zu haben, ihn zu fragen, wie er zu einer Handlung gekommen sei, die sie selbst als ungewöhnlich und auffallend betrachten müssten?</p>
+        <lb/>
+        <p>Der erste, der mich über das Telegramm interpellierte, war jemand, der mir während des Krieges in <placeName key="2788">Berlin</placeName> eine "heroische" Kriegs-Novelle brachte mit dem Ersuchen, sie in den <name type="per" key="765">"Weissen Blaättern"</name> zu drucken. Jch gab sie ihm zurück und sprach lange und geduldig mit ihm und, da er Jude war, erwähnte ich die Weltmission des Judentums, die keineswegs darin bestehe, den Bart Vater <persName key="4826">Jahns</persName> umzuhängen, wenn das Gebot der Stunde es zu verlangen scheine. Leider <pb/>gelang es mir nicht, ihn zu überzeugen. Als der Krieg zu Ende war und der Pazifismus zum "Gebot der Stunde" aufstieg, schrieb der Mann die Novelle im neuen Geiste um und widmete sie mir. Mit dieser Widmung steht sie in einem seiner Bücher. Dieser also war der erste, der mich hier in <placeName key="5">Sanary</placeName> zur Rede stellte. Aber wie? <hi rend="underline">Von Schadenfreude strotzend</hi> wie eine Hure, die eine bislang anständige Frau bei einem Fehltritt ertappt! Jch versichere Jhnen, seine Stimme überschlug sich vor Schadenfreude! Zuhause aber hatte ich das Manuskript seines neuen Buches liegen, mit einem Vorwort, worin er auseinandersetzte, warum gewisse Rücksichten ihn zwängen, das Buch anonym erscheinen zu lassen. (Jnzwischen sind diese Rücksichten weggefallen, und das Buch erscheint demnächst tapfer unter seinem Namen.) Das war der Emigrant, der, ohnmächtig vor der wirklichen Gewalt und Unterdrückung, seinen traurigen Triumpf über einen "Kameraden" feierte – einen Goi, der zwar "in <placeName key="1704">Deutschland</placeName> nicht leben, aber den deutschen Markt nicht missen will"! (Welch törichter Vorwurf, nebenbei! Als ob genau das nicht nicht von jeher der heisseste Wunsch aller Emigranten gewesen wäre, von <persName key="2081">Marx</persName> und <persName key="1961">Heine</persName> und <persName key="4827">Victor Hugo</persName> bis <persName key="2044">Lenin</persName> und <persName key="4828">Trotzki</persName>: in <hi rend="underline">dem</hi> Land gehört zu werden, aus dem sie vertrieben waren.) Jch sage "Goi", denn es ist mir aufgefallen, dass bei dem, was ich wohl eine Hetzte nennen darf, immer nur von <persName key="2070">Thomas Mann</persName> und mir die Rede ist, nicht aber von <persName key="109">Döblin</persName>...</p>
+        <lb/>
+        <p>Ich hatte von vornherein das grösste Misstrauen gegen die Emigranten – wegen der bekannten Emigrantenmentalität (<persName key="4827">Victor Hugo</persName> warfen seine <hi rend="double-underline">Freunde</hi> vor, er sehe <placeName key="47">Frankreich</placeName> immer noch wie im Jahre 1851, da er es verliess!) und erst recht gegen diese Emigration, <hi rend="underline">deren Häupter ich nur zu gut kenne!</hi> Mit geringen Ausnahmen haben sie alle Dreck gefressen, bis sie von den Nazis da<pb/>ran gehindert wurden, d. h. bis sie weichen <hi rend="underline">mussten</hi>. Wäre <persName key="1971">Hitler</persName> nicht ein so rabiater Antisemit, sie würden ihn heute noch als das "geringere Uebel" feiern und ihre Geschosse loyal gegen den Nürnberger <persName key="4829">Streicher</persName> und den Bolchewismus richten. So aber fühlen sie sich als grosse Helden, wie es die Leute der Etappe von jeher taten. Wer von ihnen denkt ernstlich an die armen Teufel, die an der Front der Entwürdigung und der Misshandlung stehen und nicht fliehen <hi rend="double-underline">können</hi> und tagtäglich ihren eigenen Kot fressen <hi rend="double-underline">müssen</hi>? Für mich sind alle entschuldigt, die in <placeName key="1704">Deutschland</placeName> mit jeder von den Machthabern kontrollierten Handlung sich selbst verraten und jeden Tag mehr in Selbstverachtung sinken. Jhnen wird Gott am ersten verzeihen, sie leiden vielleicht sogar mehr als jene, deren physischer Mut sie befähigt, sich erschlagen oder abwürgen zu lassen.</p>
+        <lb/>
+        <p><hi rend="underline">Merkwürdig, wie leicht die Opfer die Geistesverfassung des Henkers annehmen</hi>! Wer Rache nimmt, ist nicht nur böse, er ist dumm. Wenn die Opfer nicht längst die Welt beherrschen, so liegt es daran, ausschliesslich daran. Kommt ihre Stunde, wird sie zur Stunde der Rache, und das eistige Opfer macht sich mit dem besten Gewissen der Welt zum Henker. Leid und Rache, es nimmt kein Ende. Das Reich Christi hat noch nicht einmal begonnen. Kaum war Christus tot, bemächtigte sich ein General seiner Sache. Er hiess Paulus. Ein dummer, ehrgeiziger Bursche, ein politisierender General.</p>
+        <lb/>
+        <p>Der wahre akopalyptische Reiter ist die Dummheit, die anderen zotteln nur hinterher.</p>
+        <lb/>
+        <p>Sie sprechen vom Antichrist, lieber <persName key="26">Josef Roth</persName>. Sie unterschätzen ihn, wenn sie glauben, er trage nur <hi rend="double-underline">eine</hi> Uniform. Er findet sich in allen Lagern. Und nur deshalb ist er so mächtig, nur deshalb! Er zwingt seine Feinde zu einer Kampfart, die sie unweigerlich zu seinen Geschöpfen macht. Und um zum Ausgang zurrückzukehren: etwas <pb/>davon wollte ich in der <name type="wrk" key="2849">Witwe "Bosca"</name> darstellen – die <hi rend="double-underline">zwingt</hi> ihre Tochter, den Geliebten zu morden, sie <hi rend="double-underline">zwingt</hi> sogar den Gatten, sie selbst zu erwürgen. Burguburu rächt sich nicht – weshalb ich zum Schluss die Spieluhr der Jahreszeiten ein leises "Gerettet" spielen lasse. Es ist nur eine kleine Spieldose. Aber ich hoffe, sie klingt rein. Mehr zu tun, liegt nicht in meinen Kräften. Wie gern möchte ich mit der gleichen Melodie die Welt erschüttern und umkehren!</p>
+        <lb/>
+        <p>Verzeihen Sie den langen Brief. Und jetzt kein Wort mehr! Der Brief verlangt keine Antwort und bedarf keiner. Was Sie auch dazu sagen mögen, ich könnte nichts antworten, was nicht bereits gesagt wäre. Mehr als an Jhrem Urteil liegt mir daran, dass Sie mir Jhre Freundschaft erhalten, auch wenn Sie nicht in dieser, wie Sie bald sehen werden, recht vergänglichen Sache mit mir übereinstimmen.</p>
+        <lb/>
+        <p>Herzliche Grüsse<lb/>Jhres <name role="aut"><span type="Signatur"><persName key="1707">René Schickele</persName></span></name></p>
+      </div>
+    </body>
+  </text>
+</TEI>

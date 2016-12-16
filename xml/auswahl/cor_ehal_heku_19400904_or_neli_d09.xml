@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Albert Ehrenstein an Kurt Held</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p>Herausgeberinformation:
+            <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Kläber</bibl></p>
+
+
+        <ab type="copyright"><orgName key="76043">Albert Ehrenstein Archiv</orgName></ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="edition">Volltext</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="language">deutsch</ab>
+        <ab type="AF">F1</ab>
+        <ab type="location"><placeName key="49153" type="write" cert="high" evidence="Brieftext"
+            >Zürich</placeName></ab>
+        <ab type="date"><date when="1940-09-04" cert="high" evidence="Brieftext"
+          >4.9.1940</date></ab>
+        <ab type="role"><persName key="12472" role="aut">Albert Ehrenstein</persName></ab>
+        <ab type="role"><persName key="8427" role="rec">Kurt Held</persName></ab>
+        <ab type="no">322689</ab>
+        <ab type="reg"/>
+        <ab type="desc">Original mit handschriftlichen Korrekturen und der Signatur von Albert
+          Ehrenstein. Die Signatur stellt eine Ligatur aus den Zeichen "A" und "E" dar.</ab>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-02-12">12.2.2014</date>, <date when="2014-08-12">12.8.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="77556">Roberta Toscano</persName>
+        <date when="2015-01-28">28.1.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="2014-03-19">19.3.2014</date>, <date when="2014-03-24">24.3.2014</date>, <date
+          when="2014-04-04">4.4.2014</date>, <date when="2014-04-15">15.4.2014</date>, <date
+          when="2014-04-29">29.4.2014</date>, <date when="2014-05-07">7.5.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-04-02">2.4.2014</date>, <date when="2014-04-11">11.4.2014</date>, <date
+          when="2014-04-16">16.4.2014</date>, <date when="2014-04-30">30.4.2014</date>, <date
+          when="2014-05-21">21.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date
+          when="2014-11-24">24.11.2014</date>, <date when="2015-04-07">7.4.2015</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+      <change n="edition">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+      <change n="edition">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+      <change n="edition">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="x">tt.mm.jjjj</date>
+      </change>
+
+
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_ehal_heku_19400904_or_01"/>
+        </figure>
+
+        <p rend="right"><placeName key="49153" type="write">Zürich</placeName>, den <date
+            when="1940-09-04" cert="high">4.9.1940</date></p>
+
+        <p><emph n="salutation">Lieber Kleebauer<note type="reg"><persName key="8427" role="rec"
+                >Held, Kurt</persName></note></emph>,</p>
+
+        <p>&#x2013; denn so glaube ich Ihrem Namen statt der neuzeitlichen Kürze die blubonische
+          Würze wiedergeben zu können.</p>
+
+        <p>Leuten, die keine Arbeitsbewilligung haben, werden Sie hier nicht helfen können, Juden,
+          die nicht sehr hohe nationalsozialistische Beziehungen haben, werden sich immer bedroht
+          fühlen, und die amerikanischen Komitees denken längst nicht mehr an Subsidien,
+          Kapitalexport &#x2013; dazu ist die Arbeitslosigkeit drüben zu gross. Es gibt eben Leute,
+          die trotz der deutschen U-Boot-Kontrolle und den zunehmenden Grenzübertrittserschwerungen
+          auf dem Weg nach <placeName key="49621">Lissabon</placeName> die Einreihung in die
+          intellektuelle Armut drüben dem Konzentrationslager hüben vorziehen.</p>
+
+        <p>Die drei von <persName key="9542">Hesse</persName> stammenden Leute wurden mit
+          Aufforderungswischen versehen.<note type="com" cert="high">Ehrenstein bezieht sich auf die
+            Hilfsinitiative des <orgName key="76457">Emergency Rescue Committee</orgName>, das nach
+            der deutschen Besetzung <placeName key="48914">Frankreichs</placeName> im Juni 1940
+            durch Nationalsozialisten verfolgte Intellektuelle bei der Flucht in die <placeName
+              key="49115">USA</placeName> unterstützt. Für die Vermittlung der entsprechenden
+            Kontakte in der <placeName key="49625">Schweiz</placeName> ist Ehrenstein
+            zuständig.</note> Jedenfalls bat ich <persName key="9542">Hesse</persName> um Auskunft
+          über die drei mir unbekannten wie auch um Nennung von Fachleuten auf gewissen anderen
+            Kunstgebieten.<note type="com" cert="high">Möglicherweise meint Ehrenstein die drei
+            Personen <persName key="75328">Julius Baum</persName>, <persName key="75329">Laurenz
+              Wiedner</persName> und <persName key="75330">Werner Helwig</persName>, die ihm Held in
+            seinem ebenfalls auf den 4.9.1940 datierten <rs n="322687">Brief</rs> bereits genannt
+            hat.</note> Bei mir meldete sich <persName key="9193">Bruno Schönlank</persName>. Ich
+          habe vergessen, was für eine Art Sozialdemokrat das war und die Qualität seiner
+          Kunstübungen erst recht. Wissen Sie Bescheid? Sie schrieben mir kein Wort, wie und wo es
+            Gerda<note type="reg"><persName key="8274">Müller, Gerda</persName></note> geht?
+          Adresse? <emph n="salute">Herzlichst grüsst Sie beide<note type="reg"><persName key="8154"
+                >Tetzner, Lisa</persName></note></emph></p>
+
+        <p rend="right"><emph n="salute">Ihr</emph></p>
+
+        <p rend="right"><persName key="12472" role="signed">&#198;</persName></p>
+
+        <p><hi rend="ul">PS</hi>. <persName key="75327">Otto Müller</persName> schrieb mir. Wissen
+          Sie<lb/> sonst wen?</p>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

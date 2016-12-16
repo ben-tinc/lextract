@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 1325</bibl>
+        </p>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="2948" type="write" cert="medium">Prag</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1933-06-27"><note>Brief</note>
+1933-06-27          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="2264">Weiß, Ernst</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="no">fud-802</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit wenigen Korrekturen und der Signatur von Ernst Weiß.&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-07-17">2014-07-17</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-09-10">2014-09-10</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-09-11">2014-09-11</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_ween_kehe_19330627_or_01.tif"/>
+        </figure>
+        <p>
+          <persName key="2264">Ernst Weiss</persName>
+          <placeName key="2948">Praha XII</placeName>
+          <placeName key="4294">Sladkovskeho 9/II</placeName>
+        </p>
+        <lb/>
+        <p>
+          <date type="write">27.VI.33</date>
+        </p>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ F2">Lieber sehr verehrter Herr <name role="rec"><persName key="17">Kesten</persName></name>!</span>
+        </p>
+        <lb/>
+        <p>Unlängst dacht ich noch an Sie und überlegte, ob Sie ein Brief durch <orgName key="1176">Kiepenheuer</orgName> noch ereichen könnte, – und nun überraschen Sie mich durch Ihre freundliche Anfrage. Selbstverständlich bin ich gern bereit, Ihrem Wunsch zu entsprechen und die Bedingungen erscheinen mir nicht ungünstig. Ich habe nicht alle meine Papiere hier, unter denen, die mir augenblicklich zur Verfügung stehn, befindet sich beiliegende kleine Novelle<note type="com">Es handelt sich um die Novelle <name type="wrk" key="3475">Die Herznaht</name>. Sie entspricht einem Kapitel aus dem 1919 veröffentlichten Roman <name type="wrk" key="3476">Mensch gegen Mensch</name>. </note>, die in dieser Form unveröffentlicht ist. Wenn Sie nicht in den Rahmen passen sollte, könnte ich mir die Novelle <name type="wrk" key="4295">"Franta Zlin"</name>, die freilich aus dem Jahre 1919 stammt, aber wohl meine geschlossenste novellistische Leistung ist, in dieser Umgebung denken. Sie ist wiederholt gedruckt worden, zuletzt in dem bei <orgName key="1605">Ullstein</orgName> erschienen Sammelbande <name type="wrk" key="4296">"Dämonenzug"</name>. Als drittes käme vielleicht etwas ganz Neues hinzu, das heisst einer der Entwürfe, die mich schon seit einigen Jahren beschäftigen, aber da wäre es eben die Frage, ob ich zu dem gewünschten Termin die Arbeit abliefern könnte.</p>
+        <lb/>
+        <p>Ich lebe hier, sehr zurückgezogen, sodass niemand meine Adresse weiss, und Ihr Brief mich nur auf dem Umweg über meinen <persName key="4293">Bruder</persName>, der hier Professor des bürgerlichen Rechtes ist, erreichte. Sollte jemand von alten Kameraden nach mir fragen, teilen Sie bitte die obenstehende Adresse mit. Ich schwanke, ob ich den Winter hier verbringen soll. Sollte ich mich zu <placeName key="18">Paris</placeName> entschliessen, würde es meinen Entschluss sicherlich sehr erleichtern, Gleichgesinnte dort zu wissen, wie Sie. Haben Sie sich eingewöhnt? Wie geht es Ihrer <persName key="73">Frau</persName>? Wie den Kiepenheuers<note type="com"><persName key="4292">Noa Kiepenheuer</persName>, <persName key="2008">Gustav Kiepenheuer</persName></note>?</p>
+        <lb/>
+        <p>Herzlich grüsst Sie Ihr alter</p>
+        <lb/>
+        <p rend="text-align:right">
+          <name role="aut">
+            <span type="Signatur">
+              <persName key="2264">Ernst Weiß</persName>
+            </span>
+          </name>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

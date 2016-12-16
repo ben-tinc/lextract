@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 283</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="5975">Frey, Erich A.</persName>
+          <persName key="5978">Frey, Irmgard</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="4801" type="write" cert="medium">Beverly Hills, CA</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1939-04-26"><note>Brief</note>
+1939-04-26          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="118">Frank, Elisabeth</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="no">fud-656</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Durchschlag, verwendet als Serienbrief und original signiert von Elisabeth Frank. Am Fuß des Briefes wurde handschriftlich der Hinweis "Ihre beiden Bücher folgen separat." von Bruno Frank ergänzt. &lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2014-10-10">2014-10-10</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-10-22">2014-10-22</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-12-09">2014-12-09</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_frel_kehe_19390426_or_01.tif"/>
+        </figure>
+        <p>Frau Bruno Frank<note type="com"><persName key="118">Liesl Frank</persName></note><lb/><placeName key="5078">513 N. Camden Drive</placeName><lb/><placeName key="4801">Beverly Hills</placeName>, <placeName key="3675">California</placeName>.</p>
+        <lb/>
+        <p rend="text-align:right">den <date type="write">26. April 1939.</date></p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ F3">Hochgeehrter <name role="rec"><persName key="17">Herr</persName></name>:–</span>
+        </p>
+        <lb/>
+        <p>Ich bedauere herzlich und aufrichtig, dass die geplante amerikanische Anthologie<note type="com">Vgl. den <ref target="fud://655">Brief</ref> von <persName key="118">Elisabeth Frank</persName> an <persName key="17">Hermann Kesten</persName> vom 15.8.1938.</note> von Novellen exilierter deutscher Autoren nicht zustande gekommen ist. Dies liegt nicht an mangelndem gutem Willen des Verlags <orgName key="1491">Random House</orgName>, sondern daran, dass das Material fuer eine repraesentative und erfolgversprechende derartige Sammlung<note type="com">Vgl. den <ref target="fud://655">Brief</ref> von <persName key="118">Elisabeth Frank</persName> an <persName key="17">Hermann Kesten</persName> vom 15.8.1938.</note> nicht zusammenzubringen war. Trotz monatelanger Bemuehung hat sich das als unmoeglich erwiesen.</p>
+        <lb/>
+        <p>Es handelt sich dabei nicht um den literarischen Rang der eingesandten Arbeiten, vielmehr darum, dass eine Anzahl der Novellen nach Stoff und Behandlungsart so begrenzt "europaeisch" ist, dass der <orgName key="1491">Verlag</orgName> an verstaendnisvoller Reaktion des amerikanischen Publikums zweifeln zu muessen glaubt.</p>
+        <lb/>
+        <p>Dieser Fehlschlag bedeutet eine Enttaeuschung fuer <orgName key="1491">Verlag</orgName> und Herausgeber<note type="com">In ihrem <ref target="fud://655">Brief</ref> vom 15.8.1938 an <persName key="17">Hermann Kesten</persName> nennt <persName key="118">Elisabeth Frank</persName> sich selbst als Herausgeberin.</note> und ebenso natuerlich fuer die Autoren, die Arbeiten eingesandt haben. Um wenigstens materiell einen gewissen Ersatz zu schaffen, haben <orgName key="1491">Verlag</orgName> und Herausgeber<note type="com">In ihrem <ref target="fud://655">Brief</ref> vom 15.8.1938 an <persName key="17">Hermann Kesten</persName> nennt <persName key="118">Elisabeth Frank</persName> sich selbst als Herausgeberin.</note> gemeinsam einen Fonds zur Verfuegung gestellt, aus dem einer Anzahl von Autoren der Betrag von je zwanzig Dollars angeboten werden soll. Dies entspraeche etwa dem Honorar, das in <placeName key="40">Europa</placeName> von Zeitschriften oder groesseren Tageszeitungen fuer den Abdruck einer Erzaehlung gezahlt wird.</p>
+        <lb/>
+        <p><orgName key="1491">Verlag</orgName> und Herausgeber<note type="com">In ihrem <ref target="fud://655">Brief</ref> vom 15.8.1938 an <persName key="17">Hermann Kesten</persName> nennt <persName key="118">Elisabeth Frank</persName> sich selbst als Herausgeberin.</note> bitten auch Sie, hochgeehrter <persName key="17">Herr</persName>, diesen Betrag annehmen zu wollen. Ebenso geht das zur Verfuegung gestellte Manuskript hier wieder an Sie zurueck.</p>
+        <lb/>
+        <p rend="text-align:center">Mit den verbindlichsten Gruessen<lb/>Ihre <name role="aut"><span type="Signatur"><persName key="118">Elisabeth Frank</persName></span></name>.</p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>Ihre beiden Bücher folgen separat.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

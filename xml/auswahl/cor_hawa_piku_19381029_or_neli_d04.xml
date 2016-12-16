@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Walter Hasenclever an Kurt Pinthus</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+                <p>Herausgeberinformation:
+                        <ref>http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html</ref></p>
+
+
+                <ab type="editiontype">QE</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+                <p><bibl>A:Pinthus</bibl></p>
+
+
+                <ab type="copyright"><orgName key="x">gemeinfrei</orgName></ab>
+                <ab type="leaves">1</ab>
+                <ab type="pages">1</ab>
+                <ab type="type">lt</ab>
+                <ab type="subtype">or</ab>
+                <ab type="script">ts-h</ab>
+                <ab type="edition">Volltext</ab>
+                <ab type="scripttype"/>
+                <ab type="paper"/>
+                <ab type="language">deutsch</ab>
+                <ab type="AF">P3</ab>
+                <ab type="location"><placeName key="49697" type="write" cert="high"
+                        evidence="Brieftext">Nizza</placeName></ab>
+                <ab type="date"><date when="1938-10-29" cert="high" evidence="Brieftext"
+                        >29.10.1938</date></ab>
+                <ab type="role"><persName key="7930" role="aut">Walter Hasenclever</persName></ab>
+                <ab type="role"><persName key="9876" role="rec">Kurt Pinthus</persName></ab>
+                <ab type="no">323353</ab>
+                <ab type="reg"/>
+                <ab type="desc">Original mit handschriftlichen Korrekturen und der Unterschrift von
+                    Walter Hasenclever. Rechts oben ist in roter Farbe ein Haken und das Datum
+                    "21.XI" vermerkt.</ab>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change n="transcription">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2014-04-25">25.4.2014</date>, <date when="2014-08-06">6.8.2014</date>,
+                    <date when="2014-11-11">11.11.2014</date>, <date when="2014-11-25"
+                    >25.11.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="77556">Roberta Toscano</persName>
+                <date when="2015-01-28">28.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="2014-05-13">13.5.2014</date>, <date when="2014-07-08">8.7.2014</date>,
+                    <date when="2014-12-08">8.12.2014</date>, <date when="2015-01-09"
+                    >9.1.2015</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="2014-05-15">15.5.2014</date>, <date when="2014-12-18">18.12.2014</date>
+            </change>
+
+            <change n="collation">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71921">Angelika Kreh</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71920">Roland S. Kamzelak</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+            <change n="edition">
+                <persName key="71922">Anne Lorenz</persName>
+                <date when="x">tt.mm.jjjj</date>
+            </change>
+
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <figure>
+                    <graphic n="1" url="cor_hawl_piku_19381029_or_01"/>
+                </figure>
+
+                <p>21, rue Alphonse Karr,<lb/><placeName key="49697" type="write">Nice</placeName>
+                        (A.M.<note type="reg"><placeName key="73080">Département
+                            Alpes-Maritimes</placeName></note>) <placeName key="48914"
+                        >France</placeName>, den <date when="1938-10-29" cert="high">29. 10.
+                        38.</date></p>
+
+                <p rend="center"><emph n="salutation">Mein lieber <persName key="9876" role="rec"
+                            >Dicker</persName></emph>!</p>
+
+                <p>Ueber Ihren Brief<note type="intern">Nicht ermittelt.</note> vom 17. Oktober habe
+                    ich mich schrecklich gefreut. Die guten Nachrichten, die Sie mir von Ihrem
+                    Wohlergehen und Ihren Erfolgen melden, sind eine Belohnung wegen der
+                    fürchterlichen Berliner Jahre, die Sie durchstehen mussten, um wieder in die
+                    Freiheit zu gelangen. Das Gleiche gilt von mir. Sie werden alles Wissenswerte
+                    über mich von <persName key="77375">Schairer</persName> erfahren haben, sodass
+                    ich mich kurz fassen kann.</p>
+
+                <p>Ich bin mit Ethe<note type="reg"><persName key="77373">Hasenclever,
+                            Edith</persName></note> in der alten Stadt meiner Liebe, in <placeName
+                        key="49697">Nizza</placeName>, gelandet, wo wir in der Umgegend ein kleines
+                    Häuschen auf dem Lande mieten wollen, um hier solange zu bleiben, wie es geht.
+                    Aber wielange wird es gehen? Dieses Land<note type="reg"><placeName key="48914"
+                            >Frankreich</placeName></note> ist nach der beschämenden Niederlage der
+                    Demokratien in <placeName key="49439">Europa</placeName> auf dem besten Wege,
+                    faschistisch zu werden, was durch eine Verständigung mit den Gangsters eher
+                    beschleunigt wird. Der Antisemitismus blüht. In den Briefkästen findet man
+                    bereits antisemitische Flugblätter: die Juden wollten den Krieg! Zeitschriften
+                    mit Streicherschem Unflat schiessen aus dem Boden. Natürlich wird das nicht von
+                    heute auf morgen zur Wirkung kommen. Aber die plötzlich durchgeführte
+                    italienische Judenhetze ist eine Warnung...</p>
+
+                <p>Ich besitze meinen englischen <foreign n="frz">Titre de Voyage</foreign>, sodass
+                    ich jederzeit nach <placeName key="49050">London</placeName> kann. Aber wir
+                    denken ernstlich daran, nach <placeName key="49021">New York</placeName> unsere
+                    Schritte zu lenken. Ich habe als Chance mein neues Stück, für das sich die
+                        <orgName key="77377">Theatre Guild</orgName> interessiert. Ich will noch
+                    abwarten, ob ich mit einem Theatererfolg nach drüben kommen kann, was meine
+                    Einreise und dortige finanzielle Situation natürlich sehr begünstigen würde. Das
+                    muss sich diesen Winter entscheiden. Dann werden wir weiter sehen, und ich werde
+                    mit Ihrer und <persName key="77375">Schairers</persName> Hilfe, der ja auch nach
+                    dort tendiert, erwägen, wie man am besten herüberkommt, falls es nicht über das
+                    Theater geht. Auf jeden Fall wollen wir uns in die Einwanderungsquote hier
+                    eintragen lassen; die soll aber auf zwei Jahre im voraus schon in Anspruch
+                    genommen sein!</p>
+
+                <p>Leider habe ich mein italienisches Geld noch nicht gerettet. Die Räuber wollen
+                    einem sogar die Möbel abnehmen. <persName key="77371">Strauss</persName> sitzt
+                    passlos in <placeName key="77367">Lastra</placeName> und will sich ein
+                    Ausweispapier kaufen. Wir sind in ständiger Korrespondenz und hoffen, ihn
+                    hierher zu bekommen. Dann wollen wir alle zusammen die Fahrt nach <placeName
+                        key="49115">Amerika</placeName> einleiten, sodass begründete Hoffnung
+                    besteht, dass Sie uns in nicht allzu ferner Zeit am Quai in Empfang nehmen. Sie
+                    haben <persName key="77371">Straussens</persName> Initiative viel zu verdanken.
+                    Stellen Sie sich vor, Sie wären heute noch in <placeName key="49025"
+                        >Berlin</placeName>, oder womöglich in <placeName key="48900"
+                        >Italien</placeName>!</p>
+
+                <p>Ich danke Ihnen, alter Bursche, dass Sie über mich lesen und den guten
+                        "Sohn"<note type="com" cert="high">Vermutlich eine Anspielung auf sein Drama
+                            <name type="wrk" key="30821">Der Sohn</name>.</note> noch in Ihr Herz
+                    schliessen. Ich bin überzeugt, Sie werden über meine neue Komödie<note
+                        type="reg"><name type="wrk" key="77376">Konflikt in Assyrien</name></note>
+                    entzückt sein, und möchte Ihnen eine deutsche Kopie schicken, die ich in diesen
+                    Tagen anfertigen werde. Die englische Uebersetzung liegt vor und <persName
+                        key="9947">Klein</persName> arbeitet damit bereits in <placeName key="49050"
+                        >London</placeName> und <placeName key="49021">New York</placeName>. Es ist
+                    das Hohe Lied gegen Faschismus und Antisemitismus!</p>
+
+                <p>Meine Lampe bei Ihnen ist auch mir ein Trost, dass wir uns wiedersehen und, wie
+                    in alter Zeit, jetzt als Fünfzigjährige noch einmal das Leben meistern. Dazu
+                    wollen wir uns gegenseitig mit allen Kräften behilflich sein! In diesem Sinne
+                    umarme ich Sie in Liebe und Anhänglichkeit. Vergessen Sie mich nicht: Sie haben
+                    den richtigen Weg gewählt. Ich folge Ihnen nach.</p>
+
+                <p rend="right"><emph n="salute">In Treue Ihr alter Leipziger Genosse</emph></p>
+
+                <p rend="right"><persName key="7930" role="signed">Hasenclever</persName></p>
+
+
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

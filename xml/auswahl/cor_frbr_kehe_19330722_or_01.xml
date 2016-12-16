@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 283</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="5975">Frey, Erich A.</persName>
+          <persName key="5978">Frey, Irmgard</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">or</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="3753" type="write" cert="high">Paradiso</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1933-07-22"><note>Brief</note>
+1933-07-22          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="1898">Frank, Bruno</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="no">fud-652</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Original mit der Signatur Bruno Franks.&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-09-23">2014-09-23</date>
+      </change>
+      <change n="collation">
+        <persName>Hess, Jan</persName>
+        <date n="2014-09-24">2014-09-24</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-12-09">2014-12-09</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_frbr_kehe_19330722_or_01.tif"/>
+        </figure>
+        <p rend="text-align:right">z. Z. <placeName type="write"><placeName key="3753">Lugano-Paradiso</placeName></placeName>‚ <orgName key="3754">Villa Rosa</orgName>.<lb/><date type="write">22. Juli 33.</date></p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ F3">Sehr verehrter Herr <name role="rec"><persName key="17">Kesten</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>ich danke Ihnen vielmals für Ihre freundlichen <ref target="fud://842">Zeilen</ref> und mache mir eine Freude daraus, Ihnen für Ihre <name type="wrk" key="102">Anthologie</name> einen Beitrag zur Verfügung zu stellen.</p>
+        <lb/>
+        <p>Die <name type="wrk" key="5075">Novelle</name>, die ich mitsende, ist meine letzte derartige Arbeit, und ich glaube‚ dass sie besonders geglückt ist. Es liegt mir aber natürlich viel daran, in Ihrem <name type="wrk" key="102">Buch</name> mit etwas Vollwichtigem vertreten zu sein. Ich schicke das voraus, um vielleicht Bedenken zu zerstreuen, die sich aus dem Umfang der <name type="wrk" key="5075">Erzählung</name> ergeben könnten. Sollte sich herausstellen, dass die Länge ein absolutes Hindernis ist, so stelle ich Ihnen eine kürzere Arbeit zur Verfügung. Aber alle, die den bezeichneten Umfang haben (bis zu 20 Schreibmaschinenseiten) sind schon in Buchform gedruckt worden. Die <name type="wrk" key="5075">"Monduhr"</name> dagegen nicht. Lediglich die <name type="per" key="763">Vossische Zeitung</name> hat sie veröffentlicht. Es wäre mir eine Genugtuung, wenn Sie und der <orgName key="4244">Verlag</orgName> Ja sagen könnten.</p>
+        <lb/>
+        <p>Ich danke Ihnen auch sehr dafür, verehrter Herr <persName key="17">Kesten</persName>, dass Sie es übernommen haben, mir von dem Interesse des Verlags <orgName key="4244">Allert de Lange</orgName> Mitteilung zu machen. Ich bewahre mir diese Nachricht als besonders wertvoll für künftige Eventualitäten auf. Zunächst bin ich noch an den <orgName key="4310">Propyläen-Verlag</orgName> in <placeName key="2788">Berlin</placeName> vertraglich gebunden und darf sowohl aus praktischen als aus Loyalitätsgründen nach anderen Seiten hin nichts unternehmen. Aber es besteht natürlich die Möglichkeit, dass sich diese Dinge von einem Tag zum andern ändern.</p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p rend="text-align:center">Mit den schönsten Grüssen, bin ich<lb/><hi rend="spaced">Ihr</hi><lb/><name role="aut"><span type="Signatur"><persName key="1898">Bruno Frank</persName></span></name>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

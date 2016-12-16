@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vernetzte Korrespondenzen</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+Portal Vernetzte Korrespondenzen:           <ref>http://www.exilnetz33.de</ref>
+        </p>
+        <p>
+Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
+        </p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+        </p>
+        <p>
+          <bibl>HK B 2487</bibl>
+        </p>
+        <ab type="copyright">
+          <persName key="2222">Houston Strauss, Marian</persName>
+        </ab>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">cc</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA"/>
+        <ab type="location">
+          <placeName key="18" type="write" cert="high">Paris</placeName>
+        </ab>
+        <ab type="date">
+          <date cert="high" when="1933-11-06"><note>Brief</note>
+1933-11-06          </date>
+        </ab>
+        <ab type="role">
+          <persName role="aut" key="17">Kesten, Hermann</persName>
+        </ab>
+        <ab type="role">
+          <persName role="rec" key="2264">Weiß, Ernst</persName>
+        </ab>
+        <ab type="no">fud-898</ab>
+        <ab type="reg"/>
+        <ab type="lang">Deutsch</ab>
+        <ab type="desc">Durchschlag mit der Signatur Hermann Kestens und wenigen handschriftlichen Korrekturen.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="transcription">
+        <persName>Hess, Jan</persName>
+        <date n="2014-04-04">2014-04-04</date>
+      </change>
+      <change n="collation">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-04-10">2014-04-10</date>
+      </change>
+      <change n="edition">
+        <persName>Biehl, Theresia</persName>
+        <date n="2014-07-09">2014-07-09</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic n="0" url="cor_kehe_ween_19331106_tr_01.tif"/>
+        </figure>
+        <p><persName key="17">Hermann Kesten</persName><lb/><orgName key="2822">Hotel Foyot</orgName>, <placeName key="2821">33, rue de Tournon</placeName><lb/><placeName key="18">Paris 6</placeName></p>
+        <lb/>
+        <p rend="text-align:right"><placeName type="write"><placeName key="18">Paris</placeName></placeName>, <date type="write">6,11.33.</date></p>
+        <lb/>
+        <space/>
+        <lb/>
+        <p>
+          <span type="Anrede" n="Typ F2">Sehr verehrter, lieber Herr Dr. <name role="rec"><persName key="2264">Weiss</persName></name>,</span>
+        </p>
+        <lb/>
+        <p>entschuldigen Sie, dass ich erst heute antworte, da mir Ihr Brief an meine neue Adresse nach <placeName key="18">Paris</placeName> nachgeschickt wurde.</p>
+        <lb/>
+        <p>selbstverständlich bitte ich Sie, mir Ihren Roman<note type="com">Es handelt sich um den Roman <name type="wrk" key="4315">Der Gefängnisarzt oder Die Vaterlosen</name>, an dessen Fertigstellung <persName key="2264">Ernst Weiß</persName> seit Herbst 1933 arbeitet (vgl. auch den <ref target="fud://899">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="2264">Ernst Weiß</persName> vom 25.11.1933 und den <ref target="fud://900">Brief</ref> vom 3.12.1933 sowie den <ref target="fud://59">Brief</ref> von <persName key="2264">Ernst Weiß</persName> an <persName key="17">Hermann Kesten</persName> vom 19.11.1933 und den <ref target="fud://60">Brief</ref>, geschrieben zwischen dem 25.11. und dem 3.12.1933).</note>, soweit Sie ihn vollendet haben, zuzusenden. Sie wissen ich bin von allem entzückt, was Sie schreiben, und für mich wäre selbstverständlich nicht einmal die Zusendung des Manuskriptes notwendig. Ich werde versuchen, bei meinem holländischen <orgName key="4244">Verlag</orgName> eine Annahme zu erreichen. Ich muss Ihnen allerdings ganz aufrichtig sagen, dass ich nicht genau weiss, ob mir das sofort glückt, da mein holländischer <orgName key="4244">Verlag</orgName> inzwischen eine verhältnismässig grosse Anzahl Verträge abgeschlossen hat, und er ganz gern, wie mir bekannt ist, erst den Erfolg der deutschen Bücher überhaupt, abwarten will.</p>
+        <lb/>
+        <p>Ich bitte Sie, so liebenswürdig zu sein und mir umgehend Ihr Manuskript an den <orgName key="4244">Verlag Allert de Lange</orgName>, <placeName key="4269">Damrak 62</placeName>, <placeName key="2783">Amsterdam</placeName> zu senden, da ich jetzt <placeName key="18">Paris</placeName> verlasse und mir von dort alles nachgeschickt wird.</p>
+        <lb/>
+        <p>Ich grüsse Sie sehr herzlich und bin Ihnen stets ergeben Ihr<lb/><span type="Signatur"><name role="aut"><persName key="17">Hermann Kesten</persName></name></span>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
