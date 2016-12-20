@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,8 +17,7 @@
                 <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
                 <p><bibl>A:Kracauer</bibl></p>
 
-                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName
-                        key="77608">Aase Gjerdrum</persName></ab>
+                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName key="77608">Aase Gjerdrum</persName></ab>
                 <ab type="leaves">2</ab>
                 <ab type="pages">2</ab>
                 <ab type="type">lt</ab>
@@ -33,10 +28,8 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">P2</ab>
-                <ab type="location"><placeName key="49025" type="write" cert="high"
-                        evidence="Brieftext">Berlin</placeName></ab>
-                <ab type="date"><date when="1934-04-10" cert="high" evidence="Brieftext"
-                        >10.4.1934</date></ab>
+                <ab type="location"><placeName key="49025" type="write" cert="high" evidence="Brieftext">Berlin</placeName></ab>
+                <ab type="date"><date when="1934-04-10" cert="high" evidence="Brieftext">10.4.1934</date></ab>
                 <ab type="role"><persName role="aut" key="74658">Max Tau</persName></ab>
                 <ab type="role"><persName role="rec" key="7721">Siegfried Kracauer</persName></ab>
                 <ab type="no">322403</ab>
@@ -55,15 +48,13 @@
             <change n="collation">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-08-12">12.8.2014</date>, <date when="2014-11-12">12.11.2014</date>,
-                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-19"
-                    >19.1.2015</date>
+                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-19">19.1.2015</date>
             </change>
 
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2015-02-09">9.2.2015</date>, <date when="2015-02-13">13.2.2015</date>,
-                    <date when="2015-03-24">24.3.2015</date>, <date when="2015-04-07"
-                    >7.4.2015</date>
+                    <date when="2015-03-24">24.3.2015</date>, <date when="2015-04-07">7.4.2015</date>
             </change>
 
             <change n="collation">
@@ -96,6 +87,7 @@
 
     </teiHeader>
 
+    
     <text>
         <body>
             <div>
@@ -105,54 +97,46 @@
                     <graphic n="2" url="cor_tama_krsi_19340410_or_02"/>
                 </figure>
 
-                <p rend="right"><placeName key="49025" type="write">Berlin</placeName>, den <date
-                        when="1934-04-10" cert="high">10. April 1934.</date></p>
+                <p rend="right"><placeName key="49025" type="write">Berlin</placeName>, den <date when="1934-04-10" cert="high">10. April 1934.</date></p>
 
-                <p><emph n="salutation">Mein lieber <persName key="7721" role="rec"
-                            >Freund</persName></emph>!</p>
+                <p><emph n="salutation">Mein lieber <persName key="7721" role="rec">Freund</persName></emph>!</p>
 
-                <p>Ich habe mir die ganze Zeit Vorwürfe und Sorgen gemacht, dass wir brieflich nicht
-                    in besserem Kontakt miteinander stehen. Denn über unsere innere Verbindung ist
-                    ja nicht zu reden. Wenn sich die Cliquen in ihrer Charakterlosigkeit ähnlich
-                    bleiben, so ist es ja schon unser Schicksal, uns treu zu sein. Und dass ich für
-                    keinen lieber etwas tun würde als für Sie, brauche ich nicht zu betonen. Jeden
+                <p>Ich habe mir die ganze Zeit Vorw&#252;rfe und Sorgen gemacht, dass wir brieflich nicht
+                    in besserem Kontakt miteinander stehen. Denn &#252;ber unsere innere Verbindung ist
+                    ja nicht zu reden. Wenn sich die Cliquen in ihrer Charakterlosigkeit &#228;hnlich
+                    bleiben, so ist es ja schon unser Schicksal, uns treu zu sein. Und dass ich f&#252;r
+                    keinen lieber etwas tun w&#252;rde als f&#252;r Sie, brauche ich nicht zu betonen. Jeden
                     Tag, wenn ich mit dem Fahrstuhl in meine Wohnung herauffahre, kommen nicht nur,
                     weil es das gleiche Haus ist, alle Erinnerungen; es gibt Tage und Abende, wo
-                    meine Gedanken und auch meine äusseren Worte immer bei Ihnen beiden<note
-                        type="reg"><persName key="74110">Kracauer, Elisabeth</persName></note>
+                    meine Gedanken und auch meine &#228;usseren Worte immer bei Ihnen beiden<note type="reg"> <persName key="74110">Kracauer, Elisabeth</persName></note>
                     sind.</p>
 
-                <p>Mir geht es gesundheitlich nicht gut, und darum muss ich eine grössere
+                <p>Mir geht es gesundheitlich nicht gut, und darum muss ich eine gr&#246;ssere
                     Schiffsreise, die mich bis nach <placeName key="48979">Aegypten</placeName>
-                    führt, machen. Meine Route schicke ich Ihnen von unterwegs, damit Sie mir evtl.
-                    schreiben können. Ich habe mir vorgenommen, am 11. 4. in <placeName key="49284"
-                        >Basel</placeName> auszusteigen, um dort mit einem literarischen Freund<note
-                        type="intern">Nicht ermittelt.</note> über die Möglichkeiten Ihres
-                        Romanes<note type="reg"><name type="wrk" key="74424">Georg</name></note> zu
-                    sprechen. Selbstverständlich bekommen Sie sofort Nachricht. Auf der Rückreise
-                    plane ich, zu den mir bekannten Verlegern<note type="intern">Nicht
-                        ermittelt.</note> in <placeName key="49153">Zürich</placeName> zu gehen.
-                    Heute kommen C.'s<note type="reg"><persName key="9821">Cassirer,
+                    f&#252;hrt, machen. Meine Route schicke ich Ihnen von unterwegs, damit Sie mir evtl.
+                    schreiben k&#246;nnen. Ich habe mir vorgenommen, am 11. 4. in <placeName key="49284">Basel</placeName> auszusteigen, um dort mit einem literarischen Freund<note type="intern"> Nicht ermittelt.</note> &#252;ber die M&#246;glichkeiten Ihres
+                        Romanes<note type="reg"> <name type="wrk" key="74424">Georg</name></note> zu
+                    sprechen. Selbstverst&#228;ndlich bekommen Sie sofort Nachricht. Auf der R&#252;ckreise
+                    plane ich, zu den mir bekannten Verlegern<note type="intern"> Nicht
+                        ermittelt.</note> in <placeName key="49153">Z&#252;rich</placeName> zu gehen.
+                    Heute kommen C.'s<note type="reg"> <persName key="9821">Cassirer,
                             Bruno</persName> und <persName key="74761">Cassirer,
-                        Else</persName></note> zurück, und ich werde sofort über alle Möglichkeiten
-                    für Ihr Schaffen auch mit ihm sprechen. Vielleicht weiss er, wenn er nicht
-                    persönlich helfen kann, einen Rat. Ich bin überzeugt davon, dass <name
-                        type="wrk" key="74424">Ihr Roman</name>, dessen erste Kapitel mir noch
-                    begeistert im Gedächtnis sind, gut untergebracht werden kann.<pb n="2"/> Denn es
-                    gibt nur wenig Romane in der Welt, und Verleger suchen gute Bücher.</p>
+                        Else</persName></note> zur&#252;ck, und ich werde sofort &#252;ber alle M&#246;glichkeiten
+                    f&#252;r Ihr Schaffen auch mit ihm sprechen. Vielleicht weiss er, wenn er nicht
+                    pers&#246;nlich helfen kann, einen Rat. Ich bin &#252;berzeugt davon, dass <name type="wrk" key="74424">Ihr Roman</name>, dessen erste Kapitel mir noch
+                    begeistert im Ged&#228;chtnis sind, gut untergebracht werden kann.<pb n="2"/> Denn es
+                    gibt nur wenig Romane in der Welt, und Verleger suchen gute B&#252;cher.</p>
 
-                <p>Ich bin glücklich, endlich einmal von Ihnen etwas gehört zu haben. Ueber Lil<note
-                        type="reg"><persName key="74110">Kracauer, Elisabeth</persName></note>
-                    brauche ich Ihnen ja nichts zu schreiben. Für mich ist es ein Geschenk, sie
-                    heute so zu wissen, wie wir über sie sprachen, als Sie einmal Ihre Mappe
+                <p>Ich bin gl&#252;cklich, endlich einmal von Ihnen etwas geh&#246;rt zu haben. Ueber Lil<note type="reg"> <persName key="74110">Kracauer, Elisabeth</persName></note>
+                    brauche ich Ihnen ja nichts zu schreiben. F&#252;r mich ist es ein Geschenk, sie
+                    heute so zu wissen, wie wir &#252;ber sie sprachen, als Sie einmal Ihre Mappe
                     verloren hatten, weil wir von ihr sprachen.</p>
 
-                <p>Sobald ich körperlich vollkommen hergestellt bin, werde ich alle Kraft daran
+                <p>Sobald ich k&#246;rperlich vollkommen hergestellt bin, werde ich alle Kraft daran
                     wenden, das Geld aufzutreiben, um Sie zu besuchen. Ich bin nicht nur, sondern
                     ich bleibe auch immer der alte.</p>
 
-                <p><emph n="salute">Ich umarme Euch Beide<note type="reg"><persName key="74110"
-                                >Kracauer, Elisabeth</persName></note> und bin Euer Euch
+                <p><emph n="salute">Ich umarme Euch Beide<note type="reg"> <persName key="74110">Kracauer, Elisabeth</persName></note> und bin Euer Euch
                         guter</emph></p>
 
                 <p rend="right"><persName key="74658" role="signed">Max</persName></p>

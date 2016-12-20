@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,10 +28,8 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F1</ab>
-                <ab type="location"><placeName key="74920" type="write" cert="medium"
-                        evidence="Vordruck">Beverly Hills</placeName></ab>
-                <ab type="date"><date when="1940-06-09" cert="high" evidence="Brieftext"
-                        >9.6.1940</date></ab>
+                <ab type="location"><placeName key="74920" type="write" cert="medium" evidence="Vordruck">Beverly Hills</placeName></ab>
+                <ab type="date"><date when="1940-06-09" cert="high" evidence="Brieftext">9.6.1940</date></ab>
                 <ab type="role"><persName key="8668" role="aut">Bruno Frank</persName></ab>
                 <ab type="role"><persName key="10038" role="rec">Manfred Georg</persName></ab>
                 <ab type="no">322421</ab>
@@ -44,8 +38,8 @@
                     sich der Name des Absenders ("Bruno Frank") in der linken oberen Ecke, die
                     Absenderadresse ("513 North Camden Drive, Beverly Hills, California") in der
                     rechten oberen Ecke. Das zweite Blatt ist in der rechten oberen Ecke nummeriert.
-                    Es existiert ein nicht datiertes Blatt mit einer Laudatio von Frank anlässlich
-                    des zehnjährigen Jubiläums Georgs als Redakteur des Aufbaus. Sie kann dem Brief
+                    Es existiert ein nicht datiertes Blatt mit einer Laudatio von Frank anl&#228;sslich
+                    des zehnj&#228;hrigen Jubil&#228;ums Georgs als Redakteur des Aufbaus. Sie kann dem Brief
                     nicht eindeutig zugeordnet werden.</ab>
             </sourceDesc>
 
@@ -60,8 +54,7 @@
             <change n="collation">
                 <persName key="x">Roberta Toscano</persName>
                 <date when="2014-08-05">5.8.2014</date>, <date when="2014-09-02">2.9.2014</date>,
-                    <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-25"
-                    >25.11.2014</date>, <date when="2015-01-28">28.1.2015</date>
+                    <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-25">25.11.2014</date>, <date when="2015-01-28">28.1.2015</date>
             </change>
 
             <change n="transcription">
@@ -100,6 +93,7 @@
 
     </teiHeader>
 
+    
     <text>
         <body>
             <div>
@@ -116,49 +110,42 @@
                 <p><emph n="salutation">Liebster <persName key="10038" role="rec">Manfred
                             Georg</persName></emph>,</p>
 
-                <p>die Fragen Ihres vorgestrigen <rs n="322423">Schreibens</rs> habe ich ausführlich
-                    in einem Brief<note type="intern">Nicht ermittelt.</note> an <persName
-                        key="7947">Graf</persName> beantwortet, den er Ihnen gewiss zeigen wird.</p>
+                <p>die Fragen Ihres vorgestrigen <rs n="322423">Schreibens</rs> habe ich ausf&#252;hrlich
+                    in einem Brief<note type="intern"> Nicht ermittelt.</note> an <persName key="7947">Graf</persName> beantwortet, den er Ihnen gewiss zeigen wird.</p>
 
-                <p>Als mir der Brief<note type="intern">Nicht ermittelt.</note> zur Unterschrift
+                <p>Als mir der Brief<note type="intern"> Nicht ermittelt.</note> zur Unterschrift
                     vorgelegt wurde, der den gemeinsamen Austritt von <persName key="8771">Thomas
-                        Mann</persName>, Klaus<note type="reg"><persName key="519">Mann,
+                        Mann</persName>, Klaus<note type="reg"> <persName key="519">Mann,
                             Klaus</persName></note> und <persName key="76553">Erika Mann</persName>,
-                        <persName key="77262">Gumpert</persName> und <persName key="77248"
-                        >Ries</persName> anzeigte, habe ich diesen Schritt erst telegraphisch, dann
-                    in einem langen Schreiben<note type="intern">Nicht ermittelt</note> an Th.
-                        M.<note type="reg"><persName key="8771">Mann, Thomas</persName></note>
+                        <persName key="77262">Gumpert</persName> und <persName key="77248">Ries</persName> anzeigte, habe ich diesen Schritt erst telegraphisch, dann
+                    in einem langen Schreiben<note type="intern"> Nicht ermittelt</note> an Th.
+                        M.<note type="reg"> <persName key="8771">Mann, Thomas</persName></note>
                     dringend widerraten, weil ich darin eine unmittelbare<pb n="2"/>
-                    <hi rend="ul">Gefahr</hi> für den verbleibenden Mitgliederrest sah. Man ist denn
+                    <hi rend="ul">Gefahr</hi> f&#252;r den verbleibenden Mitgliederrest sah. Man ist denn
                     auch, ob vor Erhalt meiner Demonstration oder schon in der Zwischenzeit, von dem
                     Plan abgekommen, was mich sehr erleichtert.</p>
 
-                <p>Wie Sie habe ich sowohl <persName key="8771">Th. M.</persName> wie <persName
-                        key="7947">Graf</persName> gegenüber betont, dass in der Praxis des
-                        Verbands<note type="reg"><orgName key="76686">Deutscher PEN-Club im
+                <p>Wie Sie habe ich sowohl <persName key="8771">Th. M.</persName> wie <persName key="7947">Graf</persName> gegen&#252;ber betont, dass in der Praxis des
+                        Verbands<note type="reg"> <orgName key="76686">Deutscher PEN-Club im
                             Exil</orgName></note> von kommunistischen Tendenzen nichts zu merken
-                    gewesen ist, besonders auch nicht in der Geschäftsführung des Präsidenten<note
-                        type="reg"><persName key="8510">Mann, Heinrich</persName></note>. Aber
-                    leider habe ich den sehr bestimmten Eindruck, dass die Zerklüftung in der
+                    gewesen ist, besonders auch nicht in der Gesch&#228;ftsf&#252;hrung des Pr&#228;sidenten<note type="reg"> <persName key="8510">Mann, Heinrich</persName></note>. Aber
+                    leider habe ich den sehr bestimmten Eindruck, dass die Zerkl&#252;ftung in der
                         <orgName key="76686">Organisation</orgName> viel zu weit vorgeschritten ist,
                     um einen Fortbestand fruchtbar erscheinen zu lassen. Stellt sich im Lauf der
-                        Unter<pb n="3"/>handlungen das Gegenteil heraus, so würde ich das begrüssen.
-                    Aber ich glaube nicht daran. Und meine einzige Sorge für diesen Fall ist, dass
-                    die Auflösung des <orgName key="76686">Verbands</orgName> in einer Art und Form
+                        Unter<pb n="3"/>handlungen das Gegenteil heraus, so w&#252;rde ich das begr&#252;ssen.
+                    Aber ich glaube nicht daran. Und meine einzige Sorge f&#252;r diesen Fall ist, dass
+                    die Aufl&#246;sung des <orgName key="76686">Verbands</orgName> in einer Art und Form
                     geschieht, die niemand in's Unrecht setzt und niemand irgend einer Gefahr
                     exponiert. Diese Gefahren scheinen mir im Moment die kulturelle Einbusse zu
-                    überschatten, die Ihr Brief<note type="intern">Nicht ermittelt.</note> und der
-                    schöne Aufsatz<note type="intern">Nicht ermittelt.</note> im <name type="per"
-                        key="75026">Aufbau</name> vollkommen richtig darstellt. Wenn wir ruhigere
-                    Tage wieder sehen sollten, so wird eine Rekonstitution leicht möglich sein. Für
-                    jetzt, lassen Sie mich's wiederholen, sehe ich nur die zwei Möglichkeiten:<pb
-                        n="4"/> völligen Ausgleich mit <persName key="8771">Thomas Mann</persName>
-                    und der ganzen Gruppe der Dissidenten, oder Auflösung unter einer für alle
+                    &#252;berschatten, die Ihr Brief<note type="intern"> Nicht ermittelt.</note> und der
+                    sch&#246;ne Aufsatz<note type="intern"> Nicht ermittelt.</note> im <name type="per" key="75026">Aufbau</name> vollkommen richtig darstellt. Wenn wir ruhigere
+                    Tage wieder sehen sollten, so wird eine Rekonstitution leicht m&#246;glich sein. F&#252;r
+                    jetzt, lassen Sie mich's wiederholen, sehe ich nur die zwei M&#246;glichkeiten:<pb n="4"/> v&#246;lligen Ausgleich mit <persName key="8771">Thomas Mann</persName>
+                    und der ganzen Gruppe der Dissidenten, oder Aufl&#246;sung unter einer f&#252;r alle
                     Mitglieder tragbaren, alle deckenden Parole.</p>
 
                 <p>Verzeihen Sie, liebster Georg, diesen miserabel geschriebenen Brief. Ich bin
-                    vollkommen zerstört von den heutigen Nachrichten aus <placeName key="49439"
-                        >Europa</placeName>, und warten wollte ich Sie doch auch nicht lassen.
+                    vollkommen zerst&#246;rt von den heutigen Nachrichten aus <placeName key="49439">Europa</placeName>, und warten wollte ich Sie doch auch nicht lassen.
                     Vernichten Sie diesen Brief, bitte, ich werde mit Ihrem das Gleiche tun.</p>
 
                 <p rend="center"><emph n="salute">Von Herzen Ihr</emph></p>

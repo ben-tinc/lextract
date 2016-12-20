@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +15,7 @@
       </publicationStmt>
       <sourceDesc>
         <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
-        <p><bibl>A:Kläber</bibl></p>
+        <p><bibl>A:Kl&#228;ber</bibl></p>
 
 
         <ab type="copyright"><persName key="78491">Christiane Dornheim-Tetzner</persName></ab>
@@ -33,10 +29,8 @@
         <ab type="paper"/>
         <ab type="language">deutsch</ab>
         <ab type="AF">F1</ab>
-        <ab type="location"><placeName key="75550" type="write" cert="high" evidence="Brieftext"
-            >Carona</placeName></ab>
-        <ab type="date"><date when="1945-08-30" cert="high" evidence="Brieftext"
-          >30.8.1945</date></ab>
+        <ab type="location"><placeName key="75550" type="write" cert="high" evidence="Brieftext">Carona</placeName></ab>
+        <ab type="date"><date when="1945-08-30" cert="high" evidence="Brieftext">30.8.1945</date></ab>
         <ab type="role"><persName key="8427" role="aut">Kurt Held</persName></ab>
         <ab type="role"><persName key="12472" role="rec">Albert Ehrenstein</persName></ab>
         <ab type="no">322699</ab>
@@ -59,18 +53,12 @@
 
       <change n="collation">
         <persName key="71921">Angelika Kreh</persName>
-        <date when="2014-03-19">19.3.2014</date>, <date when="2014-03-24">24.3.2014</date>, <date
-          when="2014-04-04">4.4.2014</date>, <date when="2014-04-15">15.4.2014</date>, <date
-          when="2014-04-29">29.4.2014</date>, <date when="2014-05-07">7.5.2014</date>, <date
-          when="2014-09-01">1.9.2014</date>
+        <date when="2014-03-19">19.3.2014</date>, <date when="2014-03-24">24.3.2014</date>, <date when="2014-04-04">4.4.2014</date>, <date when="2014-04-15">15.4.2014</date>, <date when="2014-04-29">29.4.2014</date>, <date when="2014-05-07">7.5.2014</date>, <date when="2014-09-01">1.9.2014</date>
       </change>
 
       <change n="collation">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2014-04-02">2.4.2014</date>, <date when="2014-04-11">11.4.2014</date>, <date
-          when="2014-04-16">16.4.2014</date>, <date when="2014-04-30">30.4.2014</date>, <date
-          when="2014-05-21">21.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date
-            when="2014-11-24">24.11.2014</date>, <date when="2015-04-07">7.4.2015</date>
+        <date when="2014-04-02">2.4.2014</date>, <date when="2014-04-11">11.4.2014</date>, <date when="2014-04-16">16.4.2014</date>, <date when="2014-04-30">30.4.2014</date>, <date when="2014-05-21">21.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>, <date when="2015-04-07">7.4.2015</date>
       </change>
 
       <change n="collation">
@@ -96,6 +84,7 @@
 
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -106,21 +95,17 @@
         </figure>
 
         <p>Mr. Dr. Albert Ehrenstein<space/>
-          <placeName key="75550" type="write">Carona</placeName> den <date when="1945-08-30"
-            cert="high">30. August 45.</date><lb/>60 West street 94<lb/><hi rend="ul"><placeName
-              key="49021">New-York City</placeName> 25/</hi><placeName key="49115"
-            >U.S.A.</placeName></p>
+          <placeName key="75550" type="write">Carona</placeName> den <date when="1945-08-30" cert="high">30. August 45.</date><lb/> 60 West street 94<lb/> <hi rend="ul"><placeName key="49021">New-York City</placeName> 25/</hi><placeName key="49115">U.S.A.</placeName></p>
 
 
 
-        <p><emph n="salutation">Lieber <persName key="12472" role="rec"
-          >Ehrenstein</persName></emph>,</p>
+        <p><emph n="salutation">Lieber <persName key="12472" role="rec">Ehrenstein</persName></emph>,</p>
 
         <p>gerade war die kleine <persName key="75337">Drittenbass</persName> hier und so erfahre
           ich, dass Sie noch leben und noch nicht unter einen Wolkenkratzer gekommen sind. Wir leben
           auch noch auf unserm Berg, es war manchmal schwer, aber wir sind doch durchgekommen.</p>
 
-        <p>Lis<note type="reg"><persName key="8154">Tetzner, Lisa</persName></note>
+        <p>Lis<note type="reg"> <persName key="8154">Tetzner, Lisa</persName></note>
           hatte weiter Ihre Dozentenarbeit in <placeName key="49284">Basel</placeName> und ich war
           Bauer, sonst haben wir uns Beide auf Kinderbuecher geworden, da es ja wirklich keinen Zweck mehr
           hat, fuer Erwachsene zu schreiben. Das Pack wird und wird nicht besser.</p>
@@ -131,11 +116,8 @@
             <persName key="7793">Hitler</persName> ist Tod, aber sie leben in ihrem Geist
           weiter.</p>
 
-        <p>Ich koennte auch nicht sagen, dass die Emigration besser ist. Hie Freies <placeName
-            key="49105">Deutschland</placeName>, hie demokratisches. Ich war auch in einigen
-          Versammlungen. Alle weinen um die alten deutschen Staedte <placeName key="49804"
-            >Breslau</placeName>, <placeName key="75555">Koenigsberg</placeName> und <placeName
-            key="50216">Danzig</placeName>, und am lautesten natuerlich unsere nationalen Juden!
+        <p>Ich koennte auch nicht sagen, dass die Emigration besser ist. Hie Freies <placeName key="49105">Deutschland</placeName>, hie demokratisches. Ich war auch in einigen
+          Versammlungen. Alle weinen um die alten deutschen Staedte <placeName key="49804">Breslau</placeName>, <placeName key="75555">Koenigsberg</placeName> und <placeName key="50216">Danzig</placeName>, und am lautesten natuerlich unsere nationalen Juden!
           Ach, es ist eine Freude!</p>
 
         <p>Nein, da ist es auf meinem Berg schon besser und ich habe mir auch geschworen, weiter nur
@@ -150,32 +132,26 @@
           Emigranten aus.</p>
 
         <p>Aber nun erzaehlen Sie einmal wie es Ihnen geht und was Sie da drueben getrieben haben?
-          Leben die guten Meyers<note type="com" cert="high">Vermutlich handelt es sich um <persName
-              key="75333">Bernhard</persName> und <persName key="75332">Auguste
+          Leben die guten Meyers<note type="com" cert="high"> Vermutlich handelt es sich um <persName key="75333">Bernhard</persName> und <persName key="75332">Auguste
             Mayer</persName>.</note> noch? Haben Sie <persName key="75350">Hans Richter</persName>
-          mal gesehen? Gerade schrieb <persName key="75346">Anna Seghers</persName>, auch Peter<note
-            type="reg"><persName key="75340">Bihalji-Merin, Oto</persName></note> hat wieder
+          mal gesehen? Gerade schrieb <persName key="75346">Anna Seghers</persName>, auch Peter<note type="reg"> <persName key="75340">Bihalji-Merin, Oto</persName></note> hat wieder
           geschrieben. So taucht alles aus den "dunklen vergangenen" wieder auf.</p>
 
         <p>Wir sind nebenbei recht fleissig gewesen. Ich haette Ihnen gern die Buecher geschickt,
           die wir geschrieben haben, aber einmal ist es sehr teuer und zweites sagt man uns Buecher
           muessten durch die Buchhandlungen und Verlage drueben bestellt werden.</p>
 
-        <p>So schicken wir Ihnen nur einen Berg Prospekte. Meine Frau<note type="reg"><persName
-              key="8154">Tetzner, Lisa</persName></note> hat eine grosse
-            Kinderodyssee<note type="reg"><name type="wrk" key="75368">Erlebnisse und Abenteuer der
+        <p>So schicken wir Ihnen nur einen Berg Prospekte. Meine Frau<note type="reg"> <persName key="8154">Tetzner, Lisa</persName></note> hat eine grosse
+            Kinderodyssee<note type="reg"> <name type="wrk" key="75368">Erlebnisse und Abenteuer der
               Kinder aus Nr. 67. Odyssee einer Jugend</name></note> begonnen. 10 Baende. Sie beginnt
           in <placeName key="49025">Berlin</placeName>, geht um die ganze Welt und Ende in der
-            <placeName key="49625">Schweiz</placeName>. In <placeName key="49324"
-            >Schweden</placeName> ist sie schon vollstaendig erschienen. Hier gestern der 5
-            Band<note type="reg"><name type="wrk" key="75369">Die Kinder auf der
-          Insel</name></note>. Jetzt, nachdem die Grenzen wieder offen sind, erscheint die <name
-            type="wrk" key="75368">Serie</name> in <placeName key="49350">Norwegen</placeName>,
-            <placeName key="49323">Daenemark</placeName>, <placeName key="49349"
-            >Finnland</placeName> und <placeName key="48914">Frankreich</placeName>. Auch die
+            <placeName key="49625">Schweiz</placeName>. In <placeName key="49324">Schweden</placeName> ist sie schon vollstaendig erschienen. Hier gestern der 5
+            Band<note type="reg"> <name type="wrk" key="75369">Die Kinder auf der
+          Insel</name></note>. Jetzt, nachdem die Grenzen wieder offen sind, erscheint die <name type="wrk" key="75368">Serie</name> in <placeName key="49350">Norwegen</placeName>,
+            <placeName key="49323">Daenemark</placeName>, <placeName key="49349">Finnland</placeName> und <placeName key="48914">Frankreich</placeName>. Auch die
           Tschechen wollen sie bringen.</p>
 
-        <p>Ich haette gern, dass Meyers<note type="reg"><persName key="75333">Mayer,
+        <p>Ich haette gern, dass Meyers<note type="reg"> <persName key="75333">Mayer,
               Bernhard</persName> und <persName key="75332">Mayer, Auguste</persName></note> die
           Buecher einmal lesen, denn ein grosser Teil der Fluechtlinge sind Judenkinder. Vielleicht
           koennen er oder Sie die Sachen einmal in einer New Yorker Buchhandlung bestellen. Von mir
@@ -186,7 +162,7 @@
           von Ihnen kommen. Unsere Adresse ist ewig die Alte, und <emph n="salute">gruessen Sie alle
             und Ihnen selber alles Liebe</emph></p>
 
-        <p rend="center"><emph n="salute">Von uns Beiden<note type="reg"><persName key="8154">Tetzner, Lisa</persName></note></emph></p>
+        <p rend="center"><emph n="salute">Von uns Beiden<note type="reg"> <persName key="8154">Tetzner, Lisa</persName></note></emph></p>
 
       </div>
     </body>

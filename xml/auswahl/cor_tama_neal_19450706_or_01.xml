@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>Tau, Max A III/4-6</bibl>
@@ -50,7 +49,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-1033</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Fragmentarisches Original auf dem Briefbogen des Verlags "Neuer Verlag A/B, Vasagatan 18, Stockholm, Telegramm und Telefon Esselte, Postgiro 197458, Auslieferung: Zürich, London, New York", darüber das Verlagssignet (rote Wunderlampe). Am Ende der Seite wurde, von fremder Hand, notiert: "von Max Tau" und "(Rest fehlt v. Brief)".&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Fragmentarisches Original auf dem Briefbogen des Verlags "Neuer Verlag A/B, Vasagatan 18, Stockholm, Telegramm und Telefon Esselte, Postgiro 197458, Auslieferung: Z&#252;rich, London, New York", dar&#252;ber das Verlagssignet (rote Wunderlampe). Am Ende der Seite wurde, von fremder Hand, notiert: "von Max Tau" und "(Rest fehlt v. Brief)".&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -68,29 +67,30 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
         <figure>
           <graphic n="0" url="cor_tama_neal_19450706_or_01.tif"/>
         </figure>
-        <p rend="text-align:right"><placeName type="write"><placeName key="2824">Stockholm</placeName></placeName>, den <date type="write">6. Juli 1945</date>.<lb/>T/WN/Neu</p>
-        <lb/>
-        <p>Herrn Dr. <persName key="2113">Alfred Neumann</persName>, <placeName key="5109">1527, No. Stanley Ave</placeName>,<lb/><hi rend="underline"><placeName key="3678">Los Angeles 46</placeName>.</hi><lb/><placeName key="41">U.S.A.</placeName></p>
-        <lb/>
+        <p rend="text-align:right"><placeName type="write"><placeName key="2824">Stockholm</placeName></placeName>, den <date type="write">6. Juli 1945</date>.<lb/> T/WN/Neu</p>
+        <lb/> 
+        <p>Herrn Dr. <persName key="2113">Alfred Neumann</persName>, <placeName key="5109">1527, No. Stanley Ave</placeName>,<lb/> <hi rend="underline"><placeName key="3678">Los Angeles 46</placeName>.</hi><lb/> <placeName key="41">U.S.A.</placeName></p>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ P3">Mein verehrter, lieber <name role="rec"><persName key="2113">Alfred Neumann</persName></name>,</span>
         </p>
-        <lb/>
+        <lb/> 
         <p>Es gibt Tage, wo aller Pessimismus, den die Erscheinungen der Nachkriegszeit in sich tragen, verweht, wenn das menschliche Echo zu uns kommt.</p>
-        <lb/>
-        <p>Vorläufig bin ich hier noch von jeder Verbindung mit der <placeName key="108">Schweiz</placeName>, und mit <placeName key="5110">Nord-</placeName> und <placeName key="3690">Südamerika</placeName> was die Auslieferung der Bücher angeht, abgeschlossen. Aber ich weiss, dass es nicht mehr lange dauern kann. Und in diesem Augenblick erreicht mich Ihr Brief, der mich nicht nur froh macht, der mir ein Beweis ist, dass alle wirkliche Liebe niemals einseitig ist. Wenn ich daran zurückdenke, wie mein Freund <persName key="1879">Wolfgang von Einsiedel</persName> als ich Student und krank war, mir den <name type="wrk" key="4990">"König Haber"</name> in die Hand drückte, und wir dann Nächte lang nur über Ihre Gestaltungskunst sprachen, dann bin ich wirklich froh, Ihren Brief in den Händen zu halten.</p>
-        <lb/>
-        <p>Vor allen Dingen kann man garnicht genug danken, dass man gerettet ist. Wir wissen beide von dieser Verpflichtung. Aber ich kann nicht an Sie schreiben, ohne Ihnen zu danken für die Freude, Ihre Werke zu betreuen und Teil zu haben an Ihrem neuen Schaffen. Ja, wir müssen unsere Beziehungen so intensiv als möglich gestalten. Ich freue mich auf den Tag, wo wir zusammensitzen können und über alles was uns am Herzen liegt, sprechen können.</p>
-        <lb/>
-        <p>Vorläufig ist die Aussicht, die Bücher nach <placeName key="1704">Deutschland</placeName> zu bekommen gering, aber die entscheidenden Verhandlungen der <orgName key="3964">Alliierten</orgName> gehen gerade jetzt vor sich, und in ein paar Monaten muss alles anders aussehen.</p>
+        <lb/> 
+        <p>Vorl&#228;ufig bin ich hier noch von jeder Verbindung mit der <placeName key="108">Schweiz</placeName>, und mit <placeName key="5110">Nord-</placeName> und <placeName key="3690">S&#252;damerika</placeName> was die Auslieferung der B&#252;cher angeht, abgeschlossen. Aber ich weiss, dass es nicht mehr lange dauern kann. Und in diesem Augenblick erreicht mich Ihr Brief, der mich nicht nur froh macht, der mir ein Beweis ist, dass alle wirkliche Liebe niemals einseitig ist. Wenn ich daran zur&#252;ckdenke, wie mein Freund <persName key="1879">Wolfgang von Einsiedel</persName> als ich Student und krank war, mir den <name type="wrk" key="4990">"K&#246;nig Haber"</name> in die Hand dr&#252;ckte, und wir dann N&#228;chte lang nur &#252;ber Ihre Gestaltungskunst sprachen, dann bin ich wirklich froh, Ihren Brief in den H&#228;nden zu halten.</p>
+        <lb/> 
+        <p>Vor allen Dingen kann man garnicht genug danken, dass man gerettet ist. Wir wissen beide von dieser Verpflichtung. Aber ich kann nicht an Sie schreiben, ohne Ihnen zu danken f&#252;r die Freude, Ihre Werke zu betreuen und Teil zu haben an Ihrem neuen Schaffen. Ja, wir m&#252;ssen unsere Beziehungen so intensiv als m&#246;glich gestalten. Ich freue mich auf den Tag, wo wir zusammensitzen k&#246;nnen und &#252;ber alles was uns am Herzen liegt, sprechen k&#246;nnen.</p>
+        <lb/> 
+        <p>Vorl&#228;ufig ist die Aussicht, die B&#252;cher nach <placeName key="1704">Deutschland</placeName> zu bekommen gering, aber die entscheidenden Verhandlungen der <orgName key="3964">Alliierten</orgName> gehen gerade jetzt vor sich, und in ein paar Monaten muss alles anders aussehen.</p>
       </div>
     </body>
   </text>

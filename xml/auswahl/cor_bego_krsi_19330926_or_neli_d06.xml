@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,10 +29,8 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F2</ab>
-                <ab type="location"><placeName key="49025" type="write" cert="medium"
-                        evidence="Vordruck">Berlin</placeName></ab>
-                <ab type="date"><date when="1933-09-26" cert="high" evidence="Brieftext"
-                        >26.9.1933</date></ab>
+                <ab type="location"><placeName key="49025" type="write" cert="medium" evidence="Vordruck">Berlin</placeName></ab>
+                <ab type="date"><date when="1933-09-26" cert="high" evidence="Brieftext">26.9.1933</date></ab>
                 <ab type="role"><persName key="15182" role="aut">Gottfried
                         Bermann-Fischer</persName></ab>
                 <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
@@ -44,10 +38,10 @@
                 <ab type="reg"/>
                 <ab type="desc">Brief von Gottfried Bermann Fischer. Als Vordruck ist auf dem
                     Briefpapier der Schriftzug und die Adresse des Fischer Verlags abgebildet.
-                    Genannt werden "S. Fischer Verlag / Berlin, W 57, Bülowstraße 90,
-                    Aktiengesellschaft" und die Bankdaten, Fernsprechanschlüsse und
+                    Genannt werden "S. Fischer Verlag / Berlin, W 57, B&#252;lowstra&#223;e 90,
+                    Aktiengesellschaft" und die Bankdaten, Fernsprechanschl&#252;sse und
                     Telegrammadressen. Auf einem Stempel in roter Schrift steht darunter: "jetzt:,
-                    Selbstanschluß:, B2 (lützow) 9971".</ab>
+                    Selbstanschlu&#223;:, B2 (l&#252;tzow) 9971".</ab>
             </sourceDesc>
 
         </fileDesc>
@@ -66,8 +60,7 @@
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2014-08-22">22.8.2014</date>, <date when="2014-09-30">30.9.2014</date>,
-                    <date when="2014-11-19">19.11.2014</date>, <date when="2015-03-19"
-                        >19.3.2015</date>, <date when="2015-04-08">8.4.2015</date>
+                    <date when="2014-11-19">19.11.2014</date>, <date when="2015-03-19">19.3.2015</date>, <date when="2015-04-08">8.4.2015</date>
             </change>
 
             <change n="collation">
@@ -96,6 +89,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -110,48 +104,40 @@
 
                 <p>Herrn</p>
 
-                <p rend="center">Dr. S. Kracauer,<lb/><orgName key="69059"
-                    >Madison-Hotel</orgName>,<lb/>143, Bld. St.-Germain,</p>
+                <p rend="center">Dr. S. Kracauer,<lb/> <orgName key="69059">Madison-Hotel</orgName>,<lb/> 143, Bld. St.-Germain,</p>
 
                 <p rend="right"><hi rend="ul"><placeName key="49096">Paris</placeName> 6e</hi></p>
 
-                <p><emph n="salutation">Lieber Herr Doktor <persName key="7721" role="rec"
-                            >Kracauer</persName></emph>!</p>
+                <p><emph n="salutation">Lieber Herr Doktor <persName key="7721" role="rec">Kracauer</persName></emph>!</p>
 
-                <p>Ich bin leider durch das leichtfertige und unnütze Verhalten des Verlages<note
-                        type="reg"><orgName key="73074">Querido-Verlag</orgName></note>, den Sie
-                    offenbar in dem Schreiben<note type="intern">Nicht ermittelt.</note> vom
-                    30. August meinen, gezwungen worden, die Beziehungen zu diesem <orgName
-                        key="73074">Verlag</orgName> abzubrechen. Durch eine Zeitschrift<note
-                        type="reg"><name type="per" key="77161">Die Sammlung</name></note>, die er
+                <p>Ich bin leider durch das leichtfertige und unn&#252;tze Verhalten des Verlages<note type="reg"> <orgName key="73074">Querido-Verlag</orgName></note>, den Sie
+                    offenbar in dem Schreiben<note type="intern"> Nicht ermittelt.</note> vom
+                    30. August meinen, gezwungen worden, die Beziehungen zu diesem <orgName key="73074">Verlag</orgName> abzubrechen. Durch eine Zeitschrift<note type="reg"> <name type="per" key="77161">Die Sammlung</name></note>, die er
                     herausgegeben hat, hat er einer ganzen Reihe von deutschen Autoren und uns
-                    selbst grossen Schaden zugefügt und unsere Bemühungen, die Werke dieser Autoren
+                    selbst grossen Schaden zugef&#252;gt und unsere Bem&#252;hungen, die Werke dieser Autoren
                     in <placeName key="49105">Deutschland</placeName> zu verbreiten, aufs Schwerste
-                    gefährdet. Ich bedaure das sehr, weil diese <name type="per" key="77161"
-                        >Zeitschrift</name>, um die es sich handelt, genau das Gegenteil von dem
-                    erreicht, was offenbar vom Herausgeber<note type="reg"><persName key="519">Mann,
+                    gef&#228;hrdet. Ich bedaure das sehr, weil diese <name type="per" key="77161">Zeitschrift</name>, um die es sich handelt, genau das Gegenteil von dem
+                    erreicht, was offenbar vom Herausgeber<note type="reg"> <persName key="519">Mann,
                             Klaus</persName></note> beabsichtigt war und sich als
-                    schädlich im höchsten Masse in unser aller Interesse erwiesen hat. Hätte man die
-                    ursprünglich beabsichtigte Form einer rein literarischen Zeitschrift
-                    beibehalten, so hätte sie von grossem Wert und Nutzen sein können. Es tut mir
+                    sch&#228;dlich im h&#246;chsten Masse in unser aller Interesse erwiesen hat. H&#228;tte man die
+                    urspr&#252;nglich beabsichtigte Form einer rein literarischen Zeitschrift
+                    beibehalten, so h&#228;tte sie von grossem Wert und Nutzen sein k&#246;nnen. Es tut mir
                     leid, dass ich Sie deshalb nicht an diese Stelle empfehlen kann. Ich halte eine
-                    solche Empfehlung aber auch nicht für notwendig.</p>
+                    solche Empfehlung aber auch nicht f&#252;r notwendig.</p>
 
                 <p>Es gibt zwei Verlage, die meiner Ansicht nach in Frage kommen. Das
                     eine ist der Verlag <orgName key="73072">Allert de Lange</orgName>, dessen
-                    Lektor <persName key="9160">Kesten</persName> ist (Adresse: <placeName
-                        key="48988">Amsterdam</placeName>, Damrak 62), das andere<pb n="2"/> der
+                    Lektor <persName key="9160">Kesten</persName> ist (Adresse: <placeName key="48988">Amsterdam</placeName>, Damrak 62), das andere<pb n="2"/> der
                     Verlag <orgName key="73074">Querido</orgName>, der die Leitung
                     seiner deutschen Abteilung Dr. <persName key="12997">Landshoff</persName>
-                    übertragen hat (Adresse: <placeName key="48988">Amsterdam</placeName>,
+                    &#252;bertragen hat (Adresse: <placeName key="48988">Amsterdam</placeName>,
                     Keizersgracht 333)</p>
 
-                <p><emph n="salute">Mit besten Grüssen</emph></p>
+                <p><emph n="salute">Mit besten Gr&#252;ssen</emph></p>
 
                 <p rend="center"><emph n="salute">Ihr</emph></p>
 
-                <p rend="right"><hi rend="ul">Dr. <persName key="15182" role="signed"
-                            >Bermann</persName></hi></p>
+                <p rend="right"><hi rend="ul">Dr. <persName key="15182" role="signed">Bermann</persName></hi></p>
             </div>
         </body>
     </text>

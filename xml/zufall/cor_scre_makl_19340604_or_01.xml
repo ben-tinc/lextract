@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>KM B 246</bibl>
@@ -38,7 +37,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
 1934-06-04          </date>
         </ab>
         <ab type="role">
-          <persName role="aut" key="1707">Schickele, René</persName>
+          <persName role="aut" key="1707">Schickele, Ren&#233;</persName>
         </ab>
         <ab type="role">
           <persName role="rec" key="16">Mann, Klaus</persName>
@@ -46,7 +45,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-977</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Handschriftliches Original von René Schickele.&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Handschriftliches Original von Ren&#233; Schickele.&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -64,6 +63,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -73,28 +73,28 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         </figure>
         <p rend="text-align:center">
           <placeName key="46">Nice-Fabron</placeName>
-          <lb/>
+          <lb/> 
           <orgName key="4761">"La Florida"</orgName>
-          <lb/>
+          <lb/> 
           <placeName key="4760">Chemin de la Lanterne</placeName>
-          <lb/>
+          <lb/> 
           <date type="write">4.6.34.</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ P3">L. <name role="rec"><persName key="16">K. M.</persName></name></span>
         </p>
-        <lb/>
-        <p>schön, dass Sie bald herunterkommen wollen! Aber ich möchte Sie nicht glauben lassen, die Angelegenheit der neuen Folge <name type="per" key="765">"Weisser Blätter"</name> sei eilig. Vor Ende Oktober wird nichts entschieden werden, das 1. Heft käme, wenn alles klappt, Januar 1935.</p>
-        <lb/>
-        <p>Er hielt es für richtig, Sie jetzt schon zu benachrichtigen, weil ich nicht möchte, dass <hi rend="underline">dritte</hi> Ihnen Märchen (Greuelmärchen) erzählen. Sie können sich darauf verlassen, dass ich mich in keiner Weise binde, bevor ich mit Ihnen nicht gesprochen habe. Ich würde in den <name type="per" key="765">"W. Bl."</name> keine Polemik treiben, sondern gewissermassen <hi rend="underline">Anschauungsunterricht</hi> erteilen. Vorläufig bin ich noch stark mit eigenen Arbeiten beschäftigt.</p>
-        <lb/>
-        <p>Herzliche Grüsse von uns an Sie und <persName key="2066">Erika</persName>.</p>
-        <lb/>
-        <p rend="text-align:right">Ihr <name role="aut"><span type="Signatur"><persName key="1707">René Schickele</persName></span></name></p>
-        <lb/>
+        <lb/> 
+        <p>sch&#246;n, dass Sie bald herunterkommen wollen! Aber ich m&#246;chte Sie nicht glauben lassen, die Angelegenheit der neuen Folge <name type="per" key="765">"Weisser Bl&#228;tter"</name> sei eilig. Vor Ende Oktober wird nichts entschieden werden, das 1. Heft k&#228;me, wenn alles klappt, Januar 1935.</p>
+        <lb/> 
+        <p>Er hielt es f&#252;r richtig, Sie jetzt schon zu benachrichtigen, weil ich nicht m&#246;chte, dass <hi rend="underline">dritte</hi> Ihnen M&#228;rchen (Greuelm&#228;rchen) erz&#228;hlen. Sie k&#246;nnen sich darauf verlassen, dass ich mich in keiner Weise binde, bevor ich mit Ihnen nicht gesprochen habe. Ich w&#252;rde in den <name type="per" key="765">"W. Bl."</name> keine Polemik treiben, sondern gewissermassen <hi rend="underline">Anschauungsunterricht</hi> erteilen. Vorl&#228;ufig bin ich noch stark mit eigenen Arbeiten besch&#228;ftigt.</p>
+        <lb/> 
+        <p>Herzliche Gr&#252;sse von uns an Sie und <persName key="2066">Erika</persName>.</p>
+        <lb/> 
+        <p rend="text-align:right">Ihr <name role="aut"><span type="Signatur"><persName key="1707">Ren&#233; Schickele</persName></span></name></p>
+        <lb/> 
         <p rend="text-align:right">Briefe aus <placeName key="1704">Deutschland</placeName> mit "Heil <persName key="1971">Hitler</persName>!" beantworte ich neuerdings mit: "Gelobt sei Jesus Christus!"</p>
       </div>
     </body>

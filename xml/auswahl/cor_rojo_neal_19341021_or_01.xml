@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>AN B 238</bibl>
@@ -64,27 +63,28 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
         <figure>
           <graphic n="0" url="cor_rojo_neal_19341021_or_01.tif"/>
         </figure>
-        <p rend="text-align:right">derzeit:<lb/>bei Kesten<note type="com">Von Mitte September bis Mitte November 1934 bewohnen <persName key="26">Joseph Roth</persName>, <persName key="17">Hermann Kesten</persName> und <persName key="1709">Heinrich Mann</persName> sowie ihre jeweiligen Partnerinnen <persName key="2065">Andrea Manga Bell</persName>, <persName key="73">Toni Kesten</persName> und <persName key="2069">Nelly Mann</persName> gemeinsam ein Haus an der <placeName key="2897">121 Promenade des Anglais</placeName>. <persName key="1707">René Schickele</persName> erwähnt dieses "Dreidichterhaus" in seinem <ref target="fud://1021">Brief</ref> an <persName key="2113">Alfred Neumann</persName> vom 18.11.1934.</note>,<lb/><placeName key="2897">121. Promenade des Anglais</placeName><lb/><placeName type="write"><placeName key="46">Nice</placeName></placeName>,<lb/>am <date type="write">21. X. 1934</date>.</p>
-        <lb/>
+        <p rend="text-align:right">derzeit:<lb/> bei Kesten<note type="com"> Von Mitte September bis Mitte November 1934 bewohnen <persName key="26">Joseph Roth</persName>, <persName key="17">Hermann Kesten</persName> und <persName key="1709">Heinrich Mann</persName> sowie ihre jeweiligen Partnerinnen <persName key="2065">Andrea Manga Bell</persName>, <persName key="73">Toni Kesten</persName> und <persName key="2069">Nelly Mann</persName> gemeinsam ein Haus an der <placeName key="2897">121 Promenade des Anglais</placeName>. <persName key="1707">Ren&#233; Schickele</persName> erw&#228;hnt dieses "Dreidichterhaus" in seinem <ref target="fud://1021">Brief</ref> an <persName key="2113">Alfred Neumann</persName> vom 18.11.1934.</note>,<lb/> <placeName key="2897">121. Promenade des Anglais</placeName><lb/> <placeName type="write"><placeName key="46">Nice</placeName></placeName>,<lb/> am <date type="write">21. X. 1934</date>.</p>
+        <lb/> 
         <space/>
-        <lb/>
-        <p><span type="Anrede" n="Typ P3">Lieber Herr <name role="rec"><persName key="2113">Alfred Neumann</persName></name>,</span> ich danke Ihnen sehr für Ihren lieben Brief und für Ihr ganz bedeutendes, ja, <hi rend="double-underline">lichtes</hi> <name type="wrk" key="4734">Buch</name>. Es scheint mir souverän und klug, ich habe oft gelacht, als ich es las, doppelt gelacht, sozusagen: erstens aus Freude am Mitgeteilten, zweitens aus artistischer Freude am Gelungenen, am <hi rend="double-underline">Können</hi>. Es ist ein menschliches Buch. Ich versuche mich jetzt zum ersten Mal selbst an einem historischen Stoff, und ich glaube, ich kann ermessen, wie schwer es ist, aus dem Erstarrten das Lebendige zu machen.</p>
-        <lb/>
-        <p>Zu viele Menschen waren um uns in <placeName key="18">Paris</placeName>, zu viel privates Unglück in mir und um mich allein. Und Sie gehören zu jenen Schriftstellern, deren private Erscheinung beinahe bewußt zu verhüllen scheint durch "Korrektes" das Genialische – – und ich bin das Gegenteil von Keusch. Es ist ein Jammer, daß wir Alle immer "umgeben" sind. Das macht nichts: wir werden uns wiedersehn, so fühle ich.</p>
-        <lb/>
-        <p>Praktisch: vor allen Büchern ist das <name type="wrk" key="4734">Ihrige</name> und mein <name type="wrk" key="2922">Antichrist</name> ein Erfolg des <orgName key="4244">Verlages</orgName>. Ich hoffe, Sie leben besser, als ich, in diesem Augenblick. Dennoch wird es auch Sie freuen, wie mich. Die Erde, die Erde! (Und es ist dennoch so nett auf dieser Welt!)</p>
-        <lb/>
-        <p rend="text-align:center">Küssen Sie Ihrer schönen <persName key="2114">Frau</persName> die Hand für mich!</p>
-        <lb/>
-        <p rend="text-align:right">Ich grüße Sie in herzlicher Kameradschaft,<lb/>nicht nur in literarischer, auch gewissermaßen in metaphysischer, weil Sie den Teufel<note type="com">Wohl eine Anspielung auf <persName key="2113">Alfred Neumanns</persName> 1926 veröffentlichten Roman <name type="wrk" key="4730">Der Teufel</name>.</note> so gut kennen.</p>
-        <lb/>
-        <p rend="text-align:right">Ihr<lb/><name role="aut"><span type="Signatur"><persName key="26">Joseph Roth</persName></span></name>.</p>
+        <lb/> 
+        <p><span type="Anrede" n="Typ P3">Lieber Herr <name role="rec"><persName key="2113">Alfred Neumann</persName></name>,</span> ich danke Ihnen sehr f&#252;r Ihren lieben Brief und f&#252;r Ihr ganz bedeutendes, ja, <hi rend="double-underline">lichtes</hi> <name type="wrk" key="4734">Buch</name>. Es scheint mir souver&#228;n und klug, ich habe oft gelacht, als ich es las, doppelt gelacht, sozusagen: erstens aus Freude am Mitgeteilten, zweitens aus artistischer Freude am Gelungenen, am <hi rend="double-underline">K&#246;nnen</hi>. Es ist ein menschliches Buch. Ich versuche mich jetzt zum ersten Mal selbst an einem historischen Stoff, und ich glaube, ich kann ermessen, wie schwer es ist, aus dem Erstarrten das Lebendige zu machen.</p>
+        <lb/> 
+        <p>Zu viele Menschen waren um uns in <placeName key="18">Paris</placeName>, zu viel privates Ungl&#252;ck in mir und um mich allein. Und Sie geh&#246;ren zu jenen Schriftstellern, deren private Erscheinung beinahe bewu&#223;t zu verh&#252;llen scheint durch "Korrektes" das Genialische &#8211; &#8211; und ich bin das Gegenteil von Keusch. Es ist ein Jammer, da&#223; wir Alle immer "umgeben" sind. Das macht nichts: wir werden uns wiedersehn, so f&#252;hle ich.</p>
+        <lb/> 
+        <p>Praktisch: vor allen B&#252;chern ist das <name type="wrk" key="4734">Ihrige</name> und mein <name type="wrk" key="2922">Antichrist</name> ein Erfolg des <orgName key="4244">Verlages</orgName>. Ich hoffe, Sie leben besser, als ich, in diesem Augenblick. Dennoch wird es auch Sie freuen, wie mich. Die Erde, die Erde! (Und es ist dennoch so nett auf dieser Welt!)</p>
+        <lb/> 
+        <p rend="text-align:center">K&#252;ssen Sie Ihrer sch&#246;nen <persName key="2114">Frau</persName> die Hand f&#252;r mich!</p>
+        <lb/> 
+        <p rend="text-align:right">Ich gr&#252;&#223;e Sie in herzlicher Kameradschaft,<lb/> nicht nur in literarischer, auch gewisserma&#223;en in metaphysischer, weil Sie den Teufel<note type="com"> Wohl eine Anspielung auf <persName key="2113">Alfred Neumanns</persName> 1926 ver&#246;ffentlichten Roman <name type="wrk" key="4730">Der Teufel</name>.</note> so gut kennen.</p>
+        <lb/> 
+        <p rend="text-align:right">Ihr<lb/> <name role="aut"><span type="Signatur"><persName key="26">Joseph Roth</persName></span></name>.</p>
       </div>
     </body>
   </text>

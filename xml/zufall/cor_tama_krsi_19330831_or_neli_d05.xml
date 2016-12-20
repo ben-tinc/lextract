@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,8 +17,7 @@
                 <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
                 <p><bibl>A:Kracauer</bibl></p>
 
-                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName
-                        key="77608">Aase Gjerdrum</persName></ab>
+                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName key="77608">Aase Gjerdrum</persName></ab>
                 <ab type="leaves">1</ab>
                 <ab type="pages">1</ab>
                 <ab type="type">lt</ab>
@@ -33,10 +28,8 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">P3</ab>
-                <ab type="location"><placeName key="49025" type="write" cert="high"
-                        evidence="Brieftext">Berlin</placeName></ab>
-                <ab type="date"><date when="1933-08-31" cert="high" evidence="Brieftext"
-                        >31.8.1933</date></ab>
+                <ab type="location"><placeName key="49025" type="write" cert="high" evidence="Brieftext">Berlin</placeName></ab>
+                <ab type="date"><date when="1933-08-31" cert="high" evidence="Brieftext">31.8.1933</date></ab>
                 <ab type="role"><persName key="74658" role="aut">Max Tau</persName></ab>
                 <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
                 <ab type="no">322397</ab>
@@ -56,15 +49,13 @@
             <change n="collation">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-08-12">12.8.2014</date>, <date when="2014-11-12">12.11.2014</date>,
-                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-19"
-                    >19.1.2015</date>
+                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-19">19.1.2015</date>
             </change>
 
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2015-02-04">4.2.2015</date>, <date when="2015-02-09">9.2.2015</date>,
-                    <date when="2015-02-10">10.2.2015</date>, <date when="2015-03-23"
-                        >23.3.2015</date>, <date when="2015-04-07">7.4.2015</date>
+                    <date when="2015-02-10">10.2.2015</date>, <date when="2015-03-23">23.3.2015</date>, <date when="2015-04-07">7.4.2015</date>
             </change>
 
 
@@ -98,6 +89,7 @@
 
     </teiHeader>
 
+    
     <text>
         <body>
             <div>
@@ -106,58 +98,49 @@
                     <graphic n="1" url="cor_tama_krsi_19330831_or_01"/>
                 </figure>
 
-                <p rend="right"><placeName key="49025" type="write">Berlin</placeName>, den <date
-                        when="1933-08-31" cert="high">31. August 1933.</date></p>
+                <p rend="right"><placeName key="49025" type="write">Berlin</placeName>, den <date when="1933-08-31" cert="high">31. August 1933.</date></p>
 
-                <p><emph n="salutation">Mein lieber, guter <persName key="7721" role="rec"
-                            >Freund</persName></emph>!</p>
+                <p><emph n="salutation">Mein lieber, guter <persName key="7721" role="rec">Freund</persName></emph>!</p>
 
                 <p>Wenn ich erst heute schreibe, so liegt es nicht daran, dass ich nicht an Sie
                     denke, sondern nur daran, dass die Kraft, meine Existenz zu erhalten, mich so
-                    beansprucht, dass ich wirklich kaum zum Schreiben komme. Für die nächsten zwei
+                    beansprucht, dass ich wirklich kaum zum Schreiben komme. F&#252;r die n&#228;chsten zwei
                     Monate hoffe ich versorgt zu sein.</p>
 
                 <p>Ich war neulich in <placeName key="49307">Frankfurt</placeName> und habe mit
-                        Zimmermann<note type="com" cert="high">Vermutlich handelt es sich um den
+                        Zimmermann<note type="com" cert="high"> Vermutlich handelt es sich um den
                         seinerzeit bei der <name type="per" key="70949">Frankfurter Zeitung</name>
-                        beschäftigten Journalisten <persName key="77590">Karl
+                        besch&#228;ftigten Journalisten <persName key="77590">Karl
                         Zimmermann</persName></note> gesprochen, der mir sagte, dass der Aufsatz,
-                    den Sie drüben geschrieben haben, Ihnen sehr geschadet hat. Denn auch hier im
-                        <name type="per" key="70890">Börsen-Courier</name> hat man mir deswegen
-                    Schwierigkeiten gemacht. In den nächsten Tagen werde ich mich mit <persName
-                        key="77589">Ihering</persName> treffen, um noch einmal ganz energisch einen
-                    Vorstoss für Sie zu unternehmen. Gub.<note type="reg"><persName key="74021"
-                            >Gubler, Friedrich Traugott</persName></note> ist an der<name type="per"
-                        key="70819">Voss</name> und hat mir versprochen, Sie zu beschäftigen. Hat er
+                    den Sie dr&#252;ben geschrieben haben, Ihnen sehr geschadet hat. Denn auch hier im
+                        <name type="per" key="70890">B&#246;rsen-Courier</name> hat man mir deswegen
+                    Schwierigkeiten gemacht. In den n&#228;chsten Tagen werde ich mich mit <persName key="77589">Ihering</persName> treffen, um noch einmal ganz energisch einen
+                    Vorstoss f&#252;r Sie zu unternehmen. Gub.<note type="reg"> <persName key="74021">Gubler, Friedrich Traugott</persName></note> ist an der<name type="per" key="70819">Voss</name> und hat mir versprochen, Sie zu besch&#228;ftigen. Hat er
                     es schon getan? Er spricht lieb und kameradschaftlich von Ihnen. Aber heute sind
                     ja nur die Taten entscheidend.</p>
 
-                <p>Im Verlag<note type="reg"><orgName key="74659">Verlag Bruno
+                <p>Im Verlag<note type="reg"> <orgName key="74659">Verlag Bruno
                         Cassirer</orgName></note> geht es leidlich.</p>
 
-                <p>Was machen Sie? Was macht Ihr Roman<note type="com" cert="high">Vermutlich
-                        bezieht sich Tau hier auf die 1933 erschienene französische Ausgabe von
-                        Kracauers erstem Roman <name type="wrk" key="74254"
-                    >Ginster</name>.</note>?</p>
+                <p>Was machen Sie? Was macht Ihr Roman<note type="com" cert="high"> Vermutlich
+                        bezieht sich Tau hier auf die 1933 erschienene franz&#246;sische Ausgabe von
+                        Kracauers erstem Roman <name type="wrk" key="74254">Ginster</name>.</note>?</p>
 
-                <p>Wir müssen ja doch durch das Schicksal sehr verbunden sein.</p>
+                <p>Wir m&#252;ssen ja doch durch das Schicksal sehr verbunden sein.</p>
 
-                <p>Ich ziehe um, weil meine jetzigen Wirtsleute<note type="intern">unbekannt</note>
-                    ihren Haushalt auflösen, und zwar in das Haus, in dem Sie zuletzt gewohnt haben.
-                    Sie können sich vorstellen, was für Gedanken ich hatte, als ich im Fahrstuhl
+                <p>Ich ziehe um, weil meine jetzigen Wirtsleute<note type="intern"> unbekannt</note>
+                    ihren Haushalt aufl&#246;sen, und zwar in das Haus, in dem Sie zuletzt gewohnt haben.
+                    Sie k&#246;nnen sich vorstellen, was f&#252;r Gedanken ich hatte, als ich im Fahrstuhl
                     nach dem 4. Stockwerk mieten fuhr.</p>
 
-                <p>Wie geht es Lil<note type="reg"><persName key="74110">Kracauer,
-                            Elisabeth</persName></note>? Bitte schreiben Sie <hi rend="spaced"
-                        >mir</hi> doch einmal ausführlich, was Sie machen, wovon Sie existieren, was
-                    Ihre Zukunftspläne sind. Stimmt es, dass Ihr zweiter Roman<note type="reg"><name
-                            type="wrk" key="74424">Georg</name></note> fertig ist und bald
+                <p>Wie geht es Lil<note type="reg"> <persName key="74110">Kracauer,
+                            Elisabeth</persName></note>? Bitte schreiben Sie <hi rend="spaced">mir</hi> doch einmal ausf&#252;hrlich, was Sie machen, wovon Sie existieren, was
+                    Ihre Zukunftspl&#228;ne sind. Stimmt es, dass Ihr zweiter Roman<note type="reg"> <name type="wrk" key="74424">Georg</name></note> fertig ist und bald
                     erscheint? Glauben Sie mir, dass ich immer mit Ihnen verbunden bin.</p>
 
                 <p>Mit meiner Niere geht es gut. Nur bin ich mit den Nerven sehr herunter. Aber an
-                    Erholung ist noch immer nicht zu denken. Bitte schreiben Sie mir bald, und <emph
-                        n="salute">seien Sie und die<lb/>liebe <persName key="74110">Lil</persName>
-                        in alter Herzlichkeit gegrüsst</emph></p>
+                    Erholung ist noch immer nicht zu denken. Bitte schreiben Sie mir bald, und <emph n="salute">seien Sie und die<lb/> liebe <persName key="74110">Lil</persName>
+                        in alter Herzlichkeit gegr&#252;sst</emph></p>
 
                 <p rend="center"><emph n="salute">von Ihrem getreuen</emph></p>
 

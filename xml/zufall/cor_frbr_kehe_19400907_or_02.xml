@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 283</bibl>
@@ -68,6 +67,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -77,19 +77,19 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <p rend="text-align:right">
           <date type="write">7. September 1940.</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="17">Hermann Kesten</persName></name>,</span>
         </p>
-        <lb/>
-        <p>ich danke Ihnen sehr herzlich dafür, dass Sie bei der Versendung Ihres <name type="wrk" key="2850">Philipp-Buches</name> an mich gedacht haben. Sie erinnern sich vielleicht, dass mich der Gegenstand auch einmal beschäftigt hat; so freue ich mich aus mehr als <hi rend="underline">einem</hi> Grund auf die Lektüre. Die deutsche Ausgabe des <name type="wrk" key="2850">Buches</name> habe ich entweder nie bekommen oder sie ist irgendwo zurückgeblieben, ehe ich lesen konnte. <pb/>Hoffentlich kommt durch das englische Medium<note type="com">Die amerikanische Ausgabe von <persName key="17">Hermann Kestens</persName> historischem Roman <name type="wrk" key="2850">König Philipp der Zweite</name> erscheint 1940 unter dem Titel <name type="wrk" key="2850">I the king</name> bei der <orgName key="801">Alliance Book Corporation</orgName> in <placeName key="84">New York</placeName>. Ein Jahr zuvor war die britische Ausgabe bei <orgName key="1515">Routledge</orgName> in <placeName key="2951">London</placeName> erschienen.</note> genug von Ihrer Art durch, um den Genuss annähernd vollkommen zu machen!</p>
-        <lb/>
-        <p>Ich lese immer die so verlässlichen, so getreuen Berichte, die Sie an meine <persName key="118">Frau</persName> gelangen lassen und finde es immer absurder, dass wir uns noch niemals gesprochen haben. Bei der nächsten Fahrt nach <placeName key="84">New York</placeName> – vielleicht im Spätherbst – muss das endlich nachgeholt werden, und gründlich.</p>
-        <lb/>
-        <p rend="text-align:center">Herzlich grüssend</p>
-        <lb/>
+        <lb/> 
+        <p>ich danke Ihnen sehr herzlich daf&#252;r, dass Sie bei der Versendung Ihres <name type="wrk" key="2850">Philipp-Buches</name> an mich gedacht haben. Sie erinnern sich vielleicht, dass mich der Gegenstand auch einmal besch&#228;ftigt hat; so freue ich mich aus mehr als <hi rend="underline">einem</hi> Grund auf die Lekt&#252;re. Die deutsche Ausgabe des <name type="wrk" key="2850">Buches</name> habe ich entweder nie bekommen oder sie ist irgendwo zur&#252;ckgeblieben, ehe ich lesen konnte. <pb/>Hoffentlich kommt durch das englische Medium<note type="com"> Die amerikanische Ausgabe von <persName key="17">Hermann Kestens</persName> historischem Roman <name type="wrk" key="2850">K&#246;nig Philipp der Zweite</name> erscheint 1940 unter dem Titel <name type="wrk" key="2850">I the king</name> bei der <orgName key="801">Alliance Book Corporation</orgName> in <placeName key="84">New York</placeName>. Ein Jahr zuvor war die britische Ausgabe bei <orgName key="1515">Routledge</orgName> in <placeName key="2951">London</placeName> erschienen.</note> genug von Ihrer Art durch, um den Genuss ann&#228;hernd vollkommen zu machen!</p>
+        <lb/> 
+        <p>Ich lese immer die so verl&#228;sslichen, so getreuen Berichte, die Sie an meine <persName key="118">Frau</persName> gelangen lassen und finde es immer absurder, dass wir uns noch niemals gesprochen haben. Bei der n&#228;chsten Fahrt nach <placeName key="84">New York</placeName> &#8211; vielleicht im Sp&#228;therbst &#8211; muss das endlich nachgeholt werden, und gr&#252;ndlich.</p>
+        <lb/> 
+        <p rend="text-align:center">Herzlich gr&#252;ssend</p>
+        <lb/> 
         <p rend="text-align:right">Ihr <span type="Signatur"><name role="aut"><persName key="1898">Bruno Frank</persName></name></span>.</p>
       </div>
     </body>

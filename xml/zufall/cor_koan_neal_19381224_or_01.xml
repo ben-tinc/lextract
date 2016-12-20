@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>AN B 158</bibl>
@@ -67,6 +66,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -75,24 +75,24 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <graphic n="1" url="cor_koan_neal_19381224_or_02.tif"/>
         </figure>
         <p rend="text-align:right">
-          <placeName key="5048">21 rue Casimir Périer</placeName>
-          <lb/>
+          <placeName key="5048">21 rue Casimir P&#233;rier</placeName>
+          <lb/> 
           <placeName key="18">Paris 7 <hi rend="sup">e</hi></placeName>
-          <lb/>
+          <lb/> 
           <date type="write">24. XII 38</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ F3">Sehr geehrter Herr <name role="rec"><persName key="2113">Neumann</persName></name></span>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
-        <p>So oft höre ich von Ihnen, aber sehen tun wir uns nie. Nun denke ich am 28. nach <placeName key="3664">Vence</placeName> auf 10 oder 12 Tage zu fahren und vielleicht kommen wir bei Schickeles<note type="com"><persName key="2185">Anna Schickele</persName>, <persName key="1707">René Schickele</persName></note> einmal zusammen. Es ist nicht der Grund meines Schreibens – sondern dieser Brief von Borchardts<note type="com"><persName key="5067">Marie Luise Borchardt</persName>, <persName key="5066">Rudolf Borchardt</persName></note> – hat man denn noch Zeit in dieser Epoche für einander? das <pb/>ist heute schon ein Glücksfall nicht wahr. Ich vermute Sie mit noch mehr Anliegen überhäuft als ich es bin, und doch kann ich sie kaum bewältigen. <persName key="1811">Blei</persName> ist ein besonderer Fall. <persName key="1922">Giraudoux</persName> verschaffte ihm die Einreise und jetzt fehlt ihm das Geld dafür. Ich schreibe an verschiedene Freunde auch in <placeName key="2789">Italien</placeName>. Aber werden sie "funktionieren?" In <placeName key="2789">Italien</placeName> ist er unbekannt. Kurz: es ist ein Fall den wir nicht auf sich beruhen lassen können. Er wollte nach <placeName key="4926">Cagnes</placeName> wo er billig leben könnte. In <placeName key="5068">Lucca</placeName> ist offenbar kein Bleiben mehr für ihn. Borchardts<note type="com"><persName key="5067">Marie Luise Borchardt</persName>, <persName key="5066">Rudolf Borchardt</persName></note> sind glaube ich auch in gar keiner günstigen Lage. Falls eine Collecte gestartet werden könnte für ihn würde ich natürlich auch alle Hebel in Bewegung setzen. Sagen Sie mir doch Ihre Ansicht! ab 29. bin ich täglich <placeName key="4791">15 rue du Pavillon</placeName>. <placeName key="3664">Vence</placeName> bei Schickeles<note type="com"><persName key="2185">Anna Schickele</persName>, <persName key="1707">René Schickele</persName></note>, wenn auch im Hotel wohne, dessen Name ich aber nicht weiss. Sein Telefon ist 293</p>
-        <lb/>
-        <p>Alles mögliche Gute! Alle Wünsche von Ihrer <span type="Signatur"><name role="aut"><persName key="2020">Annette Kolb</persName></name></span><note type="com">Nach einer 90° Drehung des Blattes am rechten Rand geschrieben.</note></p>
+        <lb/> 
+        <p>So oft h&#246;re ich von Ihnen, aber sehen tun wir uns nie. Nun denke ich am 28. nach <placeName key="3664">Vence</placeName> auf 10 oder 12 Tage zu fahren und vielleicht kommen wir bei Schickeles<note type="com"> <persName key="2185">Anna Schickele</persName>, <persName key="1707">Ren&#233; Schickele</persName></note> einmal zusammen. Es ist nicht der Grund meines Schreibens &#8211; sondern dieser Brief von Borchardts<note type="com"> <persName key="5067">Marie Luise Borchardt</persName>, <persName key="5066">Rudolf Borchardt</persName></note> &#8211; hat man denn noch Zeit in dieser Epoche f&#252;r einander? das <pb/>ist heute schon ein Gl&#252;cksfall nicht wahr. Ich vermute Sie mit noch mehr Anliegen &#252;berh&#228;uft als ich es bin, und doch kann ich sie kaum bew&#228;ltigen. <persName key="1811">Blei</persName> ist ein besonderer Fall. <persName key="1922">Giraudoux</persName> verschaffte ihm die Einreise und jetzt fehlt ihm das Geld daf&#252;r. Ich schreibe an verschiedene Freunde auch in <placeName key="2789">Italien</placeName>. Aber werden sie "funktionieren?" In <placeName key="2789">Italien</placeName> ist er unbekannt. Kurz: es ist ein Fall den wir nicht auf sich beruhen lassen k&#246;nnen. Er wollte nach <placeName key="4926">Cagnes</placeName> wo er billig leben k&#246;nnte. In <placeName key="5068">Lucca</placeName> ist offenbar kein Bleiben mehr f&#252;r ihn. Borchardts<note type="com"> <persName key="5067">Marie Luise Borchardt</persName>, <persName key="5066">Rudolf Borchardt</persName></note> sind glaube ich auch in gar keiner g&#252;nstigen Lage. Falls eine Collecte gestartet werden k&#246;nnte f&#252;r ihn w&#252;rde ich nat&#252;rlich auch alle Hebel in Bewegung setzen. Sagen Sie mir doch Ihre Ansicht! ab 29. bin ich t&#228;glich <placeName key="4791">15 rue du Pavillon</placeName>. <placeName key="3664">Vence</placeName> bei Schickeles<note type="com"> <persName key="2185">Anna Schickele</persName>, <persName key="1707">Ren&#233; Schickele</persName></note>, wenn auch im Hotel wohne, dessen Name ich aber nicht weiss. Sein Telefon ist 293</p>
+        <lb/> 
+        <p>Alles m&#246;gliche Gute! Alle W&#252;nsche von Ihrer <span type="Signatur"><name role="aut"><persName key="2020">Annette Kolb</persName></name></span><note type="com"> Nach einer 90&#176; Drehung des Blattes am rechten Rand geschrieben.</note></p>
       </div>
     </body>
   </text>

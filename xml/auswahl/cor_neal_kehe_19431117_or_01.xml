@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 859</bibl>
@@ -67,6 +66,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -76,22 +76,22 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <p rend="text-align:center">
           <date type="write">17. November 1943</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p rend="text-align:center">
           <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="17">Hermann Kesten</persName></name>,</span>
         </p>
-        <lb/>
-        <p>dies ist bei Gott nun die unglaublichste und hässlichste Geschichte, die mir nicht nur in der an unglaublichen und hässlichen Geschichten reichen Emigration, sondern in den fast dreissig Jahren meines literarischen Lebens wiederfahren ist. Dass ich mit einer Reihe selig entschlafener Herzen<note type="com">Vgl. den <ref target="fud://856">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="2113">Alfred Neumann</persName> vom 12.11.1943.</note> mitamputiert wurde, ist eine Delikatesse, die ich zu schätzen weiss. (<persName key="2267">Werfel</persName> lebt Gottseidank; aber er figuriert ja auch, selbst ohne Gedichte<note type="com">Welche Gedichte zur Veröffentlichung vorgesehen waren, ist nicht zu ermitteln. Die Publikation der Gedichte wird jedoch auch durch <persName key="2267">Franz Werfel</persName> selbst verhindert, der die Übersetzung nicht autorisiert (vgl. den <ref target="fud://957">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="16">Klaus Mann</persName> vom 6.7.1943 und den <ref target="fud://958">Brief</ref> vom 15.7.1943).<lb/><lb/><lb/>(Vgl. Schlawin: Anthologie, S. 57 f.)</note>.) Wenn ich mir die Liste der Nichtamputierten ansehe, so finde ich viele Namen, die mir wenig sagen – aber ich finde auch den Namen <persName key="17">Hermann Kesten</persName>: und dabei fällt mir der Witz von den beiden Juden und dem grossen und dem kleinen Fisch ein.</p>
-        <lb/>
-        <p>Ich kann – wie es sich die Geheimamputierer<note type="com">Über die Kürzungen innerhalb der <name type="wrk" key="3086">Anthologie</name> entscheiden <persName key="1803">Gottfried Bermann Fischer</persName>, <persName key="2034">Fritz H. Landshoff</persName>, <persName key="1788">Isabella W. Athey</persName> und <persName key="17">Hermann Kesten</persName> (vgl. den <ref target="fud://957">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="16">Klaus Mann</persName> vom 6.7.1943).</note> vielleicht nicht überlegt haben – dem <name type="wrk" key="3086">Unternehmen</name> beträchtliche Schwierigkeiten und heftigen Verdruss bereiten. Wennich mir einen legalen Schritt noch überlege, so geschieht es ausschliesslich aus Rücksicht auf Sie. Die wunderliche und keineswegs angenehme Situation, in die mich die Geheimamputierer<note type="com">Über die Kürzungen innerhalb der <name type="wrk" key="3086">Anthologie</name> entscheiden <persName key="1803">Gottfried Bermann Fischer</persName>, <persName key="2034">Fritz H. Landshoff</persName>, <persName key="1788">Isabella W. Athey</persName> und <persName key="17">Hermann Kesten</persName> (vgl. den <ref target="fud://957">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="16">Klaus Mann</persName> vom 6.7.1943).</note> gegenüber meinem Verleger Macmillan gebracht haben – nachdem ich ihn, auf Wunsch der Herausgeber<note type="com"><persName key="17">Hermann Kesten</persName>, <persName key="16">Klaus Mann</persName></note>, um Vorabdruckerlaubnis bemühen musste – werde ich zu lösen versuchen, indem ich ihm die Geschichte von der Geheimamputation erzähle, unter Beifügung <ref target="fud://856">Ihres</ref> und dieses Briefes. Ich werde die Geschichte noch an anderer Stelle zu erzählen haben. Denn ich glaube, dass es gerade in diesem Lande Leute geben wird, die meinen Namen in der deutschen Kammer des <name type="wrk" key="3086">europäischen Herzens</name> vermissen werden.</p>
-        <lb/>
-        <p>Ich bitte Sie, dem <orgName key="1337">Verlag</orgName> mitzuteilen, dass ich auf nachträgliche Entschuldigung verzichte. Denn die Lüge als Nachgeburt zu Wortbruch und Feigheit ist nicht appetitlich. Die Geheimamputierer<note type="com">Über die Kürzungen innerhalb der <name type="wrk" key="3086">Anthologie</name> entscheiden <persName key="1803">Gottfried Bermann Fischer</persName>, <persName key="2034">Fritz H. Landshoff</persName>, <persName key="1788">Isabella W. Athey</persName> und <persName key="17">Hermann Kesten</persName> (vgl. den <ref target="fud://957">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="16">Klaus Mann</persName> vom 6.7.1943).</note> mögen dafür den Trennungsschnitt, den sie manipulierten, als endgültig und unwiderruflich betrachten.</p>
-        <lb/>
-        <p>Sie, lieber <persName key="17">Freund</persName>, habe ich zu gern und Sie haben vor zweieinhalb Jahren ein zu schönes Beispiel von Kameradschaft aufgerichtet, als dass ich den Trennungsstrich auch zwischen uns zuliesse. Da ist nur eine Schnittwunde, und die wird verheilen.</p>
-        <lb/>
-        <p rend="text-align:center">Ihnen und Ihrer <persName key="73">Frau</persName> alles Liebe von der meinen<lb/>und Ihrem<lb/><span type="Signatur"><name role="aut"><persName key="2113">Alfred Neumann</persName></name></span></p>
+        <lb/> 
+        <p>dies ist bei Gott nun die unglaublichste und h&#228;sslichste Geschichte, die mir nicht nur in der an unglaublichen und h&#228;sslichen Geschichten reichen Emigration, sondern in den fast dreissig Jahren meines literarischen Lebens wiederfahren ist. Dass ich mit einer Reihe selig entschlafener Herzen<note type="com"> Vgl. den <ref target="fud://856">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="2113">Alfred Neumann</persName> vom 12.11.1943.</note> mitamputiert wurde, ist eine Delikatesse, die ich zu sch&#228;tzen weiss. (<persName key="2267">Werfel</persName> lebt Gottseidank; aber er figuriert ja auch, selbst ohne Gedichte<note type="com"> Welche Gedichte zur Ver&#246;ffentlichung vorgesehen waren, ist nicht zu ermitteln. Die Publikation der Gedichte wird jedoch auch durch <persName key="2267">Franz Werfel</persName> selbst verhindert, der die &#220;bersetzung nicht autorisiert (vgl. den <ref target="fud://957">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="16">Klaus Mann</persName> vom 6.7.1943 und den <ref target="fud://958">Brief</ref> vom 15.7.1943).<lb/> <lb/> <lb/> (Vgl. Schlawin: Anthologie, S. 57 f.)</note>.) Wenn ich mir die Liste der Nichtamputierten ansehe, so finde ich viele Namen, die mir wenig sagen &#8211; aber ich finde auch den Namen <persName key="17">Hermann Kesten</persName>: und dabei f&#228;llt mir der Witz von den beiden Juden und dem grossen und dem kleinen Fisch ein.</p>
+        <lb/> 
+        <p>Ich kann &#8211; wie es sich die Geheimamputierer<note type="com"> &#220;ber die K&#252;rzungen innerhalb der <name type="wrk" key="3086">Anthologie</name> entscheiden <persName key="1803">Gottfried Bermann Fischer</persName>, <persName key="2034">Fritz H. Landshoff</persName>, <persName key="1788">Isabella W. Athey</persName> und <persName key="17">Hermann Kesten</persName> (vgl. den <ref target="fud://957">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="16">Klaus Mann</persName> vom 6.7.1943).</note> vielleicht nicht &#252;berlegt haben &#8211; dem <name type="wrk" key="3086">Unternehmen</name> betr&#228;chtliche Schwierigkeiten und heftigen Verdruss bereiten. Wennich mir einen legalen Schritt noch &#252;berlege, so geschieht es ausschliesslich aus R&#252;cksicht auf Sie. Die wunderliche und keineswegs angenehme Situation, in die mich die Geheimamputierer<note type="com"> &#220;ber die K&#252;rzungen innerhalb der <name type="wrk" key="3086">Anthologie</name> entscheiden <persName key="1803">Gottfried Bermann Fischer</persName>, <persName key="2034">Fritz H. Landshoff</persName>, <persName key="1788">Isabella W. Athey</persName> und <persName key="17">Hermann Kesten</persName> (vgl. den <ref target="fud://957">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="16">Klaus Mann</persName> vom 6.7.1943).</note> gegen&#252;ber meinem Verleger Macmillan gebracht haben &#8211; nachdem ich ihn, auf Wunsch der Herausgeber<note type="com"> <persName key="17">Hermann Kesten</persName>, <persName key="16">Klaus Mann</persName></note>, um Vorabdruckerlaubnis bem&#252;hen musste &#8211; werde ich zu l&#246;sen versuchen, indem ich ihm die Geschichte von der Geheimamputation erz&#228;hle, unter Beif&#252;gung <ref target="fud://856">Ihres</ref> und dieses Briefes. Ich werde die Geschichte noch an anderer Stelle zu erz&#228;hlen haben. Denn ich glaube, dass es gerade in diesem Lande Leute geben wird, die meinen Namen in der deutschen Kammer des <name type="wrk" key="3086">europ&#228;ischen Herzens</name> vermissen werden.</p>
+        <lb/> 
+        <p>Ich bitte Sie, dem <orgName key="1337">Verlag</orgName> mitzuteilen, dass ich auf nachtr&#228;gliche Entschuldigung verzichte. Denn die L&#252;ge als Nachgeburt zu Wortbruch und Feigheit ist nicht appetitlich. Die Geheimamputierer<note type="com"> &#220;ber die K&#252;rzungen innerhalb der <name type="wrk" key="3086">Anthologie</name> entscheiden <persName key="1803">Gottfried Bermann Fischer</persName>, <persName key="2034">Fritz H. Landshoff</persName>, <persName key="1788">Isabella W. Athey</persName> und <persName key="17">Hermann Kesten</persName> (vgl. den <ref target="fud://957">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="16">Klaus Mann</persName> vom 6.7.1943).</note> m&#246;gen daf&#252;r den Trennungsschnitt, den sie manipulierten, als endg&#252;ltig und unwiderruflich betrachten.</p>
+        <lb/> 
+        <p>Sie, lieber <persName key="17">Freund</persName>, habe ich zu gern und Sie haben vor zweieinhalb Jahren ein zu sch&#246;nes Beispiel von Kameradschaft aufgerichtet, als dass ich den Trennungsstrich auch zwischen uns zuliesse. Da ist nur eine Schnittwunde, und die wird verheilen.</p>
+        <lb/> 
+        <p rend="text-align:center">Ihnen und Ihrer <persName key="73">Frau</persName> alles Liebe von der meinen<lb/> und Ihrem<lb/> <span type="Signatur"><name role="aut"><persName key="2113">Alfred Neumann</persName></name></span></p>
       </div>
     </body>
   </text>

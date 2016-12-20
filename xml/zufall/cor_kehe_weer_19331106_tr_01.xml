@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 2487</bibl>
@@ -44,7 +43,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <persName role="aut" key="17">Kesten, Hermann</persName>
         </ab>
         <ab type="role">
-          <persName role="rec" key="2264">Weiß, Ernst</persName>
+          <persName role="rec" key="2264">Wei&#223;, Ernst</persName>
         </ab>
         <ab type="no">fud-898</ab>
         <ab type="reg"/>
@@ -67,29 +66,30 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
         <figure>
           <graphic n="0" url="cor_kehe_ween_19331106_tr_01.tif"/>
         </figure>
-        <p><persName key="17">Hermann Kesten</persName><lb/><orgName key="2822">Hotel Foyot</orgName>, <placeName key="2821">33, rue de Tournon</placeName><lb/><placeName key="18">Paris 6</placeName></p>
-        <lb/>
+        <p><persName key="17">Hermann Kesten</persName><lb/> <orgName key="2822">Hotel Foyot</orgName>, <placeName key="2821">33, rue de Tournon</placeName><lb/> <placeName key="18">Paris 6</placeName></p>
+        <lb/> 
         <p rend="text-align:right"><placeName type="write"><placeName key="18">Paris</placeName></placeName>, <date type="write">6,11.33.</date></p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ F2">Sehr verehrter, lieber Herr Dr. <name role="rec"><persName key="2264">Weiss</persName></name>,</span>
         </p>
-        <lb/>
+        <lb/> 
         <p>entschuldigen Sie, dass ich erst heute antworte, da mir Ihr Brief an meine neue Adresse nach <placeName key="18">Paris</placeName> nachgeschickt wurde.</p>
-        <lb/>
-        <p>selbstverständlich bitte ich Sie, mir Ihren Roman<note type="com">Es handelt sich um den Roman <name type="wrk" key="4315">Der Gefängnisarzt oder Die Vaterlosen</name>, an dessen Fertigstellung <persName key="2264">Ernst Weiß</persName> seit Herbst 1933 arbeitet (vgl. auch den <ref target="fud://899">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="2264">Ernst Weiß</persName> vom 25.11.1933 und den <ref target="fud://900">Brief</ref> vom 3.12.1933 sowie den <ref target="fud://59">Brief</ref> von <persName key="2264">Ernst Weiß</persName> an <persName key="17">Hermann Kesten</persName> vom 19.11.1933 und den <ref target="fud://60">Brief</ref>, geschrieben zwischen dem 25.11. und dem 3.12.1933).</note>, soweit Sie ihn vollendet haben, zuzusenden. Sie wissen ich bin von allem entzückt, was Sie schreiben, und für mich wäre selbstverständlich nicht einmal die Zusendung des Manuskriptes notwendig. Ich werde versuchen, bei meinem holländischen <orgName key="4244">Verlag</orgName> eine Annahme zu erreichen. Ich muss Ihnen allerdings ganz aufrichtig sagen, dass ich nicht genau weiss, ob mir das sofort glückt, da mein holländischer <orgName key="4244">Verlag</orgName> inzwischen eine verhältnismässig grosse Anzahl Verträge abgeschlossen hat, und er ganz gern, wie mir bekannt ist, erst den Erfolg der deutschen Bücher überhaupt, abwarten will.</p>
-        <lb/>
-        <p>Ich bitte Sie, so liebenswürdig zu sein und mir umgehend Ihr Manuskript an den <orgName key="4244">Verlag Allert de Lange</orgName>, <placeName key="4269">Damrak 62</placeName>, <placeName key="2783">Amsterdam</placeName> zu senden, da ich jetzt <placeName key="18">Paris</placeName> verlasse und mir von dort alles nachgeschickt wird.</p>
-        <lb/>
-        <p>Ich grüsse Sie sehr herzlich und bin Ihnen stets ergeben Ihr<lb/><span type="Signatur"><name role="aut"><persName key="17">Hermann Kesten</persName></name></span>.</p>
+        <lb/> 
+        <p>selbstverst&#228;ndlich bitte ich Sie, mir Ihren Roman<note type="com"> Es handelt sich um den Roman <name type="wrk" key="4315">Der Gef&#228;ngnisarzt oder Die Vaterlosen</name>, an dessen Fertigstellung <persName key="2264">Ernst Wei&#223;</persName> seit Herbst 1933 arbeitet (vgl. auch den <ref target="fud://899">Brief</ref> von <persName key="17">Hermann Kesten</persName> an <persName key="2264">Ernst Wei&#223;</persName> vom 25.11.1933 und den <ref target="fud://900">Brief</ref> vom 3.12.1933 sowie den <ref target="fud://59">Brief</ref> von <persName key="2264">Ernst Wei&#223;</persName> an <persName key="17">Hermann Kesten</persName> vom 19.11.1933 und den <ref target="fud://60">Brief</ref>, geschrieben zwischen dem 25.11. und dem 3.12.1933).</note>, soweit Sie ihn vollendet haben, zuzusenden. Sie wissen ich bin von allem entz&#252;ckt, was Sie schreiben, und f&#252;r mich w&#228;re selbstverst&#228;ndlich nicht einmal die Zusendung des Manuskriptes notwendig. Ich werde versuchen, bei meinem holl&#228;ndischen <orgName key="4244">Verlag</orgName> eine Annahme zu erreichen. Ich muss Ihnen allerdings ganz aufrichtig sagen, dass ich nicht genau weiss, ob mir das sofort gl&#252;ckt, da mein holl&#228;ndischer <orgName key="4244">Verlag</orgName> inzwischen eine verh&#228;ltnism&#228;ssig grosse Anzahl Vertr&#228;ge abgeschlossen hat, und er ganz gern, wie mir bekannt ist, erst den Erfolg der deutschen B&#252;cher &#252;berhaupt, abwarten will.</p>
+        <lb/> 
+        <p>Ich bitte Sie, so liebensw&#252;rdig zu sein und mir umgehend Ihr Manuskript an den <orgName key="4244">Verlag Allert de Lange</orgName>, <placeName key="4269">Damrak 62</placeName>, <placeName key="2783">Amsterdam</placeName> zu senden, da ich jetzt <placeName key="18">Paris</placeName> verlasse und mir von dort alles nachgeschickt wird.</p>
+        <lb/> 
+        <p>Ich gr&#252;sse Sie sehr herzlich und bin Ihnen stets ergeben Ihr<lb/> <span type="Signatur"><name role="aut"><persName key="17">Hermann Kesten</persName></name></span>.</p>
       </div>
     </body>
   </text>

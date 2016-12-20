@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>AN B 238</bibl>
@@ -64,6 +63,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -73,16 +73,16 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <p rend="text-align:right">
           <hi rend="underline"><placeName type="write">Berlin</placeName>, am <date type="write">12. I. 1933</date>.</hi>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ P3">Sehr verehrter und lieber Herr <name role="rec"><persName key="2113">Alfred Neumann</persName></name>,</span>
         </p>
-        <lb/>
-        <p>Ihr guter Brief war mir eine große Freude. Von einem Könner Ihres Ranges gelobt zu werden, ist meinen Sinnen und meinem Herzen eine Wonne. Sie wissen selbst, wieviel Sie können und wie meisterlich Sie schreiben, und es gibt ja auch bei unsereinem kein Zeremoniell der Komplimente. Aber eine menschliche Beziehung zu Ihnen täte mir wohl und Das kann ich Ihnen ja schreiben. Ich fahre am 20. I. nach <placeName key="18">Paris</placeName> und werde gegen den 20. II. hoffentlich wieder in <placeName key="2788">Berlin</placeName> sein. Wo können wir uns treffen? Schreiben Sie mir, bitte, über den Verlag <orgName key="1176">Kiepenheuer</orgName>.</p>
-        <lb/>
-        <p rend="text-align:right">Ihr herzlich ergebener<lb/><name role="aut"><span type="Signatur"><persName key="26">Joseph Roth</persName></span></name>.</p>
+        <lb/> 
+        <p>Ihr guter Brief war mir eine gro&#223;e Freude. Von einem K&#246;nner Ihres Ranges gelobt zu werden, ist meinen Sinnen und meinem Herzen eine Wonne. Sie wissen selbst, wieviel Sie k&#246;nnen und wie meisterlich Sie schreiben, und es gibt ja auch bei unsereinem kein Zeremoniell der Komplimente. Aber eine menschliche Beziehung zu Ihnen t&#228;te mir wohl und Das kann ich Ihnen ja schreiben. Ich fahre am 20. I. nach <placeName key="18">Paris</placeName> und werde gegen den 20. II. hoffentlich wieder in <placeName key="2788">Berlin</placeName> sein. Wo k&#246;nnen wir uns treffen? Schreiben Sie mir, bitte, &#252;ber den Verlag <orgName key="1176">Kiepenheuer</orgName>.</p>
+        <lb/> 
+        <p rend="text-align:right">Ihr herzlich ergebener<lb/> <name role="aut"><span type="Signatur"><persName key="26">Joseph Roth</persName></span></name>.</p>
       </div>
     </body>
   </text>

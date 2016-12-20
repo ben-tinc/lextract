@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 755</bibl>
@@ -67,6 +66,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -76,12 +76,12 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <p rend="text-align:right">
           <date type="write">28.3.34.</date>
         </p>
-        <lb/>
-        <p><span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="17">Hermann Kesten</persName></name> –</span> wie geht es Ihnen? Freuen Sie sich jeden Tag bisschen, dass Ihr <name type="wrk" key="2755">Roman</name> fertig ist? – was für ein beneidenswerter Zustand! Hat auch in <placeName key="18">Paris</placeName> mit einem solchen Eclat der Frühling angefangen wie hier? Eigentlich wollte ich über das Osterfest dorthin kommen, aber nun tue ich es doch wieder nicht, es ist ja viel billiger, <hi rend="spaced">nicht</hi> zu reisen, und am liebsten möchte ich doch gleich bis an den <placeName key="3773">Kongo</placeName>. – Ich wollte Sie fragen, ob ich eigentlich für die <name type="per" key="2878">Mai-Nummer</name> auf Ihren <name type="wrk" key="3776">Aufsatz</name> kann und darf. Machen Sie ihn? Bekomme ich ihn bis spätestens zum 10. April? Ich hoffe: ja. Aber bestätigen Sie es mir doch bitte. – Wie <hi rend="spaced">unsäglich</hi> mich die Affäre <orgName key="1301">Kittl</orgName>-<persName key="3770">Grünberg</persName><note type="com">Im Auftrag des <orgName key="4115">Piper Verlages</orgName> hatte <persName key="3770">Isak Grünberg</persName> eine deutsche Übersetzung von <persName key="3771">Louis-Ferdinand Célines</persName> <name type="wrk" key="4109">Reise ans Ende der Nacht</name> angefertigt. <orgName key="4115">Piper</orgName> verkauft die Übersetzung wie auch die Rechte am Roman an den <orgName key="1301">Kittl Verlag</orgName>. Dieser veröffentlicht <persName key="3770">Grünbergs</persName> Übersetzung in einer überarbeiteten Fassung, wogegen sich <persName key="3770">Grünberg</persName> heftig wehrt. <persName key="3770">Grünbergs</persName> <name type="wrk" key="4111">Widerspruch</name> und <name type="wrk" key="4114">Auszüge</name> seiner Übersetzung sowie die <name type="wrk" key="4113">Antwort</name> des <orgName key="1301">Kittl Verlages</orgName> druckt <persName key="16">Klaus Mann</persName> in der <name type="per" key="3774">April-Nummer</name> der <name type="per" key="739">Sammlung</name>.<lb/><lb/><lb/>(Vgl. auch von Bitter: Produkt, S. 36–77, 233 f.)</note> langweilt, <hi rend="spaced">kann</hi> ich Ihnen nicht schildern; und nun muss ich, eigens dieser Sauce wegen, das <name type="per" key="3774">Heft</name> vier Seiten länger machen als jemals, und <persName key="2149">Queri</persName> wird mich verfluchen, wäre doch <persName key="3771">Céline</persName> nie geboren, hätte <orgName key="1301">Kittl</orgName> nie ein Buch<note type="com">Anspielung auf <persName key="3771">Louis-Ferdinand Célines</persName> Roman <name type="wrk" key="4109">Reise ans Ende der Nacht</name>, dessen Publikation den erwähnten Konflikt auslöst.</note> verlegt und wäre <persName key="3770">Grünberg</persName> so rechtzeitig und mit solchem Aufwand verstorben wie unsre <persName key="3772">Königin Emma</persName>. – Hatten Sie schon Gelegenheit, unliebenswürdig gegen den <persName key="1827">Breitbach</persName> zu sein? – Alles Nette –</p>
-        <lb/>
+        <lb/> 
+        <p><span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="17">Hermann Kesten</persName></name> &#8211;</span> wie geht es Ihnen? Freuen Sie sich jeden Tag bisschen, dass Ihr <name type="wrk" key="2755">Roman</name> fertig ist? &#8211; was f&#252;r ein beneidenswerter Zustand! Hat auch in <placeName key="18">Paris</placeName> mit einem solchen Eclat der Fr&#252;hling angefangen wie hier? Eigentlich wollte ich &#252;ber das Osterfest dorthin kommen, aber nun tue ich es doch wieder nicht, es ist ja viel billiger, <hi rend="spaced">nicht</hi> zu reisen, und am liebsten m&#246;chte ich doch gleich bis an den <placeName key="3773">Kongo</placeName>. &#8211; Ich wollte Sie fragen, ob ich eigentlich f&#252;r die <name type="per" key="2878">Mai-Nummer</name> auf Ihren <name type="wrk" key="3776">Aufsatz</name> kann und darf. Machen Sie ihn? Bekomme ich ihn bis sp&#228;testens zum 10. April? Ich hoffe: ja. Aber best&#228;tigen Sie es mir doch bitte. &#8211; Wie <hi rend="spaced">uns&#228;glich</hi> mich die Aff&#228;re <orgName key="1301">Kittl</orgName>-<persName key="3770">Gr&#252;nberg</persName><note type="com"> Im Auftrag des <orgName key="4115">Piper Verlages</orgName> hatte <persName key="3770">Isak Gr&#252;nberg</persName> eine deutsche &#220;bersetzung von <persName key="3771">Louis-Ferdinand C&#233;lines</persName> <name type="wrk" key="4109">Reise ans Ende der Nacht</name> angefertigt. <orgName key="4115">Piper</orgName> verkauft die &#220;bersetzung wie auch die Rechte am Roman an den <orgName key="1301">Kittl Verlag</orgName>. Dieser ver&#246;ffentlicht <persName key="3770">Gr&#252;nbergs</persName> &#220;bersetzung in einer &#252;berarbeiteten Fassung, wogegen sich <persName key="3770">Gr&#252;nberg</persName> heftig wehrt. <persName key="3770">Gr&#252;nbergs</persName> <name type="wrk" key="4111">Widerspruch</name> und <name type="wrk" key="4114">Ausz&#252;ge</name> seiner &#220;bersetzung sowie die <name type="wrk" key="4113">Antwort</name> des <orgName key="1301">Kittl Verlages</orgName> druckt <persName key="16">Klaus Mann</persName> in der <name type="per" key="3774">April-Nummer</name> der <name type="per" key="739">Sammlung</name>.<lb/> <lb/> <lb/> (Vgl. auch von Bitter: Produkt, S. 36&#8211;77, 233 f.)</note> langweilt, <hi rend="spaced">kann</hi> ich Ihnen nicht schildern; und nun muss ich, eigens dieser Sauce wegen, das <name type="per" key="3774">Heft</name> vier Seiten l&#228;nger machen als jemals, und <persName key="2149">Queri</persName> wird mich verfluchen, w&#228;re doch <persName key="3771">C&#233;line</persName> nie geboren, h&#228;tte <orgName key="1301">Kittl</orgName> nie ein Buch<note type="com"> Anspielung auf <persName key="3771">Louis-Ferdinand C&#233;lines</persName> Roman <name type="wrk" key="4109">Reise ans Ende der Nacht</name>, dessen Publikation den erw&#228;hnten Konflikt ausl&#246;st.</note> verlegt und w&#228;re <persName key="3770">Gr&#252;nberg</persName> so rechtzeitig und mit solchem Aufwand verstorben wie unsre <persName key="3772">K&#246;nigin Emma</persName>. &#8211; Hatten Sie schon Gelegenheit, unliebensw&#252;rdig gegen den <persName key="1827">Breitbach</persName> zu sein? &#8211; Alles Nette &#8211;</p>
+        <lb/> 
         <space/>
-        <lb/>
-        <p rend="text-align:right">von Ihrem <lb/><name role="aut"><span type="Signatur"><persName key="16">Klaus<lb/>Mann</persName></span></name></p>
+        <lb/> 
+        <p rend="text-align:right">von Ihrem <lb/> <name role="aut"><span type="Signatur"><persName key="16">Klaus<lb/> Mann</persName></span></name></p>
       </div>
     </body>
   </text>

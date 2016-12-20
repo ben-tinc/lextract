@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>René Schickele an Stefan Zweig</title>
+                <title>Ren&#233; Schickele an Stefan Zweig</title>
             </titleStmt>
             <publicationStmt>
                 <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
@@ -34,19 +30,17 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F1</ab>
-                <ab type="location"><placeName key="49697" type="write" cert="high"
-                        evidence="Brieftext">Nizza</placeName></ab>
-                <ab type="date"><date when="1934-09-11" cert="high" evidence="Brieftext"
-                        >11.9.1934</date></ab>
-                <ab type="role"><persName key="5454" role="aut">René Schickele</persName></ab>
+                <ab type="location"><placeName key="49697" type="write" cert="high" evidence="Brieftext">Nizza</placeName></ab>
+                <ab type="date"><date when="1934-09-11" cert="high" evidence="Brieftext">11.9.1934</date></ab>
+                <ab type="role"><persName key="5454" role="aut">Ren&#233; Schickele</persName></ab>
                 <ab type="role"><persName key="10182" role="rec">Stefan Zweig</persName></ab>
                 <ab type="no">321011</ab>
                 <ab type="reg"/>
-                <ab type="desc">Zwei Abschriften mit handschriftlichen Korrekturen von René
-                    Schickele. Zu diesen Briefen existieren ein fünfseitiger und ein einseitiger
-                    Entwurf. Auf der dritten Seite der ersten Abschrift schließt direkt die
+                <ab type="desc">Zwei Abschriften mit handschriftlichen Korrekturen von Ren&#233;
+                    Schickele. Zu diesen Briefen existieren ein f&#252;nfseitiger und ein einseitiger
+                    Entwurf. Auf der dritten Seite der ersten Abschrift schlie&#223;t direkt die
                     Abschrift eines weiteren, mit "Nizza 1934" datierten Briefs von Schickele an.
-                    Der erste Brief ist handschriftlich mit dem Kürzel "R. Sch." unterzeichnet.</ab>
+                    Der erste Brief ist handschriftlich mit dem K&#252;rzel "R. Sch." unterzeichnet.</ab>
             </sourceDesc>
 
         </fileDesc>
@@ -71,8 +65,7 @@
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2014-11-03">3.11.2014</date>,
-                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-04-20"
-                    >20.4.2015</date>
+                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-04-20">20.4.2015</date>
             </change>
 
             <change n="collation">
@@ -100,6 +93,7 @@
 
     </teiHeader>
 
+    
     <text>
         <body>
             <div>
@@ -111,187 +105,160 @@
                 </figure>
 
                 <p rend="right"><placeName key="49697" type="write">Nice</placeName> &#150; Fabron
-                        (A.M.<note type="reg"><placeName key="73080">Département
-                            Alpes-Maritimes</placeName></note>)<lb/> "La Florida"<lb/>Chemin de la
-                        Lanterne<lb/><date when="1934-09-11" cert="high">11 September
+                        (A.M.<note type="reg"> <placeName key="73080">D&#233;partement
+                            Alpes-Maritimes</placeName></note>)<lb/>  "La Florida"<lb/> Chemin de la
+                        Lanterne<lb/> <date when="1934-09-11" cert="high">11 September
                     1934</date></p>
 
                 <p><emph n="salutation">Lieber <persName key="10182" role="rec">Stefan
                             Zweig</persName></emph>,</p>
 
-                <p>Vielen Dank für Ihren <rs n="320977">Brief</rs>! Ich habe mit der Antwort
+                <p>Vielen Dank f&#252;r Ihren <rs n="320977">Brief</rs>! Ich habe mit der Antwort
                     gewartet, bis Sie wieder in <placeName key="49050">London</placeName> sind.
-                    Inzwischen ist auch Ihr "Erasmus"<note type="reg"><name type="wrk" key="71582"
-                            >Triumph und Tragik des Erasmus von Rotterdam</name></note> gekommen,
-                    für den ich noch besonders danke. Das nach <placeName key="71583"
-                        >Badenweiler</placeName> gesandte Exemplar hat nicht bis hierher gefunden.
+                    Inzwischen ist auch Ihr "Erasmus"<note type="reg"> <name type="wrk" key="71582">Triumph und Tragik des Erasmus von Rotterdam</name></note> gekommen,
+                    f&#252;r den ich noch besonders danke. Das nach <placeName key="71583">Badenweiler</placeName> gesandte Exemplar hat nicht bis hierher gefunden.
                     Vielleicht ist es aber gut, dass es dort, wo noch immer ein starker Widerstand
                     in den Herzen lebt, von Hand zu Hand geht und den Trost und die Zuversicht
-                    verbreitet, von denen dieses im schöncten<note type="intern">sic</note> Sinne
-                    vornehme <name type="wrk" key="71582">Buch</name> überfliesst.</p>
+                    verbreitet, von denen dieses im sch&#246;ncten<note type="intern"> sic</note> Sinne
+                    vornehme <name type="wrk" key="71582">Buch</name> &#252;berfliesst.</p>
 
-                <p>Ich "Erasmus"<note type="reg"><persName key="9357">Erasmus, Desiderius von
+                <p>Ich "Erasmus"<note type="reg"> <persName key="9357">Erasmus, Desiderius von
                             Rotterdam</persName></note>, um das gleich zu sagen, ist wahr, und das
-                    scheint mir die Hauptsache. Sein Bild<note type="reg"><name type="wrk"
-                            key="73142">Bildnis des Erasmus von Rotterdam</name></note> (nach
-                        Holbein<note type="reg"><persName key="1094">Holbein, Hans der
-                            Jüngere</persName></note>) hong<note type="intern">sic</note> ein
-                    Jahrzehntlang über meinem Schreibtisch &#x2013; ich kenne ihn also gut. Ich
-                    hörte sagen, Sie hätten versucht sich durch ihn zu rechtfertigen &#x2013; es sei
-                    gewissermassen ein Selbstporträt und "natürlich geschmeichelt". Darauf
+                    scheint mir die Hauptsache. Sein Bild<note type="reg"> <name type="wrk" key="73142">Bildnis des Erasmus von Rotterdam</name></note> (nach
+                        Holbein<note type="reg"> <persName key="1094">Holbein, Hans der
+                            J&#252;ngere</persName></note>) hong<note type="intern"> sic</note> ein
+                    Jahrzehntlang &#252;ber meinem Schreibtisch &#8211; ich kenne ihn also gut. Ich
+                    h&#246;rte sagen, Sie h&#228;tten versucht sich durch ihn zu rechtfertigen &#8211; es sei
+                    gewissermassen ein Selbstportr&#228;t und "nat&#252;rlich geschmeichelt". Darauf
                     antwoetete ich, in diesem Fall sei Ihnen die Rechtfertigung gelungen, und ich
-                    könne mir keinen bessern Zeugen und Eideshalfer denken als <persName key="9357"
-                        >Erasmus</persName>, den feinsten Mann seines Jahrhunderts, und die
-                    Vorwürfe, die Sie zu erwarten hätten, habe auch er schon zu hören bekommen.
-                    Insofern Sie ihn (und sich) aber verschönt haben sollten, so muss der gleiche
-                    Vorwurf für <persName key="1094">Holbein</persName> gelten, woraus wiederum
+                    k&#246;nne mir keinen bessern Zeugen und Eideshalfer denken als <persName key="9357">Erasmus</persName>, den feinsten Mann seines Jahrhunderts, und die
+                    Vorw&#252;rfe, die Sie zu erwarten h&#228;tten, habe auch er schon zu h&#246;ren bekommen.
+                    Insofern Sie ihn (und sich) aber versch&#246;nt haben sollten, so muss der gleiche
+                    Vorwurf f&#252;r <persName key="1094">Holbein</persName> gelten, woraus wiederum
                     hervorgehe, dass <persName key="9357">Erasmus</persName> bereits seinen besten
-                    Zeitgenossen so erschienen sei, wie Sie ihn heute sehn. In dieser Richtung könne
-                    man aber auch weitergehn und vermuten, der <persName key="9357"
-                        >Erasmumus</persName><note type="intern">sic</note> sei für <persName
-                        key="1094">Holbein</persName> lediglich ein Vorwand gewesen, Stefan Zweig
+                    Zeitgenossen so erschienen sei, wie Sie ihn heute sehn. In dieser Richtung k&#246;nne
+                    man aber auch weitergehn und vermuten, der <persName key="9357">Erasmumus</persName><note type="intern"> sic</note> sei f&#252;r <persName key="1094">Holbein</persName> lediglich ein Vorwand gewesen, Stefan Zweig
                     darzustellen.</p>
 
                 <p>Aber Scherz beiseite! Die Marxistische oder "sympathisierende" Pythia ist weder
-                    jünger noch jlüger<note type="intern">sic</note> geworden, seitdem sie das
-                        <orgName key="73071">"Romanische Café"</orgName> mit den <orgName
-                        key="69732">"Deux Magots"</orgName> vertauschen musste, und wenn Sie sich
-                    erinnern wollen, lieber Stefan Zweig, sind Sie ihr bereits während des Krieges
-                    in <placeName key="49153">Zürich</placeName> begegnet. Damals hiess sie
+                    j&#252;nger noch jl&#252;ger<note type="intern"> sic</note> geworden, seitdem sie das
+                        <orgName key="73071">"Romanische Caf&#233;"</orgName> mit den <orgName key="69732">"Deux Magots"</orgName> vertauschen musste, und wenn Sie sich
+                    erinnern wollen, lieber Stefan Zweig, sind Sie ihr bereits w&#228;hrend des Krieges
+                    in <placeName key="49153">Z&#252;rich</placeName> begegnet. Damals hiess sie
                         <persName key="6504">Ludwig Rubiner</persName>, heute heisst sie etwa
-                        <persName key="7744">Ludwig Markuse</persName>. Ich bin als Elsässer
-                    zwischen den Schützengräben grossgeworden und Sie, als Jude, eigentlich auch.
-                    Ich habe mit meinen Elsässern erlebt, was jetzt mit dieser neuerlichen Diaspora,
-                    den emigrierten Juden geschieht. Aus Ressentimant werden die Elsässer teils
-                    französische Ueberpatrioten, teils (uneingestandene) Irredentisten, in jedem
+                        <persName key="7744">Ludwig Markuse</persName>. Ich bin als Els&#228;sser
+                    zwischen den Sch&#252;tzengr&#228;ben grossgeworden und Sie, als Jude, eigentlich auch.
+                    Ich habe mit meinen Els&#228;ssern erlebt, was jetzt mit dieser neuerlichen Diaspora,
+                    den emigrierten Juden geschieht. Aus Ressentimant werden die Els&#228;sser teils
+                    franz&#246;sische Ueberpatrioten, teils (uneingestandene) Irredentisten, in jedem
                     Fall Nazis. Der "kombattante" Teil der deutschen Emigration besteht heute aus
-                    alljüdischen Eiferern (mehr oder minder überzeugten) Bolschewiken, jedenfalls
+                    allj&#252;dischen Eiferern (mehr oder minder &#252;berzeugten) Bolschewiken, jedenfalls
                     aus verkehrten Nazis. Begreiflich! Aber damit begeben sie sich der Gnade, womit
                     ihr einzigartiges Schicksal sie ausgezeichnet hatte. Sollen wir, die weder vor
-                        <persName key="8102">Ludendorff</persName> noch vor <persName key="7793"
-                        >Hitler</persName> kuschten, uns nun vor der pfäffischen Unduldsamkeit von
+                        <persName key="8102">Ludendorff</persName> noch vor <persName key="7793">Hitler</persName> kuschten, uns nun vor der pf&#228;ffischen Unduldsamkeit von
                     Leuten beugen, die teils auf ihre Rasse, teils auf eine gewiss nicht minder
-                    engstirnige und blutige Staatsraison (oder auf beides) schwören &#x2013; ganz
+                    engstirnige und blutige Staatsraison (oder auf beides) schw&#246;ren &#8211; ganz
                     davon abzusehn, dass die Mehrzahl nur deshalb nicht nationalsozialistisch ist,
-                    weil der Nationalsozialismus sie nicht haben will? (Ich könnte Ihnen da
-                    erbauliche Geschichten erzählen!)</p>
+                    weil der Nationalsozialismus sie nicht haben will? (Ich k&#246;nnte Ihnen da
+                    erbauliche Geschichten erz&#228;hlen!)</p>
 
-                <p>Es ist der Bolschewismus, der den Terror in den Friedenszustand übernahm, jede
-                    Lücke schloss und den Schrecken zu einem Dauerzustand machte. Das Furcgtbarste
+                <p>Es ist der Bolschewismus, der den Terror in den Friedenszustand &#252;bernahm, jede
+                    L&#252;cke schloss und den Schrecken zu einem Dauerzustand machte. Das Furcgtbarste
                     aber ist, dass diese Zustand von der zweiten Generation bereits als der normale
                     empfunden wird. Sklaven, die gar nicht mehr wissem, dass sie Sklaven sind
-                    &#x2013; das ist doch wohl das Ende des Menschen!</p>
+                    &#8211; das ist doch wohl das Ende des Menschen!</p>
 
                 <p>Aber diese Dinge wissen Sie ja so gut wie ich, lieber Stefan Zweig, und Sie
-                    wissen auch, dass mehr Mut dazu gehört, gegen eine alles überschwemmende
-                    Zeitströmung zu <hi rend="ul">stehn</hi>, als mit ihr zu schwimmen.
-                    Komischerweise halten sich aber gerade die für Helden, die, unter die Röcke der
-                    angeblich nichtswürigen Dame Demokratie geflüchttet, dort einen "Kampf"
-                    weiterführen, der ihnen keine ernste Gefahren, wohl aber literarische Ehren
+                    wissen auch, dass mehr Mut dazu geh&#246;rt, gegen eine alles &#252;berschwemmende
+                    Zeitstr&#246;mung zu <hi rend="ul">stehn</hi>, als mit ihr zu schwimmen.
+                    Komischerweise halten sich aber gerade die f&#252;r Helden, die, unter die R&#246;cke der
+                    angeblich nichtsw&#252;rigen Dame Demokratie gefl&#252;chttet, dort einen "Kampf"
+                    weiterf&#252;hren, der ihnen keine ernste Gefahren, wohl aber literarische Ehren
                     bringt. Sollte in <placeName key="48914">Frankreich</placeName> der Faschismus
                     kommen, werden sie nicht etwas nach <placeName key="49341">Russland</placeName>
-                        flüchten,<pb n="2"/> sondern wiederum in ein Land, wo sie die Segnungen der
-                    verlästerten "bürgerlichen Freiheit" geniessen und immer mal wieder aufrechte
-                    Heldden sein können. Vor zwei Jahren besuchte mich in <placeName key="71583"
-                        >Badenweiler</placeName> der Professor Nicolai.<note type="com" cert="high"
-                        >Vermutlich <persName key="8420">Georg Friedrich Nicolai</persName>.</note>
-                    Er kam von <placeName key="49341">Russland</placeName>, erzählte begeistert und
-                    erwähnte, dass man ihm dort ein Institut angeboten habe. Auf meine Frage, warrum
-                    er nicht auf das grossmütige Angebot eingegangen sei, meinte er: "Na, ja, ich
-                    bin fünfzig Jahre alt. Die paar Jahre, dieich noch zu leben habe, möchte ich
+                        fl&#252;chten,<pb n="2"/> sondern wiederum in ein Land, wo sie die Segnungen der
+                    verl&#228;sterten "b&#252;rgerlichen Freiheit" geniessen und immer mal wieder aufrechte
+                    Heldden sein k&#246;nnen. Vor zwei Jahren besuchte mich in <placeName key="71583">Badenweiler</placeName> der Professor Nicolai.<note type="com" cert="high"> Vermutlich <persName key="8420">Georg Friedrich Nicolai</persName>.</note>
+                    Er kam von <placeName key="49341">Russland</placeName>, erz&#228;hlte begeistert und
+                    erw&#228;hnte, dass man ihm dort ein Institut angeboten habe. Auf meine Frage, warrum
+                    er nicht auf das grossm&#252;tige Angebot eingegangen sei, meinte er: "Na, ja, ich
+                    bin f&#252;nfzig Jahre alt. Die paar Jahre, dieich noch zu leben habe, m&#246;chte ich
                     lieber anderswo, als gerade in <placeName key="49341">Russland</placeName>
                     verbringen." "Na ja" sagte auch ich.</p>
 
-                <p><hi rend="ul"><persName key="7838">Rolland</persName></hi> &#x2013; dies Kapitel
-                    steht natürlich auf einem andern Blatt. Bei ihm lag der praktische
-                    Menschenfreund von je im Kampf mit dem Jakobiner. Der Immoralist <persName
-                        key="9915">Gide</persName>? "Junge Hure, alte Betschwester". Früher wurde
-                    man katholisch! Ein Teil der jüngeren Franzosen steht heute dort, wo ihre
-                    deutschen Altersgenossen 1928 &#150; 31 standen... Zum Glück steht die
-                    französische Demokratie auf festeren Füssen. Schriftsteller, die gegen die
-                    Demokratie kämpfen, sind Narren. Sie reissen sich die Zunge aus und blenden sich
-                    selbst. Ich habe versucht, diese Gewissensfragen in einem kleinen Buch<note
-                        type="reg"><name type="wrk" key="72184">Liebe und Ärgernis des D. H.
-                            Lawrence</name></note> über <persName key="13384">D. H.
-                        Lawrence</persName> zu beantworten, das demnächst bei <orgName key="73072"
-                        >A. de Lange</orgName> erscheint. <foreign n="lat">Suaviter in modo fortiter
+                <p><hi rend="ul"><persName key="7838">Rolland</persName></hi> &#8211; dies Kapitel
+                    steht nat&#252;rlich auf einem andern Blatt. Bei ihm lag der praktische
+                    Menschenfreund von je im Kampf mit dem Jakobiner. Der Immoralist <persName key="9915">Gide</persName>? "Junge Hure, alte Betschwester". Fr&#252;her wurde
+                    man katholisch! Ein Teil der j&#252;ngeren Franzosen steht heute dort, wo ihre
+                    deutschen Altersgenossen 1928 &#150; 31 standen... Zum Gl&#252;ck steht die
+                    franz&#246;sische Demokratie auf festeren F&#252;ssen. Schriftsteller, die gegen die
+                    Demokratie k&#228;mpfen, sind Narren. Sie reissen sich die Zunge aus und blenden sich
+                    selbst. Ich habe versucht, diese Gewissensfragen in einem kleinen Buch<note type="reg"> <name type="wrk" key="72184">Liebe und &#196;rgernis des D. H.
+                            Lawrence</name></note> &#252;ber <persName key="13384">D. H.
+                        Lawrence</persName> zu beantworten, das demn&#228;chst bei <orgName key="73072">A. de Lange</orgName> erscheint. <foreign n="lat">Suaviter in modo fortiter
                         in re.</foreign> Ich schicke es Ihnnen gleich nach Erscheinen.</p>
 
-                <p>Haben Sie übrigens meinen letzten Roman <name type="wrk" key="72180">"Die Witwe
-                        Bosca"</name> erhalten? Ich schrieb ihn voriges Jahr in <placeName
-                        key="73073">Sanary</placeName>, in der Zeit schwerster Depression, und ich
-                    übertreibe kaum, wenn ich sage, dass er mir das Leben rettete Er ist eine (etwas
-                    hermetische) Auseinandersetzung mit dem in Mord und Tod verstrickten <placeName
-                        key="49439">Europa</placeName>. Kein Wort in der Nazipresse, kein Wort in
+                <p>Haben Sie &#252;brigens meinen letzten Roman <name type="wrk" key="72180">"Die Witwe
+                        Bosca"</name> erhalten? Ich schrieb ihn voriges Jahr in <placeName key="73073">Sanary</placeName>, in der Zeit schwerster Depression, und ich
+                    &#252;bertreibe kaum, wenn ich sage, dass er mir das Leben rettete Er ist eine (etwas
+                    hermetische) Auseinandersetzung mit dem in Mord und Tod verstrickten <placeName key="49439">Europa</placeName>. Kein Wort in der Nazipresse, kein Wort in
                     der Emigrantenpresse.</p>
 
                 <p>Sie fragen, wie es um meine Produktion steht. Ich bin <orgName key="66802">S.
                         Fischer</orgName> noch einen Roman schuldig, aber fest entschlossen, ihm
                     kein Buch mehr zu geben. <persName key="15182">Bermann</persName> droht mit dem
-                    Anwalt, aber vielleicht wird er nach Erscheinen <name type="wrk" key="72184"
-                        >meines "Lawrence"</name> auf mich verzichten.</p>
+                    Anwalt, aber vielleicht wird er nach Erscheinen <name type="wrk" key="72184">meines "Lawrence"</name> auf mich verzichten.</p>
 
                 <p>Von den Emigrantenverlagen habe ich <orgName key="73074">Querido</orgName> von
-                    vornherein abgelehnt, weil ich das schwachmütuge Flirten mit den Bolschewilen
+                    vornherein abgelehnt, weil ich das schwachm&#252;tuge Flirten mit den Bolschewilen
                     verabscheue, aber auch von <orgName key="73072">A. de Lange</orgName> bin ich
-                    nicht entzückt.</p>
+                    nicht entz&#252;ckt.</p>
 
-                <p>Ich habe <placeName key="71583">Badenweiler</placeName> mit meiner Familie<note
-                        type="reg"><persName key="7093">Schickele, Anna</persName> und <persName
-                            key="72386">Schickele, Hans</persName></note> bereits vor zwei Jahren
+                <p>Ich habe <placeName key="71583">Badenweiler</placeName> mit meiner Familie<note type="reg"> <persName key="7093">Schickele, Anna</persName> und <persName key="72386">Schickele, Hans</persName></note> bereits vor zwei Jahren
                     (Im Herbst 1932) verlassen. Schon unter <persName key="9937">Papen</persName>
                     und <persName key="7951">Schleicher</persName> begann es mir in die Nase zu
-                    stinken. Es stank nach August 1914 &#x2013; ohne den Beigeschmack echten
-                    Opfermutes, der damals den Irrsinn den Göttern genehmer zu machen schien. Wir
+                    stinken. Es stank nach August 1914 &#8211; ohne den Beigeschmack echten
+                    Opfermutes, der damals den Irrsinn den G&#246;ttern genehmer zu machen schien. Wir
                     wollten den Winter in <persName key="434">Meier-Graefes</persName> Haus in
-                        <placeName key="73075">St Cyr s&#x002F;mer</placeName> verbringen, und dann
-                    gestärkt in das ewig fragwürdige Land zurückkehren. Als <persName key="7793"
-                        >Hilter</persName><note type="intern">sic</note> an die Macht kam, gab ich
-                    meine Demission als Mitglied der Akademie<note type="reg"><orgName key="67143"
-                            >Akademie der Künste</orgName></note> und beschloss, nicht mehr nach
-                        <placeName key="49105">Deutscland</placeName><note type="intern">sic</note>
-                    zurückzukehren. Ich liess meine Möbel kommen.</p>
+                        <placeName key="73075">St Cyr s/mer</placeName> verbringen, und dann
+                    gest&#228;rkt in das ewig fragw&#252;rdige Land zur&#252;ckkehren. Als <persName key="7793">Hilter</persName><note type="intern"> sic</note> an die Macht kam, gab ich
+                    meine Demission als Mitglied der Akademie<note type="reg"> <orgName key="67143">Akademie der K&#252;nste</orgName></note> und beschloss, nicht mehr nach
+                        <placeName key="49105">Deutscland</placeName><note type="intern"> sic</note>
+                    zur&#252;ckzukehren. Ich liess meine M&#246;bel kommen.</p>
 
-                <p>Wir wohnen auf einem Hügel bei <placeName key="49697">Nizza</placeName>, blicken
-                    südwärts auf die Mündung des Var und das Meer, nordwärts auf die Seealpen, mein
-                        Sohn<note type="reg"><persName key="72386">Schickele, Hans</persName></note>
-                    besucht die <orgName key="73077">Ecole des Beaux Arts</orgName> in <placeName
-                        key="49697">Nizza</placeName>. Er will Architekt werden... Als Altelsässer
+                <p>Wir wohnen auf einem H&#252;gel bei <placeName key="49697">Nizza</placeName>, blicken
+                    s&#252;dw&#228;rts auf die M&#252;ndung des Var und das Meer, nordw&#228;rts auf die Seealpen, mein
+                        Sohn<note type="reg"> <persName key="72386">Schickele, Hans</persName></note>
+                    besucht die <orgName key="73077">Ecole des Beaux Arts</orgName> in <placeName key="49697">Nizza</placeName>. Er will Architekt werden... Als Altels&#228;sser
                     sind wir ja Franzosen. Freilich, wie wir uns materiell halten sollen, dass ist
-                    mir umso rätselhafter, als ich leider gar keinen Auslandserfolg habe. Für einen
-                    deutschschreibenden Schriftsteller ist es unter allen Umständen ein Unglück, von
+                    mir umso r&#228;tselhafter, als ich leider gar keinen Auslandserfolg habe. F&#252;r einen
+                    deutschschreibenden Schriftsteller ist es unter allen Umst&#228;nden ein Ungl&#252;ck, von
                         <placeName key="49105">Deutschland</placeName> abgeschnitten zu sein
-                    &#x2013; (und die Nazis werden uns mit der Zeit völlig amputieren), aber Sie,
-                    lieber Zweig, haben einen Weltnamen &#x2013; immerhin ein beträchtlicher Trost!
-                    Ich werde im Grunde immer nur von den Kollegen geschätzt. Einige meiner Bücher
-                    sind in verschiedenen Sprachen übersetzt worden, ohne einen durchschlagenden
-                    Erfolg zu erzielen. Leute, die etwas davon verstehn, behaupten, ich hätte das
-                    alles zu lässig behandelt. Heute grenzt das an eine Katastriophe. Ich wäre sehr
-                    glücklich, wenn Sie mir etwas unter die Arme greifen könnten. <persName
-                        key="9733">Bruckner</persName> überzeugte mich, dass in der <name type="wrk"
-                        key="72180">"Witwe Bosca"</name> ein "fertiges, bombensicheres Schauspiel
-                    stecke", das ganz von selbst von der Bühne zum Film ginge. Obwohl sich viel in
-                    mir dagegen sträubt, will ich es mit der Dramatisierung der <name type="wrk"
-                        key="72180">"Bosca"</name> versuchen. Erst aber möchte ich den
-                        Kinderroman<note type="com" cert="high">Wahrscheinlich handelt es sich um
-                        eines der beiden Romanfragmente <name type="wrk" key="77009"
-                            >Grand'maman</name> und <name type="wrk" key="77010">Der
-                        Preusse</name>.</note><note type="intern">Vgl. Jahre des Unmuts, S.
+                    &#8211; (und die Nazis werden uns mit der Zeit v&#246;llig amputieren), aber Sie,
+                    lieber Zweig, haben einen Weltnamen &#8211; immerhin ein betr&#228;chtlicher Trost!
+                    Ich werde im Grunde immer nur von den Kollegen gesch&#228;tzt. Einige meiner B&#252;cher
+                    sind in verschiedenen Sprachen &#252;bersetzt worden, ohne einen durchschlagenden
+                    Erfolg zu erzielen. Leute, die etwas davon verstehn, behaupten, ich h&#228;tte das
+                    alles zu l&#228;ssig behandelt. Heute grenzt das an eine Katastriophe. Ich w&#228;re sehr
+                    gl&#252;cklich, wenn Sie mir etwas unter die Arme greifen k&#246;nnten. <persName key="9733">Bruckner</persName> &#252;berzeugte mich, dass in der <name type="wrk" key="72180">"Witwe Bosca"</name> ein "fertiges, bombensicheres Schauspiel
+                    stecke", das ganz von selbst von der B&#252;hne zum Film ginge. Obwohl sich viel in
+                    mir dagegen str&#228;ubt, will ich es mit der Dramatisierung der <name type="wrk" key="72180">"Bosca"</name> versuchen. Erst aber m&#246;chte ich den
+                        Kinderroman<note type="com" cert="high"> Wahrscheinlich handelt es sich um
+                        eines der beiden Romanfragmente <name type="wrk" key="77009">Grand'maman</name> und <name type="wrk" key="77010">Der
+                        Preusse</name>.</note><note type="intern"> Vgl. Jahre des Unmuts, S.
                         371.</note> beenden, an dem ich schreibe. (Der Schrecken, mit dem die Welt
                     der Erwachsenen auf der Welt der Kinder lastet und sie langsam, aber sicher
                     korrumpiert.) Ausserdem trage ich mich mit einem Roman aus der
-                        Régence. (Aissé<note type="com" cert="high">Das <name type="wrk.p"
-                            key="77012">Roman-Projekt</name> wurde nicht realisiert. Die historische
-                        Figur der französischen Literatin <persName key="77011">Charlotte-Élisabeth
-                            A&#239;ssé</persName> in der Zeit der Régence dient Schickele bereits
-                        als Vorlage für die 1915 erschienene Novelle <name type="wrk" key="73089"
-                            >A&#239;ssé</name>.</note>)</p>
+                        R&#233;gence. (Aiss&#233;<note type="com" cert="high"> Das <name type="wrk.p" key="77012">Roman-Projekt</name> wurde nicht realisiert. Die historische
+                        Figur der franz&#246;sischen Literatin <persName key="77011">Charlotte-&#201;lisabeth
+                            A&#239;ss&#233;</persName> in der Zeit der R&#233;gence dient Schickele bereits
+                        als Vorlage f&#252;r die 1915 erschienene Novelle <name type="wrk" key="73089">A&#239;ss&#233;</name>.</note>)</p>
                 <pb n="3"/>
 
-                <p>So.<lb/>Nun sind Sie im Bild über mich.<lb/>Ich bin gespannt, wie Ihnen
+                <p>So.<lb/> Nun sind Sie im Bild &#252;ber mich.<lb/> Ich bin gespannt, wie Ihnen
                     gewissermassen mein Horoskop erscheint.</p>
 
-                <p rend="center"><emph n="salute">Seien Sie herzlichst gegrüsst von Ihrem
+                <p rend="center"><emph n="salute">Seien Sie herzlichst gegr&#252;sst von Ihrem
                         alten</emph></p>
 
                 <p rend="right"><persName key="5454" role="signed">R. Sch.</persName></p>

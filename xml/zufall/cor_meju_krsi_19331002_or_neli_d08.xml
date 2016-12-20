@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,17 +28,15 @@
         <ab type="paper"/>
         <ab type="language">deutsch</ab>
         <ab type="AF">F1</ab>
-        <ab type="location"><placeName key="73075" type="write" cert="high" evidence="Brieftext"
-            >Saint-Cyr-sur-Mer</placeName></ab>
-        <ab type="date"><date when="1933-10-02" cert="low" evidence="erschlossen"
-          >2.10.1933</date></ab>
+        <ab type="location"><placeName key="73075" type="write" cert="high" evidence="Brieftext">Saint-Cyr-sur-Mer</placeName></ab>
+        <ab type="date"><date when="1933-10-02" cert="low" evidence="erschlossen">2.10.1933</date></ab>
         <ab type="role"><persName key="434" role="aut">Julius Meier-Graefe</persName></ab>
         <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
         <ab type="no">321359</ab>
         <ab type="reg"/>
         <ab type="desc">Original mit der Unterschrift von Julius Meier-Graefe, mit schwarzer Tinte
           auf blauem Papier geschrieben. Das Schreibdatum wurde aus Kracauers Brief vom 30.08.1933
-          erschlossen, der mindestens 10 Tage Verspätung hat.</ab>
+          erschlossen, der mindestens 10 Tage Versp&#228;tung hat.</ab>
 
 
       </sourceDesc>
@@ -52,8 +46,7 @@
     <revisionDesc>
       <change n="transcription">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2013-09-06">6.9.2013</date>, <date when="2014-07-31">31.7.2014</date>, <date
-          when="2014-08-12">12.8.2014</date>
+        <date when="2013-09-06">6.9.2013</date>, <date when="2014-07-31">31.7.2014</date>, <date when="2014-08-12">12.8.2014</date>
       </change>
 
       <change n="collation">
@@ -68,8 +61,7 @@
 
       <change n="collation">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2014-05-19">19.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date
-          when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
+        <date when="2014-05-19">19.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
       </change>
 
       <change n="collation">
@@ -94,6 +86,7 @@
 
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -107,33 +100,29 @@
           <date when="1933-10-02" cert="low">2/X</date></p>
 
 
-        <p><emph n="salutation">Lieber Herr <persName key="7721" role="rec"
-            >Kracauer</persName></emph><space/> Ihr Brief und Ihre Karte<note type="intern">Nicht
-            ermittelt.</note> sind rätselhafter Weise gleich zusammen angekommen, Ihr Brief vom 30.
-          VIII mit der hübschen Verspätung von sage und schreibe zehn Tagen. Das ist das Tollste,
-          was ich bisher bei der franz. Post erlebt habe. In <placeName key="49105"
-            >Deutschland</placeName> würde man an Spitzel glauben. Hier genügt die Posttasche des
-          Landbriefträgers, der gewechselt hat. Haben Sie tausend Dank für Ihre freundliche
+        <p><emph n="salutation">Lieber Herr <persName key="7721" role="rec">Kracauer</persName></emph><space/> Ihr Brief und Ihre Karte<note type="intern"> Nicht
+            ermittelt.</note> sind r&#228;tselhafter Weise gleich zusammen angekommen, Ihr Brief vom 30.
+          VIII mit der h&#252;bschen Versp&#228;tung von sage und schreibe zehn Tagen. Das ist das Tollste,
+          was ich bisher bei der franz. Post erlebt habe. In <placeName key="49105">Deutschland</placeName> w&#252;rde man an Spitzel glauben. Hier gen&#252;gt die Posttasche des
+          Landbrieftr&#228;gers, der gewechselt hat. Haben Sie tausend Dank f&#252;r Ihre freundliche
           Vermittlung bei der <name type="per" key="70827">N.R.F.</name> Ich sende sofort den
-            <persName key="1450">Renoir</persName>-Aufsatz<note type="reg"><name type="wrk"
-              key="74601">Aufsatz über die Renoir-Ausstellung</name></note> an die Sekretärin und
-          lege ein Wort an <persName key="9915">André Gide</persName> bei, das hoffentlich zur
-          Beschleunigung beiträgt. Die Ausstellung bleibt noch bis November geöffnet. Dank für
-          alles, was Sie tun können. Schöne Schweinerei der <name type="per" key="70949">F.Z.</name>
-          Es ist fast unglaublich, wie sich die Leute zu Ihnen benehmen. Bekomme ich <persName
-            key="9556">Reifenberg</persName> oder einen anderen zu fassen, werde ich kein Blatt vor
-          den Mund nehmen. Wenn ich nicht absolut auf dem Trocknen säße, würde ich da drüben die
-          Mitarbeit kündigen. Sowieso sind es nur noch Tropfen.</p>
+            <persName key="1450">Renoir</persName>-Aufsatz<note type="reg"> <name type="wrk" key="74601">Aufsatz &#252;ber die Renoir-Ausstellung</name></note> an die Sekret&#228;rin und
+          lege ein Wort an <persName key="9915">Andr&#233; Gide</persName> bei, das hoffentlich zur
+          Beschleunigung beitr&#228;gt. Die Ausstellung bleibt noch bis November ge&#246;ffnet. Dank f&#252;r
+          alles, was Sie tun k&#246;nnen. Sch&#246;ne Schweinerei der <name type="per" key="70949">F.Z.</name>
+          Es ist fast unglaublich, wie sich die Leute zu Ihnen benehmen. Bekomme ich <persName key="9556">Reifenberg</persName> oder einen anderen zu fassen, werde ich kein Blatt vor
+          den Mund nehmen. Wenn ich nicht absolut auf dem Trocknen s&#228;&#223;e, w&#252;rde ich da dr&#252;ben die
+          Mitarbeit k&#252;ndigen. Sowieso sind es nur noch Tropfen.</p>
 
         <p>Geduld, mein Lieber. Kann Ihnen nicht
-            <persName key="8513">Gerlach</persName> ein bischen helfen? Er scheint über Mittel zu
-          verfügen, grade für jährliche Unterstützung, und muß ein <foreign n="frz">homme
-            de bien</foreign> sein. Ich kenne ihn nicht persönlich.</p>
+            <persName key="8513">Gerlach</persName> ein bischen helfen? Er scheint &#252;ber Mittel zu
+          verf&#252;gen, grade f&#252;r j&#228;hrliche Unterst&#252;tzung, und mu&#223; ein <foreign n="frz">homme
+            de bien</foreign> sein. Ich kenne ihn nicht pers&#246;nlich.</p>
 
         <p rend="center"><emph n="salute">Herzlich Ihr</emph>
           <persName key="434" role="signed">Meier-Graefe</persName></p>
 
-        <p>Der Renoir<note type="reg"><name type="wrk" key="74601">Aufsatz über die
+        <p>Der Renoir<note type="reg"> <name type="wrk" key="74601">Aufsatz &#252;ber die
               Renoir-Ausstellung</name></note> geht gleichzeitig ab.</p>
       </div>
     </body>

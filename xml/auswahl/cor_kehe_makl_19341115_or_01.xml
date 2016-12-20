@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>KM B 140</bibl>
@@ -49,7 +48,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-936</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Original mit der Signatur Hermann Kestens. Die letzten Zeilen sind handschriftlich verfasst, der Brief enthält wenige Bleistiftkorrekturen. Auf der ersten Seite wurde das Wort "langweilig" wohl von fremder Hand zart mit Bleistift unterstrichen.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Original mit der Signatur Hermann Kestens. Die letzten Zeilen sind handschriftlich verfasst, der Brief enth&#228;lt wenige Bleistiftkorrekturen. Auf der ersten Seite wurde das Wort "langweilig" wohl von fremder Hand zart mit Bleistift unterstrichen.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -67,6 +66,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -76,33 +76,33 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <graphic n="2" url="cor_kehe_makl_19341115_or_u01.tif"/>
           <graphic n="3" url="cor_kehe_makl_19341115_or_u02.tif"/>
         </figure>
-        <p><persName key="17">Hermann Kesten</persName><lb/><orgName key="4070">Villa Jeannine</orgName><lb/><placeName key="2902">26 avenue des fleurs</placeName> !!!<hi rend="underline">Neue Adresse</hi>!!!!<lb/><placeName key="46">Nice</placeName> (<placeName key="2879">A.M.</placeName>)</p>
-        <lb/>
+        <p><persName key="17">Hermann Kesten</persName><lb/> <orgName key="4070">Villa Jeannine</orgName><lb/> <placeName key="2902">26 avenue des fleurs</placeName> !!!<hi rend="underline">Neue Adresse</hi>!!!!<lb/> <placeName key="46">Nice</placeName> (<placeName key="2879">A.M.</placeName>)</p>
+        <lb/> 
         <p rend="text-align:right">
           <date type="write">15.11.34.</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="16">Klaus Mann</persName></name>,</span>
         </p>
-        <lb/>
-        <p>Ihre Briefe erfreuen mich immer, sie atmen jene Leichtigkeit, die sehr erfreulich ist, in einer Zeit, da alles knarrt un ächzt und Untergang heult.</p>
-        <lb/>
-        <p>Sie schreiben, dass <persName key="1996">Kästners</persName> <name type="wrk" key="2904">Roman</name> verboten ist, ich las es nur vom <name type="wrk" key="2905">Drama</name> des Herrn <persName key="1996">Robert Neuner-Kästner</persName><note type="com"><persName key="1996">Erich Kästner</persName> hatte seine Erzählung <name type="wrk" key="2904">Drei Männer im Schnee</name> 1934 für die Bühne bearbeitet und unter dem Pseudonym <persName key="1996">Robert Neuner</persName> veröffentlicht. Anfang Oktober 1934 wird das Stück mit dem Titel <name type="wrk" key="2905">Das lebenslängliche Kind</name> von allen deutschen Spielplänen abgesetzt, ab 1940 aber wieder gespielt. In diesem Jahr erscheint auch eine sogenannte <name type="wrk" key="4210">Vereinfachte Fassung</name>. Die Rechte für die <name type="wrk" key="2904">Erzählung</name> werden auf Druck des <orgName key="2845">Propagandaministeriums</orgName> bereits 1934 ins Ausland abgegeben.<lb/><lb/><lb/>(Vgl. Neuhaus: Werk, S. 29–31; Zonneveld: Bibliographie, S. 125; Kästner: Junggesellen, S. 445 [Kommentar]; Enderle: Erich Kästner, S. 65, 69f.; Enderle vermutet hinter dem Pseudonym Robert Neuner einen Freund Erich Kästners)</note>, jetzt auch der <name type="wrk" key="2904">Roman</name> also? Dass er heimlich Gutes tut, würde ich ihm öffentlich nicht so hoch anrechnen, es ist das signum der Poeten und Literaten, dass sie öffentlich wirken und Zeugnis ablegen, öffentlich!</p>
-        <lb/>
-        <p>Ich freue mich sehr, dass Sie von unserem lieben und treuen Freunde <persName key="2034">Landshoff</persName> Gutes zu berichten haben. Freilich wäre es vorteilhafter, wennn er erst zum Frühling nach <placeName key="2782">Holland</placeName> zurückkehren möchte, aber ich weiss nicht, wie weit er sich nach den Wünschen des <orgName key="1489">Verlages</orgName> richten muss.</p>
-        <lb/>
-        <p>Es tut mir herzlich leid, dass ich Ihnen sagen muss, dass mir Ihre letzte <name type="per" key="2906"><name type="per" key="739">"Sammlung"</name> nummer</name> nicht gefällt, sie erscheint mir langweilig. Der <placeName key="2948">Prager</placeName> <name type="wrk" key="2908">Aufsatz</name> ist fade, die <name type="wrk" key="2910">Novelle</name> von <persName key="2152">Regler</persName> ist todlangweilig und völlig missglückt, das ist ein viel zu breit geratener Entwurf, kaum zu Ende zu lesen, weit unter dem Niveau sogar von <persName key="2152">Regler</persName>. Im übrigen verliere ich bald die Geduld mit diesem 37 jährigen Autor, der Talent hat, aber vor allem das Talent, mehr Talent zu versprechen, ein Versprechen das er nicht erfüllt. Mit Ihren Preisnovellen hatten Sie entschiedenes Pech. Der Frey<note type="com">Die Novelle <name type="wrk" key="2911">Ein Mädchen mordet</name> von <persName key="2376">Alexander M. Frey</persName> wird bei einem Preisausschreiben der <name type="per" key="739">Sammlung</name> mit dem ersten Preis ausgezeichnet und in zwei Teilen in der <name type="per" key="739">Sammlung</name> abgedruckt.</note> war eine der schwächsten Novellen dieses Meisters des Grotesken und der short Story, eine fade <persName key="2752">Dostojewskikopie</persName>, dieser <persName key="2152">Regler</persName> ist einfach nicht einmal "druckreif" für eine literarische Zeitschrift, schade!</p>
-        <lb/>
-        <p>Der <name type="wrk" key="2913">Beitrag</name> von <persName key="2012">Kisch</persName> erscheint mir fatal, wie alle Bücher dieses<pb/> ausgezeichneten Journalisten, der in Zeitungen, aber nicht in Zeitschriften passt, Vor allem ist dieser Beitrag ein Nachdruck, da das <name type="wrk" key="2914">Buch</name> von <persName key="2012">Kisch</persName> vor Ihrer <name type="per" key="739">Zeitschrift</name> herauskam. Die <name type="wrk" key="2916">Novelle</name> von <persName key="2417">Hemingway</persName> empfand ich als peinlich, sie ist miserabel, die fertige <persName key="75">Robert Neumann</persName>-Kopie auf <persName key="2417">Hemingway</persName> oder wie eine der Kurzgeschichten von <persName key="2268">Weirauch</persName>, der frech in der <name type="per" key="679">Frankfurter Zeitung</name> den <persName key="2417">Hemingway</persName>, diesen "Klassiker" des öden Geschwätzes und der gedruckten Drinks kopierte.</p>
-        <lb/>
-        <p>Das <name type="wrk" key="2918">Gedicht</name> war blass, die politische Anmerkung<note type="com">Gemeint ist die Glosse <name type="wrk" key="4128">Politische Chronik, Oktober Barthou</name>. Der Autor ist vermutlich <persName key="1936">Stefan Großmann</persName>.<lb/><lb/><lb/>(Vgl. Gutsche: Bibliographie, lfd. Nr. 220)</note> <foreign xml:lang="la">ditto</foreign>. Ihren <name type="wrk" key="2919">Aufsatz</name> über <persName key="1898">Bruno Frank</persName> fand ich sehr wirkungsvoll, nur wenig angemessen, ich habe meine Meinung über dieses <name type="wrk" key="2921">Buch</name> und den Autor <persName key="2034">Landshoff</persName> recht freimütig mitgeteilt, schliesslich schrieb ich ihm noch, dass ich es nicht passend fand, über diesen <name type="wrk" key="2921">Unterhaltungsroman</name> so breit, über das wahrhaft interessante <name type="wrk" key="2922">Buch</name> von <persName key="26">Roth</persName> so peripherisch und anmerkungsweise handeln zu lassen. Aber das sind wohl die Schranken einer Verlagszeitschrift.</p>
-        <lb/>
-        <p>Seien Sie mir nicht böse, dass ich Ihnen diesesmal so offen mein Missfallen ausdrücke. Sie wissen, welch aufrichtiger Freund und Liebhaber Ihrer <name type="per" key="739">Zeitschrift</name> ich für gewöhnlich bin. Und bei allen Einwendungen bin ich mir immer bewusst, wie sehr schwer eine literarische Zeitschrift es in dieser Emigration hat.</p>
-        <lb/>
-        <p>Ihr Stoff, den Sie mir andeuteten, scheint mir in vieler Hinsicht empfehlenswert, nur würde ich Ihnen anheimstellen, möglichst das Problem der Homosexualität zurückzusetzen, nicht weil ich es der literarischen Behandlung unwürdiger fände als irgend eine absonderliche Leidenschaft, sondern damit Sie nicht zum Spezialisten würden. Wie Sie es in Ihrem letzten <name type="wrk" key="2830">Roman</name> im Hintergrund beliessen, fand ich es vortrefflich. Etwas anderes wäre es, wenn Sie dieses Problem oder diese Erscheinung der Homosexualität in den Mittelpunkt eines grossen Romans stellten. Aber auch das sind schliesslich nur Bedenken ganz äusserlicher Natur. Wenn ein Stoff Sie reizt, vergessen Sie die Bedenken, vor allem, wenn Ihr <persName key="2034">Verleger</persName> sie nicht teilt. Ich grüsse Sie sehr herzlich stets Ihr <name role="aut"><span type="Signatur"><persName key="17">H. Kesten</persName></span></name>.</p>
+        <lb/> 
+        <p>Ihre Briefe erfreuen mich immer, sie atmen jene Leichtigkeit, die sehr erfreulich ist, in einer Zeit, da alles knarrt un &#228;chzt und Untergang heult.</p>
+        <lb/> 
+        <p>Sie schreiben, dass <persName key="1996">K&#228;stners</persName> <name type="wrk" key="2904">Roman</name> verboten ist, ich las es nur vom <name type="wrk" key="2905">Drama</name> des Herrn <persName key="1996">Robert Neuner-K&#228;stner</persName><note type="com"> <persName key="1996">Erich K&#228;stner</persName> hatte seine Erz&#228;hlung <name type="wrk" key="2904">Drei M&#228;nner im Schnee</name> 1934 f&#252;r die B&#252;hne bearbeitet und unter dem Pseudonym <persName key="1996">Robert Neuner</persName> ver&#246;ffentlicht. Anfang Oktober 1934 wird das St&#252;ck mit dem Titel <name type="wrk" key="2905">Das lebensl&#228;ngliche Kind</name> von allen deutschen Spielpl&#228;nen abgesetzt, ab 1940 aber wieder gespielt. In diesem Jahr erscheint auch eine sogenannte <name type="wrk" key="4210">Vereinfachte Fassung</name>. Die Rechte f&#252;r die <name type="wrk" key="2904">Erz&#228;hlung</name> werden auf Druck des <orgName key="2845">Propagandaministeriums</orgName> bereits 1934 ins Ausland abgegeben.<lb/> <lb/> <lb/> (Vgl. Neuhaus: Werk, S. 29&#8211;31; Zonneveld: Bibliographie, S. 125; K&#228;stner: Junggesellen, S. 445 [Kommentar]; Enderle: Erich K&#228;stner, S. 65, 69f.; Enderle vermutet hinter dem Pseudonym Robert Neuner einen Freund Erich K&#228;stners)</note>, jetzt auch der <name type="wrk" key="2904">Roman</name> also? Dass er heimlich Gutes tut, w&#252;rde ich ihm &#246;ffentlich nicht so hoch anrechnen, es ist das signum der Poeten und Literaten, dass sie &#246;ffentlich wirken und Zeugnis ablegen, &#246;ffentlich!</p>
+        <lb/> 
+        <p>Ich freue mich sehr, dass Sie von unserem lieben und treuen Freunde <persName key="2034">Landshoff</persName> Gutes zu berichten haben. Freilich w&#228;re es vorteilhafter, wennn er erst zum Fr&#252;hling nach <placeName key="2782">Holland</placeName> zur&#252;ckkehren m&#246;chte, aber ich weiss nicht, wie weit er sich nach den W&#252;nschen des <orgName key="1489">Verlages</orgName> richten muss.</p>
+        <lb/> 
+        <p>Es tut mir herzlich leid, dass ich Ihnen sagen muss, dass mir Ihre letzte <name type="per" key="2906"><name type="per" key="739">"Sammlung"</name> nummer</name> nicht gef&#228;llt, sie erscheint mir langweilig. Der <placeName key="2948">Prager</placeName> <name type="wrk" key="2908">Aufsatz</name> ist fade, die <name type="wrk" key="2910">Novelle</name> von <persName key="2152">Regler</persName> ist todlangweilig und v&#246;llig missgl&#252;ckt, das ist ein viel zu breit geratener Entwurf, kaum zu Ende zu lesen, weit unter dem Niveau sogar von <persName key="2152">Regler</persName>. Im &#252;brigen verliere ich bald die Geduld mit diesem 37 j&#228;hrigen Autor, der Talent hat, aber vor allem das Talent, mehr Talent zu versprechen, ein Versprechen das er nicht erf&#252;llt. Mit Ihren Preisnovellen hatten Sie entschiedenes Pech. Der Frey<note type="com"> Die Novelle <name type="wrk" key="2911">Ein M&#228;dchen mordet</name> von <persName key="2376">Alexander M. Frey</persName> wird bei einem Preisausschreiben der <name type="per" key="739">Sammlung</name> mit dem ersten Preis ausgezeichnet und in zwei Teilen in der <name type="per" key="739">Sammlung</name> abgedruckt.</note> war eine der schw&#228;chsten Novellen dieses Meisters des Grotesken und der short Story, eine fade <persName key="2752">Dostojewskikopie</persName>, dieser <persName key="2152">Regler</persName> ist einfach nicht einmal "druckreif" f&#252;r eine literarische Zeitschrift, schade!</p>
+        <lb/> 
+        <p>Der <name type="wrk" key="2913">Beitrag</name> von <persName key="2012">Kisch</persName> erscheint mir fatal, wie alle B&#252;cher dieses<pb/> ausgezeichneten Journalisten, der in Zeitungen, aber nicht in Zeitschriften passt, Vor allem ist dieser Beitrag ein Nachdruck, da das <name type="wrk" key="2914">Buch</name> von <persName key="2012">Kisch</persName> vor Ihrer <name type="per" key="739">Zeitschrift</name> herauskam. Die <name type="wrk" key="2916">Novelle</name> von <persName key="2417">Hemingway</persName> empfand ich als peinlich, sie ist miserabel, die fertige <persName key="75">Robert Neumann</persName>-Kopie auf <persName key="2417">Hemingway</persName> oder wie eine der Kurzgeschichten von <persName key="2268">Weirauch</persName>, der frech in der <name type="per" key="679">Frankfurter Zeitung</name> den <persName key="2417">Hemingway</persName>, diesen "Klassiker" des &#246;den Geschw&#228;tzes und der gedruckten Drinks kopierte.</p>
+        <lb/> 
+        <p>Das <name type="wrk" key="2918">Gedicht</name> war blass, die politische Anmerkung<note type="com"> Gemeint ist die Glosse <name type="wrk" key="4128">Politische Chronik, Oktober Barthou</name>. Der Autor ist vermutlich <persName key="1936">Stefan Gro&#223;mann</persName>.<lb/> <lb/> <lb/> (Vgl. Gutsche: Bibliographie, lfd. Nr. 220)</note> <foreign xml:lang="la">ditto</foreign>. Ihren <name type="wrk" key="2919">Aufsatz</name> &#252;ber <persName key="1898">Bruno Frank</persName> fand ich sehr wirkungsvoll, nur wenig angemessen, ich habe meine Meinung &#252;ber dieses <name type="wrk" key="2921">Buch</name> und den Autor <persName key="2034">Landshoff</persName> recht freim&#252;tig mitgeteilt, schliesslich schrieb ich ihm noch, dass ich es nicht passend fand, &#252;ber diesen <name type="wrk" key="2921">Unterhaltungsroman</name> so breit, &#252;ber das wahrhaft interessante <name type="wrk" key="2922">Buch</name> von <persName key="26">Roth</persName> so peripherisch und anmerkungsweise handeln zu lassen. Aber das sind wohl die Schranken einer Verlagszeitschrift.</p>
+        <lb/> 
+        <p>Seien Sie mir nicht b&#246;se, dass ich Ihnen diesesmal so offen mein Missfallen ausdr&#252;cke. Sie wissen, welch aufrichtiger Freund und Liebhaber Ihrer <name type="per" key="739">Zeitschrift</name> ich f&#252;r gew&#246;hnlich bin. Und bei allen Einwendungen bin ich mir immer bewusst, wie sehr schwer eine literarische Zeitschrift es in dieser Emigration hat.</p>
+        <lb/> 
+        <p>Ihr Stoff, den Sie mir andeuteten, scheint mir in vieler Hinsicht empfehlenswert, nur w&#252;rde ich Ihnen anheimstellen, m&#246;glichst das Problem der Homosexualit&#228;t zur&#252;ckzusetzen, nicht weil ich es der literarischen Behandlung unw&#252;rdiger f&#228;nde als irgend eine absonderliche Leidenschaft, sondern damit Sie nicht zum Spezialisten w&#252;rden. Wie Sie es in Ihrem letzten <name type="wrk" key="2830">Roman</name> im Hintergrund beliessen, fand ich es vortrefflich. Etwas anderes w&#228;re es, wenn Sie dieses Problem oder diese Erscheinung der Homosexualit&#228;t in den Mittelpunkt eines grossen Romans stellten. Aber auch das sind schliesslich nur Bedenken ganz &#228;usserlicher Natur. Wenn ein Stoff Sie reizt, vergessen Sie die Bedenken, vor allem, wenn Ihr <persName key="2034">Verleger</persName> sie nicht teilt. Ich gr&#252;sse Sie sehr herzlich stets Ihr <name role="aut"><span type="Signatur"><persName key="17">H. Kesten</persName></span></name>.</p>
       </div>
     </body>
   </text>

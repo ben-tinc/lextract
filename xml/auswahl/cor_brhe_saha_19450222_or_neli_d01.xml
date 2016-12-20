@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -31,10 +27,8 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F1</ab>
-                <ab type="location"><placeName key="51684" type="write" cert="high"
-                        evidence="Brieftext">Princeton</placeName></ab>
-                <ab type="date"><date when="1945-02-22" type="write" cert="high"
-                        evidence="Brieftext">22.2.1945</date></ab>
+                <ab type="location"><placeName key="51684" type="write" cert="high" evidence="Brieftext">Princeton</placeName></ab>
+                <ab type="date"><date when="1945-02-22" type="write" cert="high" evidence="Brieftext">22.2.1945</date></ab>
                 <ab type="role"><persName key="75307" role="aut">Hermann Broch</persName></ab>
                 <ab type="role"><persName key="9687" role="rec">Hans Sahl</persName></ab>
                 <ab type="no">323539</ab>
@@ -49,8 +43,7 @@
             <change n="transcription">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-06-27">27.6.2014</date>, <date when="2014-08-05">5.8.2014</date>,
-                    <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-25"
-                    >25.11.2014</date>
+                    <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-25">25.11.2014</date>
             </change>
 
             <change n="collation">
@@ -91,6 +84,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -100,124 +94,111 @@
                     <graphic n="2" url="cor_brhe_saha_19450222_or_02"/>
                 </figure>
 
-                <p rend="right"><placeName key="51684" type="write">Princeton</placeName>, <date
-                        when="1945-02-22" cert="high">22.2.45</date></p>
+                <p rend="right"><placeName key="51684" type="write">Princeton</placeName>, <date when="1945-02-22" cert="high">22.2.45</date></p>
 
-                <p><emph n="salutation">Liebster <persName key="9687" role="rec"
-                        >H.S.</persName></emph>,</p>
+                <p><emph n="salutation">Liebster <persName key="9687" role="rec">H.S.</persName></emph>,</p>
 
-                <p>ich habe es auf mich nehmen müssen Sie durch Schweigsamkeit zu verärgern, weil es
-                    einfach nicht anders gegangen ist: ich sitze buchstäblich seit dem Sommer
-                    &#x2013; in dem mir dieses Regime<note type="reg"><orgName key="80219"
-                            >Reichsregierung</orgName></note> meinen ersten Zusammenbruch
-                    eingetragen hat &#x2013; tagaus-tagein 17 bis 18 Stunden an der Arbeit, und Sie
-                    können sich vorstellen was die verhältnismässig kleine Zusatzverpflichtung,
-                    welche Weihnachten heisst, da für katastrophale Folgen hatte. Alles ist bereits
+                <p>ich habe es auf mich nehmen m&#252;ssen Sie durch Schweigsamkeit zu ver&#228;rgern, weil es
+                    einfach nicht anders gegangen ist: ich sitze buchst&#228;blich seit dem Sommer
+                    &#8211; in dem mir dieses Regime<note type="reg"> <orgName key="80219">Reichsregierung</orgName></note> meinen ersten Zusammenbruch
+                    eingetragen hat &#8211; tagaus-tagein 17 bis 18 Stunden an der Arbeit, und Sie
+                    k&#246;nnen sich vorstellen was die verh&#228;ltnism&#228;ssig kleine Zusatzverpflichtung,
+                    welche Weihnachten heisst, da f&#252;r katastrophale Folgen hatte. Alles ist bereits
                     der Strohhalm, unter dem das Kamel zusammenbricht. Wie konnten Sie also so naiv
-                    an ruhige Feiertage glauben: aber für Ihre guten Wünsche hiezu lassen Sie sich
-                    jetzt noch danken; dass meine Wünsche bei Ihnen waren und sind, müssten Sie
+                    an ruhige Feiertage glauben: aber f&#252;r Ihre guten W&#252;nsche hiezu lassen Sie sich
+                    jetzt noch danken; dass meine W&#252;nsche bei Ihnen waren und sind, m&#252;ssten Sie
                     eigentlich wissen.</p>
 
-                <p>Die Sache war für mich noch verschärft, als mir der Drucker das Vergil-MS<note
-                        type="reg"><name type="wrk" key="80151">Der Tod des Vergil</name></note>
-                    wegen Unleserlichkeiten etc. zurückgab &#x2013;, ich habe innerhalb dieser
+                <p>Die Sache war f&#252;r mich noch versch&#228;rft, als mir der Drucker das Vergil-MS<note type="reg"> <name type="wrk" key="80151">Der Tod des Vergil</name></note>
+                    wegen Unleserlichkeiten etc. zur&#252;ckgab &#8211;, ich habe innerhalb dieser
                     letzten zwei Monate fast das halbe <name type="wrk" key="80151">Buch</name>
                     selber abgeschrieben, weil ich mich auf niemand mehr verlassen wollte, und diese
                     Abschreiberei hatte ausserdem den Segens-Fluch und Fluch-Segen letzter
-                    Textfehler-Entdeckungen. Da es aber in dem <name type="wrk" key="80151"
-                        >Buch</name> nichts Isoliertes gibt, so zog jede Korrektur
+                    Textfehler-Entdeckungen. Da es aber in dem <name type="wrk" key="80151">Buch</name> nichts Isoliertes gibt, so zog jede Korrektur
                     strumpfmaschengleich eine ganze Reihe anderer nach sich. Sie wissen, dass es da
-                    nur ein einziges Gebot gibt, nämlich sich dem Objekt zu beugen, auch wenn man
-                    weiss, dass der Effekt von niemandem bemerkt wird. Für mich war es überdies ein
+                    nur ein einziges Gebot gibt, n&#228;mlich sich dem Objekt zu beugen, auch wenn man
+                    weiss, dass der Effekt von niemandem bemerkt wird. F&#252;r mich war es &#252;berdies ein
                     schwerer gesundheitlicher Schock.</p>
 
                 <p>Und damit sind wir fast auch schon bei unserem Hauptthema, das eben ein ethisches
-                    ist. Denn die "Unterordnung unter das Objekt" gehört ja zu den Grundforderungen,
+                    ist. Denn die "Unterordnung unter das Objekt" geh&#246;rt ja zu den Grundforderungen,
                     die der Mensch, will er ethisch handeln, an sich zu stellen: er hat sich und all
-                    seine subjektiven Wünsche, Narzismen etc. vor dem Objekt auszulöschen. Es fragt
-                    sich aber: vor welchem Objekt &#x2013;, denn bekanntlich kann auch der
+                    seine subjektiven W&#252;nsche, Narzismen etc. vor dem Objekt auszul&#246;schen. Es fragt
+                    sich aber: vor welchem Objekt &#8211;, denn bekanntlich kann auch der
                     Verbrecher objektiv-hingegeben sein und erstklassige Arbeit leisten (wie die
-                    Nazi wieder einmal bewiesen haben.) Nun die Antwort lautet: bei aller Demut für
+                    Nazi wieder einmal bewiesen haben.) Nun die Antwort lautet: bei aller Demut f&#252;r
                     das eigene Ich, unbedingte Hochstellung der menschlichen Seele als solcher. Das
-                    klingt sehr christlich, ist aber sogar alttestamentarisch &#x2013;, und offenbar
-                    können wir darüber nicht hinaus; es gehört zu den Bedingungen aller möglichen,
+                    klingt sehr christlich, ist aber sogar alttestamentarisch &#8211;, und offenbar
+                    k&#246;nnen wir dar&#252;ber nicht hinaus; es geh&#246;rt zu den Bedingungen aller m&#246;glichen,
                     ethischen Erfahrung. Es gibt keine andere "Gesinnung", es gibt keine andere
                     ethische "Ueberzeugung". Und alles was wir Freiheit oder Gerechtigkeit nennen,
                     erprobt sich an dem einen abstrakt-regulativen Grundprinzip.</p>
 
                 <p>Wenn ich von Fortschritt spreche, so meine ich fortschreitende Bewusstwerdung,
-                    u.a. eben dieses regulativen Grundprinzipes. Obwohl mit <persName key="75134"
-                        >Kahler</persName> in allerlei Theoretischem nicht übereinstimmend, in
-                    dieser Heraushebung der "Bewusstwerdung" bin ich mit ihm einig. Die Gefahr für
+                    u.a. eben dieses regulativen Grundprinzipes. Obwohl mit <persName key="75134">Kahler</persName> in allerlei Theoretischem nicht &#252;bereinstimmend, in
+                    dieser Heraushebung der "Bewusstwerdung" bin ich mit ihm einig. Die Gefahr f&#252;r
                     den Fortschritt ist aber zugleich auch in diesem Bewusstwerdungsprozess
                     mitgegeben. Denn in der realen Welt geht alles konkret und nichts abstrakt vor
-                    sich, und die Bewusstwerdung vollzieht sich nicht in Göttern (die sie nicht
-                    nötig haben) sondern in Viechern von sehr endlichem Verstand. Reale Ethik ist
+                    sich, und die Bewusstwerdung vollzieht sich nicht in G&#246;ttern (die sie nicht
+                    n&#246;tig haben) sondern in Viechern von sehr endlichem Verstand. Reale Ethik ist
                     Material-Ethik, also "Moral", und sie muss daher von vorneherein realtivistisch
                     gewertet werden, hat auch nur Relativwert, obschon sie sich stets als "die
-                    Ethik", also absolut gebärdet. Jeder Vorstoss im Sinn des ethischen Fortschritts
+                    Ethik", also absolut geb&#228;rdet. Jeder Vorstoss im Sinn des ethischen Fortschritts
                     verwandelt sich daher unter der Hand sofort ins Dogmatische, wird zur
-                    Konvention, wird zur Phrase, zum blossen Schlagwort. So war es mit dem Chri<pb
-                        n="2"/>stentum, so ist es mit dem Sozialismus.</p>
+                    Konvention, wird zur Phrase, zum blossen Schlagwort. So war es mit dem Chri<pb n="2"/>stentum, so ist es mit dem Sozialismus.</p>
 
                 <p>Und es kann auch gar nicht anders sein, denn das menschliche Viech ist denkfaul,
                     will sich an "Ueberzeugungen", an "Gesinnungen" beruhigen, weil ihm "die"
                     Gesinnung, "die" Ueberzeugung zu viel Kopfzerbrechen macht. Und damit wird er
-                    &#x2013; ohne es zu wissen &#x2013; zum Verbrecher, der andere für seine
-                    Ueberzeugung erschlägt und sich stolz als Märtyrer für sie erschlagen lässt. Die
+                    &#8211; ohne es zu wissen &#8211; zum Verbrecher, der andere f&#252;r seine
+                    Ueberzeugung erschl&#228;gt und sich stolz als M&#228;rtyrer f&#252;r sie erschlagen l&#228;sst. Die
                     Sache wird aber noch komplizierter, weil fast jedes dieser Dogmen
-                    notwendigerweise auch ein Stück Wahrheit enthält. Sozialistische Massnahmen
-                    werden in dieser verelendeten Welt allüberall notwendig werden, und wenn dies zu
-                    einem Gesamt- oder zumindest Dreiviertesozialismus führt, so wird man dies zu
+                    notwendigerweise auch ein St&#252;ck Wahrheit enth&#228;lt. Sozialistische Massnahmen
+                    werden in dieser verelendeten Welt all&#252;berall notwendig werden, und wenn dies zu
+                    einem Gesamt- oder zumindest Dreiviertesozialismus f&#252;hrt, so wird man dies zu
                     akzeptieren haben, kann ihn also keinesfall von vorneherein (wegen der
                     "Freiheit" oder der "Gerechtigkeit") ablehnen: das sind technische Probleme, die
-                    bloss an Hand von Tatsachen technisch zu lösen sind, sicherlich also nicht mit
+                    bloss an Hand von Tatsachen technisch zu l&#246;sen sind, sicherlich also nicht mit
                     einer <persName key="12873">Marx</persName>-Verehrung einerseits, oder einer
                         <foreign n="engl">free-enterprise</foreign>-Anbetung andererseits. Wenn aber
                     Sozialisierung zur roten, oder <foreign n="engl">free enterprise</foreign> zur
-                    weissen Versklavung führt, dann ist es unsere Aufgabe dagegen Stellung zu
-                    nehmen, oder aber, wenn wir so weit konstruktiv planen können, <hi rend="ul"
-                        >vorher</hi> schon die Verhütungsmassnahmen anzugeben. In <hi rend="ul"
-                        >dieser</hi> Richtung bin ich mit <name type="wrk" key="80152">meinem
-                        Massenwahn</name> bemüht. Und dass er sich &#x2013; also ganz in Ihrem Sinn
-                    &#x2013; gegen die verschiedenen "Ueberzeugungen" richtet, scheint mir aus dem,
+                    weissen Versklavung f&#252;hrt, dann ist es unsere Aufgabe dagegen Stellung zu
+                    nehmen, oder aber, wenn wir so weit konstruktiv planen k&#246;nnen, <hi rend="ul">vorher</hi> schon die Verh&#252;tungsmassnahmen anzugeben. In <hi rend="ul">dieser</hi> Richtung bin ich mit <name type="wrk" key="80152">meinem
+                        Massenwahn</name> bem&#252;ht. Und dass er sich &#8211; also ganz in Ihrem Sinn
+                    &#8211; gegen die verschiedenen "Ueberzeugungen" richtet, scheint mir aus dem,
                     was ich da gesagt habe, klar hervorzugehen.</p>
 
-                <p>Gleich Ihnen werde ich wild, wenn ich auf blinde <placeName key="49341">Russland</placeName>-"Verehrung" stosse, gleich Ihnen ist mir Warschau<note
-                        type="com" cert="high">Gemeint ist die von der <placeName key="75359">Sowjetunion</placeName> gestützte <orgName key="80217">Polnische Provisorische Regierung der nationalen Einheit</orgName> in <placeName
-                            key="49607">Warschau</placeName>.</note> ein Grauen, obgleich es vor den
-                    deutschen Gräueln verschwindet. Aber ich weiss auch, dass die Welt ein Sauhaufen
+                <p>Gleich Ihnen werde ich wild, wenn ich auf blinde <placeName key="49341">Russland</placeName>-"Verehrung" stosse, gleich Ihnen ist mir Warschau<note type="com" cert="high"> Gemeint ist die von der <placeName key="75359">Sowjetunion</placeName> gest&#252;tzte <orgName key="80217">Polnische Provisorische Regierung der nationalen Einheit</orgName> in <placeName key="49607">Warschau</placeName>.</note> ein Grauen, obgleich es vor den
+                    deutschen Gr&#228;ueln verschwindet. Aber ich weiss auch, dass die Welt ein Sauhaufen
                     ist, und dass sie, allen Fortschritt zutrotz, stets einer bleiben wird, so dass
                     jeder, der in ihr verantwortungs-ethisch handeln muss, der Beteiligung an
-                    solcher Sauerei sich nicht entziehen kann. Dies gilt auch für den jetzt
-                    vielgeschmähten <persName key="7755">Churchill</persName>. Den Luxus der
+                    solcher Sauerei sich nicht entziehen kann. Dies gilt auch f&#252;r den jetzt
+                    vielgeschm&#228;hten <persName key="7755">Churchill</persName>. Den Luxus der
                     Gesinnungs-Ethik kann sich bloss der Intellektuelle leisten: doch der muss ihn
-                    sich leisten, denn sonst gehört er sofort vernichtet; er hat keine andere
+                    sich leisten, denn sonst geh&#246;rt er sofort vernichtet; er hat keine andere
                     Existenzberechtigung.</p>
 
                 <p>Ich weiss nicht, ob <name type="wrk" key="80152">mein Massenwahn</name> von einem
-                    sozialistischen Staat akzeptiert werden wird; ich wollte es geschähe, nicht nur
-                    meiner persönlichen Fortexistenz zuliebe, sondern weil ich glaube, dass es zum
-                    Heil des Sozialismus sein könnte. Doch wenn es nicht geschieht und ich darob
-                    "liquidiert" werden sollte, so hätte solches Märtyrertum einen innern Sinn, weil
-                    ich für etwas einzustehen habe. Wenn Sie hingegen sich liquidieren liessen, weil
+                    sozialistischen Staat akzeptiert werden wird; ich wollte es gesch&#228;he, nicht nur
+                    meiner pers&#246;nlichen Fortexistenz zuliebe, sondern weil ich glaube, dass es zum
+                    Heil des Sozialismus sein k&#246;nnte. Doch wenn es nicht geschieht und ich darob
+                    "liquidiert" werden sollte, so h&#228;tte solches M&#228;rtyrertum einen innern Sinn, weil
+                    ich f&#252;r etwas einzustehen habe. Wenn Sie hingegen sich liquidieren liessen, weil
                     Sie die Menschheitsrechte vom Sozialismus bedroht sehen, so scheint mir das ein
-                    sinnloses Beginnen zu sein. Es ist nämlich ausserhalb des Konkreten, ist einfach
-                    ein "Anti", das bei all seiner innern Berechtigung &#x2013; s. obige Zustimmung
-                    &#x2013; die Gefahr nicht lohnt. Ich habe mit <persName key="75134"
-                        >Kahler</persName> nicht weiter darüber gesprochen, aber ich meine, dass er
-                    mit dem "Kassandrismus", den Sie ihm so sehr verübeln, zumindest gefühlsmässig
-                    etwas ähnliches gemeint haben dürfte. Und ebendarum sollten Sie es ihm nicht
-                    verübeln; bei all meinen theoretischen Divergenzen mit <persName key="75134"
-                        >Kahler</persName> vergesse ich niemals, dass er einer der "reinsten"
+                    sinnloses Beginnen zu sein. Es ist n&#228;mlich ausserhalb des Konkreten, ist einfach
+                    ein "Anti", das bei all seiner innern Berechtigung &#8211; s. obige Zustimmung
+                    &#8211; die Gefahr nicht lohnt. Ich habe mit <persName key="75134">Kahler</persName> nicht weiter dar&#252;ber gesprochen, aber ich meine, dass er
+                    mit dem "Kassandrismus", den Sie ihm so sehr ver&#252;beln, zumindest gef&#252;hlsm&#228;ssig
+                    etwas &#228;hnliches gemeint haben d&#252;rfte. Und ebendarum sollten Sie es ihm nicht
+                    ver&#252;beln; bei all meinen theoretischen Divergenzen mit <persName key="75134">Kahler</persName> vergesse ich niemals, dass er einer der "reinsten"
                     Menschen ist, deren ich je begegnet bin, und dass er eine echte Tiefensicht
                     besitzt, die oftmals durch keinerlei theoretische Ueberlegung erreicht werden
                     kann.</p>
 
-                <p>Doch das soll nicht wieder zu einem Disput führen. Wenn wir keine Bücher
-                    schreiben, können wir nichts Konstruktives zustandebringen; sicherlich nicht in
+                <p>Doch das soll nicht wieder zu einem Disput f&#252;hren. Wenn wir keine B&#252;cher
+                    schreiben, k&#246;nnen wir nichts Konstruktives zustandebringen; sicherlich nicht in
                     Diskussionen. Ich bin daher froh, dass Sie mit der Uebersetzung fertig sind.
-                    Denn Sie werden jetzt natürlich &#x2013; trotz gegenteiligen Vorsatzes &#x2013;
+                    Denn Sie werden jetzt nat&#252;rlich &#8211; trotz gegenteiligen Vorsatzes &#8211;
                     wieder an die eigene Arbeit gehen. <emph n="salute">Dies mein Wunsch sehr
                         herzlich immer Ihr</emph>
                     <persName key="75307" role="signed">HB</persName>.</p>

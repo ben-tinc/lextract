@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,16 +31,14 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F1</ab>
-                <ab type="location"><placeName key="51684" type="write" cert="medium"
-                        evidence="Adresszeile">Princeton</placeName></ab>
-                <ab type="date"><date when="1943-04-09" type="write" cert="high"
-                        evidence="Brieftext">9.4.1943</date></ab>
+                <ab type="location"><placeName key="51684" type="write" cert="medium" evidence="Adresszeile">Princeton</placeName></ab>
+                <ab type="date"><date when="1943-04-09" type="write" cert="high" evidence="Brieftext">9.4.1943</date></ab>
                 <ab type="role"><persName key="75307" role="aut">Hermann Broch</persName></ab>
                 <ab type="role"><persName key="9687" role="rec">Hans Sahl</persName></ab>
                 <ab type="no">323507</ab>
                 <ab type="reg"/>
                 <ab type="desc">Original mit der Unterschrift von Hermann Broch. Handschriftliche
-                    Ergänzungen und Korrekturen wurden vorgenommen.</ab>
+                    Erg&#228;nzungen und Korrekturen wurden vorgenommen.</ab>
             </sourceDesc>
 
         </fileDesc>
@@ -53,8 +47,7 @@
             <change n="transcription">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-06-20">20.6.2014</date>, <date when="2014-08-05">5.8.2014</date>,
-                    <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-25"
-                    >25.11.2014</date>
+                    <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-25">25.11.2014</date>
             </change>
 
             <change n="collation">
@@ -93,6 +86,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -102,86 +96,73 @@
                     <graphic n="2" url="cor_brhe_saha_19430409_or_02"/>
                 </figure>
 
-                <p rend="right">One Evelyn Place<lb/><placeName key="51684" type="write"
-                        >Princeton</placeName>, <placeName key="78484">N.J.</placeName></p>
+                <p rend="right">One Evelyn Place<lb/> <placeName key="51684" type="write">Princeton</placeName>, <placeName key="78484">N.J.</placeName></p>
 
                 <p rend="right"><date when="1943-04-09" cert="high">9. 4. 43</date></p>
 
-                <p><emph n="salutation">Lieber <persName key="9687" role="rec"
-                        >H.S.</persName></emph>,</p>
+                <p><emph n="salutation">Lieber <persName key="9687" role="rec">H.S.</persName></emph>,</p>
 
                 <p>nur eine sehr expeditive Antwort; der Kampf mit dem Zeitmangel ist eine Funktion
                     dieser Zeit.</p>
 
-                <p>Zur Funktion dieser (und besonders in diesem Lande hier) gehört die von Ihnen
-                    zitierte Frage: Schön, aber wer will das heute wissen? Nun sind allerdings
-                    Refugees zumeist überamerikanisch, und die Amerikaner wollen manchmal recht
-                    gerne wissen (&#x2013; im übrigen ist es ausgeschlossen, dass <placeName
-                        key="50135">Boston</placeName> Ihnen nicht antworten wird &#x2013;), aber
-                    jene Frage ist trotzdem berechtigt.<note type="com" cert="high">Broch bezieht
+                <p>Zur Funktion dieser (und besonders in diesem Lande hier) geh&#246;rt die von Ihnen
+                    zitierte Frage: Sch&#246;n, aber wer will das heute wissen? Nun sind allerdings
+                    Refugees zumeist &#252;beramerikanisch, und die Amerikaner wollen manchmal recht
+                    gerne wissen (&#8211; im &#252;brigen ist es ausgeschlossen, dass <placeName key="50135">Boston</placeName> Ihnen nicht antworten wird &#8211;), aber
+                    jene Frage ist trotzdem berechtigt.<note type="com" cert="high"> Broch bezieht
                         sich auf ein Preisauschreiben des <orgName key="80115">Houghton Mifflin
-                            Verlags</orgName>, auf das er sich mit Teilen seines Werks <name
-                            type="wrk" key="80116">Die Wenigen und die Vielen</name> beworben
+                            Verlags</orgName>, auf das er sich mit Teilen seines Werks <name type="wrk" key="80116">Die Wenigen und die Vielen</name> beworben
                         hat.</note> Denn gerade in dieser Zeit muss alles auf die unmittelbare
-                    Anwendung gerichtet sein. Eine pure Auslegung und Betrachtung der Tatbestände
-                    &#x2013; ein Grundfehler der sogenannten Geisteswissenschaft &#x2013; ist
-                    wertlos; man muss den Uebertritt in die Realität vollziehen. <persName
-                        key="12873">Marx</persName> hat das gewusst, und deshalb ist seine Theorie
+                    Anwendung gerichtet sein. Eine pure Auslegung und Betrachtung der Tatbest&#228;nde
+                    &#8211; ein Grundfehler der sogenannten Geisteswissenschaft &#8211; ist
+                    wertlos; man muss den Uebertritt in die Realit&#228;t vollziehen. <persName key="12873">Marx</persName> hat das gewusst, und deshalb ist seine Theorie
                     nicht im Geschichtsphilosophisch Oekonomischen stecken geblieben. Dass sein
                     Einfluss bis in die Kunst reicht, ist allerdings, wie Sie richtig feststellen,
                     weitgehend unstatthaft. Dahingegen steht es mit Ihrer Theorie des Deutschtums
-                    aber so, dass Sie unbedingt die notwendigen Immediatschlüsse daraus ziehen
-                    müssen, d.h. zu zeigen haben, ob und inwieweit die Betrachtung sich für die
-                    Behandlung der augenblicklichen Probleme auswerten lässt. Soferne dies möglich
-                    wäre, ist auch der äussere Erfolg des Buches<note type="reg"><name type="wrk"
-                            key="80116">Die Wenigen und die Vielen</name></note> gesichert.</p>
+                    aber so, dass Sie unbedingt die notwendigen Immediatschl&#252;sse daraus ziehen
+                    m&#252;ssen, d.h. zu zeigen haben, ob und inwieweit die Betrachtung sich f&#252;r die
+                    Behandlung der augenblicklichen Probleme auswerten l&#228;sst. Soferne dies m&#246;glich
+                    w&#228;re, ist auch der &#228;ussere Erfolg des Buches<note type="reg"> <name type="wrk" key="80116">Die Wenigen und die Vielen</name></note> gesichert.</p>
 
-                <p>Ich möchte darüber auch noch mit <persName key="75134">Kahler</persName>
-                    sprechen, bis er Ihren Aufsatz<note type="com" cert="high">Wahrscheinlich der
+                <p>Ich m&#246;chte dar&#252;ber auch noch mit <persName key="75134">Kahler</persName>
+                    sprechen, bis er Ihren Aufsatz<note type="com" cert="high"> Wahrscheinlich der
                         Essay <name type="wrk" key="77811">Hitler oder die Demaskierung einer
                             Epoche</name>, vgl. auch <persName key="75134">Kahlers</persName>
                         <rs n="323537">Brief</rs> vom 16.4.1943.</note> gelesen hat. Er ist noch
                     immer nicht dazu gekommen; aigenblicklich ist er ausschliesslich mit den
-                    Uebersetzungskalamitäten seines Buches<note type="com" cert="high"
-                        >Wahrscheinlich <name type="wrk" key="80118">Man the Measure</name>.</note>
-                    erfüllt.</p>
+                    Uebersetzungskalamit&#228;ten seines Buches<note type="com" cert="high"> Wahrscheinlich <name type="wrk" key="80118">Man the Measure</name>.</note>
+                    erf&#252;llt.</p>
 
                 <p>Wegen des Lesebuch-Projektes sollten Sie sich (a) mit einem oder dem andern
                         <foreign n="engl">German Department</foreign> (b) mit den in Gange
-                    befindlichen Bestrebungen zur Schaffung von Lehrbüchern für das dereinst
+                    befindlichen Bestrebungen zur Schaffung von Lehrb&#252;chern f&#252;r das dereinst
                     aufzubauende <placeName key="80404">Nach-Nazi-Deutschland</placeName> unbedingt
                     in Verbindung setzen. Es mag sein, dass <persName key="79390">Pick</persName>
-                    Ihnen da Hinweise geben könnte. Ich werde bei ihm anfragen, ob er nicht noch von
-                    seiner pastoralen Tätigkeit her mit den betr. Leuten in Verbindung ist, oder<pb
-                        n="2"/> eine solche Verbindung herstellen könnte.</p>
+                    Ihnen da Hinweise geben k&#246;nnte. Ich werde bei ihm anfragen, ob er nicht noch von
+                    seiner pastoralen T&#228;tigkeit her mit den betr. Leuten in Verbindung ist, oder<pb n="2"/> eine solche Verbindung herstellen k&#246;nnte.</p>
 
-                <p><orgName key="77867">"Yaddo"</orgName> ist eine Stiftung für Schriftsteller und
-                    Künstler, also eine Art Heim für zurückgebliebene Jugend, einstmals Privatbesitz
-                    eines Wallstreetmannes<note type="reg"><persName key="80120">Trask,
+                <p><orgName key="77867">"Yaddo"</orgName> ist eine Stiftung f&#252;r Schriftsteller und
+                    K&#252;nstler, also eine Art Heim f&#252;r zur&#252;ckgebliebene Jugend, einstmals Privatbesitz
+                    eines Wallstreetmannes<note type="reg"> <persName key="80120">Trask,
                             Spencer</persName></note>, reinste Gotik und Renaissance im
-                    Schönbrunnausmassen: testamentsgemäss werden daselbst von Mai bis Oktober etwa
-                    30 geistige Mann beherbergt und verköstigt, ersteres fürstlich, letzteres
-                    amerikanisch; die Leitung obliegt den Magnatentöchtern, von denen die eine die
-                    kürzlich erwähnte <hi rend="ul">Mrs. <persName key="80112">Elizabeth
-                            Ames</persName></hi> als Direktorin fungiert.<note type="com"
-                        cert="high">Neben <persName key="80112">Elizabeth Ames</persName> ist ihre
+                    Sch&#246;nbrunnausmassen: testamentsgem&#228;ss werden daselbst von Mai bis Oktober etwa
+                    30 geistige Mann beherbergt und verk&#246;stigt, ersteres f&#252;rstlich, letzteres
+                    amerikanisch; die Leitung obliegt den Magnatent&#246;chtern, von denen die eine die
+                    k&#252;rzlich erw&#228;hnte <hi rend="ul">Mrs. <persName key="80112">Elizabeth
+                            Ames</persName></hi> als Direktorin fungiert.<note type="com" cert="high"> Neben <persName key="80112">Elizabeth Ames</persName> ist ihre
                         verwitwete Schwester <persName key="80134">Marjorie Peabody Waite</persName>
                         gemeint.</note> Man wird auf 4 bis 6 Wochen eingeladen, und wenn Sie dies
-                    anstreben, hätten Sie an sie einen netten Brief unter Beischluss eines
-                    Lebenslaufes und einiger, womöglich amerikanischer Referenzen zu schreiben
-                    (Gedichtband beilegen!<note type="com" cert="high">Vermutlich <name type="wrk"
-                            key="77768">Die hellen Nächte</name>.</note>) Adresse: <orgName
-                        key="77867">"Yaddo"</orgName>, <placeName key="77868">Saratoga
+                    anstreben, h&#228;tten Sie an sie einen netten Brief unter Beischluss eines
+                    Lebenslaufes und einiger, wom&#246;glich amerikanischer Referenzen zu schreiben
+                    (Gedichtband beilegen!<note type="com" cert="high"> Vermutlich <name type="wrk" key="77768">Die hellen N&#228;chte</name>.</note>) Adresse: <orgName key="77867">"Yaddo"</orgName>, <placeName key="77868">Saratoga
                         Springs</placeName>, <placeName key="50589">N.Y.</placeName> Es ist durchaus
                     keine Refugee-Angelegenheit, sondern es kommen auch recht bekannte Amerikaner
-                    (so z.B. <persName key="7965">Th. Wilder</persName>, aber auch <persName
-                        key="65">Auernheimer</persName>, <persName key="14311">Heinrich E.
+                    (so z.B. <persName key="7965">Th. Wilder</persName>, aber auch <persName key="65">Auernheimer</persName>, <persName key="14311">Heinrich E.
                         Jacob</persName>, <persName key="7947">Graf</persName> und eben auch ich) in
                     der Einladungsliste vor. Ich war bloss einmal dort, trotz wiederholter
                     Einladung, kann auch heuer nicht hingehen, einfach weil ich von hier nicht weg
-                    kann. Es wäre allerdings hohe Zeit, dass Sie sich darum kümmerten, denn jetzt
-                    werden die Einladungslisten fertiggestellt; wie gesagt, die Bewerbung ist an <hi
-                        rend="ul">Mrs. <persName key="80112">Ames</persName></hi> zu richten.</p>
+                    kann. Es w&#228;re allerdings hohe Zeit, dass Sie sich darum k&#252;mmerten, denn jetzt
+                    werden die Einladungslisten fertiggestellt; wie gesagt, die Bewerbung ist an <hi rend="ul">Mrs. <persName key="80112">Ames</persName></hi> zu richten.</p>
 
                 <p rend="center"><emph n="salute">In Eile und Herzlichkeit Ihr</emph></p>
 
@@ -189,8 +170,7 @@
 
                 <p>Soeben mit <persName key="79390">Pick</persName> (ohne Ihren Namen zu nennen)
                     gesprochen. Er kann im Augenblick leider niemanden aktivieren, aber vielleicht
-                    wird <persName key="75134">Kahler</persName> jemanden wissen. <emph n="salute"
-                        >Nochmals alles Herzliche</emph></p>
+                    wird <persName key="75134">Kahler</persName> jemanden wissen. <emph n="salute">Nochmals alles Herzliche</emph></p>
 
 
             </div>

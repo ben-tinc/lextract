@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -36,8 +31,7 @@
                 <ab type="language">deutsch</ab>
                 <ab type="AF">P2</ab>
                 <ab type="location"><placeName cert="unknown"/></ab>
-                <ab type="date"><date when="1950-01-02" cert="high" evidence="Brieftext"
-                        >2.1.1950</date></ab>
+                <ab type="date"><date when="1950-01-02" cert="high" evidence="Brieftext">2.1.1950</date></ab>
                 <ab type="role"><persName key="10039" role="aut">Annette Kolb</persName></ab>
                 <ab type="role"><persName key="4551" role="rec">Thea Sternheim</persName></ab>
                 <ab type="no">323553</ab>
@@ -56,8 +50,7 @@
             <change n="collation">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>,
-                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-01-19"
-                    >19.1.2015</date>
+                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-01-19">19.1.2015</date>
             </change>
 
             <change n="collation">
@@ -93,6 +86,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -103,18 +97,17 @@
 
                 <p rend="right"><date when="1950-01-02" cert="high">2. I 50</date></p>
 
-                <p><emph n="salutation">Liebste <persName key="4551" role="rec"
-                        >Stoisy</persName></emph></p>
+                <p><emph n="salutation">Liebste <persName key="4551" role="rec">Stoisy</persName></emph></p>
 
-                <p>Danke für deine lieben Zeilen<note type="intern">Nicht ermittelt.</note>. Ich
-                    traure um meine Schwester<note type="reg"><persName key="79948">Stockley,
-                            Germaine</persName></note> mit der ich einen so glücklichen Sommer
-                    verlebte. 14 Tage nach ihrer Rückkehr in <placeName key="52049">Dublin</placeName>
+                <p>Danke f&#252;r deine lieben Zeilen<note type="intern"> Nicht ermittelt.</note>. Ich
+                    traure um meine Schwester<note type="reg"> <persName key="79948">Stockley,
+                            Germaine</persName></note> mit der ich einen so gl&#252;cklichen Sommer
+                    verlebte. 14 Tage nach ihrer R&#252;ckkehr in <placeName key="52049">Dublin</placeName>
                     habe ich sie verloren am 18. November</p>
 
                 <p>Es gibt Schwestern und Schwestern. Niemand stand mir so nahe und ich bin jetzt
                     ganz allein. Zu dir komme ich gerne wenn du <hi rend="ul">ganz</hi> allein bist
-                    am Freitag um 7 und fahre um 9 zurück.</p>
+                    am Freitag um 7 und fahre um 9 zur&#252;ck.</p>
 
                 <p><emph n="salute">Dir alles Gute von Herzen.</emph></p>
 

@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,14 +28,13 @@
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F1</ab>
                 <ab type="location"><placeName type="write" cert="unknown">o. O.</placeName></ab>
-                <ab type="date"><date when="1945-03-10" cert="high" evidence="Brieftext"
-                        >10.3.1945</date></ab>
+                <ab type="date"><date when="1945-03-10" cert="high" evidence="Brieftext">10.3.1945</date></ab>
                 <ab type="role"><persName key="9687" role="aut">Hans Sahl</persName></ab>
                 <ab type="role"><persName key="75307" role="rec">Hermann Broch</persName></ab>
                 <ab type="no">323589</ab>
                 <ab type="reg"/>
                 <ab type="desc">Vermutlich ein Durchschlag eines Briefes von Hans Sahl. Der
-                    Brieftext endet ohne Grußzeile mit einem Zitat aus Sahls Werk "Jemand", das
+                    Brieftext endet ohne Gru&#223;zeile mit einem Zitat aus Sahls Werk "Jemand", das
                     durch gestrichelte Linien vom restlichen Text abgesetzt ist.</ab>
             </sourceDesc>
 
@@ -49,8 +44,7 @@
             <change n="transcription">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-07-22">22.7.2014</date>, <date when="2014-08-12">12.8.2014</date>,
-                    <date when="2014-11-12">12.11.2014</date>, <date when="2014-12-10"
-                    >10.12.2014</date>
+                    <date when="2014-11-12">12.11.2014</date>, <date when="2014-12-10">10.12.2014</date>
             </change>
 
             <change n="collation">
@@ -91,6 +85,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -106,88 +101,77 @@
                 <p><emph n="salutation">Lieber <persName key="75307" role="rec">Hermann
                             Broch</persName></emph>:</p>
 
-                <p>Es hätte unsere Diskussion wesentlich vereinfacht, wenn ich den Prospekt des
-                        <orgName key="77311">Aurora-Verlages</orgName> früher gesehen hätte. Ihr
-                    letzter Brief<note type="intern">Nicht ermittelt.</note> war voll von
-                    anfechtbaren Gedanken &#x2013; so viele kluge Worte, um einen einfachen
-                    Tatbestand zu umschreiben. Sie haben sich entschieden &#x2013; und ich kann
+                <p>Es h&#228;tte unsere Diskussion wesentlich vereinfacht, wenn ich den Prospekt des
+                        <orgName key="77311">Aurora-Verlages</orgName> fr&#252;her gesehen h&#228;tte. Ihr
+                    letzter Brief<note type="intern"> Nicht ermittelt.</note> war voll von
+                    anfechtbaren Gedanken &#8211; so viele kluge Worte, um einen einfachen
+                    Tatbestand zu umschreiben. Sie haben sich entschieden &#8211; und ich kann
                     nichts mehr, ich will nichts mehr sagen. Es geht nun alles seinen Gang, einer
                     nach dem andern, unaufhaltsam. Um die andern ist es nicht schade. Aber dass auch
-                    Sie uns verlassen haben &#x2013; "O Freunde, eine Brust her, dass ich
+                    Sie uns verlassen haben &#8211; "O Freunde, eine Brust her, dass ich
                     weine".</p>
 
-                <p>Ihre Angst vor Diskussionen war immer nur eine Angst vor der Realität. Durch die
-                    Diskussion lernt man die Spiegelung eines Problems in verschiedenen Köpfen
-                    kennen. Sie dient der Wahrheitsfindung. Die grossen Dramatiker, von <persName
-                        key="8407">Shakespeare</persName> bis <persName key="8378"
-                        >Hauptmann</persName>, haben das erkannt. Sie liessen "das Volk" über
+                <p>Ihre Angst vor Diskussionen war immer nur eine Angst vor der Realit&#228;t. Durch die
+                    Diskussion lernt man die Spiegelung eines Problems in verschiedenen K&#246;pfen
+                    kennen. Sie dient der Wahrheitsfindung. Die grossen Dramatiker, von <persName key="8407">Shakespeare</persName> bis <persName key="8378">Hauptmann</persName>, haben das erkannt. Sie liessen "das Volk" &#252;ber
                     bestimmte Ereignisse sprechen. Es war nicht die Wahrheit selber, aber jeweils
                     ein Partikelchen Wahrheit, ein Blickpunkt, einer unter unendlichen, in die
                     Ewigkeit. <persName key="12704">Ortega y Gasset</persName>'s "Perspektivismus"
-                    ist darauf gegründet. Er sagt, das jede Ansicht ein Teil der Wahrheit ist. Alle
-                    zusammen würden die Allwissenheit, d.h. Gott, ergeben.</p>
+                    ist darauf gegr&#252;ndet. Er sagt, das jede Ansicht ein Teil der Wahrheit ist. Alle
+                    zusammen w&#252;rden die Allwissenheit, d.h. Gott, ergeben.</p>
 
                 <p>Ich sehe noch einmal die Briefe durch, die wir uns in diesen Jahren geschrieben
-                    haben, und ich stelle fest, dass die Diskussion, die Sie mit mir führten, ein
-                    einziges Monologisieren war. Sie haben im Grunde nie meine Einwände verarbeitet.
+                    haben, und ich stelle fest, dass die Diskussion, die Sie mit mir f&#252;hrten, ein
+                    einziges Monologisieren war. Sie haben im Grunde nie meine Einw&#228;nde verarbeitet.
                     Sie haben immer, auf eine grossartige Weise, an mir vorbeigeredet So reden Sie
-                    auch jetzt wieder an der Realität vorbei. Ihr Entschluss, der Sie mitten
-                    zwischen die Vertreter einer neuen &#x2013; uralten &#x2013; Gewaltlehre setzt,
-                    ist ein Beweis hierfür. Es ist eine Flucht vor der Realität.</p>
+                    auch jetzt wieder an der Realit&#228;t vorbei. Ihr Entschluss, der Sie mitten
+                    zwischen die Vertreter einer neuen &#8211; uralten &#8211; Gewaltlehre setzt,
+                    ist ein Beweis hierf&#252;r. Es ist eine Flucht vor der Realit&#228;t.</p>
 
-                <p>Es mag Ihnen gleichgültig sein, wie ich darüber denke. Ich bin niemand, mit dem
+                <p>Es mag Ihnen gleichg&#252;ltig sein, wie ich dar&#252;ber denke. Ich bin niemand, mit dem
                     man zu rechnen hat. Ich drucke keine Prospekte. Ich verteile keine Machtanteile.
-                    Aber wir leben in revolutionären Zeiten, und da kann sich manches über Nacht
-                    ändern. Es kann nicht sein, dass etwas, was so ernst gemeint ist und so
+                    Aber wir leben in revolution&#228;ren Zeiten, und da kann sich manches &#252;ber Nacht
+                    &#228;ndern. Es kann nicht sein, dass etwas, was so ernst gemeint ist und so
                     folgenschwer wie meine Haltung in diesen Jahren, sinnlos ist. Sie sagten, ich
-                    wäre nur contra. Ich bin ungeheuer pro! Ich bin für all das, wofür Menschen zu
-                    allen Zeiten gekämpft haben. Für die Aufklärung, für die "Bewusstwerdung" der
-                    Freiheit &#x2013; einer Freiheit, die durch keine, noch so "dialektische"
-                    Methode mit jener Form der Unterdrückung gleichgesetzt werden darf, die, wie
+                    w&#228;re nur contra. Ich bin ungeheuer pro! Ich bin f&#252;r all das, wof&#252;r Menschen zu
+                    allen Zeiten gek&#228;mpft haben. F&#252;r die Aufkl&#228;rung, f&#252;r die "Bewusstwerdung" der
+                    Freiheit &#8211; einer Freiheit, die durch keine, noch so "dialektische"
+                    Methode mit jener Form der Unterdr&#252;ckung gleichgesetzt werden darf, die, wie
                     mein Freund <persName key="7730">K.A. Witfogel</persName> in zwei
-                    ausgezeichneten Vorträgen<note type="intern">Nicht ermittelt.</note> an der
-                        <orgName key="70028">Columbia-Universität</orgName> kürzlich nachwies, auf
-                    uralte Traditionen des asiatischen Despotismus &#x2013; in <placeName
-                        key="49361">China</placeName>, in <placeName key="48979"
-                        >Aegypten</placeName> etc. &#x2013; zurückgeht. Sondern ich bin für die
-                    höchstentwickelte, für die westliche Form der Freiheit, die nicht an <persName
-                        key="6414">Dschinghis Khan</persName> und <persName key="8653">Peter den
+                    ausgezeichneten Vortr&#228;gen<note type="intern"> Nicht ermittelt.</note> an der
+                        <orgName key="70028">Columbia-Universit&#228;t</orgName> k&#252;rzlich nachwies, auf
+                    uralte Traditionen des asiatischen Despotismus &#8211; in <placeName key="49361">China</placeName>, in <placeName key="48979">Aegypten</placeName> etc. &#8211; zur&#252;ckgeht. Sondern ich bin f&#252;r die
+                    h&#246;chstentwickelte, f&#252;r die westliche Form der Freiheit, die nicht an <persName key="6414">Dschinghis Khan</persName> und <persName key="8653">Peter den
                         Grossen</persName>, sondern an <persName key="8149">Voltaire</persName> und
-                        <persName key="2026">Jefferson</persName>, an <persName key="80376"
-                        >Mill</persName> und <persName key="12704">Ortega</persName> anknüpft.<pb
-                        n="2"/> Man hat mich in <placeName key="51684">Princeton</placeName> als
+                        <persName key="2026">Jefferson</persName>, an <persName key="80376">Mill</persName> und <persName key="12704">Ortega</persName> ankn&#252;pft.<pb n="2"/> Man hat mich in <placeName key="51684">Princeton</placeName> als
                     einen denunziert, der die "Free Enterprise" gegen den Sozialismus ausspielen
-                    will, einen, der gegen den "Fortschritt" und für den Status quo ist. Was ich
-                    wollte, war: Probleme zur Diskussion stellen. "<foreign n="frz">Se méfier c'est
-                        l'essence de la liberté</foreign>", sagt <persName key="1186"
-                        >Montaigne</persName>. Ich wollte mich, solange es noch Zeit war, von jenem
-                    nur &#x2013; quantitativen, materiellen Fortschrittsglauben distanzieren, der in
-                    der Aenderung der Prosktuonsverhältnisse bereits eine Garantie für eine bessere
-                    Menschheit sieht. Und ich war, im Augenblick, für den Status quo, weil unter ihm
-                    uns noch eine letzte, befristete Möglichkeit gegeben ist, jene Probleme zu
-                    diskutieréb, die eine neue Menschheit vorbereiten sollen, und die nicht mehr
-                    diskutiert werden können, wenn die Diskussi von roten Gau- und Propagandaleitern
+                    will, einen, der gegen den "Fortschritt" und f&#252;r den Status quo ist. Was ich
+                    wollte, war: Probleme zur Diskussion stellen. "<foreign n="frz">Se m&#233;fier c'est
+                        l'essence de la libert&#233;</foreign>", sagt <persName key="1186">Montaigne</persName>. Ich wollte mich, solange es noch Zeit war, von jenem
+                    nur &#8211; quantitativen, materiellen Fortschrittsglauben distanzieren, der in
+                    der Aenderung der Prosktuonsverh&#228;ltnisse bereits eine Garantie f&#252;r eine bessere
+                    Menschheit sieht. Und ich war, im Augenblick, f&#252;r den Status quo, weil unter ihm
+                    uns noch eine letzte, befristete M&#246;glichkeit gegeben ist, jene Probleme zu
+                    diskutier&#233;b, die eine neue Menschheit vorbereiten sollen, und die nicht mehr
+                    diskutiert werden k&#246;nnen, wenn die Diskussi von roten Gau- und Propagandaleitern
                     bestimmt wird.</p>
 
                 <p>Aber wozu so viele Worte? Wenn ich noch etwas sagen darf, so ist es dies: Sie
                     haben einen grossen Fehler gemacht. Morgen wird man nach denen Umschau halten,
                     die in dieser zweiten grossen Krise des Geistes fest geblieben sind. Ich bilde
                     mir gar nichts auf meine Haltung ein. Ich konnte gar nicht anders handeln. In
-                    jenem revolutionären Chorwerk<note type="reg">Sahl, Hans; <persName key="14551">Masereel, Frans</persName>, <name type="wrk"
-                            key="80377">Jemand</name></note>, das vor sieben Jahren in <placeName
-                        key="49153">Zürich</placeName> aufgeführt wurde, standen am Schluss die
-                    Worte (die dann hier, im Prospekt des <orgName key="80378"
-                        >Freedom-House</orgName>, auf Englisch, abgedruckt wurden):</p>
+                    jenem revolution&#228;ren Chorwerk<note type="reg"> Sahl, Hans; <persName key="14551">Masereel, Frans</persName>, <name type="wrk" key="80377">Jemand</name></note>, das vor sieben Jahren in <placeName key="49153">Z&#252;rich</placeName> aufgef&#252;hrt wurde, standen am Schluss die
+                    Worte (die dann hier, im Prospekt des <orgName key="80378">Freedom-House</orgName>, auf Englisch, abgedruckt wurden):</p>
 
 
-                <p rend="center">Ueber alle Massen erhaben<lb/>aber wird<lb/>das ewige Antlitz der
-                    Wahrheit<lb/>den Menschen erscheinen.<lb/>Den Stummen wird es die Zunge
-                    lösen.<lb/>Ein 'Ja' wird wieder ein 'Ja",<lb/>Ein 'Nein" wieder ein "Nein"
-                    sein;<lb/>nicht mehr wird der Vater dem Sohn,<lb/>der Freund dem Freunde
-                    misstraun;<lb/>die Menschen werden ihre Masken abwerfen,<lb/>die Soldaten ihre
-                    Gewehre,<lb/>und aus den rauchenden Trümmern<lb/>einer Welt, die sich selbst
-                    vernichtete,<lb/>werden die Ueberlebenden<lb/>Steine und
-                    Hölzer<lb/>zusammentragen<lb/>und den Grund legen<lb/>für den Bau einer neuen
+                <p rend="center">Ueber alle Massen erhaben<lb/> aber wird<lb/> das ewige Antlitz der
+                    Wahrheit<lb/> den Menschen erscheinen.<lb/> Den Stummen wird es die Zunge
+                    l&#246;sen.<lb/> Ein 'Ja' wird wieder ein 'Ja",<lb/> Ein 'Nein" wieder ein "Nein"
+                    sein;<lb/> nicht mehr wird der Vater dem Sohn,<lb/> der Freund dem Freunde
+                    misstraun;<lb/> die Menschen werden ihre Masken abwerfen,<lb/> die Soldaten ihre
+                    Gewehre,<lb/> und aus den rauchenden Tr&#252;mmern<lb/> einer Welt, die sich selbst
+                    vernichtete,<lb/> werden die Ueberlebenden<lb/> Steine und
+                    H&#246;lzer<lb/> zusammentragen<lb/> und den Grund legen<lb/> f&#252;r den Bau einer neuen
                     Menschheit."</p>
 
 

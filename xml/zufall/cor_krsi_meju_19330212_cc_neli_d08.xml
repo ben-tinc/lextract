@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,10 +29,8 @@
         <ab type="paper"/>
         <ab type="language">deutsch</ab>
         <ab type="AF">F1</ab>
-        <ab type="location"><placeName key="49025" type="write" cert="medium" evidence="Adresszeile"
-            >Berlin</placeName></ab>
-        <ab type="date"><date when="1933-02-12" cert="high" evidence="Brieftext"
-          >12.2.1933</date></ab>
+        <ab type="location"><placeName key="49025" type="write" cert="medium" evidence="Adresszeile">Berlin</placeName></ab>
+        <ab type="date"><date when="1933-02-12" cert="high" evidence="Brieftext">12.2.1933</date></ab>
         <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
         <ab type="role"><persName key="434" role="rec">Julius Meier-Graefe</persName></ab>
         <ab type="no">321323</ab>
@@ -66,8 +60,7 @@
 
       <change n="collation">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2014-05-19">19.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date
-          when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
+        <date when="2014-05-19">19.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
       </change>
 
       <change n="collation">
@@ -92,6 +85,7 @@
 
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -103,32 +97,29 @@
         <p rend="right"><date when="1933-02-12" cert="high">12. Februar 33</date></p>
 
         <p rend="right"><placeName key="49025" type="write">Berlin</placeName>-Charl.
-          4,<lb/>Sybelstr. 35</p>
+          4,<lb/> Sybelstr. 35</p>
 
-        <p><emph n="salutation">Sehr geehrter, lieber Herr <persName key="434" role="rec"
-              >Meier-Graefe</persName></emph>,</p>
+        <p><emph n="salutation">Sehr geehrter, lieber Herr <persName key="434" role="rec">Meier-Graefe</persName></emph>,</p>
 
-        <p>ich möchte Ihnen doch in einer Zeile sagen, wie sehr mich Ihre Geschichte: <name
-            type="wrk" key="74020">"Der Gauguin mit dem Baum"</name> entzückt hat. Wirklich, diese
-            <name type="wrk" key="74020">Geschichte</name> ist ganz grossartig erzählt und hat mich
-          geradezu beglückt. An vielen Stellen musste ich laut lachen, und auch der artistische
-          Genuss, den ich bei der Lektüre hatte, war sehr beträchtlich. Hoffentlich bringen Sie
+        <p>ich m&#246;chte Ihnen doch in einer Zeile sagen, wie sehr mich Ihre Geschichte: <name type="wrk" key="74020">"Der Gauguin mit dem Baum"</name> entz&#252;ckt hat. Wirklich, diese
+            <name type="wrk" key="74020">Geschichte</name> ist ganz grossartig erz&#228;hlt und hat mich
+          geradezu begl&#252;ckt. An vielen Stellen musste ich laut lachen, und auch der artistische
+          Genuss, den ich bei der Lekt&#252;re hatte, war sehr betr&#228;chtlich. Hoffentlich bringen Sie
           diese <name type="wrk" key="73220">"Geschichten neben der Kunst"</name> einmal gesammelt
-          heraus. An dem Publikum hierfür wird es nicht fehlen, und ich selber werde jedenfalls ein
-          verständnisvoller Leser sein.</p>
+          heraus. An dem Publikum hierf&#252;r wird es nicht fehlen, und ich selber werde jedenfalls ein
+          verst&#228;ndnisvoller Leser sein.</p>
 
         <p>Es tat mir sehr leid, dass ich Sie in <placeName key="49025">Berlin</placeName> nicht
-          sah. Unser Zusammensein beim ersten Wackerprozess<note type="com" cert="high">In der
-            Gerichtsverhandlung, die am 6. April 1932 gegen den Kunsthändler <persName key="17585"
-              >Otto Wacker</persName> wegen Fälschung mehrerer Werke <persName key="4052">Van
-              Goghs</persName> eröffnet wird, räumt Meier-Graefe ein, sich bei seiner Expertise geirrt zu haben.</note> steht
-          mir noch in schöner Erinnerung.</p>
+          sah. Unser Zusammensein beim ersten Wackerprozess<note type="com" cert="high"> In der
+            Gerichtsverhandlung, die am 6. April 1932 gegen den Kunsth&#228;ndler <persName key="17585">Otto Wacker</persName> wegen F&#228;lschung mehrerer Werke <persName key="4052">Van
+              Goghs</persName> er&#246;ffnet wird, r&#228;umt Meier-Graefe ein, sich bei seiner Expertise geirrt zu haben.</note> steht
+          mir noch in sch&#246;ner Erinnerung.</p>
 
         <p>Die Zeiten hier sind jetzt furchtbar. Wie lange sich noch die Existenz aufrecht erhalten
-          lässt, wird immer ungewisser.</p>
+          l&#228;sst, wird immer ungewisser.</p>
 
 
-        <p><emph n="salute">Mit herzlichen Grüssen</emph></p>
+        <p><emph n="salute">Mit herzlichen Gr&#252;ssen</emph></p>
 
         <p><emph n="salute">Ihr sehr ergebener</emph></p>
 

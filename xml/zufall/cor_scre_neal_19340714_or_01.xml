@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,10 +16,10 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
-          <bibl>Schickele, René A III/1-17</bibl>
+          <bibl>Schickele, Ren&#233; A III/1-17</bibl>
         </p>
         <ab type="leaves">1</ab>
         <ab type="pages">1</ab>
@@ -38,7 +37,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
 1934-07-14          </date>
         </ab>
         <ab type="role">
-          <persName role="aut" key="1707">Schickele, René</persName>
+          <persName role="aut" key="1707">Schickele, Ren&#233;</persName>
         </ab>
         <ab type="role">
           <persName role="rec" key="2113">Neumann, Alfred</persName>
@@ -46,7 +45,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-1020</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Original in der Handschrift René Schickeles. In der Ecke links oben wurde mit Bleistift von fremder Hand notiert "B 25.VII.34".&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Original in der Handschrift Ren&#233; Schickeles. In der Ecke links oben wurde mit Bleistift von fremder Hand notiert "B 25.VII.34".&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -64,35 +63,36 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
         <figure>
           <graphic n="0" url="cor_scre_neal_19340714_or_01.tif"/>
         </figure>
-        <p rend="text-align:center"><placeName key="46">Nice-Fabron</placeName> (<placeName key="2879">A.M.</placeName>)<lb/><orgName key="4761">"La Florida"</orgName><lb/><placeName key="4760">Chemin de la Lanterne</placeName></p>
-        <lb/>
+        <p rend="text-align:center"><placeName key="46">Nice-Fabron</placeName> (<placeName key="2879">A.M.</placeName>)<lb/> <orgName key="4761">"La Florida"</orgName><lb/> <placeName key="4760">Chemin de la Lanterne</placeName></p>
+        <lb/> 
         <p rend="text-align:right">
           <date type="write">14.7.34.</date>
         </p>
-        <lb/>
+        <lb/> 
         <p rend="text-align:center">
           <span type="Anrede" n="Typ P3">Lieber <persName key="2113">Alfred Neumann</persName>,</span>
         </p>
-        <lb/>
-        <p>gestern im Radio die <name type="wrk" key="6308">Reichstagsrede</name> <persName key="1971">Hitlers</persName>! Es war das erste Mal, dass ich ihn sprechen hörte. Es dauerte 1 1/2 Studen. In den Pausen die massiven "Heil!"-Rufe der Abgeordneten. Er kam immer mehr ins Schäumen, zum Schluss überschrie er sich dauernd. Man hörte die Faustschläge auf das Rednerpult hageln. Ich hatte den Eindruck von einem mit Revolver und Peitsche im Käfig herumgehenden Raubtierbändiger. Seine Technik: sorgfältig gesteigerte Wutanfälle. Das Mikrophon wurde heiser und verstimmt, und zuletzt erinnerte er an einen Trunkenbold, der den Redner nachäffte. Eine grausige Komik! Und ein oder zwei Mal verspürte ich die gleiche Angst wie als Kind, wenn ich dem grossen Fleischerhund begegnete.</p>
-        <lb/>
-        <p>Als er auf die freihändig erschossenen Verräter<note type="com">Gemeint sind die im Zuge des sogenannten Röhm-Putsches von den Nationalsozialisten am 30. Juni 1934 ermordeten Personen, darunter der Stabschef der SA, <persName key="2169">Ernst Röhm</persName>, sowie der ehemalige Reichskanzler <persName key="4825">Kurt von Schleicher</persName>. </note> zu sprechen kam, nannte er sich des deutschen Volkes obersten Gerichtsherrn.</p>
-        <lb/>
+        <lb/> 
+        <p>gestern im Radio die <name type="wrk" key="6308">Reichstagsrede</name> <persName key="1971">Hitlers</persName>! Es war das erste Mal, dass ich ihn sprechen h&#246;rte. Es dauerte 1 1/2 Studen. In den Pausen die massiven "Heil!"-Rufe der Abgeordneten. Er kam immer mehr ins Sch&#228;umen, zum Schluss &#252;berschrie er sich dauernd. Man h&#246;rte die Faustschl&#228;ge auf das Rednerpult hageln. Ich hatte den Eindruck von einem mit Revolver und Peitsche im K&#228;fig herumgehenden Raubtierb&#228;ndiger. Seine Technik: sorgf&#228;ltig gesteigerte Wutanf&#228;lle. Das Mikrophon wurde heiser und verstimmt, und zuletzt erinnerte er an einen Trunkenbold, der den Redner nach&#228;ffte. Eine grausige Komik! Und ein oder zwei Mal versp&#252;rte ich die gleiche Angst wie als Kind, wenn ich dem grossen Fleischerhund begegnete.</p>
+        <lb/> 
+        <p>Als er auf die freih&#228;ndig erschossenen Verr&#228;ter<note type="com"> Gemeint sind die im Zuge des sogenannten R&#246;hm-Putsches von den Nationalsozialisten am 30. Juni 1934 ermordeten Personen, darunter der Stabschef der SA, <persName key="2169">Ernst R&#246;hm</persName>, sowie der ehemalige Reichskanzler <persName key="4825">Kurt von Schleicher</persName>. </note> zu sprechen kam, nannte er sich des deutschen Volkes obersten Gerichtsherrn.</p>
+        <lb/> 
         <p>Sein Lieblingswort: "ausrotten."</p>
-        <lb/>
-        <p>Wir empfingen die <name type="wrk" key="6308">Rede</name> über den italienischen Sender<note type="com">Wohl der italienische Radiosender <orgName key="4770">EIAR</orgName>.</note>, und plötzlich fiel mir ein, dass sie wohl auch im Vatikan gehört wurde. Mit Grauen müssen <persName key="4768">Pacelli</persName> und andere vor dem Lautsprecher gesessen haben – als hörten sie das Wüten eines Barbarenführers vor den Toren <placeName key="3100">Roms</placeName>... Und auch an <persName key="2662">Brüning</persName> dachte ich und an unsere Gespräche vor 3 Jahren in <placeName key="3902">Badenweiler</placeName>...</p>
-        <lb/>
-        <p>Ich habe die Nacht nicht schlafen können.</p>
-        <lb/>
-        <p>Und nun hat auch der gute, abgründig harmlose <persName key="4769">Erich Mühsam</persName> "Selbstmord" begangen.</p>
-        <lb/>
-        <p rend="text-align:center">Herzliche Grüsse<lb/>Ihres <span type="Signatur"><name role="aut"><persName key="1707">R.S.</persName></name></span></p>
+        <lb/> 
+        <p>Wir empfingen die <name type="wrk" key="6308">Rede</name> &#252;ber den italienischen Sender<note type="com"> Wohl der italienische Radiosender <orgName key="4770">EIAR</orgName>.</note>, und pl&#246;tzlich fiel mir ein, dass sie wohl auch im Vatikan geh&#246;rt wurde. Mit Grauen m&#252;ssen <persName key="4768">Pacelli</persName> und andere vor dem Lautsprecher gesessen haben &#8211; als h&#246;rten sie das W&#252;ten eines Barbarenf&#252;hrers vor den Toren <placeName key="3100">Roms</placeName>... Und auch an <persName key="2662">Br&#252;ning</persName> dachte ich und an unsere Gespr&#228;che vor 3 Jahren in <placeName key="3902">Badenweiler</placeName>...</p>
+        <lb/> 
+        <p>Ich habe die Nacht nicht schlafen k&#246;nnen.</p>
+        <lb/> 
+        <p>Und nun hat auch der gute, abgr&#252;ndig harmlose <persName key="4769">Erich M&#252;hsam</persName> "Selbstmord" begangen.</p>
+        <lb/> 
+        <p rend="text-align:center">Herzliche Gr&#252;sse<lb/> Ihres <span type="Signatur"><name role="aut"><persName key="1707">R.S.</persName></name></span></p>
       </div>
     </body>
   </text>

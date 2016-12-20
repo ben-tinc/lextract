@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 283</bibl>
@@ -50,7 +49,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-655</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Original mit der Signatur Elisabeth Franks. Das zweite Blatt ist am Seitenkopf nummeriert mit "- 2 -". Auf der Vorderseite des zweiten Blatts ist von Hermann Kestens Hand mit blauem Stift notiert: "3.08 gare Lépold, 18.44 la Haye, 7.45". Auf der Rückseite des zweiten Blatts stehen mit Bleistift ebenfalls in Kestens Handschrift die Notizen "Belgisches Konsulat" (oberes Drittel) und "Heine, Das junge Deutschland, Marx Wienbarg, Börne Freiligrath, Büchner" (unteres Drittel).&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Original mit der Signatur Elisabeth Franks. Das zweite Blatt ist am Seitenkopf nummeriert mit "- 2 -". Auf der Vorderseite des zweiten Blatts ist von Hermann Kestens Hand mit blauem Stift notiert: "3.08 gare L&#233;pold, 18.44 la Haye, 7.45". Auf der R&#252;ckseite des zweiten Blatts stehen mit Bleistift ebenfalls in Kestens Handschrift die Notizen "Belgisches Konsulat" (oberes Drittel) und "Heine, Das junge Deutschland, Marx Wienbarg, B&#246;rne Freiligrath, B&#252;chner" (unteres Drittel).&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -68,6 +67,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -76,31 +76,31 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <graphic n="1" url="cor_frel_kehe_19380815_or_02.tif"/>
           <graphic n="2" url="cor_frel_kehe_19380815_or_03.tif"/>
         </figure>
-        <p rend="text-align:center">Frau Bruno Frank<note type="com"><persName key="118">Liesl Frank</persName></note><lb/><placeName key="5078">513 North Camden Drive</placeName><lb/><placeName key="4801">Beverly Hills</placeName>, <placeName key="3675">California</placeName></p>
-        <lb/>
+        <p rend="text-align:center">Frau Bruno Frank<note type="com"> <persName key="118">Liesl Frank</persName></note><lb/> <placeName key="5078">513 North Camden Drive</placeName><lb/> <placeName key="4801">Beverly Hills</placeName>, <placeName key="3675">California</placeName></p>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p rend="text-align:right">den <date type="write">15. August 1938.</date></p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
-          <span type="Anrede" n="Typ F3">Sehr geehrter <name role="rec"><persName key="17">Herr</persName></name>:–</span>
+          <span type="Anrede" n="Typ F3">Sehr geehrter <name role="rec"><persName key="17">Herr</persName></name>:&#8211;</span>
         </p>
-        <lb/>
-        <p>Es ist der <persName key="118">Unterzeichneten</persName> gelungen, den angesehenen Verlag <hi rend="underline"><orgName key="1491">Random-House</orgName></hi> in <placeName key="84">New York</placeName> fuer die Herausgabe eines Sammelbandes<note type="com">Der Sammelband kommt nicht zustande (vgl. den <ref target="fud://656">Brief</ref> von <persName key="118">Elisabeth Frank</persName> an <persName key="17">Hermann Kesten</persName> vom 26.4.1939).</note> zu gewinnen, der Novellen exilierter deutscher und osterreichischer Schriftsteller umfassen soll. Das Buch<note type="com">Der Sammelband kommt nicht zustande (vgl. den <ref target="fud://656">Brief</ref> von <persName key="118">Elisabeth Frank</persName> an <persName key="17">Hermann Kesten</persName> vom 26.4.1939).</note> soll im Fruehjahr 1939 erscheinen. Wir bitten Sie hiermit um einen Beitrag.</p>
-        <lb/>
+        <lb/> 
+        <p>Es ist der <persName key="118">Unterzeichneten</persName> gelungen, den angesehenen Verlag <hi rend="underline"><orgName key="1491">Random-House</orgName></hi> in <placeName key="84">New York</placeName> fuer die Herausgabe eines Sammelbandes<note type="com"> Der Sammelband kommt nicht zustande (vgl. den <ref target="fud://656">Brief</ref> von <persName key="118">Elisabeth Frank</persName> an <persName key="17">Hermann Kesten</persName> vom 26.4.1939).</note> zu gewinnen, der Novellen exilierter deutscher und osterreichischer Schriftsteller umfassen soll. Das Buch<note type="com"> Der Sammelband kommt nicht zustande (vgl. den <ref target="fud://656">Brief</ref> von <persName key="118">Elisabeth Frank</persName> an <persName key="17">Hermann Kesten</persName> vom 26.4.1939).</note> soll im Fruehjahr 1939 erscheinen. Wir bitten Sie hiermit um einen Beitrag.</p>
+        <lb/> 
         <p>Der <orgName key="1491">Verlag</orgName> (wie auch die sonst Beteiligten) hat auf jeden Gewinn fuer sich selbst verzichtet und wird den gesamten Reinerloes auf die vertretenen Schriftsteller verteilen. Die Auszahlung des ueblichen Honorar-Vorschusses wird nach Zusammenstellung des Bandes, also noch in diesem Jahr, erfolgen.</p>
-        <lb/>
-        <p>Der <orgName key="1491">Verlag</orgName> hat sich ausdruecklich verpflichtet, das Buch<note type="com">Der Sammelband kommt nicht zustande (vgl. den <ref target="fud://656">Brief</ref> von <persName key="118">Elisabeth Frank</persName> an <persName key="17">Hermann Kesten</persName> vom 26.4.1939).</note> mit allen ihm zur Verfuegung stehenden Mitteln zu propagieren, sodass die Publikation fuer in <placeName key="41">Amerika</placeName> noch weniger bekannte Autoren eine wertvolle Einfuehrung bedeuten wird.</p>
-        <lb/>
+        <lb/> 
+        <p>Der <orgName key="1491">Verlag</orgName> hat sich ausdruecklich verpflichtet, das Buch<note type="com"> Der Sammelband kommt nicht zustande (vgl. den <ref target="fud://656">Brief</ref> von <persName key="118">Elisabeth Frank</persName> an <persName key="17">Hermann Kesten</persName> vom 26.4.1939).</note> mit allen ihm zur Verfuegung stehenden Mitteln zu propagieren, sodass die Publikation fuer in <placeName key="41">Amerika</placeName> noch weniger bekannte Autoren eine wertvolle Einfuehrung bedeuten wird.</p>
+        <lb/> 
         <p>Verhandlungen mit mehreren Londoner Verlagsfirmen ueber eine parallele Ausgabe in <placeName key="1705">England</placeName> schweben. Wenn mit einer von ihnen ein Ergebnis erzielt wird, was wahrscheinlich ist, so wird sich die Honorarquote entsprechend erhoehen.</p>
-        <lb/>
+        <lb/> 
         <p>Die Novellen duerfen natuerlich in englischer Sprache noch nicht veroeffentlicht sein. Ihre Laenge sollte sich zwischen 15 und 25 Druckseiten bewegen; doch wird hierin <pb/>keine Pedanterie herrschen. In Bezug auf Stoff und Behandlungsart besteht keinerlei Beschraenkung. Nur wird es, mit Ruecksicht auf den amerikanischen Leser, ratsam sein, Erzaehlungen mit festumrissener Handlung den Vorzug zu geben. Dies umso mehr, als die Veroeffentlichung der Novellen in englischer Sprache Aussichten fuer den Filmverkauf eroeffnet.</p>
-        <lb/>
-        <p>Die <persName key="118">Herausgeberin</persName> bittet Sie um Einsendung Ihres Manuskripts – oder auch mehrerer zur Auswahl – bis zum 1. Oktober. Es ist nicht noetig Rueckporto beizufuegen. Nichtverwendete Arbeiten werden eingeschrieben zurueckgesandt.</p>
-        <lb/>
-        <p>Mit hochachtungsvoller Begruessung<lb/><name role="aut"><span type="Signatur"><persName key="118">Elisabeth Frank</persName></span></name>.</p>
+        <lb/> 
+        <p>Die <persName key="118">Herausgeberin</persName> bittet Sie um Einsendung Ihres Manuskripts &#8211; oder auch mehrerer zur Auswahl &#8211; bis zum 1. Oktober. Es ist nicht noetig Rueckporto beizufuegen. Nichtverwendete Arbeiten werden eingeschrieben zurueckgesandt.</p>
+        <lb/> 
+        <p>Mit hochachtungsvoller Begruessung<lb/> <name role="aut"><span type="Signatur"><persName key="118">Elisabeth Frank</persName></span></name>.</p>
       </div>
     </body>
   </text>

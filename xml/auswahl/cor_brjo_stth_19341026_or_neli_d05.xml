@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,17 +29,14 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">P3</ab>
-                <ab type="location"><placeName key="49096" type="write" cert="medium"
-                        evidence="Vordruck">Paris</placeName></ab>
-                <ab type="date"><date when="1934-10-26" type="write" cert="high"
-                        evidence="Brieftext">26.10.1934</date></ab>
+                <ab type="location"><placeName key="49096" type="write" cert="medium" evidence="Vordruck">Paris</placeName></ab>
+                <ab type="date"><date when="1934-10-26" type="write" cert="high" evidence="Brieftext">26.10.1934</date></ab>
                 <ab type="role"><persName key="13164" role="aut">Joseph Breitbach</persName></ab>
                 <ab type="role"><persName key="4551" role="rec">Thea Sternheim</persName></ab>
                 <ab type="no">323779</ab>
                 <ab type="reg"/>
                 <ab type="desc">Original mit der Unterschrift von Joseph Breitbach. Als Vordruck ist
-                    oben rechts die Adresse vermerkt ("7, Rue Sébastien-Mercier, Paris XV<hi
-                        rend="sup">e</hi>, Tél.: Vaugirard 25-26").</ab>
+                    oben rechts die Adresse vermerkt ("7, Rue S&#233;bastien-Mercier, Paris XV<hi rend="sup">e</hi>, T&#233;l.: Vaugirard 25-26").</ab>
             </sourceDesc>
 
         </fileDesc>
@@ -94,6 +87,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -110,35 +104,32 @@
 
                 <p><emph n="salutation"><persName key="4551" role="rec">Verehrteste</persName>.</emph></p>
 
-                <p>Ich hörte eben von <persName key="11328">Jean Schlumberger</persName> dass Sie
+                <p>Ich h&#246;rte eben von <persName key="11328">Jean Schlumberger</persName> dass Sie
                     ihn vorgestern nach mir gefragt haben und dass auch Sie dabei meinten, ich sei
                     in <placeName key="49105">Deutschland</placeName> gewesen. Nein, ich bin seit
-                    <persName key="7793">Hitler</persName> nie im <placeName key="49105">Reich</placeName> gewesen und <hi
-                        rend="ul">kann</hi> auch nicht hingehen.</p>
+                    <persName key="7793">Hitler</persName> nie im <placeName key="49105">Reich</placeName> gewesen und <hi rend="ul">kann</hi> auch nicht hingehen.</p>
 
                 <p>In <hi rend="ul">Ihrem Kreise</hi>, teure Stoisy, sind allerdings so tolle,
-                    ehrabschneidende Dinge über mich erzählt worden, dass es mir meine Selbstachtung
+                    ehrabschneidende Dinge &#252;ber mich erz&#228;hlt worden, dass es mir meine Selbstachtung
                     gebot, nicht einmal darauf einzugehen.</p>
                 <pb n="2"/>
 
                 <p>In Ihren Kreisen hat man mich einen dummen, charakterlosen Goi genannt u.s.w.</p>
 
                 <p>Ich habe mich deswegen nie mehr bei Ihnen gemeldet, weil ich mit unseren
-                    gemeinsamen Bekannten um <persName key="5584">Roth</persName>, <persName
-                        key="9160">Kesten</persName> u. <persName key="519">Klaus Mann</persName>
+                    gemeinsamen Bekannten um <persName key="5584">Roth</persName>, <persName key="9160">Kesten</persName> u. <persName key="519">Klaus Mann</persName>
                     herum nicht mehr zusammentreffen will.</p>
 
-                <p>Mir hat das alles sehr leid getan und ich habe Sie persönlich sehr oft vermisst
-                    in den letzten Monaten. Aber ich wollte nicht der Anlass zu neuen <foreign
-                        n="frz">brouillements</foreign> sein.</p>
+                <p>Mir hat das alles sehr leid getan und ich habe Sie pers&#246;nlich sehr oft vermisst
+                    in den letzten Monaten. Aber ich wollte nicht der Anlass zu neuen <foreign n="frz">brouillements</foreign> sein.</p>
 
                 <p>Dass Sie nach mir gefragt haben, veranlasst mich Ihnen zu schreiben und Ihnen zu
-                    sagen, daß ich Sie sehr sähe, wenn ich Sie <hi rend="ul">allein</hi> sehen
+                    sagen, da&#223; ich Sie sehr s&#228;he, wenn ich Sie <hi rend="ul">allein</hi> sehen
                     kann.</p>
 
-                <p rend="center"><emph n="salute">Beste Grüsse</emph></p>
+                <p rend="center"><emph n="salute">Beste Gr&#252;sse</emph></p>
 
-                <p rend="right">Ihr<lb/><persName key="13164" role="signed">Josef
+                <p rend="right">Ihr<lb/> <persName key="13164" role="signed">Josef
                         Breitbach</persName></p>
 
 

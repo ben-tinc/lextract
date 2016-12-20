@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>KM B 344</bibl>
@@ -67,28 +66,29 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
         <figure>
           <graphic n="0" url="cor_makl_feli_19370906_co_01.tif"/>
         </figure>
-        <p rend="text-align:right">z. Zt. <placeName type="write"><placeName key="2783">Amsterdam</placeName></placeName><lb/><orgName key="5147">Pension Zaalberg van Zelst</orgName><lb/><placeName key="5146">De Lairesse-Straat 5 – 7</placeName><lb/>den <date type="write">6. IX. 37.</date></p>
-        <lb/>
+        <p rend="text-align:right">z. Zt. <placeName type="write"><placeName key="2783">Amsterdam</placeName></placeName><lb/> <orgName key="5147">Pension Zaalberg van Zelst</orgName><lb/> <placeName key="5146">De Lairesse-Straat 5 &#8211; 7</placeName><lb/> den <date type="write">6. IX. 37.</date></p>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
-          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="1889">Lion Feuchtwanger</persName></name> –</span>
+          <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="1889">Lion Feuchtwanger</persName></name> &#8211;</span>
         </p>
-        <lb/>
-        <p>es scheint mir doch am Platze, Ihnen geschwind zu erzählen, dass ich aus der "Gruppe der Unabhängigen und Sauberen"<note type="com">Gemeint ist der <orgName key="935">Bund Freie Presse und Literatur</orgName> (BFPL). Im Juni 1937 initiiert <persName key="53">Leopold Schwarzschild</persName> die Bildung dieses <orgName key="935">Bundes</orgName>, mit dem erklärten Ziel, alle Schriftsteller und Journalisten zusammenzuschließen, die "geistige Freiheit, moralische Sauberkeit und Verantwortungsgefühl für die Grundlage jeder öffentlichen geistigen Wirksamkeit" halten. Mit der Gründung des <orgName key="935">BFPL</orgName> soll auch ein Zeichen gesetzt werden gegen kommunistisch dominierte Exilverbände wie den <orgName key="3114">Schutzverband deutscher Schriftsteller</orgName> oder den <orgName key="4858">Ausschuss zur Bildung einer deutschen Volksfront</orgName>, die sich auch angesichts der Moskauer Prozesse nicht von den Kommunisten distanzieren. Von <persName key="53">Schwarzschild</persName> aufgefordert (vgl. den <ref target="fud://989">Brief</ref> von <persName key="53">Leopold Schwarzschild</persName> an <persName key="16">Klaus Mann</persName> vom 3.6.1937 und das <ref target="fud://990">Telegramm</ref> von <persName key="53">Leopold Schwarzschild</persName> an <persName key="16">Klaus Mann</persName> vom 14.6.1937), tritt <persName key="16">Klaus Mann</persName> dem <orgName key="935">Bund</orgName> zunächst bei und wird auch in der Gründungsanzeige erwähnt, die am 24.7.1937 im <name type="per" key="717">Neuen Tage-Buch</name> erscheint. Auf Drängen seines Onkels <persName key="1709">Heinrich Mann</persName>, dem Vorsitzenden des <orgName key="4858">Volksfrontausschusses</orgName>, zieht <persName key="16">Klaus Mann</persName> seine Beitrittserklärung zum <orgName key="935">BFPL</orgName> zurück (vgl. den <ref target="fud://1010">Brief</ref> von <persName key="16">Klaus Mann</persName> an <persName key="53">Leopold Schwarzschild</persName> vom 24.8.1937).<lb/><lb/><lb/>(Vgl. Schiller: Gegensatz, S. 143–157; Widner: Stunde, S. 48-65.)</note> ausgetreten bin. Aus persönlicher Rücksicht auf <persName key="53">Schwarzschild</persName>, und weil ich, innerhalb der Emigration, gegen jeden Eclat, gegen alle unfreundlichen Demomstationen bin, habe ich darauf verzichtet, dass man meinen Austritt – zu dem mich viele, teils private, teils sachlich-politische Motive bestimmt haben – öffentlich mitteilt. Immerhin möchte ich doch, dass die paar Interessierten und die literarischen Freunde Bescheid wissen und mich nicht weiter einer <orgName key="935">Gruppierung</orgName> zurechnen, der ich also nicht mehr angehöre. Vielleicht erzählen Sie es auch unserem Freund <persName key="2076">Marcuse</persName>, dass ich seit einer Woche wieder ein Unsauberer<note type="com">Siehe hierzu auch den <ref target="fud://1081">Brief</ref> von <persName key="1889">Lion Feuchtwanger</persName> an <persName key="16">Klaus Mann</persName> vom 11.9.1937.</note> und ein Abhängiger bin, und mich in diesem altvertrauten, nun wiedergewonnenen Zustand ziemlich wohl fühle.</p>
-        <lb/>
-        <p>Stets<lb/>Ihr herzlich-aufrichtig ergebener:</p>
-        <lb/>
+        <lb/> 
+        <p>es scheint mir doch am Platze, Ihnen geschwind zu erz&#228;hlen, dass ich aus der "Gruppe der Unabh&#228;ngigen und Sauberen"<note type="com"> Gemeint ist der <orgName key="935">Bund Freie Presse und Literatur</orgName> (BFPL). Im Juni 1937 initiiert <persName key="53">Leopold Schwarzschild</persName> die Bildung dieses <orgName key="935">Bundes</orgName>, mit dem erkl&#228;rten Ziel, alle Schriftsteller und Journalisten zusammenzuschlie&#223;en, die "geistige Freiheit, moralische Sauberkeit und Verantwortungsgef&#252;hl f&#252;r die Grundlage jeder &#246;ffentlichen geistigen Wirksamkeit" halten. Mit der Gr&#252;ndung des <orgName key="935">BFPL</orgName> soll auch ein Zeichen gesetzt werden gegen kommunistisch dominierte Exilverb&#228;nde wie den <orgName key="3114">Schutzverband deutscher Schriftsteller</orgName> oder den <orgName key="4858">Ausschuss zur Bildung einer deutschen Volksfront</orgName>, die sich auch angesichts der Moskauer Prozesse nicht von den Kommunisten distanzieren. Von <persName key="53">Schwarzschild</persName> aufgefordert (vgl. den <ref target="fud://989">Brief</ref> von <persName key="53">Leopold Schwarzschild</persName> an <persName key="16">Klaus Mann</persName> vom 3.6.1937 und das <ref target="fud://990">Telegramm</ref> von <persName key="53">Leopold Schwarzschild</persName> an <persName key="16">Klaus Mann</persName> vom 14.6.1937), tritt <persName key="16">Klaus Mann</persName> dem <orgName key="935">Bund</orgName> zun&#228;chst bei und wird auch in der Gr&#252;ndungsanzeige erw&#228;hnt, die am 24.7.1937 im <name type="per" key="717">Neuen Tage-Buch</name> erscheint. Auf Dr&#228;ngen seines Onkels <persName key="1709">Heinrich Mann</persName>, dem Vorsitzenden des <orgName key="4858">Volksfrontausschusses</orgName>, zieht <persName key="16">Klaus Mann</persName> seine Beitrittserkl&#228;rung zum <orgName key="935">BFPL</orgName> zur&#252;ck (vgl. den <ref target="fud://1010">Brief</ref> von <persName key="16">Klaus Mann</persName> an <persName key="53">Leopold Schwarzschild</persName> vom 24.8.1937).<lb/> <lb/> <lb/> (Vgl. Schiller: Gegensatz, S. 143&#8211;157; Widner: Stunde, S. 48-65.)</note> ausgetreten bin. Aus pers&#246;nlicher R&#252;cksicht auf <persName key="53">Schwarzschild</persName>, und weil ich, innerhalb der Emigration, gegen jeden Eclat, gegen alle unfreundlichen Demomstationen bin, habe ich darauf verzichtet, dass man meinen Austritt &#8211; zu dem mich viele, teils private, teils sachlich-politische Motive bestimmt haben &#8211; &#246;ffentlich mitteilt. Immerhin m&#246;chte ich doch, dass die paar Interessierten und die literarischen Freunde Bescheid wissen und mich nicht weiter einer <orgName key="935">Gruppierung</orgName> zurechnen, der ich also nicht mehr angeh&#246;re. Vielleicht erz&#228;hlen Sie es auch unserem Freund <persName key="2076">Marcuse</persName>, dass ich seit einer Woche wieder ein Unsauberer<note type="com"> Siehe hierzu auch den <ref target="fud://1081">Brief</ref> von <persName key="1889">Lion Feuchtwanger</persName> an <persName key="16">Klaus Mann</persName> vom 11.9.1937.</note> und ein Abh&#228;ngiger bin, und mich in diesem altvertrauten, nun wiedergewonnenen Zustand ziemlich wohl f&#252;hle.</p>
+        <lb/> 
+        <p>Stets<lb/> Ihr herzlich-aufrichtig ergebener:</p>
+        <lb/> 
         <p rend="text-align:right">
           <name role="aut">
             <span type="Signatur">
-              <persName key="16">Klaus<lb/>Mann</persName>
+              <persName key="16">Klaus<lb/> Mann</persName>
             </span>
           </name>
         </p>

@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,10 +28,8 @@
         <ab type="paper"/>
         <ab type="language">deutsch</ab>
         <ab type="AF">F1</ab>
-        <ab type="location"><placeName key="73075" type="write" cert="high" evidence="Brieftext"
-            >Saint-Cyr-sur-Mer</placeName></ab>
-        <ab type="date"><date when="1934-11-10" cert="low" evidence="erschlossen"
-          >10.11.1934</date></ab>
+        <ab type="location"><placeName key="73075" type="write" cert="high" evidence="Brieftext">Saint-Cyr-sur-Mer</placeName></ab>
+        <ab type="date"><date when="1934-11-10" cert="low" evidence="erschlossen">10.11.1934</date></ab>
         <ab type="role"><persName key="434" role="aut">Julius Meier-Graefe</persName></ab>
         <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
         <ab type="no">321585</ab>
@@ -51,8 +45,7 @@
     <revisionDesc>
       <change n="transcription">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2013-09-24">24.9.2013</date>, <date when="2014-07-31">31.7.2014</date>, <date
-          when="2014-08-12">12.8.2014</date>
+        <date when="2013-09-24">24.9.2013</date>, <date when="2014-07-31">31.7.2014</date>, <date when="2014-08-12">12.8.2014</date>
       </change>
 
       <change n="collation">
@@ -67,8 +60,7 @@
 
       <change n="collation">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2014-05-20">20.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date
-          when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
+        <date when="2014-05-20">20.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
       </change>
 
       <change n="collation">
@@ -94,6 +86,7 @@
 
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -106,60 +99,52 @@
           <date when="1934-11-10" cert="low">10/XI</date></p>
 
 
-        <p><emph n="salutation">Lieber Herr <persName key="7721" role="rec"
-            >Kracauer</persName></emph>, ich habe Ihren Roman<note type="reg"><name type="wrk"
-              key="74424">Georg</name></note>, ohne abzusetzen, gelesen und kann Ihnen mit der
-          Aufrichtigkeit, die ich Ihnen schulde, gratulieren. Die Leichtigkeit des Gefüges in der
+        <p><emph n="salutation">Lieber Herr <persName key="7721" role="rec">Kracauer</persName></emph>, ich habe Ihren Roman<note type="reg"> <name type="wrk" key="74424">Georg</name></note>, ohne abzusetzen, gelesen und kann Ihnen mit der
+          Aufrichtigkeit, die ich Ihnen schulde, gratulieren. Die Leichtigkeit des Gef&#252;ges in der
           Schilderung der Massen, die Verteilung der Akzente, der Verzicht auf alle romanhaften
-          Wendungen &#x2013; großartig. Das Erlebnis Georgs mit Fred eine Perle. Sie geben eine neue
-          Education Sentimentale<note type="reg"><persName key="10178">Flaubert, Gustave</persName>,
-              <name type="wrk" key="74423">Die Erziehung der Gefühle</name></note>. Der bilderreiche
-          Stil überaus wirksam. Vielleicht hier und da im ersten Teil fast zu viel Bilder, während
+          Wendungen &#8211; gro&#223;artig. Das Erlebnis Georgs mit Fred eine Perle. Sie geben eine neue
+          Education Sentimentale<note type="reg"> <persName key="10178">Flaubert, Gustave</persName>,
+              <name type="wrk" key="74423">Die Erziehung der Gef&#252;hle</name></note>. Der bilderreiche
+          Stil &#252;beraus wirksam. Vielleicht hier und da im ersten Teil fast zu viel Bilder, w&#228;hrend
           im letzten Teil die Identifizierung des Autors mit Georg um eine Spur zu deutlich wird und
           die Parteipolitik um eine Spur zu stark hervortritt, aber das geht wohl nicht anders, um
           die Entwicklung Georgs zu zeigen, und es sind jedenfalls nur Nuancen. Keinen Augenblick
           hat mich die Spannung verlassen. Ich glaube, das wird auch anderen, vielen anderen so
-          gehen. Die Wirkung auf die Gebildeten scheint mir fraglos, aber ich könnte mir auch einen
-          bedeutenden buchhändlerischen Erfolg denken, wenn auch gerade nicht mit den Wirkungen, auf
-          die es Ihnen ankommt, sondern mit dem Gesellschaftsroman. Der Titel müßte, scheint mir,
-          bildhaft sein und so was wie das Gemurmel der Wellen ausdrücken, wenn
-          Sie ihn nicht einfach mit dem Namen Georg verknüpfen: Georgs Lehrzeit oder dergl.
-          Jedenfalls würde ich ohne Titel den <name type="wrk" key="74424">Roman</name> nicht
-          anbieten. Noch eine Kleinigkeit: Sie brauchen zuweilen doppelte Relativsätze. Ich kann mir
-          schon denken, warum, um die Verquickung der Situation zu steigern. Ich täte es nicht.</p>
+          gehen. Die Wirkung auf die Gebildeten scheint mir fraglos, aber ich k&#246;nnte mir auch einen
+          bedeutenden buchh&#228;ndlerischen Erfolg denken, wenn auch gerade nicht mit den Wirkungen, auf
+          die es Ihnen ankommt, sondern mit dem Gesellschaftsroman. Der Titel m&#252;&#223;te, scheint mir,
+          bildhaft sein und so was wie das Gemurmel der Wellen ausdr&#252;cken, wenn
+          Sie ihn nicht einfach mit dem Namen Georg verkn&#252;pfen: Georgs Lehrzeit oder dergl.
+          Jedenfalls w&#252;rde ich ohne Titel den <name type="wrk" key="74424">Roman</name> nicht
+          anbieten. Noch eine Kleinigkeit: Sie brauchen zuweilen doppelte Relativs&#228;tze. Ich kann mir
+          schon denken, warum, um die Verquickung der Situation zu steigern. Ich t&#228;te es nicht.</p>
         <pb n="2"/>
 
         <p>Nun die leidige Verlagfrage. Verzeihen Sie, wenn ich Ihr Verhalten zu den beiden
-          holländischen Verlagen<note type="reg"><orgName key="73072">Allert de Lange</orgName> und
+          holl&#228;ndischen Verlagen<note type="reg"> <orgName key="73072">Allert de Lange</orgName> und
               <orgName key="73074">Querido-Verlag</orgName></note> verstehe aber nicht richtig
           finde. Mein Lieber, in unserer Lage kann man sich solche Empfindlichkeiten nicht leisten
-          und einer, der wie Sie so eindeutig seiner Überzeugung treu ist, vergibt sich nichts mit
-          einem rein formalen Entgegenkommen, wenn überhaupt das Anbieten eines Werkes als
-          Entgegenkommen aufgefaßt werden kann, zumal eines Werkes von dieser Qualität. Sich nicht
-          mit Kleinigkeiten den ohnehin schwierigen Weg noch verbauen! Möglich daß Ihre Vermutung
+          und einer, der wie Sie so eindeutig seiner &#220;berzeugung treu ist, vergibt sich nichts mit
+          einem rein formalen Entgegenkommen, wenn &#252;berhaupt das Anbieten eines Werkes als
+          Entgegenkommen aufgefa&#223;t werden kann, zumal eines Werkes von dieser Qualit&#228;t. Sich nicht
+          mit Kleinigkeiten den ohnehin schwierigen Weg noch verbauen! M&#246;glich da&#223; Ihre Vermutung
           der Kliquenwirtschaft zutrifft, aber diese geht sicher nicht soweit, Lectoren abzuhalten,
-          ein Werk, von dem sie sich Erfolg versprechen, kalt zu stellen. Auch <persName key="7744"
-            >Markuse</persName>, den ich gestern sprach und der mir herzliche Grüße für Sie
-          aufgetragen hat (einer der Sie sehr schätzt) denkt so. Überdies kann ich <persName
-            key="9160">Kesten</persName> schreiben und Ihnen den ersten Schritt abnehmen. Wenn Sie
-          Zeit haben, kann ich mündlich mit ihm verhandeln, mir wäre das nicht vor vierzehn Tagen
-          möglich.</p>
+          ein Werk, von dem sie sich Erfolg versprechen, kalt zu stellen. Auch <persName key="7744">Markuse</persName>, den ich gestern sprach und der mir herzliche Gr&#252;&#223;e f&#252;r Sie
+          aufgetragen hat (einer der Sie sehr sch&#228;tzt) denkt so. &#220;berdies kann ich <persName key="9160">Kesten</persName> schreiben und Ihnen den ersten Schritt abnehmen. Wenn Sie
+          Zeit haben, kann ich m&#252;ndlich mit ihm verhandeln, mir w&#228;re das nicht vor vierzehn Tagen
+          m&#246;glich.</p>
 
         <p>Auch <persName key="8771">Thomas Mann</persName> will ich gerne schreiben, aber mir
           scheinen die Aussichten bei Schweizer Verlagen viel geringer, und ich bin keineswegs
           sicher, ob <persName key="8771">Th. Mann</persName> Beziehungen zu ihnen besitzt und sich
-          so energisch bemühen würde, um die sicher nicht geringen Widerstände zu überwinden.
-            <persName key="5454">R. Schickele</persName> kennt einen anständigen aber zaghaften und
-          wenig bemittelten Schweizer Verleger<note type="com" cert="high">Vermutlich <persName
-              key="6746">Max Rascher</persName>.</note>, dessen Name mir entfallen ist, und wäre
+          so energisch bem&#252;hen w&#252;rde, um die sicher nicht geringen Widerst&#228;nde zu &#252;berwinden.
+            <persName key="5454">R. Schickele</persName> kennt einen anst&#228;ndigen aber zaghaften und
+          wenig bemittelten Schweizer Verleger<note type="com" cert="high"> Vermutlich <persName key="6746">Max Rascher</persName>.</note>, dessen Name mir entfallen ist, und w&#228;re
           sicher bereit, zu helfen. Er selbst ist bei <orgName key="73072">de Lange</orgName> und
           steht gut mit <persName key="9160">Kesten</persName>. Sein Laster: eine weitgehende
-          Faulheit, die auch seinem eigenen Wohlsein arg im Wege ist. Auch mit <orgName key="73074"
-            >Querido</orgName> wird sich durch <persName key="5584">Roth</persName>, der in
+          Faulheit, die auch seinem eigenen Wohlsein arg im Wege ist. Auch mit <orgName key="73074">Querido</orgName> wird sich durch <persName key="5584">Roth</persName>, der in
             <placeName key="49697">Nizza</placeName> ist, oder anderen die Verbindung herstellen
-          lassen. Bestimmen Sie, und ich versuche. Das <name type="wrk" key="74424"
-            >Manuskript</name> geht heute als rekommandierte Drucksache an Sie zurück. <emph
-            n="salute">Herzl. Grüße Ihrer Gattin<note type="reg"><persName key="74110">Kracauer,
+          lassen. Bestimmen Sie, und ich versuche. Das <name type="wrk" key="74424">Manuskript</name> geht heute als rekommandierte Drucksache an Sie zur&#252;ck. <emph n="salute">Herzl. Gr&#252;&#223;e Ihrer Gattin<note type="reg"> <persName key="74110">Kracauer,
                 Elisabeth</persName></note></emph></p>
 
         <p rend="right"><emph n="salute">Ihr</emph>

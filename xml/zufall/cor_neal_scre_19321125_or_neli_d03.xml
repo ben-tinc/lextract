@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Alfred Neumann an René Schickele</title>
+                <title>Alfred Neumann an Ren&#233; Schickele</title>
             </titleStmt>
             <publicationStmt>
                 <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
@@ -32,12 +28,10 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">P3</ab>
-                <ab type="location"><placeName key="77924" type="write" cert="medium"
-                        evidence="Vordruck">Brannenburg</placeName></ab>
-                <ab type="date"><date when="1932-11-25" cert="high" evidence="Brieftext"
-                        >25.11.1932</date></ab>
+                <ab type="location"><placeName key="77924" type="write" cert="medium" evidence="Vordruck">Brannenburg</placeName></ab>
+                <ab type="date"><date when="1932-11-25" cert="high" evidence="Brieftext">25.11.1932</date></ab>
                 <ab type="role"><persName key="5592" role="aut">Alfred Neumann</persName></ab>
-                <ab type="role"><persName key="5454" role="rec">René Schickele</persName></ab>
+                <ab type="role"><persName key="5454" role="rec">Ren&#233; Schickele</persName></ab>
                 <ab type="no">323483</ab>
                 <ab type="reg"/>
                 <ab type="desc">Original mit der Unterschrift von Alfred Neumann. Als Vordruck
@@ -55,8 +49,7 @@
             <change n="collation">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>,
-                    <date when="2014-12-03">3.12.2014</date>, <date when="2015-01-19"
-                    >19.1.2015</date>
+                    <date when="2014-12-03">3.12.2014</date>, <date when="2015-01-19">19.1.2015</date>
             </change>
 
             <change n="collation">
@@ -92,6 +85,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -107,43 +101,38 @@
                             Schickele</persName></emph>,</p>
 
                 <p>ich bin sehr froh, endlich wieder Ihre Handschrift zu sehen. Hier ist meine
-                    Adresse. Es ist schön hier, wenn auch wahrhaftig nicht mehr Sommer; aber der
-                    Herbst war gutmütig und Gott sei dank beschränkt sich bisher der Schnee auf die
-                    Berge. (Ich arbeite viel, immer an meinem lieben wolkenäugigen Napoléon
-                        Trois<note type="com" cert="high">Gemeint ist seine <name type="wrk.p"
-                            key="77927">Romantrilogie</name> um <persName key="8086">Napoleon
+                    Adresse. Es ist sch&#246;n hier, wenn auch wahrhaftig nicht mehr Sommer; aber der
+                    Herbst war gutm&#252;tig und Gott sei dank beschr&#228;nkt sich bisher der Schnee auf die
+                    Berge. (Ich arbeite viel, immer an meinem lieben wolken&#228;ugigen Napol&#233;on
+                        Trois<note type="com" cert="high"> Gemeint ist seine <name type="wrk.p" key="77927">Romantrilogie</name> um <persName key="8086">Napoleon
                             III.</persName></note>; d.h. an dem Prinzen Louis, denn der erste
-                        Roman<note type="reg"><name type="wrk" key="77926">Neuer Cäsar</name></note>
-                    wird mit dem Staatsstreich abschließen.) Ach, Ihre französichen Grüße
-                    unterwühlen immer meine bayerische Zufriedenheit. Vielleicht komme ich nach
-                        <placeName key="73073">Sanary</placeName>, bevor ich nach <placeName
-                        key="48894">Fiesole</placeName> gehe. Vielleicht ist es gut, wenn ich ein
+                        Roman<note type="reg"> <name type="wrk" key="77926">Neuer C&#228;sar</name></note>
+                    wird mit dem Staatsstreich abschlie&#223;en.) Ach, Ihre franz&#246;sichen Gr&#252;&#223;e
+                    unterw&#252;hlen immer meine bayerische Zufriedenheit. Vielleicht komme ich nach
+                        <placeName key="73073">Sanary</placeName>, bevor ich nach <placeName key="48894">Fiesole</placeName> gehe. Vielleicht ist es gut, wenn ich ein
                     paar Wochen mein Buch-<placeName key="48914">Frankreich</placeName> (und mich) in der Provence atmen lasse.</p>
                 <pb n="2"/>
 
-                <p>Bitte schreiben Sie mir doch, wie es dort mit einer hübschen Pension &#x2013;
-                    oder Hotelchen &#x2013;, oder privat<note type="com" cert="high">Die letzten
-                        beiden Wörter wurden mit Markierung nachträglich unten eingefügt.</note> mit
+                <p>Bitte schreiben Sie mir doch, wie es dort mit einer h&#252;bschen Pension &#8211;
+                    oder Hotelchen &#8211;, oder privat<note type="com" cert="high"> Die letzten
+                        beiden W&#246;rter wurden mit Markierung nachtr&#228;glich unten eingef&#252;gt.</note> mit
                     Arbeitszimmer und Schlafzimmer und Ruhe <hi rend="ul">und mit den Preisen</hi>
                     steht. Schickele, dort zu arbeiten und mit Ihnen zu trinken und zu laufen und
-                    Ihnen mein armes deutsches Herz auszuschütten &#x2013; das wäre! Und meine
-                        Frau<note type="reg"><persName key="77922">Neumann, Kitty</persName></note>
-                    hat Ihre Frau<note type="reg"><persName key="7093">Schickele,
+                    Ihnen mein armes deutsches Herz auszusch&#252;tten &#8211; das w&#228;re! Und meine
+                        Frau<note type="reg"> <persName key="77922">Neumann, Kitty</persName></note>
+                    hat Ihre Frau<note type="reg"> <persName key="7093">Schickele,
                         Anna</persName></note>, die sie sehr gern hat. Und gelingt eine Filmsache
                     und habe ich etwas mehr Geld als im Augenblick, dann kommen wir mit dem Wagen
-                    und könnten Fahrten machen...! Ach, das wäre etwas für Februar-März und für die
-                    große Schickung von 1848, bei der ich dann angelangt sein würde. Und in
+                    und k&#246;nnten Fahrten machen...! Ach, das w&#228;re etwas f&#252;r Februar-M&#228;rz und f&#252;r die
+                    gro&#223;e Schickung von 1848, bei der ich dann angelangt sein w&#252;rde. Und in
                         <placeName key="73073">Sanary</placeName> machte ich meinen Louis zum
-                    Prinz-Präsidenten!</p>
+                    Prinz-Pr&#228;sidenten!</p>
 
-                <p>Schreiben Sie bald und schicken Sie mir Ihren neuen Essay-Band<note type="reg"
-                            ><name type="wrk" key="77928">Die Grenze</name></note> und grüßen Sie
-                    mir Frau <persName key="7093">Anna</persName> und Jacquot<note type="reg"
-                        >Neumann spielt vermutlich auf den Sohn des Protagonisten in Schickeles Werk
+                <p>Schreiben Sie bald und schicken Sie mir Ihren neuen Essay-Band<note type="reg"> <name type="wrk" key="77928">Die Grenze</name></note> und gr&#252;&#223;en Sie
+                    mir Frau <persName key="7093">Anna</persName> und Jacquot<note type="reg"> Neumann spielt vermutlich auf den Sohn des Protagonisten in Schickeles Werk
                             <name type="wrk" key="33545">Das Erbe am Rhein</name> an, als
-                        Umschreibung für Schickeles jüngsten Sohn <persName key="72386">Hans
-                            Schickele</persName>.</note>, Ihnen Allen alles Liebe von <persName
-                        key="77922">meiner Frau</persName></p>
+                        Umschreibung f&#252;r Schickeles j&#252;ngsten Sohn <persName key="72386">Hans
+                            Schickele</persName>.</note>, Ihnen Allen alles Liebe von <persName key="77922">meiner Frau</persName></p>
 
                 <p rend="center"><emph n="salute">und herzlich Ihrem</emph></p>
 

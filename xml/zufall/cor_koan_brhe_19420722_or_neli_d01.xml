@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -31,16 +27,14 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">P3</ab>
-                <ab type="location"><placeName key="49021" type="write" cert="low"
-                        evidence="erschlossen">New York</placeName></ab>
-                <ab type="date"><date when="1942-07-22" cert="low" evidence="erschlossen"
-                        >22.7.1942</date></ab>
+                <ab type="location"><placeName key="49021" type="write" cert="low" evidence="erschlossen">New York</placeName></ab>
+                <ab type="date"><date when="1942-07-22" cert="low" evidence="erschlossen">22.7.1942</date></ab>
                 <ab type="role"><persName key="10039" role="aut">Annette Kolb</persName></ab>
                 <ab type="role"><persName key="75307" role="rec">Hermann Broch</persName></ab>
                 <ab type="no">323565</ab>
                 <ab type="reg"/>
                 <ab type="desc">Original mit der Unterschrift von Annette Kolb. Unter der Adresse
-                    wurde nachträglich mit Bleistift die Angabe "Re 7-0977" hinzugefügt.</ab>
+                    wurde nachtr&#228;glich mit Bleistift die Angabe "Re 7-0977" hinzugef&#252;gt.</ab>
             </sourceDesc>
 
         </fileDesc>
@@ -54,8 +48,7 @@
             <change n="collation">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>,
-                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-01-19"
-                    >19.1.2015</date>
+                    <date when="2014-11-25">25.11.2014</date>, <date when="2015-01-19">19.1.2015</date>
             </change>
 
             <change n="collation">
@@ -91,6 +84,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -109,12 +103,11 @@
                 <p><emph n="salutation">Lieber <persName key="75307" role="rec">
                         Broch</persName></emph>,</p>
 
-                <p>wirklich ich war nicht im Stande zur Beerdigung zu gehen.<note type="com"
-                        cert="high">Es geht um die Beerdigung von <persName key="6217">Franz
+                <p>wirklich ich war nicht im Stande zur Beerdigung zu gehen.<note type="com" cert="high"> Es geht um die Beerdigung von <persName key="6217">Franz
                             Blei</persName>. Vgl. Kolbs <rs n="323563">Brief</rs> vom
-                        18.7.1942.</note> Sie hätten gleich darauf für die meinige sammeln können,
-                    (es wäre ja eine Lösung gewesen.) Auch hätte ich ja garnicht die Mittel gehabt
-                    für die Taxis von denen man mir sprach da es viel<pb n="2"/> zu weit war um zu
+                        18.7.1942.</note> Sie h&#228;tten gleich darauf f&#252;r die meinige sammeln k&#246;nnen,
+                    (es w&#228;re ja eine L&#246;sung gewesen.) Auch h&#228;tte ich ja garnicht die Mittel gehabt
+                    f&#252;r die Taxis von denen man mir sprach da es viel<pb n="2"/> zu weit war um zu
                     Fuss zu gehen.</p>
 
                 <p>Aber wie elend traurig ist das Ganze. Und dazu die Schminke Welch ein Land!</p>

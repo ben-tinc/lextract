@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Stefan Zweig an René Schickele</title>
+        <title>Stefan Zweig an Ren&#233; Schickele</title>
       </titleStmt>
       <publicationStmt>
         <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
@@ -32,12 +28,10 @@
         <ab type="paper"/>
         <ab type="language">deutsch</ab>
         <ab type="AF">F1</ab>
-        <ab type="location"><placeName key="49050" type="write" cert="high" evidence="Brieftext"
-            >London</placeName></ab>
-        <ab type="date"><date when="1934-11-01" cert="high" evidence="Brieftext"
-          >1.11.1934</date></ab>
+        <ab type="location"><placeName key="49050" type="write" cert="high" evidence="Brieftext">London</placeName></ab>
+        <ab type="date"><date when="1934-11-01" cert="high" evidence="Brieftext">1.11.1934</date></ab>
         <ab type="role"><persName key="10182" role="aut">Stefan Zweig</persName></ab>
-        <ab type="role"><persName key="5454" role="rec">René Schickele</persName></ab>
+        <ab type="role"><persName key="5454" role="rec">Ren&#233; Schickele</persName></ab>
         <ab type="no">320981</ab>
         <ab type="reg"/>
         <ab type="desc">Original mit der Unterschrift von Stefan Zweig in blauer Tinte.</ab>
@@ -60,14 +54,12 @@
 
       <change n="collation">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-12">12.11.2014</date>, <date
-          when="2015-04-20">20.4.2015</date>
+        <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-12">12.11.2014</date>, <date when="2015-04-20">20.4.2015</date>
       </change>
 
       <change n="collation">
         <persName key="71921">Angelika Kreh</persName>
-        <date when="2013-10-17">17.10.2013</date>, <date when="2014-11-12">12.11.2014</date>, <date
-          when="2014-11-25">25.11.2014</date>
+        <date when="2013-10-17">17.10.2013</date>, <date when="2014-11-12">12.11.2014</date>, <date when="2014-11-25">25.11.2014</date>
       </change>
 
       <change n="edition">
@@ -93,6 +85,7 @@
     </revisionDesc>
 
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -102,47 +95,44 @@
         </figure>
 
         <p>11 Portland Place<space/>
-          <placeName type="write" key="49050">London</placeName>, <date when="1934-11-01"
-            cert="high">1. November 1934.</date></p>
+          <placeName type="write" key="49050">London</placeName>, <date when="1934-11-01" cert="high">1. November 1934.</date></p>
 
 
-        <p><emph n="salutation">Lieber <persName key="5454" role="rec">René
+        <p><emph n="salutation">Lieber <persName key="5454" role="rec">Ren&#233;
             Schickele</persName></emph>!</p>
 
-        <p>Hoffentlich haben Sie nicht übel von mir gedacht, dass ich Ihnen erst heute schreibe und
-          Ihnen für Ihre Bücher<note type="com" cert="high"><name type="wrk" key="72180">Die Witwe
+        <p>Hoffentlich haben Sie nicht &#252;bel von mir gedacht, dass ich Ihnen erst heute schreibe und
+          Ihnen f&#252;r Ihre B&#252;cher<note type="com" cert="high"> <name type="wrk" key="72180">Die Witwe
               Bosca</name> und <name type="wrk" key="72368">Meine Freundin Lo</name>, vgl.
             Schickeles <rs n="321011">Brief</rs> vom 11.9.1934.</note> danke. Ich habe mit einer Art
-          Heimweh in der <name type="wrk" key="72180">"Witwe Bosca"</name> die ganze südliche
-          Landschaft gespürt und alle die Kunst, mit der Sie Natur zu erwecken wissen. Immer sind
-          die Menschen, die Sie darstellen, nur durch die Atmosphäre ganz verständlich, in der sie
+          Heimweh in der <name type="wrk" key="72180">"Witwe Bosca"</name> die ganze s&#252;dliche
+          Landschaft gesp&#252;rt und alle die Kunst, mit der Sie Natur zu erwecken wissen. Immer sind
+          die Menschen, die Sie darstellen, nur durch die Atmosph&#228;re ganz verst&#228;ndlich, in der sie
           atmen (das <name type="wrk" key="33545">"Erbe am Rhein"</name>!) und darum habe ich es nie
           als ein Zuviel empfunden, wenn Wald und Wiesen und Blumen und Meer bei Ihnen in die
-          Geschehnisse hineinrauschen. Es ist dies nie etwas künstlich Ueberwucherndes, sondern der
+          Geschehnisse hineinrauschen. Es ist dies nie etwas k&#252;nstlich Ueberwucherndes, sondern der
           Grund, der unterste und elmentare, aus dem Sie die Gestalten entwickeln. Vielleicht binden
-          Sie damit &#x2013; und nicht zumindest durch die Sprache &#x2013; Ihre Bücher stärker an
-          das Heimatliche als es einer Uebertragung in fremde Sprachen förderlich ist; dort wirkt
-          natürlich alles am stärksten, was (um im deutschen Jargon zu bleiben) auf Asphalt gebaut
-          ist, der in <placeName key="49096">Paris</placeName> und <placeName key="49050"
-            >London</placeName> und <placeName key="49025">Berlin</placeName> und <placeName
-            key="49021">New York</placeName> ein und derselbe ist. Aber<pb n="2"/> nichts wäre
-          irriger, als wenn Sie sich deshalb von Ihrer persönlichen Art abwenden liessen, die eben
-          Ihre persönliche und nur Ihnen gehörige darstellt.</p>
+          Sie damit &#8211; und nicht zumindest durch die Sprache &#8211; Ihre B&#252;cher st&#228;rker an
+          das Heimatliche als es einer Uebertragung in fremde Sprachen f&#246;rderlich ist; dort wirkt
+          nat&#252;rlich alles am st&#228;rksten, was (um im deutschen Jargon zu bleiben) auf Asphalt gebaut
+          ist, der in <placeName key="49096">Paris</placeName> und <placeName key="49050">London</placeName> und <placeName key="49025">Berlin</placeName> und <placeName key="49021">New York</placeName> ein und derselbe ist. Aber<pb n="2"/> nichts w&#228;re
+          irriger, als wenn Sie sich deshalb von Ihrer pers&#246;nlichen Art abwenden liessen, die eben
+          Ihre pers&#246;nliche und nur Ihnen geh&#246;rige darstellt.</p>
 
-        <p>Das andere kleinere Buch<note type="reg"><name type="wrk" key="72368">Meine Freundin
-              Lo</name></note> liebe ich schon seit Jahren und Jahren. Ja, gerade jenes Kapitel über
-            <persName key="7898">Jaurès</persName> war es, das mir die Ueberzeugung gab, nur Sie
-          könnten seine Gestalt unpolitisch darstellen und gleichzeitig in jener feurigen Luft der
-          apokalyptischen Tage, die wir erlebt haben, um sie nicht mehr zu vergessen. Es wäre schon
-          gut, wenn ein Mann wie Sie ein Zeugnis abgeben könnte für das, was historisch zwanzig
-          Jahre und in Wahrheit tausend Jahre vor unserer Gegenwart liegt. Wir fühlen uns oft
+        <p>Das andere kleinere Buch<note type="reg"> <name type="wrk" key="72368">Meine Freundin
+              Lo</name></note> liebe ich schon seit Jahren und Jahren. Ja, gerade jenes Kapitel &#252;ber
+            <persName key="7898">Jaur&#232;s</persName> war es, das mir die Ueberzeugung gab, nur Sie
+          k&#246;nnten seine Gestalt unpolitisch darstellen und gleichzeitig in jener feurigen Luft der
+          apokalyptischen Tage, die wir erlebt haben, um sie nicht mehr zu vergessen. Es w&#228;re schon
+          gut, wenn ein Mann wie Sie ein Zeugnis abgeben k&#246;nnte f&#252;r das, was historisch zwanzig
+          Jahre und in Wahrheit tausend Jahre vor unserer Gegenwart liegt. Wir f&#252;hlen uns oft
           physisch zu jung, um zu empfinden, wie das, was wir unsere Jugend nennen, schon etwas
-          Historisches geworden ist, das wir die Pflicht hätten, auszusagen. Hoffentlich reizt Sie
-          einmal die Arbeit, ich glaube, sie würde weit über den Anlass hinaus sich zu einer
-          wichtigen Aussage runden und könnte einer jener internationalen Erfolge werden, die uns
-          Ausgedeutschten jetzt so nötig sind.</p>
+          Historisches geworden ist, das wir die Pflicht h&#228;tten, auszusagen. Hoffentlich reizt Sie
+          einmal die Arbeit, ich glaube, sie w&#252;rde weit &#252;ber den Anlass hinaus sich zu einer
+          wichtigen Aussage runden und k&#246;nnte einer jener internationalen Erfolge werden, die uns
+          Ausgedeutschten jetzt so n&#246;tig sind.</p>
 
-        <p>Vielleicht komme ich sehr bald in Ihre Nähe und würde mich dann ungemein freuen, Sie zu
+        <p>Vielleicht komme ich sehr bald in Ihre N&#228;he und w&#252;rde mich dann ungemein freuen, Sie zu
           sehen.</p>
 
         <p rend="center"><emph n="salute">Herzlichst Ihr</emph></p>

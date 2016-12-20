@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -30,17 +26,15 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F2</ab>
-                <ab type="location"><placeName key="49096" type="write" cert="low"
-                        evidence="erschlossen">Paris</placeName></ab>
-                <ab type="date"><date when="1934-09-01" cert="high" evidence="Brieftext"
-                        >1.9.1934</date></ab>
+                <ab type="location"><placeName key="49096" type="write" cert="low" evidence="erschlossen">Paris</placeName></ab>
+                <ab type="date"><date when="1934-09-01" cert="high" evidence="Brieftext">1.9.1934</date></ab>
                 <ab type="role"><persName key="13164" role="aut">Joseph Breitbach</persName></ab>
                 <ab type="role"><persName key="8771" role="rec">Thomas Mann</persName></ab>
                 <ab type="no">320987</ab>
                 <ab type="reg"/>
-                <ab type="desc">Original oder Entwurf mit handschriftlichen Ergänzungen und
+                <ab type="desc">Original oder Entwurf mit handschriftlichen Erg&#228;nzungen und
                     Korrekturen von Joseph Breitbach und mit "J. Br." unterzeichnet. Bis auf das
-                    erste sind alle anderen Blätter oben links nummeriert.</ab>
+                    erste sind alle anderen Bl&#228;tter oben links nummeriert.</ab>
 
             </sourceDesc>
         </fileDesc>
@@ -70,9 +64,7 @@
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2014-06-16">16.6.2014</date>, <date when="2014-06-23">23.6.2014</date>,
-                    <date when="2014-07-30">30.7.2014</date>, <date when="2014-08-13"
-                    >13.8.2014</date>, <date when="2014-10-10">10.10.2014</date>, <date
-                    when="2014-10-29">29.10.2014</date>, <date when="2014-11-19">19.11.2014</date>,
+                    <date when="2014-07-30">30.7.2014</date>, <date when="2014-08-13">13.8.2014</date>, <date when="2014-10-10">10.10.2014</date>, <date when="2014-10-29">29.10.2014</date>, <date when="2014-11-19">19.11.2014</date>,
                     <date when="2015-01-26">26.1.2015</date>
             </change>
 
@@ -93,6 +85,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -110,298 +103,242 @@
 
                 <p rend="right"><date when="1934-09-01" cert="high">1. September 1934</date></p>
 
-                <p><emph n="salutation">Hochverehrter Herr <persName key="8771" role="rec"
-                            >Mann</persName></emph>. Wollen Sie es nicht als Ungezogenheit
+                <p><emph n="salutation">Hochverehrter Herr <persName key="8771" role="rec">Mann</persName></emph>. Wollen Sie es nicht als Ungezogenheit
                     betrachten, dass ich Ihr <rs n="320985">Schreiben</rs> vom 14. Juli erst heute
-                    beantworte. Ich habe nur von Woche zu Woche darauf gewartet, dass Klaus<note
-                        type="reg"><persName key="519">Mann, Klaus</persName></note> das böse Wort
-                    vom Göbbelsagenten, mit dem er mich gegen sein besseres Wissen beschimpft hat,
-                    zurücknähme. Er hat es nicht getan, und es wird weiter gegen mich gehetzt.</p>
+                    beantworte. Ich habe nur von Woche zu Woche darauf gewartet, dass Klaus<note type="reg"> <persName key="519">Mann, Klaus</persName></note> das b&#246;se Wort
+                    vom G&#246;bbelsagenten, mit dem er mich gegen sein besseres Wissen beschimpft hat,
+                    zur&#252;ckn&#228;hme. Er hat es nicht getan, und es wird weiter gegen mich gehetzt.</p>
 
-                <p>Sie werfen mir eine "<quote>sonderbare Gefühllosigkeit für die allgemeine
-                        Situation</quote>" vor. Eben diese Rücksicht auf eine Situation lehne ich,
-                    wenn ich etwas beurteilen soll, ab. Denn wenn ich mich den Umständen anpassen
+                <p>Sie werfen mir eine "<quote>sonderbare Gef&#252;hllosigkeit f&#252;r die allgemeine
+                        Situation</quote>" vor. Eben diese R&#252;cksicht auf eine Situation lehne ich,
+                    wenn ich etwas beurteilen soll, ab. Denn wenn ich mich den Umst&#228;nden anpassen
                     soll, darf ich heute auch das schlechteste Buch eines Emigranten nicht schlecht
-                    nennen, dürfte ich niemals einen guten Autoren loben, weil er Nazi ist. müsste
-                    ich mich den Cliquen hüben oder drüben verschreiben und &#x2013; letzte
-                    Würdelosigkeit &#x2013; mein unabhängiges Denken aufgeben. Kürzlich sagte mir
+                    nennen, d&#252;rfte ich niemals einen guten Autoren loben, weil er Nazi ist. m&#252;sste
+                    ich mich den Cliquen h&#252;ben oder dr&#252;ben verschreiben und &#8211; letzte
+                    W&#252;rdelosigkeit &#8211; mein unabh&#228;ngiges Denken aufgeben. K&#252;rzlich sagte mir
                         <persName key="8367">Bornstein</persName>, der verantwortliche Redakteur des
-                        <name type="per" key="71113">Neuen Tagebuchs</name> in einem Gespräch über
-                    den neuen Roman<note type="reg"><name type="wrk" key="73126">Babylonische
-                            Wandrung oder Hochmut kommt vor dem Fall</name></note> von <persName
-                        key="10076">Döblin</persName>, dass das <name type="wrk" key="73126"
-                        >Buch</name> miserabel sei, dass man es aber DOCH nicht verreissen könne,
-                    weil <persName key="10076">Döblin</persName> Emigrant ist. Der unlesbare <name
-                        type="wrk" key="73126">Roman</name> ist dann auch gelobt worden und da sehe
+                        <name type="per" key="71113">Neuen Tagebuchs</name> in einem Gespr&#228;ch &#252;ber
+                    den neuen Roman<note type="reg"> <name type="wrk" key="73126">Babylonische
+                            Wandrung oder Hochmut kommt vor dem Fall</name></note> von <persName key="10076">D&#246;blin</persName>, dass das <name type="wrk" key="73126">Buch</name> miserabel sei, dass man es aber DOCH nicht verreissen k&#246;nne,
+                    weil <persName key="10076">D&#246;blin</persName> Emigrant ist. Der unlesbare <name type="wrk" key="73126">Roman</name> ist dann auch gelobt worden und da sehe
                     ich keinen Unterschied mehr zwischen dem und der Verleihung des Georgepreises an
                     den Flieger <persName key="73136">Euringer</persName>, weil der von jeher Nazi
-                    war. Die "Beantworter" meines Artikels<note type="reg"><name type="wrk"
-                            key="71433">Les Franc&#x0327;ais connaissent-ils vraiment la Littérature
-                            allemande d'aujourd'hui?</name></note> haben alle den Umstand übersehen,
+                    war. Die "Beantworter" meines Artikels<note type="reg"> <name type="wrk" key="71433">Les Franc&#807;ais connaissent-ils vraiment la Litt&#233;rature
+                            allemande d'aujourd'hui?</name></note> haben alle den Umstand &#252;bersehen,
                     dass ich mich ja nicht in einem Deutschen Organ und nicht gegen verfemte
-                    Autoren, sondern über die frz. Verlagspolitik in einer französischen Revue<note
-                        type="reg"><name type="per" key="71049">Revue Hebdomadaire</name></note>
-                    äusserte. Die <name type="per" key="71049">Revue H.</name> hat mich zu dem <name
-                        type="wrk" key="71433">Artikel</name> mit dem festgelegten Thema <hi
-                        rend="ul">aufgefordert</hi>. Ich habe ohne Rücksicht auf die Situation
-                    gelobt und getadelt, Künstlerisches vom "Dokumentarischen" geschieden<pb n="2"/>
-                    und deswegen bei <persName key="4443">Schaeffer</persName> und <persName
-                        key="5395">Grimm</persName> den <name type="wrk" key="73128"
-                        >"Helianth"</name> und <name type="wrk" key="73127">"Volk ohne Raum"</name>
-                    hervorgehoben, obwohl beide Autoren<note type="reg"><persName key="4443"
-                            >Schaeffer, Albrecht</persName> und <persName key="5395">Grimm,
+                    Autoren, sondern &#252;ber die frz. Verlagspolitik in einer franz&#246;sischen Revue<note type="reg"> <name type="per" key="71049">Revue Hebdomadaire</name></note>
+                    &#228;usserte. Die <name type="per" key="71049">Revue H.</name> hat mich zu dem <name type="wrk" key="71433">Artikel</name> mit dem festgelegten Thema <hi rend="ul">aufgefordert</hi>. Ich habe ohne R&#252;cksicht auf die Situation
+                    gelobt und getadelt, K&#252;nstlerisches vom "Dokumentarischen" geschieden<pb n="2"/>
+                    und deswegen bei <persName key="4443">Schaeffer</persName> und <persName key="5395">Grimm</persName> den <name type="wrk" key="73128">"Helianth"</name> und <name type="wrk" key="73127">"Volk ohne Raum"</name>
+                    hervorgehoben, obwohl beide Autoren<note type="reg"> <persName key="4443">Schaeffer, Albrecht</persName> und <persName key="5395">Grimm,
                             Hans</persName></note> andere Werke aufzuweisen haben, die rein
-                    künstlerisch höher zu stellen sind als die beiden Wälzer<note type="reg"><name
-                            type="wrk" key="73128">Helianth</name> und <name type="wrk" key="73127"
-                            >Volk ohne Raum</name></note>. Von den "gelobten" Autoren sind <persName
-                        key="346">Kafka</persName>, <persName key="5584">Roth</persName>, <persName
-                        key="14501">Keyserling</persName>, <persName key="73129">Barth</persName>,
-                        <persName key="4443">Albrecht Schaeffer</persName> drüben alles andere als
-                    beliebt, von Ihrer Beliebtheit bei den Nazis ganz zu schweigen. <persName
-                        key="9070">Salomon</persName>, den ich "getadelt" habe, geniesst als einer
-                    der Mitmörder von <persName key="8353">Rathenau</persName> drüben grosse
+                    k&#252;nstlerisch h&#246;her zu stellen sind als die beiden W&#228;lzer<note type="reg"> <name type="wrk" key="73128">Helianth</name> und <name type="wrk" key="73127">Volk ohne Raum</name></note>. Von den "gelobten" Autoren sind <persName key="346">Kafka</persName>, <persName key="5584">Roth</persName>, <persName key="14501">Keyserling</persName>, <persName key="73129">Barth</persName>,
+                        <persName key="4443">Albrecht Schaeffer</persName> dr&#252;ben alles andere als
+                    beliebt, von Ihrer Beliebtheit bei den Nazis ganz zu schweigen. <persName key="9070">Salomon</persName>, den ich "getadelt" habe, geniesst als einer
+                    der Mitm&#246;rder von <persName key="8353">Rathenau</persName> dr&#252;ben grosse
                     Verehrung. Ich habe ihn als unrepresentativ abgelehnt, weil sein ganzer "Geist"
-                    aus einer Anleihe bei <persName key="9688">Sorel</persName> und <persName
-                        key="9401">Stendhal</persName> stammt. (Im ersten Teil der <name type="wrk"
-                        key="73131">Geächteten</name>; im zweiten, bei dem grossen Katzenjammer im
-                    Gefängnis, ist es mit den grossen Allüren zu Ende.)</p>
+                    aus einer Anleihe bei <persName key="9688">Sorel</persName> und <persName key="9401">Stendhal</persName> stammt. (Im ersten Teil der <name type="wrk" key="73131">Ge&#228;chteten</name>; im zweiten, bei dem grossen Katzenjammer im
+                    Gef&#228;ngnis, ist es mit den grossen All&#252;ren zu Ende.)</p>
 
-                <p>Sie schreiben mir, man dürfe heute nicht mit den Begriffen Deutsch oder Undeutsch
-                    arbeiten. Würden Sie wahrhaftig, wenn Sie heute Ihren schönen Aufsatz<note
-                        type="reg"><name type="wrk" key="73133">Betrachtungen eines
-                            Unpolitischen</name></note> über den Taugenichts<note type="reg"><name
-                            type="wrk" key="73134">Aus dem Leben eines Taugenichts</name></note>
-                    noch einmal zu schreiben hätten, nicht damit schliessen, dass bei <persName
-                        key="9224">Eichendorf</persName> der Deutsche Mensch zu finden ist? Ich
-                    glaube nicht, dass Sie heute anders als damals schreiben könnten. Cliquen und
+                <p>Sie schreiben mir, man d&#252;rfe heute nicht mit den Begriffen Deutsch oder Undeutsch
+                    arbeiten. W&#252;rden Sie wahrhaftig, wenn Sie heute Ihren sch&#246;nen Aufsatz<note type="reg"> <name type="wrk" key="73133">Betrachtungen eines
+                            Unpolitischen</name></note> &#252;ber den Taugenichts<note type="reg"> <name type="wrk" key="73134">Aus dem Leben eines Taugenichts</name></note>
+                    noch einmal zu schreiben h&#228;tten, nicht damit schliessen, dass bei <persName key="9224">Eichendorf</persName> der Deutsche Mensch zu finden ist? Ich
+                    glaube nicht, dass Sie heute anders als damals schreiben k&#246;nnten. Cliquen und
                     Doktrinen haben immer Unfug mit Begriffen getrieben und die Literatur hat ihnen
                     immer nur dienen sollen. Soll der Autor deswegen den Mund halten? Die
-                    Goebbelscliquen und und die Emigrantencliquen üben heute den gleichen
+                    Goebbelscliquen und und die Emigrantencliquen &#252;ben heute den gleichen
                     Gesinnungsterror aus. Ich kann mit dem besten Willen nicht einsehen, dass
-                        <persName key="9057">Hamsum</persName> oder <persName key="12459"
-                        >Stehr</persName>, nur weil sie drüben mitmachen schlechtre Bücher
-                    geschrieben haben sollen, als man früher glaubte. Warum soll Ihr Werk und
-                    besonders der <name type="wrk" key="73135">Tonio Kröger</name>, als pikantes
-                    Beispiel, heute plötzlich nichts mehr taugen in <placeName key="49105"
-                        >Deutschland</placeName>? Mögen die Nazis Sie, mögen die Emigrantenblätter
-                        <persName key="9057">Hamsun</persName> oder <persName key="12459"
-                        >Stehr</persName> bekämpfen, aber sie sollen gefälligst das vorliegende Werk
-                    unangetastet lassen.<pb n="3"/> Es geht doch nicht an, ihnen plötzlich, weil die
-                    politische Situation sich geändert hat, die literarischen Qualitäten und die
+                        <persName key="9057">Hamsum</persName> oder <persName key="12459">Stehr</persName>, nur weil sie dr&#252;ben mitmachen schlechtre B&#252;cher
+                    geschrieben haben sollen, als man fr&#252;her glaubte. Warum soll Ihr Werk und
+                    besonders der <name type="wrk" key="73135">Tonio Kr&#246;ger</name>, als pikantes
+                    Beispiel, heute pl&#246;tzlich nichts mehr taugen in <placeName key="49105">Deutschland</placeName>? M&#246;gen die Nazis Sie, m&#246;gen die Emigrantenbl&#228;tter
+                        <persName key="9057">Hamsun</persName> oder <persName key="12459">Stehr</persName> bek&#228;mpfen, aber sie sollen gef&#228;lligst das vorliegende Werk
+                    unangetastet lassen.<pb n="3"/> Es geht doch nicht an, ihnen pl&#246;tzlich, weil die
+                    politische Situation sich ge&#228;ndert hat, die literarischen Qualit&#228;ten und die
                     Bedeutung abzusprechen. Wo ich dies sehe, bin ich angeeckelt! Weil die Nazis mit
                         <persName key="5395">Grimm</persName> einen geschmacklosen Kult treiben,
                     soll <name type="wrk" key="73127">"Volk ohne Raum"</name> langweilig sein? Nein,
                     das ist eine unsaubere, opportunistische oder eine ganz leichtfertige Haltung.
                     Der Fall <persName key="5395">Grimm</persName> ist mir seit dem Erscheinen von
-                        <name type="wrk" key="73127">Volk ohne Raum</name> ein Prüfstein für jeden
-                    Linksliteraten, ob er die soziale Sache wirklich unabhängig von einer Partei
-                    ernst nimmt. Nur ein Mensch, aber nur ein solcher, der in so öden Begriffen
-                    denkt wie "Links &#x2013; Gut<space/> Rechts &#x2013; Schlecht" kann dieses
+                        <name type="wrk" key="73127">Volk ohne Raum</name> ein Pr&#252;fstein f&#252;r jeden
+                    Linksliteraten, ob er die soziale Sache wirklich unabh&#228;ngig von einer Partei
+                    ernst nimmt. Nur ein Mensch, aber nur ein solcher, der in so &#246;den Begriffen
+                    denkt wie "Links &#8211; Gut<space/> Rechts &#8211; Schlecht" kann dieses
                         <name type="wrk" key="73127">Leidensbuch</name> ablehnen, und ihm die
-                    Bedeutung absprechen. <persName key="5395">Grimm</persName> persönlich soll ja
+                    Bedeutung absprechen. <persName key="5395">Grimm</persName> pers&#246;nlich soll ja
                     der unangenehmste Patron unter den Deutschen Schriftstellern sein, ich glaube es
-                    gern nach seinem Bild, aber sein künstlerisch gewiss nicht schlackenloses <name
-                        type="wrk" key="73127">Buch</name> hat einigen Hunderttausend Menschen das
+                    gern nach seinem Bild, aber sein k&#252;nstlerisch gewiss nicht schlackenloses <name type="wrk" key="73127">Buch</name> hat einigen Hunderttausend Menschen das
                     gegeben, was sie jahrelang vergebens bei den "sozialen" Autoren der Linke
-                    gesucht haben. Man ist <persName key="5395">Grimm</persName> gegenüber immer von
-                    einer empörenden Ungerechtigkeit gewesen, nur weil der verbitterte, unbequeme
+                    gesucht haben. Man ist <persName key="5395">Grimm</persName> gegen&#252;ber immer von
+                    einer emp&#246;renden Ungerechtigkeit gewesen, nur weil der verbitterte, unbequeme
                         <persName key="5395">Mann</persName> nicht in die Parteikonzepte passte und
                     etwas mehr vom Leben zu sagen hatte als nur Programmatisches. (Wissen Sie
-                    übrigens, dass <persName key="5395">Grimm</persName> sich <hi rend="ul"
-                        >vorigen</hi> Sommer 1933 einmal sehr betont zu den Buddenbrooks<note
-                        type="reg">Mann, Thomas, <name type="wrk" key="73107"
-                        >Buddenbrooks</name></note> als einem der für ihn "wichtigsten" Bücher
+                    &#252;brigens, dass <persName key="5395">Grimm</persName> sich <hi rend="ul">vorigen</hi> Sommer 1933 einmal sehr betont zu den Buddenbrooks<note type="reg"> Mann, Thomas, <name type="wrk" key="73107">Buddenbrooks</name></note> als einem der f&#252;r ihn "wichtigsten" B&#252;cher
                     bekannt hat? In einer bigraphischen Skizze.)</p>
 
                 <p>Wieweit die politische Verbohrtheit gehen kann habe ich am eigenen Leibe noch
-                    jüngst erfahren. Weil ich einmal darlegte wie sehr der <name type="wrk"
-                        key="31823">Versailler Vertrag</name> die Garnisonstadt <placeName
-                        key="49064">Koblenz</placeName> ruiniert hat, griff <persName key="9160"
-                        >Hermann Kesten</persName> mich an. Sind Tatsachen weniger wahr, weil die
-                    Rechte etwas lauter und dümmer gegen sie protestiert hat als die Linke?</p>
+                    j&#252;ngst erfahren. Weil ich einmal darlegte wie sehr der <name type="wrk" key="31823">Versailler Vertrag</name> die Garnisonstadt <placeName key="49064">Koblenz</placeName> ruiniert hat, griff <persName key="9160">Hermann Kesten</persName> mich an. Sind Tatsachen weniger wahr, weil die
+                    Rechte etwas lauter und d&#252;mmer gegen sie protestiert hat als die Linke?</p>
                 <pb n="4"/>
 
                 <p>Mit ganz wenigen Ausnahmen wie <persName key="8303">Tucholsky</persName> und der
                         <hi rend="ul">damaligen</hi>
-                    <name type="per" key="70949">Frk. Zeitung</name> hat man über <name type="wrk"
-                        key="73127">Volk ohne Raum</name> gewitzelt. Sie haben so dumm darüber
-                    gewitzelt, wie sie sich auch das Bürgertum oft in der dümmsten Weise
+                    <name type="per" key="70949">Frk. Zeitung</name> hat man &#252;ber <name type="wrk" key="73127">Volk ohne Raum</name> gewitzelt. Sie haben so dumm dar&#252;ber
+                    gewitzelt, wie sie sich auch das B&#252;rgertum oft in der d&#252;mmsten Weise
                     "vornehmen". Von keiner Sachkenntnis, von keiner Wahrheitsliebe beschwert ist
-                    soviel von den sogenannten fortschrittlichen Autoren gegen das Bürgertum
+                    soviel von den sogenannten fortschrittlichen Autoren gegen das B&#252;rgertum
                     geschrieben worden, das sie gar nicht kannten! Woher auch! Kommen doch die
-                    meisten deutschen Autoren aus dem Proletariat, dem Kleinbürgertum oder wenn sie
+                    meisten deutschen Autoren aus dem Proletariat, dem Kleinb&#252;rgertum oder wenn sie
                     nicht Juden sind, aus einer besitzenden, geniessenden Schicht die nie und nimmer
-                    "bürgerlich" ist. die ein W.C. und ein Auto besitzt aber keine bürgerliche
-                    Gesittung. Ich nehme einen jüngsten Fall heraus: <persName key="9160">H.
+                    "b&#252;rgerlich" ist. die ein W.C. und ein Auto besitzt aber keine b&#252;rgerliche
+                    Gesittung. Ich nehme einen j&#252;ngsten Fall heraus: <persName key="9160">H.
                         Kesten</persName>
-                    <name type="wrk" key="73151">"Der Gerechte"</name>. In dem bravourös
-                    geschriebenen <name type="wrk" key="73151">Buch</name> gibt es einen Nürnberger
+                    <name type="wrk" key="73151">"Der Gerechte"</name>. In dem bravour&#246;s
+                    geschriebenen <name type="wrk" key="73151">Buch</name> gibt es einen N&#252;rnberger
                     "Patrizier", in dem ich mit dem besten Willen nur einen alten, reichen Juden
-                    erkennen kann, aber keinen Bürger. Aus jeder Zeile springt es mir in die Augen,
+                    erkennen kann, aber keinen B&#252;rger. Aus jeder Zeile springt es mir in die Augen,
                     dass der Verfasser noch nie anders denn als Gast seinen Fuss unter den Tisch
-                    eines bürgerlichen, deutschen Hauses gestreckt hat. Ich stehe sehr positiv zu
+                    eines b&#252;rgerlichen, deutschen Hauses gestreckt hat. Ich stehe sehr positiv zu
                         <persName key="9160">Kestens</persName> charmanten in der Luft schwebenden
-                    Romanen wie dem Josef<note type="reg"><name type="wrk" key="73154">Josef sucht
-                            die Freiheit</name></note> und den <name type="wrk" key="73153"
-                        >Glücklichen Menschen</name>. Dort ist es bei der exotischen Atmosphäre der
-                    Handlung ganz gleichgültig ob die Mentalität der Personen stimmt. oder nicht.
+                    Romanen wie dem Josef<note type="reg"> <name type="wrk" key="73154">Josef sucht
+                            die Freiheit</name></note> und den <name type="wrk" key="73153">Gl&#252;cklichen Menschen</name>. Dort ist es bei der exotischen Atmosph&#228;re der
+                    Handlung ganz gleichg&#252;ltig ob die Mentalit&#228;t der Personen stimmt. oder nicht.
                     Aber in einem so gross angelegten Roman ist es wirklich irritierend, wenn
-                    z.&#8239;B. die Söhne des Pfarrers Hepp dem Vater den <hi rend="ul">Saum des
-                        Gewandes</hi> küssen und wenn der alte Tucher mit dem Kopf wackelt wie es
-                    nur ein Orientale tun kann. Ein solches Buch kann das grösste literarische
-                    Vergnügen bereiten, aber von representativer Gültigkeit sollte man doch nicht
+                    z.&#8239;B. die S&#246;hne des Pfarrers Hepp dem Vater den <hi rend="ul">Saum des
+                        Gewandes</hi> k&#252;ssen und wenn der alte Tucher mit dem Kopf wackelt wie es
+                    nur ein Orientale tun kann. Ein solches Buch kann das gr&#246;sste literarische
+                    Vergn&#252;gen bereiten, aber von representativer G&#252;ltigkeit sollte man doch nicht
                     sprechen.</p>
                 <pb n="5"/>
 
-                <p>Ich insistiere auf diesem Beispiel deswegen, weil vorwiegend die jüdische
+                <p>Ich insistiere auf diesem Beispiel deswegen, weil vorwiegend die j&#252;dische
                     Emigration, besonders hier in <placeName key="49096">Paris</placeName>, in der
-                    alleraufdringlichsten Weise die Welt glauben machen will, sie <hi rend="ul"
-                        >einzig</hi> und <hi rend="ul">allein</hi> vertrete <placeName key="49105"
-                        >Deutschlands</placeName> Kultur. Ich bin hier Zeuge der würdelosesten
-                    chauvinistischen jüdisch-militanten Ausbrüche &#x2013; nicht gegen die Nazis
-                    &#x2013; nein gegen <placeName key="49105">Deutschland</placeName>, gegen das
-                    Deutsche Volk gewesen. Ganz ahnliches<note type="intern">sic</note> hat
+                    alleraufdringlichsten Weise die Welt glauben machen will, sie <hi rend="ul">einzig</hi> und <hi rend="ul">allein</hi> vertrete <placeName key="49105">Deutschlands</placeName> Kultur. Ich bin hier Zeuge der w&#252;rdelosesten
+                    chauvinistischen j&#252;disch-militanten Ausbr&#252;che &#8211; nicht gegen die Nazis
+                    &#8211; nein gegen <placeName key="49105">Deutschland</placeName>, gegen das
+                    Deutsche Volk gewesen. Ganz ahnliches<note type="intern"> sic</note> hat
                         <persName key="424">Edmond Jaloux</persName>
-                    <hi rend="ul">serienweise</hi> erleben müssen. Wie abstossend es wirkt, wissen
-                    diese Leute wohl selbst nicht und vor allem wie lächerlich sie sich machen.
-                    Selber Opfer eines aberwitzigen Bluffnationalismus führen sie die gleichen Worte
-                    im Munde wie <persName key="8123">Goebbels</persName>. Es war schon früher sehr
-                    schwer an Jüdischem Kritik zu üben, die Juden haben ihre leidvolle
+                    <hi rend="ul">serienweise</hi> erleben m&#252;ssen. Wie abstossend es wirkt, wissen
+                    diese Leute wohl selbst nicht und vor allem wie l&#228;cherlich sie sich machen.
+                    Selber Opfer eines aberwitzigen Bluffnationalismus f&#252;hren sie die gleichen Worte
+                    im Munde wie <persName key="8123">Goebbels</persName>. Es war schon fr&#252;her sehr
+                    schwer an J&#252;dischem Kritik zu &#252;ben, die Juden haben ihre leidvolle
                     Ausnahmestellung immer trefflich nach dieser Seite auszunutzen gewusst.
-                    Kritisierte man irgendeine jüdische Produktion so war man sofort als Antisemit
+                    Kritisierte man irgendeine j&#252;dische Produktion so war man sofort als Antisemit
                     abgetan, aber was die Juden sich selbst oft an wenig diskreter Kritik erlaubten
                     das sahen nicht. Mir ist es letztes Jahr passiert, dass ein sehr angesehener
-                    österreichischer Schriftsteller<note type="com" cert="high">Gemeint ist
+                    &#246;sterreichischer Schriftsteller<note type="com" cert="high"> Gemeint ist
                         wahrscheinlich <persName key="5584">Joseph Roth</persName>.</note>
-                    jüdisch-polnischer Herkunft nicht müde wurde in meiner Anwesenheit immer wieder
+                    j&#252;disch-polnischer Herkunft nicht m&#252;de wurde in meiner Anwesenheit immer wieder
                     zu wiederholen: "Schlechte <hi rend="ul.2">Rasse</hi> diese Deutschen"
-                    Schließlich bat ich ihn, in meiner Anwesenheit, besonders wenn ich als einziger
-                    Christ da war, sich doch ein klein wenig zu mässigen. was er denn sagen würde,
-                    wenn ich ähnliche Ausserungen über die Juden machte u.s.w. Resultat: Ich wurde
-                    zum Nazi von ihm gestempelt. und der ganze Kreis zog sich von mir zurück, d. h.
-                    er setzte das Gerücht in Umlauf ich sei Deutscher Agent, vielmehr Naziagent.
-                    Jetzt tun sich zahlreiche deutschjüdische Autoren so sehr viel auf Ihren
+                    Schlie&#223;lich bat ich ihn, in meiner Anwesenheit, besonders wenn ich als einziger
+                    Christ da war, sich doch ein klein wenig zu m&#228;ssigen. was er denn sagen w&#252;rde,
+                    wenn ich &#228;hnliche Ausserungen &#252;ber die Juden machte u.s.w. Resultat: Ich wurde
+                    zum Nazi von ihm gestempelt. und der ganze Kreis zog sich von mir zur&#252;ck, d. h.
+                    er setzte das Ger&#252;cht in Umlauf ich sei Deutscher Agent, vielmehr Naziagent.
+                    Jetzt tun sich zahlreiche deutschj&#252;dische Autoren so sehr viel auf Ihren
                     "Heroismus" und ihre "geistige Sauberkeit" zu gute. Du lieber Gott, wenn man
                     nicht die Wahl hat! <persName key="8272">Schwarzschild</persName> hat diese
-                    Haltung kürzlich sehr treffend gekennzeichnet: Sie haben nicht mitmachen dürfen.
-                    Hätten Sie gedurft, so wären sie genau wie im letzten Kriege heute die
+                    Haltung k&#252;rzlich sehr treffend gekennzeichnet: Sie haben nicht mitmachen d&#252;rfen.
+                    H&#228;tten Sie gedurft, so w&#228;ren sie genau wie im letzten Kriege heute die
                     begeistersten Patrioten."</p>
                 <pb n="6"/>
 
-                <p>Darf ich hier etwas Persönliches einfügen? <persName key="519">Klaus</persName>
+                <p>Darf ich hier etwas Pers&#246;nliches einf&#252;gen? <persName key="519">Klaus</persName>
                     warf mir u.&#8239;a. auch Antisemitismus vor. Diesem Vorwurf stelle ich nur
-                    folgende Tatsachen entgegen. Als im Jahre 1928 mein erstes Buch <name type="wrk"
-                        key="73155">"Rot gegen Rot"</name> erschien, entliess mich ein grosses
-                    jüdisches Konzern<note type="reg"><orgName key="73156">Kaufhaus
+                    folgende Tatsachen entgegen. Als im Jahre 1928 mein erstes Buch <name type="wrk" key="73155">"Rot gegen Rot"</name> erschien, entliess mich ein grosses
+                    j&#252;disches Konzern<note type="reg"> <orgName key="73156">Kaufhaus
                             Landauer</orgName></note> bei dem ich seit 3 Jahren in leitender
-                    Stellung arbeitete (ich sollte ursprünglich Landwirt werden, bin dann Kaufmann
+                    Stellung arbeitete (ich sollte urspr&#252;nglich Landwirt werden, bin dann Kaufmann
                     geworden) auf der <hi rend="ul">Stelle</hi> wegen der angeblich antisemitischen
                     Tendenz des <name type="wrk" key="73155">Buches</name>. Von dieser Tendenz
-                    konnte keine Rede sein. Die Handlung des <name type="wrk" key="73155"
-                        >Buches</name> spielte in einem Warenhaus mit den unvermeidlichen jüdischen
+                    konnte keine Rede sein. Die Handlung des <name type="wrk" key="73155">Buches</name> spielte in einem Warenhaus mit den unvermeidlichen j&#252;dischen
                     Rayonchefs, die nicht alle sympathisch dargestellt werden konnten. Nun, damals
-                    hätte ich mir eine schöne Propaganda aus der Entlassung machen können, zumal
+                    h&#228;tte ich mir eine sch&#246;ne Propaganda aus der Entlassung machen k&#246;nnen, zumal
                     auch noch obendrein die <name type="per" key="70949">Frk. Ztg.</name> im
                     Literaturblatt von dem Fall sprach. Ich habe nur deswegen darauf verzichtet,
-                    weil die Nazis damals den Fall gern für sich ausgeschlachtet hätten. Ich habe
-                    dem <name type="per" key="71028">Völk. Beobachter</name> sogar jede Auskunft
-                    über den Fall damals verweigert.</p>
+                    weil die Nazis damals den Fall gern f&#252;r sich ausgeschlachtet h&#228;tten. Ich habe
+                    dem <name type="per" key="71028">V&#246;lk. Beobachter</name> sogar jede Auskunft
+                    &#252;ber den Fall damals verweigert.</p>
 
-                <p>Im Jahre 1929 wurde meine Komödie <name type="wrk" key="73157">"Fräulein
+                <p>Im Jahre 1929 wurde meine Kom&#246;die <name type="wrk" key="73157">"Fr&#228;ulein
                         Schmidt"</name> in <placeName key="49025">Berlin</placeName> abgelehnt, weil
                     es darin einen wenig vornehmen Juden gab. Mir wurde sehr dringend nahegelegt,
-                    diese Person "arisch" zu machen. Das habe ich abgelehnt. Nun, ich hätte mir
-                    jetzt mit diesem <name type="wrk" key="73157">Stück</name> nicht nur einen Namen
-                    machen und Geld verdienen können, da die Nazis ja händeringend gute Stücke
-                    suchen, ich hätte mich vor allem bei den Nazis "rehabilitieren" können, da ich
-                    zu den verbotenen Autoren gehöre. Ich habe das <name type="wrk" key="73157"
-                        >Stück</name> niemanden gezeigt.</p>
+                    diese Person "arisch" zu machen. Das habe ich abgelehnt. Nun, ich h&#228;tte mir
+                    jetzt mit diesem <name type="wrk" key="73157">St&#252;ck</name> nicht nur einen Namen
+                    machen und Geld verdienen k&#246;nnen, da die Nazis ja h&#228;nderingend gute St&#252;cke
+                    suchen, ich h&#228;tte mich vor allem bei den Nazis "rehabilitieren" k&#246;nnen, da ich
+                    zu den verbotenen Autoren geh&#246;re. Ich habe das <name type="wrk" key="73157">St&#252;ck</name> niemanden gezeigt.</p>
 
-                <p>Ein junger jüdischer deutscher Autor<note type="reg"><persName key="9160">Kesten,
-                            Hermann</persName></note> erzählt hier allen Leuten ich sei Nazi.
-                    Derselbe <persName key="9160">Autor</persName> und seine Frau<note type="reg"
-                            ><persName key="73158">Kesten, Toni</persName></note> haben 1933
-                    während ich im Orient<note type="com" cert="high">Breitbach verbringt in dieser Zeit mehrere Monate
+                <p>Ein junger j&#252;discher deutscher Autor<note type="reg"> <persName key="9160">Kesten,
+                            Hermann</persName></note> erz&#228;hlt hier allen Leuten ich sei Nazi.
+                    Derselbe <persName key="9160">Autor</persName> und seine Frau<note type="reg"> <persName key="73158">Kesten, Toni</persName></note> haben 1933
+                    w&#228;hrend ich im Orient<note type="com" cert="high"> Breitbach verbringt in dieser Zeit mehrere Monate
                         in <placeName key="49125">Griechenland</placeName> bei seinem Jugendfreund
-                            <persName key="76760">Alexander Mohr</persName>.</note> war völlig
+                            <persName key="76760">Alexander Mohr</persName>.</note> war v&#246;llig
                     kostenlos in meiner Wohnung gewohnt. Ich hatte sie ihnen als sie angeblich
-                    mittellos aus <placeName key="49105">Deutschland</placeName> kamen zur Verfügung
+                    mittellos aus <placeName key="49105">Deutschland</placeName> kamen zur Verf&#252;gung
                     gestellt. Dieser <persName key="9160">Autor</persName> weiss genau, dass ich
-                    nicht Nazi bin, aber meine Kritik an dem Verhalten der meisten jüdischen
-                    Emigranten hat ihn so getroffen, dass er sie eben nur<lb/><pb n="7"/> als die
+                    nicht Nazi bin, aber meine Kritik an dem Verhalten der meisten j&#252;dischen
+                    Emigranten hat ihn so getroffen, dass er sie eben nur<lb/> <pb n="7"/> als die
                     eines Nazis gelten lassen will. Derselbe <persName key="9160">Mann</persName>
-                    weiss, dass meine alte Mutter<note type="reg"><persName key="73097">Breitbach,
-                            Charlotte</persName></note> keinen Brief von mir ausgehändigt bekommt,
-                    dass sie mir keinen schreiben darf, dass sie von der <orgName key="69660"
-                        >Geheimen Staatspolizei</orgName> meinetwegen belästigt wird. weil sie mich
-                    einmal gewarnt hat, meinen totkranken Vater<note type="reg"><persName
-                            key="73096">Breitbach, Johann</persName></note> zu besuchen. Derselbe
-                        <persName key="9160">Mann</persName> weiss auch Folgendes: <persName
-                        key="73096">Mein Vater</persName> erlitt vor einigen Monaten einen zweiten
-                    Gehirnschlag. Ich wusste nichts davon, bekam aber ein Telegramm "<persName
-                        key="73096">Vater</persName> gestorben" Vorher von <persName key="73097"
-                        >meiner Mutter</persName> gewarnt, liess ich auf Umwegen nachprüfen. Das
-                    Telegramm war nicht von meiner Familie<note type="reg"><persName key="73097"
-                            >Breitbach, Charlotte</persName>, <persName key="77016">Breitbach,
+                    weiss, dass meine alte Mutter<note type="reg"> <persName key="73097">Breitbach,
+                            Charlotte</persName></note> keinen Brief von mir ausgeh&#228;ndigt bekommt,
+                    dass sie mir keinen schreiben darf, dass sie von der <orgName key="69660">Geheimen Staatspolizei</orgName> meinetwegen bel&#228;stigt wird. weil sie mich
+                    einmal gewarnt hat, meinen totkranken Vater<note type="reg"> <persName key="73096">Breitbach, Johann</persName></note> zu besuchen. Derselbe
+                        <persName key="9160">Mann</persName> weiss auch Folgendes: <persName key="73096">Mein Vater</persName> erlitt vor einigen Monaten einen zweiten
+                    Gehirnschlag. Ich wusste nichts davon, bekam aber ein Telegramm "<persName key="73096">Vater</persName> gestorben" Vorher von <persName key="73097">meiner Mutter</persName> gewarnt, liess ich auf Umwegen nachpr&#252;fen. Das
+                    Telegramm war nicht von meiner Familie<note type="reg"> <persName key="73097">Breitbach, Charlotte</persName>, <persName key="77016">Breitbach,
                             Paula</persName>, <persName key="73098">Brune, Therese</persName> und
                             <persName key="73100">Breitbach, Maria</persName></note> geschickt worden. Vermutlich von Nazis aus
                     meiner Heimat oder sogar von der <orgName key="69660">Gestapo</orgName>. um mich
-                    ins Rheinland zu locken. Dies alles weiss dieser <persName key="9160"
-                        >Schriftsteller</persName>, der sich sogern einen Moralisten nennt, trotzdem
-                    verschreit er mich wo er kann als Nazi. Meine Haltung zu <persName key="8510"
-                        >Heinrich Mann</persName> hat natürlich viel dazu beigetragen, dass man mich
-                    derart behandelt. Aber ich habe den <name type="wrk" key="73163"
-                        >"Untertan"</name> und auch sonst <persName key="8510">Heinrich
+                    ins Rheinland zu locken. Dies alles weiss dieser <persName key="9160">Schriftsteller</persName>, der sich sogern einen Moralisten nennt, trotzdem
+                    verschreit er mich wo er kann als Nazi. Meine Haltung zu <persName key="8510">Heinrich Mann</persName> hat nat&#252;rlich viel dazu beigetragen, dass man mich
+                    derart behandelt. Aber ich habe den <name type="wrk" key="73163">"Untertan"</name> und auch sonst <persName key="8510">Heinrich
                         Manns</persName> politische Ausserungen immer abgelehnt. so sehr ich seine
-                    Novellen und seine italienischen Romane liebe. So hat man hier viel darüber
-                    geschwätzt dass ich aus jedem Exemplar der <persName key="16194"
-                        >Seger'schen</persName> Broschure <name type="wrk" key="73160"
-                        >"Oranienburg"</name> das ich verschenkte <persName key="8510">Heinrich
+                    Novellen und seine italienischen Romane liebe. So hat man hier viel dar&#252;ber
+                    geschw&#228;tzt dass ich aus jedem Exemplar der <persName key="16194">Seger'schen</persName> Broschure <name type="wrk" key="73160">"Oranienburg"</name> das ich verschenkte <persName key="8510">Heinrich
                         Manns</persName>
                     <name type="wrk" key="73161">Vorowort</name> herausgerissen habe. Ich habe es
                     deswegen getan, weil es mir peinlich ist, wenn er vom deutschen Volk sagt, es
-                    liesse das "<quote>durchaus Schlechte über sich ergehen ohne einen Versuch des
+                    liesse das "<quote>durchaus Schlechte &#252;ber sich ergehen ohne einen Versuch des
                         Wiederstandes zu machen.</quote>" Dieses Urteil ist mir deswegen peinlich,
-                    weil es vom <persName key="16194">Verfasser</persName> des <name type="wrk"
-                        key="73160">Leidensberichtes</name> selbst, Seite 44, Lügen gestraft wird.
+                    weil es vom <persName key="16194">Verfasser</persName> des <name type="wrk" key="73160">Leidensberichtes</name> selbst, Seite 44, L&#252;gen gestraft wird.
                     Dort sagt <persName key="16194">Segers</persName> sehr betont: <quote>"Die
-                        Haltung der Oranienburger Bevölkerung aber ist über jedes Lob erhaben.
-                        &#x2013; ...das war inmitten des Grauens von <placeName key="73162"
-                            >Oranienburg</placeName> ein wohltuendes Erlebnis."</quote></p>
+                        Haltung der Oranienburger Bev&#246;lkerung aber ist &#252;ber jedes Lob erhaben.
+                        &#8211; ...das war inmitten des Grauens von <placeName key="73162">Oranienburg</placeName> ein wohltuendes Erlebnis."</quote></p>
 
-                <p>Man kann das Deutsche Volk nicht en bloc verurteilen. Schlecht benehmen<pb n="8"
-                    /> sich die wildgewordenen Spiesser und die aus den Postanstalten, wo sie als
-                    Beamte untergekrochen waren, herausgekommenen früheren Feldwebel. Es werden auch
-                    täglich derart zahlreiche Menschen in <placeName key="49105"
-                        >Deutschland</placeName> verurteilt, eben <hi rend="ul">weil</hi> sie das
-                    durchaus Schlechte <hi rend="ul">nicht</hi> acceptieren, dass <persName
-                        key="8510">H. Mann</persName> dieses Urteil nicht aussprechen kann. Und vor
+                <p>Man kann das Deutsche Volk nicht en bloc verurteilen. Schlecht benehmen<pb n="8"/> sich die wildgewordenen Spiesser und die aus den Postanstalten, wo sie als
+                    Beamte untergekrochen waren, herausgekommenen fr&#252;heren Feldwebel. Es werden auch
+                    t&#228;glich derart zahlreiche Menschen in <placeName key="49105">Deutschland</placeName> verurteilt, eben <hi rend="ul">weil</hi> sie das
+                    durchaus Schlechte <hi rend="ul">nicht</hi> acceptieren, dass <persName key="8510">H. Mann</persName> dieses Urteil nicht aussprechen kann. Und vor
                     allem nicht vom sicheren <placeName key="48914">Frankreich</placeName> aus. Wenn
                     er nach <placeName key="49105">Deutschland</placeName> ginge und illegal
-                    arbeitete &#x2013; gut, aber er verlangt von anderen etwas, das er selbst nicht
+                    arbeitete &#8211; gut, aber er verlangt von anderen etwas, das er selbst nicht
                     tut Ich bitte Sie dringend, es nicht als Affront zu betrachten, was ich da sage.
                     Es ist nur meine Antwort auf Ihren Vorwurf.</p>
 
-                <p>Hier wäre noch viel zu sagen über die verlogene Haltung die so viele Emigranten
-                    denen gegenüber einnehmen, die drüben geblieben sind. Und erst über das
-                    Verhalten der Hilfkomitees den geflüchteten Christen gegenüber. Es ist derart
+                <p>Hier w&#228;re noch viel zu sagen &#252;ber die verlogene Haltung die so viele Emigranten
+                    denen gegen&#252;ber einnehmen, die dr&#252;ben geblieben sind. Und erst &#252;ber das
+                    Verhalten der Hilfkomitees den gefl&#252;chteten Christen gegen&#252;ber. Es ist derart
                         <hi rend="ul.2">unmenschlich</hi>, provozierend und chauvinistisch, dass man
-                    nachgerade den bochischen Vulgärantisemiten Recht geben möchte manchmal.</p>
+                    nachgerade den bochischen Vulg&#228;rantisemiten Recht geben m&#246;chte manchmal.</p>
 
                 <p>Ganz zu schweigen von dem Gesinnungsterror den die einzelnen Emigrantengruppen
-                    ausüben &#x2013; gerade als ob sie bei <persName key="8123">Goebbels</persName>
-                    in der Schule gewesen wären Es ist mir unmöglich, mich einer Parole
+                    aus&#252;ben &#8211; gerade als ob sie bei <persName key="8123">Goebbels</persName>
+                    in der Schule gewesen w&#228;ren Es ist mir unm&#246;glich, mich einer Parole
                     unterzuordnen, nicht aus Anarchismus, sondern deswegen, weil man mit der
-                    Rücksicht auf die allgemeine Situation neuen Ungerechtigkeiten Vorschub leistet.
-                    Ich will mich meiner Bemühung um die grösstmögliche Objektivität nicht auf
-                    Kosten der unglücklichen unter den Emigranten rühmen. Da fügt sich &#x2013;
+                    R&#252;cksicht auf die allgemeine Situation neuen Ungerechtigkeiten Vorschub leistet.
+                    Ich will mich meiner Bem&#252;hung um die gr&#246;sstm&#246;gliche Objektivit&#228;t nicht auf
+                    Kosten der ungl&#252;cklichen unter den Emigranten r&#252;hmen. Da f&#252;gt sich &#8211;
                     genau wie in <placeName key="49105">Deutschland</placeName> mancher nur aus
-                    Angst um das tägliche Brot. Da ich trotz meiner Schädigung durch die Nazis in
-                    relativ guten Verhältnissen lebe steht es mir nicht zu strenge Massstäbe an
+                    Angst um das t&#228;gliche Brot. Da ich trotz meiner Sch&#228;digung durch die Nazis in
+                    relativ guten Verh&#228;ltnissen lebe steht es mir nicht zu strenge Massst&#228;be an
                     diese Leute zu legen. Aber ich will mich nicht auf deren Niveau herunterziehen
                     lassen. Weder auf das der Nazis noch auf das so vieler Emigranten. Dies hoffe
-                    ich Ihnen hiermit erklärt zu haben. Verstehen Sie bitte, daß es in der leidigen
-                    Angelegenheit um meine Ehre geht. Ich bin völlig krank von den Aufregungen.
+                    ich Ihnen hiermit erkl&#228;rt zu haben. Verstehen Sie bitte, da&#223; es in der leidigen
+                    Angelegenheit um meine Ehre geht. Ich bin v&#246;llig krank von den Aufregungen.
                         <emph n="salute">Mit den besten Empfehlungen</emph></p>
 
                 <p rend="right"><emph n="salute">Ihr</emph>

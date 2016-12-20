@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,14 +28,13 @@
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F1</ab>
                 <ab type="location"><placeName type="write" cert="unknown">o. O.</placeName></ab>
-                <ab type="date"><date when="1941-12-03" cert="high" evidence="Brieftext"
-                        >3.12.1941</date></ab>
+                <ab type="date"><date when="1941-12-03" cert="high" evidence="Brieftext">3.12.1941</date></ab>
                 <ab type="role"><persName key="9687" role="aut">Hans Sahl</persName></ab>
                 <ab type="role"><persName key="75307" role="rec">Hermann Broch</persName></ab>
                 <ab type="no">323555</ab>
                 <ab type="reg"/>
                 <ab type="desc">Durchschlag. An Anfang und Ende des Haupttextes sind eine Art
-                    Auslassungszeichen hinzugefügt.</ab>
+                    Auslassungszeichen hinzugef&#252;gt.</ab>
             </sourceDesc>
 
         </fileDesc>
@@ -48,8 +43,7 @@
             <change n="transcription">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-07-11">11.7.2014</date>, <date when="2014-08-12">12.8.2014</date>,
-                    <date when="2014-11-12">12.11.2014</date>, <date when="2014-12-10"
-                    >10.12.2014</date>
+                    <date when="2014-11-12">12.11.2014</date>, <date when="2014-12-10">10.12.2014</date>
             </change>
 
             <change n="collation">
@@ -90,6 +84,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -102,10 +97,9 @@
                 <p>An <persName key="75307" role="rec">Hermann Broch</persName>.<space/>
                     <date when="1941-12-03" cert="high">3.XII.41</date></p>
 
-                <p>.............Seit zwanzig Jahren versuche ich, einen autobiographischen Roman<note
-                        type="reg"><name type="wrk" key="80116">Die Wenigen und die
+                <p>.............Seit zwanzig Jahren versuche ich, einen autobiographischen Roman<note type="reg"> <name type="wrk" key="80116">Die Wenigen und die
                         Vielen</name></note> zu schreiben, der zugleich eine Autobiographie dieser
-                    Zeit sein soll. Aber das Flüchtige und Provisorische meiner Existenz hat es mit
+                    Zeit sein soll. Aber das Fl&#252;chtige und Provisorische meiner Existenz hat es mit
                     sich gebracht, dass dieser Roman bisher nur in Fragmenten existiert. Es sind
                     isolierte Kapitel, die durch keine verbindende "story" zusammen gehalten werden
                     und in denen Novellistisches, Kritisches, Dokumentarisches unvermittelt
@@ -113,7 +107,7 @@
 
                 <p>Geschichten aus der Augenklinik</p>
 
-                <p>Liebe zu Büroklammern</p>
+                <p>Liebe zu B&#252;roklammern</p>
 
                 <p>Der Mittagstisch</p>
 
@@ -121,15 +115,15 @@
 
                 <p>Ueber die Schlechtigkeit dieser Welt</p>
 
-                <p><foreign n="frz">Débrouillez vous!</foreign></p>
+                <p><foreign n="frz">D&#233;brouillez vous!</foreign></p>
 
                 <p>Zur Philosophie des "Job".</p>
 
                 <p>Die Geschichte der Hortense K.</p>
 
-                <p>Das Begräbnis</p>
+                <p>Das Begr&#228;bnis</p>
 
-                <p>Porträt einer Dame in Schwarz</p>
+                <p>Portr&#228;t einer Dame in Schwarz</p>
 
                 <p>Die Geschichte einer Gleichschaltung</p>
 
@@ -151,46 +145,42 @@
                         <foreign n="engl">"story"</foreign> bin ich zu dem Resultat gekommen: es
                     gibt keine. Ja, eben dieses Suchen nach einer Romanfabel, nach einer
                     "Geschichte" soll nunmehr die eigentliche Geschichte doeses Romans werden,
-                    dessen erste und letzte Zeile etwa lauten müsste: "Ich will einen Roman
+                    dessen erste und letzte Zeile etwa lauten m&#252;sste: "Ich will einen Roman
                     schreiben", sagte Ferdinand. Was zwischen dieser ersten und letzten Zeile an
-                    vergeblichen Bemühungen, an Reflexionen, an bewältigten und unbewältigten
-                    Abenteuern passiert. bildet den Inhalt des <name type="wrk" key="80116"
-                        >Romans</name>. Es soll ein sehr komischer, sehr skuriller Roman werden, in
-                    dem die verschiedenen Elemente des Epischen einander ablösen: Humor, Analyse,
-                    Bericht, Lyrismus, Anekdote, Reflexion etc. &#x2013; Dabei hoffe ich, durch die
-                    Form der Montage nun endlich die Möglichkeit gefunden zu haben, all das zu
+                    vergeblichen Bem&#252;hungen, an Reflexionen, an bew&#228;ltigten und unbew&#228;ltigten
+                    Abenteuern passiert. bildet den Inhalt des <name type="wrk" key="80116">Romans</name>. Es soll ein sehr komischer, sehr skuriller Roman werden, in
+                    dem die verschiedenen Elemente des Epischen einander abl&#246;sen: Humor, Analyse,
+                    Bericht, Lyrismus, Anekdote, Reflexion etc. &#8211; Dabei hoffe ich, durch die
+                    Form der Montage nun endlich die M&#246;glichkeit gefunden zu haben, all das zu
                     vereinigen, was in meinem bisherigen Schreiben nebeneinander existierte und sich
                     auf getrennten Ebenen vollzog: Romantische Ironie, Neigung zum Tragischen,
                     Selbstdarstellung, Soziales Pathos, Humor, Liebe zum komischen Detail (im
-                    tragischen Ganzen), individualistische Absonderung &#x2013; bei gleichzeitiger
-                    "Tuchfühlung mit der Masse", Spott, Sarkasmus und Aerger darüber, Menschenliebe
+                    tragischen Ganzen), individualistische Absonderung &#8211; bei gleichzeitiger
+                    "Tuchf&#252;hlung mit der Masse", Spott, Sarkasmus und Aerger dar&#252;ber, Menschenliebe
                     im allgemeinen und Menschenverachtung im besonderen, Pessimismus auf kurze und
                     Optimismus auf weite Sicht etc.</p>
 
-                <p>Dies alles sind nur Stichworte. Können sie verständlich machen, was ich will? Ich
-                    fürchte, dass Sie mich nach diesen "ergänzenden Bemerkungen" noch um weitere
-                    Ergänzungen bitten müssen. Aber das ist gerade die Problematik dieses <name
-                        type="wrk" key="80116">Romans</name>: dass er nirgendwo beginnt und
-                    nirgendwo aufhört; dass er aus montierten Stichworten<pb n="2"/> Stichworten
+                <p>Dies alles sind nur Stichworte. K&#246;nnen sie verst&#228;ndlich machen, was ich will? Ich
+                    f&#252;rchte, dass Sie mich nach diesen "erg&#228;nzenden Bemerkungen" noch um weitere
+                    Erg&#228;nzungen bitten m&#252;ssen. Aber das ist gerade die Problematik dieses <name type="wrk" key="80116">Romans</name>: dass er nirgendwo beginnt und
+                    nirgendwo aufh&#246;rt; dass er aus montierten Stichworten<pb n="2"/> Stichworten
                     "zur Zeit" besteht und, auf eine sehr eigenwillige, sehr subjektive Art, an die
-                    Tradition des alten "Bildungsromanx" anknüpft &#x2013; vom "Tristam Shandy"<note
-                        type="reg"><persName key="5507">Sterne, Laurence</persName>, <name
-                            type="wrk" key="80268">Tristam Shandy</name></note> über den "Wilhelm
-                        Meister"<note type="reg"><persName key="8518">Goethe, Johann Wolfgang
+                    Tradition des alten "Bildungsromanx" ankn&#252;pft &#8211; vom "Tristam Shandy"<note type="reg"> <persName key="5507">Sterne, Laurence</persName>, <name type="wrk" key="80268">Tristam Shandy</name></note> &#252;ber den "Wilhelm
+                        Meister"<note type="reg"> <persName key="8518">Goethe, Johann Wolfgang
                             von</persName>, <name type="wrk" key="28478">Wilhelm Meisters
                             Lehrjahre</name> und <name type="wrk" key="29380">Wilhelm Meisters
                             Wanderjahre oder Die Entsagenden</name></note> zu den
-                        "Falschmünzern"<note type="reg"><persName key="9915">Gide, André</persName>,
-                            <name type="wrk" key="80269">Die Falschmünzer</name></note> &#x2013;
-                    andererseits aber auch jede Romantradition zertrümmert (inspiriert durch
+                        "Falschm&#252;nzern"<note type="reg"> <persName key="9915">Gide, Andr&#233;</persName>,
+                            <name type="wrk" key="80269">Die Falschm&#252;nzer</name></note> &#8211;
+                    andererseits aber auch jede Romantradition zertr&#252;mmert (inspiriert durch
                         <persName key="79047">Joyce</persName>, <persName key="78709">Dos
-                        Passos</persName>, <persName key="10076">Döblin</persName>) und im Grunde
+                        Passos</persName>, <persName key="10076">D&#246;blin</persName>) und im Grunde
                     nichts anderes zeigen will als: SO REAGIERT EIN MENSCHLICHES BEWUSSTSEIN AUF
                     DIESE ZEIT.</p>
 
-                <p>Ob es mir gelingen wird, ist eine andere Frage, und ich könnte mir vorstellen,
+                <p>Ob es mir gelingen wird, ist eine andere Frage, und ich k&#246;nnte mir vorstellen,
                     wenn Sie, der Autor der <name type="wrk" key="80125">"Schlafwandler"</name> (dem
-                    nachzueifern selbst der kühnste Ehrgeiz mir nicht erlauben würde), nicht ohne
+                    nachzueifern selbst der k&#252;hnste Ehrgeiz mir nicht erlauben w&#252;rde), nicht ohne
                     eine gewisse Skepsis Ihr Gutachten abgeben. Aber ich glaube, dass "meine Zeit"
                     erst kommt. Was ich bisher schrieb, Kritiken und Gedichte, waren Vorarbeiten.
                     (Nebenbei: kritische Prosa und Lyrik sind keine schlechte Mischung. Sie kann

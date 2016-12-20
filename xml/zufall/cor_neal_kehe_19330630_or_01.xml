@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 859</bibl>
@@ -67,6 +66,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -76,20 +76,20 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <p rend="text-align:right">
           <date type="write">30. Juni 1933</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ F3">Sehr verehrter Herr <name role="rec"><persName key="17">Hermann Kesten</persName></name>,</span>
         </p>
-        <lb/>
-        <p>für Ihren lieben <ref target="fud://854">Brief</ref> danke ich Ihnen recht herzlich. Da es mir aus allerlei Gründen daran gelegen wäre, an Ihrer <name type="wrk" key="102">Anthologie</name> mitzuarbeiten, habe ich hin und her überlegt, um eine Lösung zu finden. Aber ich finde keine, ich habe keine Novelle zur Verfügung, weder eine unveröffentlichte noch eine schon gedruckte. Seit zehn Jahren schreibe ich meine dicken Romane<note type="com">Zwischen 1923 und 1933 erscheinen die Romane <name type="wrk" key="5451">Die Brüder</name>, <name type="wrk" key="4730">Der Teufel</name>, <name type="wrk" key="5452">Rebellen</name>, <name type="wrk" key="5453">Guerra</name>, <name type="wrk" key="5454">Der Held</name> und <name type="wrk" key="4718">Narrenspiegel</name>.</note>, und selbst die paar Erzählungen, die in dieser Zeit entstanden sind – wie <name type="wrk" key="3084">Der Patriot</name>, <name type="wrk" key="4990">König Haber</name>, <name type="wrk" key="5449">Lehrer Taussig</name> – sind kleine Romane, übersteigen gewaltig den Anthologieraum und sind zudem nicht frei. Der Zufall will es, dass die einzige <name type="wrk" key="5450">Erzählung</name> aus meiner Frühzeit, die noch nicht in Buchform erschienen war und räumlich etwa in einen Sammelband passte, jüngst als <name type="wrk" key="5450">Novellenbändchen</name> in einem kleinen rheinischen <orgName key="5455">Verlag</orgName> erschien. So stehe ich also mit leeren Händen da.</p>
-        <lb/>
-        <p>Es fällt mir schwer genug, Ihnen keine bessere Antwort geben zu können. Ich hoffe aber, dass wir trotzdem in Verbindung bleiben.</p>
-        <lb/>
-        <p>Empfangen Sie die guten Wünsche und kameradschaftlichen Grüsse</p>
-        <lb/>
-        <p rend="text-align:center">Ihres herzlich ergebenen<lb/><name role="aut"><span type="Signatur"><persName key="2113">Alfred Neumann</persName></span></name></p>
+        <lb/> 
+        <p>f&#252;r Ihren lieben <ref target="fud://854">Brief</ref> danke ich Ihnen recht herzlich. Da es mir aus allerlei Gr&#252;nden daran gelegen w&#228;re, an Ihrer <name type="wrk" key="102">Anthologie</name> mitzuarbeiten, habe ich hin und her &#252;berlegt, um eine L&#246;sung zu finden. Aber ich finde keine, ich habe keine Novelle zur Verf&#252;gung, weder eine unver&#246;ffentlichte noch eine schon gedruckte. Seit zehn Jahren schreibe ich meine dicken Romane<note type="com"> Zwischen 1923 und 1933 erscheinen die Romane <name type="wrk" key="5451">Die Br&#252;der</name>, <name type="wrk" key="4730">Der Teufel</name>, <name type="wrk" key="5452">Rebellen</name>, <name type="wrk" key="5453">Guerra</name>, <name type="wrk" key="5454">Der Held</name> und <name type="wrk" key="4718">Narrenspiegel</name>.</note>, und selbst die paar Erz&#228;hlungen, die in dieser Zeit entstanden sind &#8211; wie <name type="wrk" key="3084">Der Patriot</name>, <name type="wrk" key="4990">K&#246;nig Haber</name>, <name type="wrk" key="5449">Lehrer Taussig</name> &#8211; sind kleine Romane, &#252;bersteigen gewaltig den Anthologieraum und sind zudem nicht frei. Der Zufall will es, dass die einzige <name type="wrk" key="5450">Erz&#228;hlung</name> aus meiner Fr&#252;hzeit, die noch nicht in Buchform erschienen war und r&#228;umlich etwa in einen Sammelband passte, j&#252;ngst als <name type="wrk" key="5450">Novellenb&#228;ndchen</name> in einem kleinen rheinischen <orgName key="5455">Verlag</orgName> erschien. So stehe ich also mit leeren H&#228;nden da.</p>
+        <lb/> 
+        <p>Es f&#228;llt mir schwer genug, Ihnen keine bessere Antwort geben zu k&#246;nnen. Ich hoffe aber, dass wir trotzdem in Verbindung bleiben.</p>
+        <lb/> 
+        <p>Empfangen Sie die guten W&#252;nsche und kameradschaftlichen Gr&#252;sse</p>
+        <lb/> 
+        <p rend="text-align:center">Ihres herzlich ergebenen<lb/> <name role="aut"><span type="Signatur"><persName key="2113">Alfred Neumann</persName></span></name></p>
       </div>
     </body>
   </text>

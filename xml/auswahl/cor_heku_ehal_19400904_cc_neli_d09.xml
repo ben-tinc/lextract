@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +15,7 @@
       </publicationStmt>
       <sourceDesc>
         <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
-        <p><bibl>A:Kläber</bibl></p>
+        <p><bibl>A:Kl&#228;ber</bibl></p>
 
 
         <ab type="copyright"><persName key="78491">Christiane Dornheim-Tetzner</persName></ab>
@@ -33,10 +29,8 @@
         <ab type="paper"/>
         <ab type="language">deutsch</ab>
         <ab type="AF">F1</ab>
-        <ab type="location"><placeName key="75550" type="write" cert="high" evidence="Brieftext"
-            >Carona</placeName></ab>
-        <ab type="date"><date when="1940-09-04" cert="high" evidence="Brieftext"
-          >4.9.1940</date></ab>
+        <ab type="location"><placeName key="75550" type="write" cert="high" evidence="Brieftext">Carona</placeName></ab>
+        <ab type="date"><date when="1940-09-04" cert="high" evidence="Brieftext">4.9.1940</date></ab>
         <ab type="role"><persName key="8427" role="aut">Kurt Held</persName></ab>
         <ab type="role"><persName key="12472" role="rec">Albert Ehrenstein</persName></ab>
         <ab type="no">322687</ab>
@@ -59,17 +53,12 @@
 
       <change n="collation">
         <persName key="71921">Angelika Kreh</persName>
-        <date when="2014-03-19">19.3.2014</date>, <date when="2014-03-24">24.3.2014</date>, <date
-          when="2014-04-04">4.4.2014</date>, <date when="2014-04-15">15.4.2014</date>, <date
-          when="2014-04-29">29.4.2014</date>, <date when="2014-05-07">7.5.2014</date>
+        <date when="2014-03-19">19.3.2014</date>, <date when="2014-03-24">24.3.2014</date>, <date when="2014-04-04">4.4.2014</date>, <date when="2014-04-15">15.4.2014</date>, <date when="2014-04-29">29.4.2014</date>, <date when="2014-05-07">7.5.2014</date>
       </change>
 
       <change n="collation">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2014-04-02">2.4.2014</date>, <date when="2014-04-11">11.4.2014</date>, <date
-          when="2014-04-16">16.4.2014</date>, <date when="2014-04-30">30.4.2014</date>, <date
-          when="2014-05-21">21.5.2014</date>, <date when="2014-08-29">29.8.2014</date>, <date
-            when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>, <date when="2015-04-07">7.4.2015</date>
+        <date when="2014-04-02">2.4.2014</date>, <date when="2014-04-11">11.4.2014</date>, <date when="2014-04-16">16.4.2014</date>, <date when="2014-04-30">30.4.2014</date>, <date when="2014-05-21">21.5.2014</date>, <date when="2014-08-29">29.8.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>, <date when="2015-04-07">7.4.2015</date>
       </change>
 
       <change n="collation">
@@ -95,6 +84,7 @@
 
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -103,8 +93,7 @@
           <graphic n="1" url="cor_heku_ehal_19400904_cc_01"/>
         </figure>
 
-        <p rend="right"><placeName key="75550" type="write">Carona</placeName> den <date
-            when="1940-09-04" cert="high">4. Sept. 1940.</date></p>
+        <p rend="right"><placeName key="75550" type="write">Carona</placeName> den <date when="1940-09-04" cert="high">4. Sept. 1940.</date></p>
 
 
         <p><emph n="salutation">Lieber <persName key="12472" role="rec">A. E.</persName></emph>,</p>
@@ -117,8 +106,8 @@
           Huehner uns Schweinebesitzer immerhin noch einigermassen existieren kann. Viel wichtiger
           schiene mir auch, wenn man jetzt allen hier noch Lebenden Schriftstellern von drueben
           etwas helfen wuerde, sei es nun durch Arbeitsmoeglichkeiten, uebersetzen von Romanen usw.
-          Darlehen, oder einfachen Arbeitszuschuessen. Jedenfalls äussern Sie sich doch bitte einmal
-          etwas laenger ueber die ganze Sache.<note type="com" cert="high">Gemeint sind die
+          Darlehen, oder einfachen Arbeitszuschuessen. Jedenfalls &#228;ussern Sie sich doch bitte einmal
+          etwas laenger ueber die ganze Sache.<note type="com" cert="high"> Gemeint sind die
             Hilfeleistungen des <orgName key="76457">Emergency Rescue Committee</orgName>. Vgl. Ehrensteins
             <rs n="322695">Brief</rs> an Held vom
             18.12.1940</note>.</p>
@@ -127,21 +116,15 @@
           doch folgende Namen weiter zu geben, damit Sie diese Leute auch auffordern ihre
           Personalien anzugeben:</p>
 
-        <p>Prof. Dr. <persName key="75328">Julius Baum'</persName> / <placeName key="49647"
-            >Bern</placeName> / Thunstrasse 105 a<lb/><persName key="75329">Laurenz
-            Wiedner</persName>, oder <persName key="75329">Wiedmer</persName>/ <placeName
-            key="49153">Zuerich</placeName> / Zeltweg 44<lb/><persName key="75330">Werner
+        <p>Prof. Dr. <persName key="75328">Julius Baum'</persName> / <placeName key="49647">Bern</placeName> / Thunstrasse 105 a<lb/> <persName key="75329">Laurenz
+            Wiedner</persName>, oder <persName key="75329">Wiedmer</persName>/ <placeName key="49153">Zuerich</placeName> / Zeltweg 44<lb/> <persName key="75330">Werner
             Helwig</persName> / <placeName key="49153">Zuerich</placeName> 6 / Vogelsangstrasse
           5</p>
 
         <p><persName key="9542">Hesse</persName> wuesste auch gern, ob sich Komponisten melden
           koennen usw. Ich bin am Sonntag wieder mit <persName key="9542">Hesse</persName> zusammen,
           vielleicht kann ich bis dahin schon Ihren Bescheid haben. Sonst ist wenig zu melden, Ich
-          hoerte gestern das <persName key="8862">Eisenstein</persName> die Wallkuere<note
-            type="reg"><persName key="8571">Wagner, Richard</persName>, <name type="wrk"
-              key="28384">Die Walküre</name></note> inszeniert, und las unsern guten <persName
-            key="8093">Bert Brechts</persName> Gleichschaltung (nach beiden Seiten): <name
-            type="wrk" key="75331">Das Verhoer des Lukullus</name>. Gut gemacht, hoffentlich gelingt
+          hoerte gestern das <persName key="8862">Eisenstein</persName> die Wallkuere<note type="reg"> <persName key="8571">Wagner, Richard</persName>, <name type="wrk" key="28384">Die Walk&#252;re</name></note> inszeniert, und las unsern guten <persName key="8093">Bert Brechts</persName> Gleichschaltung (nach beiden Seiten): <name type="wrk" key="75331">Das Verhoer des Lukullus</name>. Gut gemacht, hoffentlich gelingt
           es auch anderen so gut. Ich habe eigentlich keinen anderen Wunsch, als dass man mich hier
           oben laesst, und dass ich noch einige Jahre von hier aus zusehen kann, wohin das
           Aepfelchen rollt.</p>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 1385a</bibl>
@@ -31,7 +30,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="paper"/>
         <ab type="PA"/>
         <ab type="location">
-          <placeName key="4875" type="write" cert="medium">Petrópolis</placeName>
+          <placeName key="4875" type="write" cert="medium">Petr&#243;polis</placeName>
         </ab>
         <ab type="date">
           <date cert="high" when="1942-01-15"><note>Brief</note>
@@ -46,7 +45,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-355</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Original mit der Signatur Stefan Zweigs. Die in der linken oberen Ecke vorgedruckte Adresse "c/o Editora Guanabara, 132, Rua Ouvidor, Rio de Janeiro" ist durchgestrichen. In der Ecke rechts oben steht die vorgedruckte Adresse "Petropolis, (Brasil), (34, Rua Gonçalves Dias)".&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Original mit der Signatur Stefan Zweigs. Die in der linken oberen Ecke vorgedruckte Adresse "c/o Editora Guanabara, 132, Rua Ouvidor, Rio de Janeiro" ist durchgestrichen. In der Ecke rechts oben steht die vorgedruckte Adresse "Petropolis, (Brasil), (34, Rua Gon&#231;alves Dias)".&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -64,6 +63,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -73,20 +73,20 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <p rend="text-align:right">
           <date type="write">15. Januar 1942</date>
         </p>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="17">Freund</persName></name>!</span>
         </p>
-        <lb/>
-        <p>Vielen Dank für Ihren Brief<note type="com">Der Brief ist nicht Teil des vorliegenden Korpus.</note>. Vielleicht haben Sie inzwischen meinen alten doch noch erhalten, denn eine Zeitlang waren zu Kriegsbeginn die Postverbindungen recht durcheinander. Ich fürchte nur, dass sein Inhalt durch die Ereignisse überholt und erledigt worden ist, denn die Ausbreitung des Krieges steht, so erfreulich sie für uns vom politischen Standpunkt sein muss, in einer schlimmen Relation zur Verbreitungsmöglichkeit unserer Bücher. Die Transportverhältnisse und Zahlungsmöglichkeiten werden in der nächsten Zeit so einschmelzen, dass der schöne Mut, den die Herren<note type="com"><persName key="2034">Fritz H. Landshoff</persName> und <persName key="1803">Gottfried Bermann Fischer</persName> gründen im Oktober 1941 den Verlag <orgName key="1337">L. B. Fischer Publishing Corporation</orgName>. Um auf dem amerikanischen Markt bestehen zu können, ist die Verlagsproduktion englischsprachig. Unter den Autoren sind nur wenige Exilliteraten, da diese ihre amerikanischen Rechte häufig bereits an andere Verlage vergeben haben.<lb/><lb/><lb/>(Vgl. Landshoff: Amsterdam, S. 153–166; Bermann Fischer: Wanderer, S. 180–184; Schlawin: Anthologie, S. 19–21)</note> mit ihrer geplanten Verlagsgründung hatten, sich wird in Geduld verwandeln müssen bis auf jenes mysteriöse "Nachher", das zu erleben ich eigentlich neugierig wäre.</p>
-        <lb/>
-        <p>Von mir ist wenig zu berichten. Ich habe eine <name type="wrk" key="6145">Novelle</name> geschrieben in meinem beliebt-unglücklichen Format, zu gross für eine Zeitung und ein Magazin, zu klein für ein Buch, zu abstrakt für das grosse Publikum, zu abseitig in seinem Thema. Aber Sie wissen ja, dass Mütter ihre einerseits schwächlichen, anderseits begabten Kinder am zärtlichsten ans Herz drücken. Da ich mich an den <name type="wrk" key="3057">Balzac</name> nicht wage, ein Roman<note type="com">Seit September 1941 erwähnt <persName key="72">Stefan Zweig</persName> in Briefen die Idee "einer Art österreichischen <name type="wrk" key="6146">Romans</name>" (<ref target="fud://1536">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="74">Friderike Zweig</persName> vom 27.10.1941). Der <name type="wrk" key="6146">Roman</name> bleibt – auch wegen des mehrfach geäußerten fehlenden Zugriffs auf österreichische Zeitungsarchive – ein Fragment und wird posthum herausgegeben (vgl. den <ref target="fud://1534">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="74">Friderike Zweig</persName> vom 10.9.1941 und den <ref target="fud://1451">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="3181">Joachim Maass</persName> vom 25.12.1941). </note> steckengeblieben ist, schreibe ich jetzt an einem <name type="wrk" key="3058">Montaigne</name>, der ein Pendant zu meinem <name type="wrk" key="1712">Erasmus</name> sein wird. Es wird natürlich keine konkrete, systematische Biographie und nicht philologisch alle Facetten spiegeln. Mich interessiert vor allem von seinen Pro-<lb/>blemen nur das eine, das sich uns allen heute mit gleicher Eindringlichkeit und Gefährlichkeit wie damals stellt: wie bleibe ich frei, wie erhalte ich die Klarheit des Hirns in einer herzlosen und fanatisierten Zeit? – Meine <name type="wrk" key="3021">Autobiographie</name> ist längst fertig und fast könnte ich, <persName key="2539">Pirandello</persName> variierend, sagen: "Drei Manuskripte suchen einen guten Uebersetzer."<note type="com"><name type="wrk" key="6148">Sechs Personen suchen einen Autor</name>, Drama von <persName key="2539">Luigi Pirandello</persName>.</note></p>
-        <lb/>
-        <p>Von den Freunden höre ich ab und zu. Hier ist mein einziger Umgang zur Zeit der vor dreihundertfünfzig Jahren verstorbene <persName key="2520">Michel de Montaigne</persName>, aber eine leidlich gute Gesellschaft zusammen mit <persName key="1790">Balzac</persName>, <persName key="2205">Shakespeare</persName> und ähnlichen alten Kameraden.</p>
-        <lb/>
+        <lb/> 
+        <p>Vielen Dank f&#252;r Ihren Brief<note type="com"> Der Brief ist nicht Teil des vorliegenden Korpus.</note>. Vielleicht haben Sie inzwischen meinen alten doch noch erhalten, denn eine Zeitlang waren zu Kriegsbeginn die Postverbindungen recht durcheinander. Ich f&#252;rchte nur, dass sein Inhalt durch die Ereignisse &#252;berholt und erledigt worden ist, denn die Ausbreitung des Krieges steht, so erfreulich sie f&#252;r uns vom politischen Standpunkt sein muss, in einer schlimmen Relation zur Verbreitungsm&#246;glichkeit unserer B&#252;cher. Die Transportverh&#228;ltnisse und Zahlungsm&#246;glichkeiten werden in der n&#228;chsten Zeit so einschmelzen, dass der sch&#246;ne Mut, den die Herren<note type="com"> <persName key="2034">Fritz H. Landshoff</persName> und <persName key="1803">Gottfried Bermann Fischer</persName> gr&#252;nden im Oktober 1941 den Verlag <orgName key="1337">L. B. Fischer Publishing Corporation</orgName>. Um auf dem amerikanischen Markt bestehen zu k&#246;nnen, ist die Verlagsproduktion englischsprachig. Unter den Autoren sind nur wenige Exilliteraten, da diese ihre amerikanischen Rechte h&#228;ufig bereits an andere Verlage vergeben haben.<lb/> <lb/> <lb/> (Vgl. Landshoff: Amsterdam, S. 153&#8211;166; Bermann Fischer: Wanderer, S. 180&#8211;184; Schlawin: Anthologie, S. 19&#8211;21)</note> mit ihrer geplanten Verlagsgr&#252;ndung hatten, sich wird in Geduld verwandeln m&#252;ssen bis auf jenes mysteri&#246;se "Nachher", das zu erleben ich eigentlich neugierig w&#228;re.</p>
+        <lb/> 
+        <p>Von mir ist wenig zu berichten. Ich habe eine <name type="wrk" key="6145">Novelle</name> geschrieben in meinem beliebt-ungl&#252;cklichen Format, zu gross f&#252;r eine Zeitung und ein Magazin, zu klein f&#252;r ein Buch, zu abstrakt f&#252;r das grosse Publikum, zu abseitig in seinem Thema. Aber Sie wissen ja, dass M&#252;tter ihre einerseits schw&#228;chlichen, anderseits begabten Kinder am z&#228;rtlichsten ans Herz dr&#252;cken. Da ich mich an den <name type="wrk" key="3057">Balzac</name> nicht wage, ein Roman<note type="com"> Seit September 1941 erw&#228;hnt <persName key="72">Stefan Zweig</persName> in Briefen die Idee "einer Art &#246;sterreichischen <name type="wrk" key="6146">Romans</name>" (<ref target="fud://1536">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="74">Friderike Zweig</persName> vom 27.10.1941). Der <name type="wrk" key="6146">Roman</name> bleibt &#8211; auch wegen des mehrfach ge&#228;u&#223;erten fehlenden Zugriffs auf &#246;sterreichische Zeitungsarchive &#8211; ein Fragment und wird posthum herausgegeben (vgl. den <ref target="fud://1534">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="74">Friderike Zweig</persName> vom 10.9.1941 und den <ref target="fud://1451">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="3181">Joachim Maass</persName> vom 25.12.1941). </note> steckengeblieben ist, schreibe ich jetzt an einem <name type="wrk" key="3058">Montaigne</name>, der ein Pendant zu meinem <name type="wrk" key="1712">Erasmus</name> sein wird. Es wird nat&#252;rlich keine konkrete, systematische Biographie und nicht philologisch alle Facetten spiegeln. Mich interessiert vor allem von seinen Pro-<lb/> blemen nur das eine, das sich uns allen heute mit gleicher Eindringlichkeit und Gef&#228;hrlichkeit wie damals stellt: wie bleibe ich frei, wie erhalte ich die Klarheit des Hirns in einer herzlosen und fanatisierten Zeit? &#8211; Meine <name type="wrk" key="3021">Autobiographie</name> ist l&#228;ngst fertig und fast k&#246;nnte ich, <persName key="2539">Pirandello</persName> variierend, sagen: "Drei Manuskripte suchen einen guten Uebersetzer."<note type="com"> <name type="wrk" key="6148">Sechs Personen suchen einen Autor</name>, Drama von <persName key="2539">Luigi Pirandello</persName>.</note></p>
+        <lb/> 
+        <p>Von den Freunden h&#246;re ich ab und zu. Hier ist mein einziger Umgang zur Zeit der vor dreihundertf&#252;nfzig Jahren verstorbene <persName key="2520">Michel de Montaigne</persName>, aber eine leidlich gute Gesellschaft zusammen mit <persName key="1790">Balzac</persName>, <persName key="2205">Shakespeare</persName> und &#228;hnlichen alten Kameraden.</p>
+        <lb/> 
         <p>Alles Herzliche Ihrer <persName key="73">Frau</persName> und allen Freunden, somit in erster Linie Ihnen selbst</p>
-        <lb/>
-        <p rend="text-align:right">von Ihrem<lb/><name role="aut"><span type="Signatur"><persName key="72">Stefan Zweig</persName></span></name></p>
+        <lb/> 
+        <p rend="text-align:right">von Ihrem<lb/> <name role="aut"><span type="Signatur"><persName key="72">Stefan Zweig</persName></span></name></p>
       </div>
     </body>
   </text>

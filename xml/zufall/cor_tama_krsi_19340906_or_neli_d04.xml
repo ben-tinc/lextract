@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,8 +17,7 @@
                 <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
                 <p><bibl>A:Kracauer</bibl></p>
 
-                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName
-                        key="77608">Aase Gjerdrum</persName></ab>
+                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName key="77608">Aase Gjerdrum</persName></ab>
                 <ab type="leaves">2</ab>
                 <ab type="pages">2</ab>
                 <ab type="type">lt</ab>
@@ -33,10 +28,8 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">P2</ab>
-                <ab type="location"><placeName key="49025" type="write" cert="high"
-                        evidence="Brieftext">Berlin</placeName></ab>
-                <ab type="date"><date when="1934-09-06" cert="high" evidence="Brieftext"
-                        >6.9.1934</date></ab>
+                <ab type="location"><placeName key="49025" type="write" cert="high" evidence="Brieftext">Berlin</placeName></ab>
+                <ab type="date"><date when="1934-09-06" cert="high" evidence="Brieftext">6.9.1934</date></ab>
                 <ab type="role"><persName key="74658" role="aut">Max Tau</persName></ab>
                 <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
                 <ab type="no">322405</ab>
@@ -55,8 +48,7 @@
             <change n="collation">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-08-12">12.8.2014</date>, <date when="2014-11-12">12.11.2014</date>,
-                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-19"
-                    >19.1.2015</date>
+                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-19">19.1.2015</date>
             </change>
 
             <change n="collation">
@@ -96,6 +88,7 @@
 
     </teiHeader>
 
+    
     <text>
         <body>
             <div>
@@ -105,61 +98,47 @@
                     <graphic n="2" url="cor_tama_krsi_19340906_or_02"/>
                 </figure>
 
-                <p><placeName key="49025" type="write">Berlin</placeName>, den <date
-                        when="1934-09-06" cert="high">6. 9. 1934.</date></p>
+                <p><placeName key="49025" type="write">Berlin</placeName>, den <date when="1934-09-06" cert="high">6. 9. 1934.</date></p>
 
-                <p><emph n="salutation">Mein liebster <persName key="7721"
-                    role="rec">Freund</persName></emph>!</p>
+                <p><emph n="salutation">Mein liebster <persName key="7721" role="rec">Freund</persName></emph>!</p>
 
 
-                <p>Sind wir beide Pechvögel, oder will das Schicksal nicht, dass unsere Briefe uns
-                    erreichen? Ich habe Ihnen nach einer längeren Besprechung mit dem Dichter<note
-                        type="reg"><persName key="8771">Mann, Thomas</persName></note> der <name
-                        type="wrk" key="71420">Josef-Romane</name> einen ausführlichen Brief<note
-                        type="intern">Nicht ermittelt.</note> mit Ratschlägen über die
-                    Unterbringung Ihres Romans<note type="reg"><name type="wrk" key="74424"
-                            >Georg</name></note> geschrieben. Ich habe Sie gebeten, mir sofort nach
+                <p>Sind wir beide Pechv&#246;gel, oder will das Schicksal nicht, dass unsere Briefe uns
+                    erreichen? Ich habe Ihnen nach einer l&#228;ngeren Besprechung mit dem Dichter<note type="reg"> <persName key="8771">Mann, Thomas</persName></note> der <name type="wrk" key="71420">Josef-Romane</name> einen ausf&#252;hrlichen Brief<note type="intern"> Nicht ermittelt.</note> mit Ratschl&#228;gen &#252;ber die
+                    Unterbringung Ihres Romans<note type="reg"> <name type="wrk" key="74424">Georg</name></note> geschrieben. Ich habe Sie gebeten, mir sofort nach
                         <placeName key="49025">Berlin</placeName> zu antworten und mir sogar einen
                     Teil des <name type="wrk" key="74424">Romans</name> einzusenden. Leider habe ich
-                    nichts von Ihnen gehört. Die Dinge liegen so:</p>
+                    nichts von Ihnen geh&#246;rt. Die Dinge liegen so:</p>
 
-                <p>Ich glaube, ohne Uebertreibung sagen zu können, dass die Aussichten, dass <name
-                        type="wrk" key="74424">Ihr Roman</name> bei <orgName key="70065">Rascher
-                        &amp; Co.</orgName> erscheint, durch meine Reise so weit geklärt sind, dass
-                    nur der Teufel seine Hand im Spiele haben müsste, wenn die Sache nicht klappt.
-                    Also, mein lieber Freund, entweder schicken Sie mir den <name type="wrk"
-                        key="74424">Roman</name> und ich tue alles für Sie, oder schreiben Sie mir,
-                    wann der <name type="wrk" key="74424">Roman</name> an <orgName key="70065"
-                        >Rascher</orgName> abgeht. Es ist alles vorbereitet und in Ordnung gebracht.
-                    Sie müssen nicht glauben, dass ich, wenn ich nicht schreibe, nicht immer an Sie
-                    und Lil<note type="reg"><persName key="74110">Kracauer,
-                        Elisabeth</persName></note> denke, sondern Sie müssen versichert sein, dass
-                    ich gern für Sie und <persName key="74110">Lil</persName> alles tun möchte.</p>
+                <p>Ich glaube, ohne Uebertreibung sagen zu k&#246;nnen, dass die Aussichten, dass <name type="wrk" key="74424">Ihr Roman</name> bei <orgName key="70065">Rascher
+                        &amp; Co.</orgName> erscheint, durch meine Reise so weit gekl&#228;rt sind, dass
+                    nur der Teufel seine Hand im Spiele haben m&#252;sste, wenn die Sache nicht klappt.
+                    Also, mein lieber Freund, entweder schicken Sie mir den <name type="wrk" key="74424">Roman</name> und ich tue alles f&#252;r Sie, oder schreiben Sie mir,
+                    wann der <name type="wrk" key="74424">Roman</name> an <orgName key="70065">Rascher</orgName> abgeht. Es ist alles vorbereitet und in Ordnung gebracht.
+                    Sie m&#252;ssen nicht glauben, dass ich, wenn ich nicht schreibe, nicht immer an Sie
+                    und Lil<note type="reg"> <persName key="74110">Kracauer,
+                        Elisabeth</persName></note> denke, sondern Sie m&#252;ssen versichert sein, dass
+                    ich gern f&#252;r Sie und <persName key="74110">Lil</persName> alles tun m&#246;chte.</p>
 
-                <p>Ich war in der <name type="per" key="70949">F.Z.</name> und habe <persName
-                        key="9556">Reiffenberg</persName> kennengelernt, der mir versicherte, dass
-                    ihm nichts schmerzlicher gewesen wäre als Ihre Angelegenheit. Ich habe dann aber
-                    aus meinem Herzen keine Mördergrube gemacht. B.C.<note type="reg"><persName
-                            key="9821">Cassirer, Bruno</persName></note> möchte Ihnen auch gern
-                    helfen. Wenn Sie Ihre Möbel usw. noch hier haben,<pb n="2"/> könnte <persName
-                        key="9821">B.C.</persName>, was er gern tun würde, die Kosten für die
-                    Uebersendung übernehmen. Bitte schreiben Sie mir darüber gleich und vor allen
-                    Dingen über <persName key="74110">Lils</persName> Befinden. &#x2013;</p>
+                <p>Ich war in der <name type="per" key="70949">F.Z.</name> und habe <persName key="9556">Reiffenberg</persName> kennengelernt, der mir versicherte, dass
+                    ihm nichts schmerzlicher gewesen w&#228;re als Ihre Angelegenheit. Ich habe dann aber
+                    aus meinem Herzen keine M&#246;rdergrube gemacht. B.C.<note type="reg"> <persName key="9821">Cassirer, Bruno</persName></note> m&#246;chte Ihnen auch gern
+                    helfen. Wenn Sie Ihre M&#246;bel usw. noch hier haben,<pb n="2"/> k&#246;nnte <persName key="9821">B.C.</persName>, was er gern tun w&#252;rde, die Kosten f&#252;r die
+                    Uebersendung &#252;bernehmen. Bitte schreiben Sie mir dar&#252;ber gleich und vor allen
+                    Dingen &#252;ber <persName key="74110">Lils</persName> Befinden. &#8211;</p>
 
-                <p>Ich kann zu solchem Unglück nur schweigen. Sie wissen ja am besten, dass ich
-                        <persName key="74110">Lil</persName> von Herzen lieb habe. &#x2013; Wenn
-                    doch etwas von meinen Wünschen für Sie Beide in Erfüllung gehen würde!</p>
+                <p>Ich kann zu solchem Ungl&#252;ck nur schweigen. Sie wissen ja am besten, dass ich
+                        <persName key="74110">Lil</persName> von Herzen lieb habe. &#8211; Wenn
+                    doch etwas von meinen W&#252;nschen f&#252;r Sie Beide in Erf&#252;llung gehen w&#252;rde!</p>
 
-                <p>In zwei Tagen reise ich zu meinen Eltern<note type="reg"><persName key="75616"
-                            >Tau, Nathan</persName> und <persName key="75617">Tau,
+                <p>In zwei Tagen reise ich zu meinen Eltern<note type="reg"> <persName key="75616">Tau, Nathan</persName> und <persName key="75617">Tau,
                         Julie</persName></note> und bleibe dort etwa zehn Tage. Eine Ausspannung tut
-                    mir not, da ich es nicht immer leicht habe. &#x2013; Hoffentlich können wir uns
-                    bald einmal besuchen; dies wäre für mich ein wahres Glück! Und nun wollen wir
-                    der Post zum Trotz öfter voneinander hören; denn dass wir sonst für immer
+                    mir not, da ich es nicht immer leicht habe. &#8211; Hoffentlich k&#246;nnen wir uns
+                    bald einmal besuchen; dies w&#228;re f&#252;r mich ein wahres Gl&#252;ck! Und nun wollen wir
+                    der Post zum Trotz &#246;fter voneinander h&#246;ren; denn dass wir sonst f&#252;r immer
                     verbunden sind, brauchen wir uns nicht zu sagen.</p>
 
-                <p><emph n="salute">Viele herzliche Grüsse an Sie und die liebe <persName
-                            key="74110">Lil</persName></emph></p>
+                <p><emph n="salute">Viele herzliche Gr&#252;sse an Sie und die liebe <persName key="74110">Lil</persName></emph></p>
 
                 <p rend="right"><emph n="salute">von Ihrem Ihnen immer getreuen</emph></p>
 

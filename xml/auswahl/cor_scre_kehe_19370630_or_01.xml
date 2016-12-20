@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 1051</bibl>
@@ -38,7 +37,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
 1937-06-30          </date>
         </ab>
         <ab type="role">
-          <persName role="aut" key="1707">Schickele, René</persName>
+          <persName role="aut" key="1707">Schickele, Ren&#233;</persName>
         </ab>
         <ab type="role">
           <persName role="rec" key="17">Kesten, Hermann</persName>
@@ -46,7 +45,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-28</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Entwurf von René Schickeles Hand. Zahlreiche Ergänzungen und Ausstreichungen. Die Signatur fehlt. Auf Seite 2 wurde unten links mit Bleistift von fremder Hand "Schickele" vermerkt.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Entwurf von Ren&#233; Schickeles Hand. Zahlreiche Erg&#228;nzungen und Ausstreichungen. Die Signatur fehlt. Auf Seite 2 wurde unten links mit Bleistift von fremder Hand "Schickele" vermerkt.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -64,6 +63,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -71,27 +71,27 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <graphic n="0" url="cor_scre_kehe_19370630_or_01.tif"/>
           <graphic n="1" url="cor_scre_kehe_19370630_or_02.tif"/>
         </figure>
-        <p rend="text-align:right"><placeName key="46">Nice-Fabron</placeName> (<placeName key="2879">A. M.</placeName>)<lb/><orgName key="4761">"La Florida</orgName><lb/><placeName key="4760">Chemin de la Lanterne</placeName><lb/><date type="write">30. 6. 37.</date></p>
-        <lb/>
+        <p rend="text-align:right"><placeName key="46">Nice-Fabron</placeName> (<placeName key="2879">A. M.</placeName>)<lb/> <orgName key="4761">"La Florida</orgName><lb/> <placeName key="4760">Chemin de la Lanterne</placeName><lb/> <date type="write">30. 6. 37.</date></p>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ F1">Lieber Herr <name role="rec"><persName key="17">Kesten</persName></name>,</span>
         </p>
-        <lb/>
-        <p>Ihre Kinder<note type="com">Anspielung auf <persName key="17">Hermann Kestens</persName> Roman <name type="wrk" key="2844">Die Kinder von Gernika</name>, an dem er gerade arbeitet.</note> verhungern, dafür sind Ihnen grosse künstlerische Genüsse gewährt. Ich lese es teils in Ihrem Brief für den ich mich herzlich bedanke, teils in der Zeitung, die, zu meinem nicht geringen Staunen, von Ihrer Mitwirkung am Penkongress zu berichten wusste. Sie standen da nicht gerade in "Tuchfühlung" mit unserm grossen <persName key="1889">Lion</persName>, aber doch in seiner nächsten Nähe.</p>
-        <lb/>
-        <p>Nun, und wie ist es Ihnen bekommen? Ich bin sehr neugierig, von Ihnen einen zuverlässigen Bericht über das gleichsam ökumenische Konsistorium des GEISTES zu erhalten. Bitte, recht ausführlich!</p>
-        <lb/>
-        <p>Sollte jedoch die Zeitung ein Mal mehr gelogen haben, so bin ich mir bewusst, um eine Probe grimmigen Kestenschen Humors schmählich betrogen zu sein.</p>
-        <lb/>
-        <p>Wir haben hier einen schönen, <hi rend="underline">frischen</hi> Sommer. Trotzdem werden wir demnächst in die Berge steigen – und vermutlich frieren. Der Arzt rät mir seit langem dringend zu einem Klimawechsel, und so benutzen wir die Gelegenheit, die Vater <persName key="2387">Gerson</persName> seiner Tochter <persName key="2072">Eva</persName>, des verfluchten Zunamens Marcu, seiner <persName key="3637">Enkelin</persName> und uns beiden<note type="com"><persName key="2185">Anna Schickele</persName>, <persName key="1707">René Schickele</persName></note> in Gestalt eines von ihm in der <placeName key="3635">Haute-Savoie</placeName> gemieteten Hauses bietet, wo wir alle in angestrengter Weise der Gesundheit leben, die Damen<note type="com"><persName key="2072">Eva Marcu</persName>, <persName key="2185">Anna Schickele</persName></note> aber sich in der Wirtschaftsführung <unclear>opfernd sehn</unclear> werden. Dies ist nun einmal ihr (in diesem Fall halbierter) Teil. <persName key="2074">Marcu</persName> der seinen <persName key="2387">Schwiegervater</persName> nicht zu erblicken wünscht (ein Wunsch, der von diesem inbrünstig geteilt wird) gedenkt sich inzwischen, d. h. bis zum Abzug des <persName key="2387">Alten</persName>, in <placeName key="18">Paris</placeName> jene xxReserven an körperlicher wie geistiger Frische anzuschaffen, die er zur Abfassung seines neuen Buches<note type="com"><persName key="2074">Valeriu Marcus</persName> letzter Roman <name type="wrk" key="5136">Machiavelli</name> wird Anfang 1937 veröffentlicht. Danach arbeitet <persName key="2074">Marcu</persName> an einem <name type="wrk" key="5138">Essay</name> zur militärischen Kunst von der Antike bis zur Neuzeit sowie, unter dem Titel <name type="wrk" key="5137">Die Legende des Proletariats</name>, an einer Geschichte der europäischen Arbeiterbewegung, die auch autobiographische Züge besitzt. Beide Arbeiten bleiben Projekte.<lb/><lb/><lb/>(Vgl. Corbea-Hoisie: Valeriu Marcu, S. 331, 336)</note> zu benötigen behauptet. Die Vorarbeiten dazu, ich meine: zur Anlage der Reserven <foreign xml:lang="">"dans notre bonne et gentille ville de <placeName key="18">Paris</placeName>"</foreign> sind, wie ich aus gewissen Gängen zur <orgName key="4862">Hauptpost</orgName> schliessen möchte, bereits eifrig im Gang.</p>
-        <lb/>
-        <p><pb/>Den braven <persName key="2282">Theodor</persName> sehe ich selten. So oft es geschieht, weiss er von einer günstigen Besprechung seiner unglückseligen <name type="wrk" key="2843">"Schwimmerin"</name> zu berichten – was, da ich mich über den <name type="wrk" key="2843">Roman</name> äusserst skeptisch zu ihm geäussert habe, einer Disqualifizierung meines Wahrnehmungsvermögens gleichkommt. Ich bemühe mich dann immer, ein von Reue heisses Gesicht zu zeigen, worin aber leider ein Rest von rechthaberischem Trotz eingefroren sein muss. Ein plötzlicher, misstrauischer Blick <persName key="2282">Theodors</persName> erwischt ihn im Flug, und mit einer müden Handbewegung: "Na, sprechen wir von was anderm", sagt er, und jetzt, da er es nicht mehr sieht, schmilzt das Restchen Trotz, denn, was er sagte, klang wie ein Seufzer des alten Pan, und bekümmert wie ein Satyr, der dem schlafenden Weltgreis versehentlich auf die Flöte trat, sitze ich vor meiner Kaffeetasse und schäme mich.</p>
-        <lb/>
-        <p><persName key="1709">Heinrich Mann</persName> sitzt hie und da vor dem <orgName key="3636">"Monnot"</orgName>, still und scheinbar gramvoll, das Ohr zur plaudernden Frau <persName key="2069">Kröger</persName> geneigt, den Blick in der Ferne.</p>
-        <lb/>
-        <p>Tag und Nacht wird geschossen. Es klingt wie ein Echo aus <placeName key="43">Spanien</placeName>. Ich bin gespannt, ob sie auch in den Bergen so fleissig sind. Übrigens stört es mich weniger als das Gewäsch in der Zeitung und im Radio, das mir so vorkommt, als hinterlasse es jedesmal Blutspuren an den Wänden.</p>
-        <lb/>
-        <p>Schreiben Sie bald, lieber Herr <persName key="17">Kesten</persName>, und seien Sie beide<note type="com"><persName key="73">Toni Kesten</persName>, <persName key="17">Hermann Kesten</persName></note> herzlichst gegrüsst von uns beiden<note type="com"><persName key="2185">Anna Schickele</persName>, <persName key="1707">René Schickele</persName></note>.</p>
+        <lb/> 
+        <p>Ihre Kinder<note type="com"> Anspielung auf <persName key="17">Hermann Kestens</persName> Roman <name type="wrk" key="2844">Die Kinder von Gernika</name>, an dem er gerade arbeitet.</note> verhungern, daf&#252;r sind Ihnen grosse k&#252;nstlerische Gen&#252;sse gew&#228;hrt. Ich lese es teils in Ihrem Brief f&#252;r den ich mich herzlich bedanke, teils in der Zeitung, die, zu meinem nicht geringen Staunen, von Ihrer Mitwirkung am Penkongress zu berichten wusste. Sie standen da nicht gerade in "Tuchf&#252;hlung" mit unserm grossen <persName key="1889">Lion</persName>, aber doch in seiner n&#228;chsten N&#228;he.</p>
+        <lb/> 
+        <p>Nun, und wie ist es Ihnen bekommen? Ich bin sehr neugierig, von Ihnen einen zuverl&#228;ssigen Bericht &#252;ber das gleichsam &#246;kumenische Konsistorium des GEISTES zu erhalten. Bitte, recht ausf&#252;hrlich!</p>
+        <lb/> 
+        <p>Sollte jedoch die Zeitung ein Mal mehr gelogen haben, so bin ich mir bewusst, um eine Probe grimmigen Kestenschen Humors schm&#228;hlich betrogen zu sein.</p>
+        <lb/> 
+        <p>Wir haben hier einen sch&#246;nen, <hi rend="underline">frischen</hi> Sommer. Trotzdem werden wir demn&#228;chst in die Berge steigen &#8211; und vermutlich frieren. Der Arzt r&#228;t mir seit langem dringend zu einem Klimawechsel, und so benutzen wir die Gelegenheit, die Vater <persName key="2387">Gerson</persName> seiner Tochter <persName key="2072">Eva</persName>, des verfluchten Zunamens Marcu, seiner <persName key="3637">Enkelin</persName> und uns beiden<note type="com"> <persName key="2185">Anna Schickele</persName>, <persName key="1707">Ren&#233; Schickele</persName></note> in Gestalt eines von ihm in der <placeName key="3635">Haute-Savoie</placeName> gemieteten Hauses bietet, wo wir alle in angestrengter Weise der Gesundheit leben, die Damen<note type="com"> <persName key="2072">Eva Marcu</persName>, <persName key="2185">Anna Schickele</persName></note> aber sich in der Wirtschaftsf&#252;hrung <unclear>opfernd sehn</unclear> werden. Dies ist nun einmal ihr (in diesem Fall halbierter) Teil. <persName key="2074">Marcu</persName> der seinen <persName key="2387">Schwiegervater</persName> nicht zu erblicken w&#252;nscht (ein Wunsch, der von diesem inbr&#252;nstig geteilt wird) gedenkt sich inzwischen, d. h. bis zum Abzug des <persName key="2387">Alten</persName>, in <placeName key="18">Paris</placeName> jene xxReserven an k&#246;rperlicher wie geistiger Frische anzuschaffen, die er zur Abfassung seines neuen Buches<note type="com"> <persName key="2074">Valeriu Marcus</persName> letzter Roman <name type="wrk" key="5136">Machiavelli</name> wird Anfang 1937 ver&#246;ffentlicht. Danach arbeitet <persName key="2074">Marcu</persName> an einem <name type="wrk" key="5138">Essay</name> zur milit&#228;rischen Kunst von der Antike bis zur Neuzeit sowie, unter dem Titel <name type="wrk" key="5137">Die Legende des Proletariats</name>, an einer Geschichte der europ&#228;ischen Arbeiterbewegung, die auch autobiographische Z&#252;ge besitzt. Beide Arbeiten bleiben Projekte.<lb/> <lb/> <lb/> (Vgl. Corbea-Hoisie: Valeriu Marcu, S. 331, 336)</note> zu ben&#246;tigen behauptet. Die Vorarbeiten dazu, ich meine: zur Anlage der Reserven <foreign xml:lang="">"dans notre bonne et gentille ville de <placeName key="18">Paris</placeName>"</foreign> sind, wie ich aus gewissen G&#228;ngen zur <orgName key="4862">Hauptpost</orgName> schliessen m&#246;chte, bereits eifrig im Gang.</p>
+        <lb/> 
+        <p><pb/>Den braven <persName key="2282">Theodor</persName> sehe ich selten. So oft es geschieht, weiss er von einer g&#252;nstigen Besprechung seiner ungl&#252;ckseligen <name type="wrk" key="2843">"Schwimmerin"</name> zu berichten &#8211; was, da ich mich &#252;ber den <name type="wrk" key="2843">Roman</name> &#228;usserst skeptisch zu ihm ge&#228;ussert habe, einer Disqualifizierung meines Wahrnehmungsverm&#246;gens gleichkommt. Ich bem&#252;he mich dann immer, ein von Reue heisses Gesicht zu zeigen, worin aber leider ein Rest von rechthaberischem Trotz eingefroren sein muss. Ein pl&#246;tzlicher, misstrauischer Blick <persName key="2282">Theodors</persName> erwischt ihn im Flug, und mit einer m&#252;den Handbewegung: "Na, sprechen wir von was anderm", sagt er, und jetzt, da er es nicht mehr sieht, schmilzt das Restchen Trotz, denn, was er sagte, klang wie ein Seufzer des alten Pan, und bek&#252;mmert wie ein Satyr, der dem schlafenden Weltgreis versehentlich auf die Fl&#246;te trat, sitze ich vor meiner Kaffeetasse und sch&#228;me mich.</p>
+        <lb/> 
+        <p><persName key="1709">Heinrich Mann</persName> sitzt hie und da vor dem <orgName key="3636">"Monnot"</orgName>, still und scheinbar gramvoll, das Ohr zur plaudernden Frau <persName key="2069">Kr&#246;ger</persName> geneigt, den Blick in der Ferne.</p>
+        <lb/> 
+        <p>Tag und Nacht wird geschossen. Es klingt wie ein Echo aus <placeName key="43">Spanien</placeName>. Ich bin gespannt, ob sie auch in den Bergen so fleissig sind. &#220;brigens st&#246;rt es mich weniger als das Gew&#228;sch in der Zeitung und im Radio, das mir so vorkommt, als hinterlasse es jedesmal Blutspuren an den W&#228;nden.</p>
+        <lb/> 
+        <p>Schreiben Sie bald, lieber Herr <persName key="17">Kesten</persName>, und seien Sie beide<note type="com"> <persName key="73">Toni Kesten</persName>, <persName key="17">Hermann Kesten</persName></note> herzlichst gegr&#252;sst von uns beiden<note type="com"> <persName key="2185">Anna Schickele</persName>, <persName key="1707">Ren&#233; Schickele</persName></note>.</p>
       </div>
     </body>
   </text>

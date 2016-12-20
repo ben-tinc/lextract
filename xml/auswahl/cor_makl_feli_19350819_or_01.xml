@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>KM B 344</bibl>
@@ -49,7 +48,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-1006</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Durchschlag auf dem Briefbogen des Querido-Verlags. Der aufgedruckte Briefkopf "Querido Verlag N.V., Amsterdam, Keizersgracht 333, Telefon 45921" wurde auf der ersten Seite durchgestrichen, ebenso die vorgedruckte Jahreszahl "193". Alle vier Briefseiten sind am unteren Ende mit einer handschriftlichen Seitenzahl versehen. Der Brief weist einige handschriftliche Korrekturen und Ergänzungen auf, die Signatur fehlt.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Durchschlag auf dem Briefbogen des Querido-Verlags. Der aufgedruckte Briefkopf "Querido Verlag N.V., Amsterdam, Keizersgracht 333, Telefon 45921" wurde auf der ersten Seite durchgestrichen, ebenso die vorgedruckte Jahreszahl "193". Alle vier Briefseiten sind am unteren Ende mit einer handschriftlichen Seitenzahl versehen. Der Brief weist einige handschriftliche Korrekturen und Erg&#228;nzungen auf, die Signatur fehlt.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -67,6 +66,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -77,32 +77,32 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <graphic n="3" url="cor_makl_feli_19350819_or_04.tif"/>
         </figure>
         <p>den <date type="write">19. VIII. 35.</date></p>
-        <lb/>
+        <lb/> 
         <p>
-          <span type="Anrede" n="Typ F2">Lieber und verehrter Herr Doktor <name role="rec"><persName key="1889">Feuchtwanger</persName></name> –</span>
+          <span type="Anrede" n="Typ F2">Lieber und verehrter Herr Doktor <name role="rec"><persName key="1889">Feuchtwanger</persName></name> &#8211;</span>
         </p>
-        <lb/>
-        <p>seit Wochen fühle ich, dass ich Ihnen einen ausführlichen Brief schulde. Die Auflösung der <name type="per" key="739">"Sammlung"</name> aber bringt sehr viel lästige Korrespondenz, Besprechungen und Scherereien jeder Art mit sich. Für den Brief an Sie wollte ich eine relativ freie Stunde abwarten. Entschuldigen Sie also bitte die Verzögerung.</p>
-        <lb/>
-        <p>Ich darf annehmen, dass Sie vom Schicksal der <name type="per" key="739">Zeitschrift</name> inzwischen schon von dritter Seite gehört haben. Wir hatten uns lange gewehrt. Nicht so sehr meinetwegen, als um der Sache willen – die schliesslich die Sache der literarischen deutschen Emigration ist –, wollte ich das Fiasko, das der <name type="per" key="739">"Sammlung"</name> drohte und das immer näher kam, einfach nicht zulassen. Der <orgName key="1489">Verlag</orgName> als solcher hatte sich an der <name type="per" key="739">Zeitschrift</name> ja schon seit Längerem desinteressiert – wie ich Ihnen in <placeName key="5">Sanary</placeName> wohl erzählt habe. <persName key="2034">Landshoff</persName> und ich waren es, die unter allen Umständen durchhalten wollten. Ich habe seit Monaten meine Arbeit für die <name type="per" key="739">Zeitschrift</name> ohne jede Bezahlung getan. <persName key="2034">Landshoff</persName> seinerseits hat seit langer Zeit einen erheblichen Teil seiner Einnahmen – die, wie Sie sich vorstellen mögen, keineswegs enorm sind – für ein Defizit geopfert, das immer be<pb/>trächtlicher wurde und für das der <orgName key="1489">Verlag</orgName> nicht mehr aufkommen wollte. Dabei durften die Bedürftigen unter unseren Mitarbeitern den schlechten finanziellen Zustand der <name type="per" key="739">Zeitschrift</name> möglichst nicht zu fühlen bekommen: sie wurden weiter regelmässig und pünktlich honoriert.</p>
-        <lb/>
-        <p>Schliesslich setzten wir unsere letzte Hoffnung auf die Erweiterung des <name type="per" key="739">Blattes</name>. Diese war natürlich noch einmal mit erheblichen Unkosten verbunden. Es wurden 30000 neue Prospekte gedruckt und sorgfältig verschickt; es wurden Anzeigen aufgegeben und in allen wichtigen Ländern Kolporteure beauftragt. Das Ergebnis war niederschmetternd. Auf dem <orgName key="1489">Verlag</orgName> sagt man mir, dass insgesamt – 25 neue Abonnenten hinzukamen. Dies musste uns den definitiven Beweis bedeuten, dass eine literarische Monatsrevue unter den heutigen Umständen ohne erhebliche Zuschüsse nicht lebensfähig ist; (eine Erfahrung, die <persName key="1965">Wieland Herzfelde</persName> ja übrigens gleichzeitig macht.)</p>
-        <lb/>
-        <p>Wir müssen also mit dem Schluss des Zweiten Jahrgangs<note type="com">Die <name type="per" key="739">Sammlung</name> stellt ihr Erscheinen mit dem <name type="per" key="5148">12. Heft des zweiten Jahrgangs</name> im August 1935 ein.</note> zunächst einmal ganz Schluss machen. Auch der Vorabdruck<note type="com">Der erste Teil des Vorabdrucks von <persName key="1889">Lion Feuchtwangers</persName> Roman <name type="wrk" key="5141">Die Söhne</name> erscheint im Juni 1935 im  <name type="per" key="5149">zehnten Heft</name> der <name type="per" key="739">Sammlung</name>. Es folgen eine erste und eine zweite Fortsetzung (<name type="per" key="5150">Heft 11</name> und <name type="per" key="5148">Heft 12</name>), danach wird die <name type="per" key="739">Zeitschrift</name> eingestellt.</note> Ihres <name type="wrk" key="5141">Romans</name> wird abgebrochen – und gerade von diesem hatten wir uns so viel versprochen! – Damit wären wir bei dem Punkte, um dessentwillen ich Ihnen vor allem schreibe. Wir haben mit Ihnen für den Vorabdruck des <pb/><name type="wrk" key="5141">Romans</name> eine gewisse Summe ausgemacht. Wir waren zu optimistisch, was die Folgen dieses Vorabdrucks für die <name type="per" key="739">Zeitschrift</name> betrifft. Nun finden wir uns in der ärgsten Situation.</p>
-        <lb/>
-        <p>Es ist kein Geld mehr da. <persName key="2034">Landshoff</persName> ist "ausgeblutet". Die Freunde, die irgend in Anspruch zu nehmen waren, wurden beansprucht. Der <orgName key="1489">Verlag</orgName> ist nicht zuständig und macht uns keine Geschenke. Ich selber besitze keinen Pfennig.</p>
-        <lb/>
-        <p>Das wäre wirklich die denkbar ärgste Situation – wenn ich nicht auf Ihr kameradschaftliches Verständnis rechnen könnte.</p>
-        <lb/>
-        <p>Ich möchte Ihnen, sehr verehrter Herr Doktor <persName key="1889">Feuchtwanger</persName>, nicht zumuten, uns die Kapitel aus Ihrem <name type="wrk" key="5141">Roman</name> ganz umsonst zur Verfügung gestellt zu haben. Mein Vorschlag, für den ich Sie empfänglich hoffe, ist vielmehr der:</p>
-        <lb/>
-        <p>Die <name type="per" key="739">Zeitschrift</name> honoriert Ihnen sofort den Teil des Vorabdrucks, der wirklich bei uns erschienen ist. Das ist, wie ich höre, ein Drittel des Manuskripts, das uns zur Veröffentlichung vorgelegen hat. Das würde also auch ein Drittel der zunächst ausgemachten Summe als Honorar bedeuten – mir scheint: 180 Gulden. Diese würden wir uns mit einer aller-allerletzten Anstrengung gleich verschaffen. Und wären Ihnen dankbar für Ihr Entgegenkommen. – Um dieses würde ich Sie nicht zu bitten wagen, wenn Sie durch <pb/>den Vorabdruck bei uns einen tatsächlichen Verlust erlitten hätten. Es ist mein einziger Trost, dass dem nicht so zu sein scheint. Für einen deutschen Vorabdruck an anderer Stelle hatte man – wie man mir in der Keizersgracht<note type="com">In der <placeName key="4204">Keizersgracht 333</placeName> befindet sich der Sitz des <orgName key="1489">Querido-Verlages</orgName>.</note> versichert – schon alles, und schon alles vergeblich getan, als wir wegen der <name type="per" key="739">"Sammlung"</name> an Sie herantraten; (sonst hätten wir den Mut dazu wohl kaum gehabt.) Aus Rücksicht auf Ihre englischen Vorabdrucke haben wir den Erscheinungstermin in unserer <name type="per" key="739">Zeitschrift</name> länger, als uns lieb war, verzögert. Der Verkauf des <name type="wrk" key="5141">Buches</name> kann durch den Vorabdruck auch nicht geschädigt sein: die 25 Leute werden nicht fehlen. – Ich erwähne diese Umstände nur, um unser "Angebot" zu entschuldigen und Sie für es zu gewinnen.</p>
-        <lb/>
-        <p>Sie werden die grosse Freundlichkeit haben, dies alles in einem guten Sinn zu bedenken und mir gleich eine Antwort zu geben. <persName key="2034">Landshoff</persName> und ich sind sehr beunruhigt und verzweifelt – zunächst schon wegen des harten Schlages, den das Aufhören der <name type="per" key="739">Zeitschrift</name> an sich für uns bedeutet; im Besonderen aber noch Ihretwegen.</p>
-        <lb/>
-        <p>Darf ich Sie, zum Schluss, besonders herzlich darum bitten, dass diese ganze Angelegenheit durchaus zwischen <hi rend="spaced"><hi rend="underline">uns</hi></hi> bleibt? Ich möchte so ungern, dass sie zum Gesprächsstoff der literarischen Zirkel an der <placeName key="3686">Côte d'Azur</placeName> wird...</p>
-        <lb/>
-        <p>Nehmen Sie die herzlichsten und ergebensten Grüsse</p>
+        <lb/> 
+        <p>seit Wochen f&#252;hle ich, dass ich Ihnen einen ausf&#252;hrlichen Brief schulde. Die Aufl&#246;sung der <name type="per" key="739">"Sammlung"</name> aber bringt sehr viel l&#228;stige Korrespondenz, Besprechungen und Scherereien jeder Art mit sich. F&#252;r den Brief an Sie wollte ich eine relativ freie Stunde abwarten. Entschuldigen Sie also bitte die Verz&#246;gerung.</p>
+        <lb/> 
+        <p>Ich darf annehmen, dass Sie vom Schicksal der <name type="per" key="739">Zeitschrift</name> inzwischen schon von dritter Seite geh&#246;rt haben. Wir hatten uns lange gewehrt. Nicht so sehr meinetwegen, als um der Sache willen &#8211; die schliesslich die Sache der literarischen deutschen Emigration ist &#8211;, wollte ich das Fiasko, das der <name type="per" key="739">"Sammlung"</name> drohte und das immer n&#228;her kam, einfach nicht zulassen. Der <orgName key="1489">Verlag</orgName> als solcher hatte sich an der <name type="per" key="739">Zeitschrift</name> ja schon seit L&#228;ngerem desinteressiert &#8211; wie ich Ihnen in <placeName key="5">Sanary</placeName> wohl erz&#228;hlt habe. <persName key="2034">Landshoff</persName> und ich waren es, die unter allen Umst&#228;nden durchhalten wollten. Ich habe seit Monaten meine Arbeit f&#252;r die <name type="per" key="739">Zeitschrift</name> ohne jede Bezahlung getan. <persName key="2034">Landshoff</persName> seinerseits hat seit langer Zeit einen erheblichen Teil seiner Einnahmen &#8211; die, wie Sie sich vorstellen m&#246;gen, keineswegs enorm sind &#8211; f&#252;r ein Defizit geopfert, das immer be<pb/>tr&#228;chtlicher wurde und f&#252;r das der <orgName key="1489">Verlag</orgName> nicht mehr aufkommen wollte. Dabei durften die Bed&#252;rftigen unter unseren Mitarbeitern den schlechten finanziellen Zustand der <name type="per" key="739">Zeitschrift</name> m&#246;glichst nicht zu f&#252;hlen bekommen: sie wurden weiter regelm&#228;ssig und p&#252;nktlich honoriert.</p>
+        <lb/> 
+        <p>Schliesslich setzten wir unsere letzte Hoffnung auf die Erweiterung des <name type="per" key="739">Blattes</name>. Diese war nat&#252;rlich noch einmal mit erheblichen Unkosten verbunden. Es wurden 30000 neue Prospekte gedruckt und sorgf&#228;ltig verschickt; es wurden Anzeigen aufgegeben und in allen wichtigen L&#228;ndern Kolporteure beauftragt. Das Ergebnis war niederschmetternd. Auf dem <orgName key="1489">Verlag</orgName> sagt man mir, dass insgesamt &#8211; 25 neue Abonnenten hinzukamen. Dies musste uns den definitiven Beweis bedeuten, dass eine literarische Monatsrevue unter den heutigen Umst&#228;nden ohne erhebliche Zusch&#252;sse nicht lebensf&#228;hig ist; (eine Erfahrung, die <persName key="1965">Wieland Herzfelde</persName> ja &#252;brigens gleichzeitig macht.)</p>
+        <lb/> 
+        <p>Wir m&#252;ssen also mit dem Schluss des Zweiten Jahrgangs<note type="com"> Die <name type="per" key="739">Sammlung</name> stellt ihr Erscheinen mit dem <name type="per" key="5148">12. Heft des zweiten Jahrgangs</name> im August 1935 ein.</note> zun&#228;chst einmal ganz Schluss machen. Auch der Vorabdruck<note type="com"> Der erste Teil des Vorabdrucks von <persName key="1889">Lion Feuchtwangers</persName> Roman <name type="wrk" key="5141">Die S&#246;hne</name> erscheint im Juni 1935 im  <name type="per" key="5149">zehnten Heft</name> der <name type="per" key="739">Sammlung</name>. Es folgen eine erste und eine zweite Fortsetzung (<name type="per" key="5150">Heft 11</name> und <name type="per" key="5148">Heft 12</name>), danach wird die <name type="per" key="739">Zeitschrift</name> eingestellt.</note> Ihres <name type="wrk" key="5141">Romans</name> wird abgebrochen &#8211; und gerade von diesem hatten wir uns so viel versprochen! &#8211; Damit w&#228;ren wir bei dem Punkte, um dessentwillen ich Ihnen vor allem schreibe. Wir haben mit Ihnen f&#252;r den Vorabdruck des <pb/><name type="wrk" key="5141">Romans</name> eine gewisse Summe ausgemacht. Wir waren zu optimistisch, was die Folgen dieses Vorabdrucks f&#252;r die <name type="per" key="739">Zeitschrift</name> betrifft. Nun finden wir uns in der &#228;rgsten Situation.</p>
+        <lb/> 
+        <p>Es ist kein Geld mehr da. <persName key="2034">Landshoff</persName> ist "ausgeblutet". Die Freunde, die irgend in Anspruch zu nehmen waren, wurden beansprucht. Der <orgName key="1489">Verlag</orgName> ist nicht zust&#228;ndig und macht uns keine Geschenke. Ich selber besitze keinen Pfennig.</p>
+        <lb/> 
+        <p>Das w&#228;re wirklich die denkbar &#228;rgste Situation &#8211; wenn ich nicht auf Ihr kameradschaftliches Verst&#228;ndnis rechnen k&#246;nnte.</p>
+        <lb/> 
+        <p>Ich m&#246;chte Ihnen, sehr verehrter Herr Doktor <persName key="1889">Feuchtwanger</persName>, nicht zumuten, uns die Kapitel aus Ihrem <name type="wrk" key="5141">Roman</name> ganz umsonst zur Verf&#252;gung gestellt zu haben. Mein Vorschlag, f&#252;r den ich Sie empf&#228;nglich hoffe, ist vielmehr der:</p>
+        <lb/> 
+        <p>Die <name type="per" key="739">Zeitschrift</name> honoriert Ihnen sofort den Teil des Vorabdrucks, der wirklich bei uns erschienen ist. Das ist, wie ich h&#246;re, ein Drittel des Manuskripts, das uns zur Ver&#246;ffentlichung vorgelegen hat. Das w&#252;rde also auch ein Drittel der zun&#228;chst ausgemachten Summe als Honorar bedeuten &#8211; mir scheint: 180 Gulden. Diese w&#252;rden wir uns mit einer aller-allerletzten Anstrengung gleich verschaffen. Und w&#228;ren Ihnen dankbar f&#252;r Ihr Entgegenkommen. &#8211; Um dieses w&#252;rde ich Sie nicht zu bitten wagen, wenn Sie durch <pb/>den Vorabdruck bei uns einen tats&#228;chlichen Verlust erlitten h&#228;tten. Es ist mein einziger Trost, dass dem nicht so zu sein scheint. F&#252;r einen deutschen Vorabdruck an anderer Stelle hatte man &#8211; wie man mir in der Keizersgracht<note type="com"> In der <placeName key="4204">Keizersgracht 333</placeName> befindet sich der Sitz des <orgName key="1489">Querido-Verlages</orgName>.</note> versichert &#8211; schon alles, und schon alles vergeblich getan, als wir wegen der <name type="per" key="739">"Sammlung"</name> an Sie herantraten; (sonst h&#228;tten wir den Mut dazu wohl kaum gehabt.) Aus R&#252;cksicht auf Ihre englischen Vorabdrucke haben wir den Erscheinungstermin in unserer <name type="per" key="739">Zeitschrift</name> l&#228;nger, als uns lieb war, verz&#246;gert. Der Verkauf des <name type="wrk" key="5141">Buches</name> kann durch den Vorabdruck auch nicht gesch&#228;digt sein: die 25 Leute werden nicht fehlen. &#8211; Ich erw&#228;hne diese Umst&#228;nde nur, um unser "Angebot" zu entschuldigen und Sie f&#252;r es zu gewinnen.</p>
+        <lb/> 
+        <p>Sie werden die grosse Freundlichkeit haben, dies alles in einem guten Sinn zu bedenken und mir gleich eine Antwort zu geben. <persName key="2034">Landshoff</persName> und ich sind sehr beunruhigt und verzweifelt &#8211; zun&#228;chst schon wegen des harten Schlages, den das Aufh&#246;ren der <name type="per" key="739">Zeitschrift</name> an sich f&#252;r uns bedeutet; im Besonderen aber noch Ihretwegen.</p>
+        <lb/> 
+        <p>Darf ich Sie, zum Schluss, besonders herzlich darum bitten, dass diese ganze Angelegenheit durchaus zwischen <hi rend="spaced"><hi rend="underline">uns</hi></hi> bleibt? Ich m&#246;chte so ungern, dass sie zum Gespr&#228;chsstoff der literarischen Zirkel an der <placeName key="3686">C&#244;te d'Azur</placeName> wird...</p>
+        <lb/> 
+        <p>Nehmen Sie die herzlichsten und ergebensten Gr&#252;sse</p>
       </div>
     </body>
   </text>

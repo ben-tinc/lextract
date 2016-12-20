@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,10 +28,8 @@
         <ab type="paper"/>
         <ab type="language">deutsch</ab>
         <ab type="AF">F1</ab>
-        <ab type="location"><placeName key="73075" type="write" cert="high" evidence="Brieftext"
-            >Saint-Cyr-sur-Mer</placeName></ab>
-        <ab type="date"><date when="1934-12-20" cert="low" evidence="erschlossen"
-          >20.12.1934</date></ab>
+        <ab type="location"><placeName key="73075" type="write" cert="high" evidence="Brieftext">Saint-Cyr-sur-Mer</placeName></ab>
+        <ab type="date"><date when="1934-12-20" cert="low" evidence="erschlossen">20.12.1934</date></ab>
         <ab type="role"><persName key="434" role="aut">Julius Meier-Graefe</persName></ab>
         <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
         <ab type="no">321629</ab>
@@ -51,8 +45,7 @@
     <revisionDesc>
       <change n="transcription">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2013-10-07">7.10.2013</date>, <date when="2014-07-31">31.7.2014</date>, <date
-          when="2014-08-12">12.8.2014</date>
+        <date when="2013-10-07">7.10.2013</date>, <date when="2014-07-31">31.7.2014</date>, <date when="2014-08-12">12.8.2014</date>
       </change>
 
       <change n="collation">
@@ -67,8 +60,7 @@
 
       <change n="collation">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2014-05-20">20.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date
-          when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
+        <date when="2014-05-20">20.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
       </change>
 
       <change n="collation">
@@ -93,6 +85,7 @@
 
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -104,26 +97,20 @@
           <date when="1934-12-20" cert="low">20/XII</date></p>
 
 
-        <p><emph n="salutation">Lieber Herr <persName key="7721" role="rec"
-            >Kracauer</persName></emph>, <persName key="8771">Thomas Mann</persName> ist der
-          prachtvolle Kerl und bereitet einem keine Enttäuschungen. Nun gebe uns der Himmel, daß Ihr
-          Wagnis, der Verzicht auf die normalen Wege, glückt. Ich werde auch <persName key="8771"
-            >Th. M.</persName> ein paar Zeilen schreiben. Wir wünschen Ihnen und Ihrer Frau<note
-            type="reg"><persName key="74110">Kracauer, Elisabeth</persName></note> von Herzen gutes
+        <p><emph n="salutation">Lieber Herr <persName key="7721" role="rec">Kracauer</persName></emph>, <persName key="8771">Thomas Mann</persName> ist der
+          prachtvolle Kerl und bereitet einem keine Entt&#228;uschungen. Nun gebe uns der Himmel, da&#223; Ihr
+          Wagnis, der Verzicht auf die normalen Wege, gl&#252;ckt. Ich werde auch <persName key="8771">Th. M.</persName> ein paar Zeilen schreiben. Wir w&#252;nschen Ihnen und Ihrer Frau<note type="reg"> <persName key="74110">Kracauer, Elisabeth</persName></note> von Herzen gutes
           Fest, soweit man dergleichen heute ohne Wagnis nur
-          wünschen kann. Möge das neue Jahr Sie der Sorgen ein wenig entlasten und Ihnen den Erfolg
-          des Romans<note type="reg"><name type="wrk" key="74424">Georg</name></note> schenken. Der
-          Titel, den Sie in Ihrem vorletzten Brief<note type="intern">Nicht ermittelt.</note> nannten, gefällt mir nicht, weder
+          w&#252;nschen kann. M&#246;ge das neue Jahr Sie der Sorgen ein wenig entlasten und Ihnen den Erfolg
+          des Romans<note type="reg"> <name type="wrk" key="74424">Georg</name></note> schenken. Der
+          Titel, den Sie in Ihrem vorletzten Brief<note type="intern"> Nicht ermittelt.</note> nannten, gef&#228;llt mir nicht, weder
           der Haupttitel "Gesellschaft", noch weniger der Untertitel, aber ich finde keinen.</p>
 
         <p>Hier der ganz belanglose <name type="wrk" key="74623">Louvre-Aufsatz</name>. Das einzig
-          Interessante daran, daß die Redaktion<note type="reg"><name type="per" key="70949"
-              >Frankfurter Zeitung und Handelsblatt</name></note> ihn vier Monate liegen läßt, weil,
+          Interessante daran, da&#223; die Redaktion<note type="reg"> <name type="per" key="70949">Frankfurter Zeitung und Handelsblatt</name></note> ihn vier Monate liegen l&#228;&#223;t, weil,
           wie sie mir schrieb (der gute <persName key="74462">Geck</persName>) die politischen
           schlechten Beziehungen zu <placeName key="48914">Frankreich</placeName> nicht den Druck
-          erlaubten. <foreign n="frz">Deux pays</foreign><note type="reg"
-              ><placeName key="49105">Deutschland</placeName> und <placeName key="48914"
-              >Frankreich</placeName></note>!</p>
+          erlaubten. <foreign n="frz">Deux pays</foreign><note type="reg"> <placeName key="49105">Deutschland</placeName> und <placeName key="48914">Frankreich</placeName></note>!</p>
 
         <p rend="center"><emph n="salute">Herzlich</emph></p>
 

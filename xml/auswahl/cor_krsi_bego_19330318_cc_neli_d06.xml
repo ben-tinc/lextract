@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,10 +29,8 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F3</ab>
-                <ab type="location"><placeName key="49096" type="write" cert="medium"
-                        evidence="Adresszeile">Paris</placeName></ab>
-                <ab type="date"><date when="1933-03-18" cert="high" evidence="Brieftext"
-                        >18.3.1933</date></ab>
+                <ab type="location"><placeName key="49096" type="write" cert="medium" evidence="Adresszeile">Paris</placeName></ab>
+                <ab type="date"><date when="1933-03-18" cert="high" evidence="Brieftext">18.3.1933</date></ab>
                 <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
                 <ab type="role"><persName key="15182" role="rec">Gottfried
                         Bermann-Fischer</persName></ab>
@@ -63,8 +57,7 @@
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2014-08-22">22.8.2014</date>, <date when="2014-09-30">30.9.2014</date>,
-                    <date when="2014-11-17">17.11.2014</date>, <date when="2015-03-26"
-                        >26.3.2015</date>, <date when="2015-04-08">8.4.2015</date>
+                    <date when="2014-11-17">17.11.2014</date>, <date when="2015-03-26">26.3.2015</date>, <date when="2015-04-08">8.4.2015</date>
             </change>
 
             <change n="collation">
@@ -95,6 +88,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -103,43 +97,34 @@
                     <graphic n="1" url="cor_krsi_bego_19330318_cc_01"/>
                 </figure>
 
-                <p>z. Zt. <placeName key="49096" type="write">Paris</placeName> (VI<hi rend="sup"
-                        >e</hi>)<space/>
-                    <date when="1933-03-18" cert="high">18. März 33.</date></p>
+                <p>z. Zt. <placeName key="49096" type="write">Paris</placeName> (VI<hi rend="sup">e</hi>)<space/>
+                    <date when="1933-03-18" cert="high">18. M&#228;rz 33.</date></p>
 
-                <p><orgName key="77149">Hôtel du Navigateur</orgName>,<lb/>49, Quai des Grands
+                <p><orgName key="77149">H&#244;tel du Navigateur</orgName>,<lb/> 49, Quai des Grands
                     Augustins.</p>
 
-                <p><emph n="salutation">Sehr geehrter Herr Dr. <persName key="15182" role="rec"
-                            >Bermann</persName></emph>,</p>
+                <p><emph n="salutation">Sehr geehrter Herr Dr. <persName key="15182" role="rec">Bermann</persName></emph>,</p>
 
-                <p>zunächst möchte ich Sie anfragen, ob Sie noch Interesse für den neuen Roman von
-                        <persName key="77139">André Malraux</persName>: <name type="wrk" key="77140"
-                        >"La condition humaine"</name> haben, über den ich vor mehreren Monaten mit
+                <p>zun&#228;chst m&#246;chte ich Sie anfragen, ob Sie noch Interesse f&#252;r den neuen Roman von
+                        <persName key="77139">Andr&#233; Malraux</persName>: <name type="wrk" key="77140">"La condition humaine"</name> haben, &#252;ber den ich vor mehreren Monaten mit
                     Ihnen sprach. Der <name type="wrk" key="77140">Roman</name> hat im Januarheft
-                    der <name type="per" key="70827">"Nouvelle Revue Franc&#x0327;aise"</name> zu
+                    der <name type="per" key="70827">"Nouvelle Revue Franc&#807;aise"</name> zu
                     erscheinen begonnen und ist dort jetzt bereits in der dritten Fortsetzung
-                    erschienen. Sie werden sich wohl aus diesen bisherigen Veröffentlichungen
+                    erschienen. Sie werden sich wohl aus diesen bisherigen Ver&#246;ffentlichungen
                     unschwer einen Begriff von dem <name type="wrk" key="77140">Werk</name> und
-                    seiner etwaigen Eignung machen können. Wie ich durch <persName key="77139"
-                        >Malraux</persName> erfahre, hat der hiesige Vertreter<note type="intern"
-                        >unbekannt</note> des <orgName key="69272">Rowohltverlages</orgName> mit ihm
-                    über den <name type="wrk" key="77140">Roman</name> unterhandelt; ohne dass es
-                    einstweilen zu einem Abschluss gekommen wäre. Falls Sie das <name type="wrk"
-                        key="77140">Werk</name> überhaupt zu bringen wünschen &#x2013; <persName
-                        key="77139">Malraux</persName> würde die Uebersetzungsrechte meiner
-                        Frau<note type="reg"><persName key="74110">Kracauer,
-                        Elisabeth</persName></note> übertragen &#x2013;, wäre also wohl die baldige
+                    seiner etwaigen Eignung machen k&#246;nnen. Wie ich durch <persName key="77139">Malraux</persName> erfahre, hat der hiesige Vertreter<note type="intern"> unbekannt</note> des <orgName key="69272">Rowohltverlages</orgName> mit ihm
+                    &#252;ber den <name type="wrk" key="77140">Roman</name> unterhandelt; ohne dass es
+                    einstweilen zu einem Abschluss gekommen w&#228;re. Falls Sie das <name type="wrk" key="77140">Werk</name> &#252;berhaupt zu bringen w&#252;nschen &#8211; <persName key="77139">Malraux</persName> w&#252;rde die Uebersetzungsrechte meiner
+                        Frau<note type="reg"> <persName key="74110">Kracauer,
+                        Elisabeth</persName></note> &#252;bertragen &#8211;, w&#228;re also wohl die baldige
                     Aufnahme von Verhandlungen zu empfehlen.</p>
 
-                <p>Ferner füge ich Ihnen gleich die ausgefüllte Bücherkarte bei.</p>
+                <p>Ferner f&#252;ge ich Ihnen gleich die ausgef&#252;llte B&#252;cherkarte bei.</p>
 
-                <p>Schliesslich noch eine Frage: ich habe das Märzheft der <name type="per"
-                        key="71004">Neuen Rundschau</name> nicht erhalten. Könnte ich es nicht
-                    gleich hierher nachgeschickt bekommen? Bisher ging mir die <name type="per"
-                        key="71004">Neue Rundschau</name> immer regelmässig zu.</p>
+                <p>Schliesslich noch eine Frage: ich habe das M&#228;rzheft der <name type="per" key="71004">Neuen Rundschau</name> nicht erhalten. K&#246;nnte ich es nicht
+                    gleich hierher nachgeschickt bekommen? Bisher ging mir die <name type="per" key="71004">Neue Rundschau</name> immer regelm&#228;ssig zu.</p>
 
-                <p><emph n="salute">Mit freundlichen Grüssen<lb/>Ihr ergebener</emph></p>
+                <p><emph n="salute">Mit freundlichen Gr&#252;ssen<lb/> Ihr ergebener</emph></p>
 
 
             </div>

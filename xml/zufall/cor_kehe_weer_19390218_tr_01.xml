@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 2487</bibl>
@@ -44,7 +43,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <persName role="aut" key="17">Kesten, Hermann</persName>
         </ab>
         <ab type="role">
-          <persName role="rec" key="2264">Weiß, Ernst</persName>
+          <persName role="rec" key="2264">Wei&#223;, Ernst</persName>
         </ab>
         <ab type="no">fud-901</ab>
         <ab type="reg"/>
@@ -67,6 +66,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -74,25 +74,25 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <graphic n="0" url="cor_kehe_ween_19390218_tr_01.tif"/>
           <graphic n="1" url="cor_kehe_ween_19390218_tr_02.tif"/>
         </figure>
-        <p><persName key="17">Hermann Kesten</persName>, <orgName key="4276">Villa Paulette</orgName>,<lb/><placeName key="4275">3, Avenue Paderi</placeName>, <placeName key="46">Nice</placeName> (<placeName key="2879">A.M.</placeName>)</p>
-        <lb/>
+        <p><persName key="17">Hermann Kesten</persName>, <orgName key="4276">Villa Paulette</orgName>,<lb/> <placeName key="4275">3, Avenue Paderi</placeName>, <placeName key="46">Nice</placeName> (<placeName key="2879">A.M.</placeName>)</p>
+        <lb/> 
         <p rend="text-align:right">
           <date type="write">18.II.39.</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ F2">Sehr verehrter, lieber Herr Dr. <name role="rec"><persName key="2264">Weiss</persName></name>,</span>
         </p>
-        <lb/>
-        <p>wie geht es Ihnen? Sie baten mich, Ihnen gelegentlich zu berichten, was ich von dem Verlagsunternehmen<note type="com">Seit Mitte 1938 bemüht sich <persName key="1826">Willi Bredel</persName> – neben <persName key="1889">Lion Feuchtwanger</persName> und <persName key="1825">Bertolt Brecht</persName> einer der Herausgeber der Zeitschrift <name type="per" key="771">Das Wort</name> – um die Gründung eines der <name type="per" key="771">Zeitschrift</name> angegliederten Verlages. Dieser sollte als Forum für die Arbeiten kommunistischer, volksfrontnaher, aber auch allgemein antifaschistischer Schriftsteller dienen und war zugleich als Konkurrenz zum <orgName key="1543">Sebastian-Brant-Verlag</orgName> angelegt, dessen Programm von <persName key="2106">Willi Münzenberg</persName> geprägt wurde. Als Unternehmen der in <placeName key="18">Paris</placeName> ansässigen <orgName key="4282">Internationalen Schriftstellervereinigung zur Verteidigung der Kultur</orgName> (ISVK), die dem <orgName key="4283">sowjetischen Schriftstellerverband</orgName> unterstellt war, wird schließlich im Januar 1939 der <orgName key="1068">Verlag 10. Mai</orgName> (Éditions du 10 Mai) offiziell gegründet. Nomineller Verlagsleiter ist <persName key="1783">Louis Aragon</persName>, der Sekretär des <orgName key="4282">ISVK</orgName>. Faktisch geleitet wird der <orgName key="1068">Verlag</orgName> jedoch von <persName key="1826">Bredel</persName>, der in der praktischen Verlagsarbeit maßgeblich von <persName key="2534">Maria Osten</persName> unterstützt wird. Als erster Band des neuen <orgName key="1068">Verlages</orgName> erscheint schon im Januar 1939 <persName key="1709">Heinrich Manns</persName>  Essay-Sammlung <name type="wrk" key="4284">Mut</name>. Denn bereits seit Herbst 1938 hatte <persName key="1826">Bredel</persName> mit einigen Autoren über die Publikation ihrer Werke im neu zu gründenden <orgName key="1068">Verlag</orgName> verhandelt, darunter auch <persName key="2264">Ernst Weiß</persName> und <persName key="17">Hermann Kesten</persName>. In einem Brief vom 10.12.1938 an <persName key="4281">Michael Kolzow</persName> erwähnt <persName key="1826">Bredel</persName> unter anderem <persName key="17">Kestens</persName> Novelle <name type="wrk" key="4189">Die Donaubarke</name>, die ihm bereits im Manuskript vorliege. Mitte Februar 1939, wenige Wochen nach seiner Gründung, ist der <orgName key="1068">Verlag</orgName> jedoch zahlungsunfähig – mittelbar eine Auswirkung der Moskauer Prozesse. Entgegen <persName key="1826">Bredels</persName> Bemühungen für den Erhalt wird am 13.4.1939 der <orgName key="1068">Verlag</orgName> aufgelöst.<lb/><lb/><lb/>(Vgl. Schiller: K-Unglück, S. 181–198)</note> von <persName key="1826">Bredel</persName> und Frau <persName key="2534">Osten</persName> höre, um Ihnen die Wahrheit zu sagen, ich höre seit Ihrem letzten Brief überhaupt nichts mehr. Weiss auch nicht, ob die Zeitschrift <name type="per" key="771">"Das Wort"</name> noch existiert<note type="com">Das letzte Heft der Zeitschrift <name type="per" key="771">Das Wort</name> erscheint im März 1939.<lb/><lb/><lb/>(Vgl. Walter: Exilpresse, S. 502)</note>, deren neue Nummern ich seit <placeName key="18">Paris</placeName> nicht mehr gesehen habe. Wissen Sie, ob mein Artikel<note type="com"><persName key="17">Hermann Kestens</persName><name type="wrk" key="4277">Artikel</name> über <persName key="2264">Ernst Weiß</persName> erscheint, nachdem <name type="per" key="771">Das Wort</name> Ende März 1939 eingestellt wird, im Juni 1939 in der <name type="per" key="690">Internationalen Literatur</name>. In seinem <ref target="fud://903">Brief</ref> vom 26.3.1939 an <persName key="2264">Weiß</persName> geht <persName key="17">Kesten</persName> noch von einem baldigen Abdruck des <name type="wrk" key="4277">Artikels</name> in der Zeitschrift <name type="per" key="771">Das Wort</name> aus.</note> über Sie schon erschienen ist oder überhaupt je noch erscheinen wird? Und die Verlagspläne scheinen wohl auch illusorisch zu sein.</p>
-        <lb/>
-        <p>Lieber Herr Dr. <persName key="2264">Weiss</persName>, ich habe nun meine <name type="wrk" key="4278"><persName key="1961">Heine</persName>-Auswahl</name> abgeliefert, die wie ich Ihnen ja schon erzählte, in der ganzen Tendenz und im Einzelnen anders als die Ihre ist und ich soll nun auch ein kurzes <name type="wrk" key="4285">Nachwort</name> über die Gründe meiner speziellen Auswahl schreiben. Da ich nun wohl mit Recht überzeugt bin, dass Sie weder meinen sehr frechen und subjektiven Geschmack noch auch meinen ebenso frechen wie subjektiven Text teilen und gar etwa mit Ihrem guten Namen zeichnen wollten, frage ich Sie, ob Sie damit einverstanden wären, dass ich das <name type="wrk" key="4285">Nachwort</name> und eventuell auch die <name type="wrk" key="4278">Auswahl</name> mit meinem Namen zeichne. Es wäre sehr reizend von Ihnen, wenn Sie mir gleich Ihre Meinung schreiben wollten.</p>
-        <lb/>
-        <p>Was macht Ihre Arbeit? Wie geht es Ihnen gesundheitlich? Ich habe gegenwärtig viel mit der Lektoratsarbeit zu tun, so dass ich kaum zu meiner eigenen Arbeit komme. Wenigstens entschädigt mich hier das ununterbrochen schöne Wetter. Haben Sie nicht Lust, einmal herunterzukommen? Ich lese in der <name type="per" key="774">"Zukunft"</name>, dass eine englische<pb/> Zeitschrift Ihren <name type="wrk" key="4279">"Armen Verschwender"</name> als den Gipfel der Emigranten-Bellitristik ansah. Sie sehen, wie in der Stille ein echter Wert sich Geltung schafft.</p>
-        <lb/>
-        <p>Was gibt es Neues in <placeName key="18">Paris</placeName>? Lassen Sie bitte bald von sich hören. Ich grüsse Sie schönstens Ihr</p>
+        <lb/> 
+        <p>wie geht es Ihnen? Sie baten mich, Ihnen gelegentlich zu berichten, was ich von dem Verlagsunternehmen<note type="com"> Seit Mitte 1938 bem&#252;ht sich <persName key="1826">Willi Bredel</persName> &#8211; neben <persName key="1889">Lion Feuchtwanger</persName> und <persName key="1825">Bertolt Brecht</persName> einer der Herausgeber der Zeitschrift <name type="per" key="771">Das Wort</name> &#8211; um die Gr&#252;ndung eines der <name type="per" key="771">Zeitschrift</name> angegliederten Verlages. Dieser sollte als Forum f&#252;r die Arbeiten kommunistischer, volksfrontnaher, aber auch allgemein antifaschistischer Schriftsteller dienen und war zugleich als Konkurrenz zum <orgName key="1543">Sebastian-Brant-Verlag</orgName> angelegt, dessen Programm von <persName key="2106">Willi M&#252;nzenberg</persName> gepr&#228;gt wurde. Als Unternehmen der in <placeName key="18">Paris</placeName> ans&#228;ssigen <orgName key="4282">Internationalen Schriftstellervereinigung zur Verteidigung der Kultur</orgName> (ISVK), die dem <orgName key="4283">sowjetischen Schriftstellerverband</orgName> unterstellt war, wird schlie&#223;lich im Januar 1939 der <orgName key="1068">Verlag 10. Mai</orgName> (&#201;ditions du 10 Mai) offiziell gegr&#252;ndet. Nomineller Verlagsleiter ist <persName key="1783">Louis Aragon</persName>, der Sekret&#228;r des <orgName key="4282">ISVK</orgName>. Faktisch geleitet wird der <orgName key="1068">Verlag</orgName> jedoch von <persName key="1826">Bredel</persName>, der in der praktischen Verlagsarbeit ma&#223;geblich von <persName key="2534">Maria Osten</persName> unterst&#252;tzt wird. Als erster Band des neuen <orgName key="1068">Verlages</orgName> erscheint schon im Januar 1939 <persName key="1709">Heinrich Manns</persName>  Essay-Sammlung <name type="wrk" key="4284">Mut</name>. Denn bereits seit Herbst 1938 hatte <persName key="1826">Bredel</persName> mit einigen Autoren &#252;ber die Publikation ihrer Werke im neu zu gr&#252;ndenden <orgName key="1068">Verlag</orgName> verhandelt, darunter auch <persName key="2264">Ernst Wei&#223;</persName> und <persName key="17">Hermann Kesten</persName>. In einem Brief vom 10.12.1938 an <persName key="4281">Michael Kolzow</persName> erw&#228;hnt <persName key="1826">Bredel</persName> unter anderem <persName key="17">Kestens</persName> Novelle <name type="wrk" key="4189">Die Donaubarke</name>, die ihm bereits im Manuskript vorliege. Mitte Februar 1939, wenige Wochen nach seiner Gr&#252;ndung, ist der <orgName key="1068">Verlag</orgName> jedoch zahlungsunf&#228;hig &#8211; mittelbar eine Auswirkung der Moskauer Prozesse. Entgegen <persName key="1826">Bredels</persName> Bem&#252;hungen f&#252;r den Erhalt wird am 13.4.1939 der <orgName key="1068">Verlag</orgName> aufgel&#246;st.<lb/> <lb/> <lb/> (Vgl. Schiller: K-Ungl&#252;ck, S. 181&#8211;198)</note> von <persName key="1826">Bredel</persName> und Frau <persName key="2534">Osten</persName> h&#246;re, um Ihnen die Wahrheit zu sagen, ich h&#246;re seit Ihrem letzten Brief &#252;berhaupt nichts mehr. Weiss auch nicht, ob die Zeitschrift <name type="per" key="771">"Das Wort"</name> noch existiert<note type="com"> Das letzte Heft der Zeitschrift <name type="per" key="771">Das Wort</name> erscheint im M&#228;rz 1939.<lb/> <lb/> <lb/> (Vgl. Walter: Exilpresse, S. 502)</note>, deren neue Nummern ich seit <placeName key="18">Paris</placeName> nicht mehr gesehen habe. Wissen Sie, ob mein Artikel<note type="com"> <persName key="17">Hermann Kestens</persName><name type="wrk" key="4277">Artikel</name> &#252;ber <persName key="2264">Ernst Wei&#223;</persName> erscheint, nachdem <name type="per" key="771">Das Wort</name> Ende M&#228;rz 1939 eingestellt wird, im Juni 1939 in der <name type="per" key="690">Internationalen Literatur</name>. In seinem <ref target="fud://903">Brief</ref> vom 26.3.1939 an <persName key="2264">Wei&#223;</persName> geht <persName key="17">Kesten</persName> noch von einem baldigen Abdruck des <name type="wrk" key="4277">Artikels</name> in der Zeitschrift <name type="per" key="771">Das Wort</name> aus.</note> &#252;ber Sie schon erschienen ist oder &#252;berhaupt je noch erscheinen wird? Und die Verlagspl&#228;ne scheinen wohl auch illusorisch zu sein.</p>
+        <lb/> 
+        <p>Lieber Herr Dr. <persName key="2264">Weiss</persName>, ich habe nun meine <name type="wrk" key="4278"><persName key="1961">Heine</persName>-Auswahl</name> abgeliefert, die wie ich Ihnen ja schon erz&#228;hlte, in der ganzen Tendenz und im Einzelnen anders als die Ihre ist und ich soll nun auch ein kurzes <name type="wrk" key="4285">Nachwort</name> &#252;ber die Gr&#252;nde meiner speziellen Auswahl schreiben. Da ich nun wohl mit Recht &#252;berzeugt bin, dass Sie weder meinen sehr frechen und subjektiven Geschmack noch auch meinen ebenso frechen wie subjektiven Text teilen und gar etwa mit Ihrem guten Namen zeichnen wollten, frage ich Sie, ob Sie damit einverstanden w&#228;ren, dass ich das <name type="wrk" key="4285">Nachwort</name> und eventuell auch die <name type="wrk" key="4278">Auswahl</name> mit meinem Namen zeichne. Es w&#228;re sehr reizend von Ihnen, wenn Sie mir gleich Ihre Meinung schreiben wollten.</p>
+        <lb/> 
+        <p>Was macht Ihre Arbeit? Wie geht es Ihnen gesundheitlich? Ich habe gegenw&#228;rtig viel mit der Lektoratsarbeit zu tun, so dass ich kaum zu meiner eigenen Arbeit komme. Wenigstens entsch&#228;digt mich hier das ununterbrochen sch&#246;ne Wetter. Haben Sie nicht Lust, einmal herunterzukommen? Ich lese in der <name type="per" key="774">"Zukunft"</name>, dass eine englische<pb/> Zeitschrift Ihren <name type="wrk" key="4279">"Armen Verschwender"</name> als den Gipfel der Emigranten-Bellitristik ansah. Sie sehen, wie in der Stille ein echter Wert sich Geltung schafft.</p>
+        <lb/> 
+        <p>Was gibt es Neues in <placeName key="18">Paris</placeName>? Lassen Sie bitte bald von sich h&#246;ren. Ich gr&#252;sse Sie sch&#246;nstens Ihr</p>
       </div>
     </body>
   </text>

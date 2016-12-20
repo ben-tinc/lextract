@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 2259</bibl>
@@ -44,12 +43,12 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <persName role="aut" key="17">Kesten, Hermann</persName>
         </ab>
         <ab type="role">
-          <persName role="rec" key="1707">Schickele, René</persName>
+          <persName role="rec" key="1707">Schickele, Ren&#233;</persName>
         </ab>
         <ab type="no">fud-71</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Durchschlag mit handschriftlichen Korrekturen und Ergänzungen am Zeilenende. Ohne Signatur.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Durchschlag mit handschriftlichen Korrekturen und Erg&#228;nzungen am Zeilenende. Ohne Signatur.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -67,6 +66,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -74,34 +74,34 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <graphic n="0" url="cor_kehe_scre_19381030_cc_01.tif"/>
           <graphic n="1" url="cor_kehe_scre_19381030_cc_02.tif"/>
         </figure>
-        <p><persName key="17">Hermann Kesten</persName><lb/><orgName key="3113">Hotel Vaneau</orgName><lb/><placeName key="3106">85, Rue Vaneau</placeName><lb/><placeName key="18">Paris, 7 e</placeName><lb/>Telephon Littré 25 09</p>
-        <lb/>
+        <p><persName key="17">Hermann Kesten</persName><lb/> <orgName key="3113">Hotel Vaneau</orgName><lb/> <placeName key="3106">85, Rue Vaneau</placeName><lb/> <placeName key="18">Paris, 7 e</placeName><lb/> Telephon Littr&#233; 25 09</p>
+        <lb/> 
         <p>
           <date type="write">30. Oktober 1938.</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ F2">Sehr verehrter und lieber Herr <name role="rec"><persName key="1707">Schickele</persName></name>,</span>
         </p>
-        <lb/>
-        <p>anbei schicke ich Ihnen einen Durchschlag meines <name type="wrk" key="2848">Vorworts</name>. Bei <orgName key="1543">Sebastian Brant</orgName> sagte man mir, dass Ihr <name type="wrk" key="2847">Buch</name> nun bald erscheinen werde. Ich bekomme diese Woche noch Korrekturen des <name type="wrk" key="2848">Vorworts</name>. Wenn Sie also mit irgend einer Stelle darin nicht zufrieden wären, so könnte ich noch wohl aendern.</p>
-        <lb/>
-        <p>Vor paar Tagen sass ich im <orgName key="5039">Café Lutetia</orgName>, gegenüber dem <orgName key="3561">Bonmarché</orgName> und las die Uebersetzung Ihres <name type="wrk" key="2847">Buches</name> von <persName key="1950">Hardekopf</persName>, in seiner Handschrift, da fragte mich ein <persName key="2302">Herr</persName> am Nebentisch plötzlich, auf franzoesisch, ob ich ein Manuskript von <persName key="1707">Schickele</persName> laese. Er hatte, mir ueber die Schulter schielend, und durch den <persName key="1950">Hardekopf</persName> hindurch, an ein paar Zeilen Ihren Stil erkannt. Er erzaehlte mir, er sei ein Elsaesser, habe das <name type="wrk" key="4867">Vorwort</name> von <persName key="2070">Thomas Mann</persName> zu Ihrer <name type="wrk" key="2849">Witwe Bosca</name> ins Franzoesische uebersetzt (wo, erscheint diese <name type="wrk" key="2849">Witwe</name>?) ferner habe er die <name type="wrk" key="99">Babylonische Wanderung</name> v <persName key="109">Doeblins</persName> uebersetzt usw. Seinen Namen verstand ich nicht, wie heisst er, er erzaehlte, er habe Sie jetzt in <placeName key="5">Sanary</placeName> getroffen, und er sei Stammgast im <orgName key="5039">Lutetia</orgName>, wo ich ihn wiedertreffen koennte. Wer ist es?</p>
-        <lb/>
-        <p>Ich habe, wie alle Welt, schlimme Wochen hinter mir. Ich fürchte den Krieg und diesen Frieden, verabscheue dieses neue <placeName key="40">Europa</placeName> und haenge am alten Erdteil, moechte fliehen und habe weder Papier noch Geld. Kurz, man kennt die alte Leier. Obendrein hatte ich noch besondern Aerger, sozusagen ueberfluessigen, als ob der andere notwendig gewesen waere! <persName key="71">Landauer</persName> hatte den sinnigen Einfall, meinen neusten Roman <name type="wrk" key="2844">"Die Kinder von Gernika"</name>, in <placeName key="3117">Maehrisch-Ostrau</placeName> drucken zu lassen, das liegt in diesem Finger, der noch tschechisch blieb, aber ringsum sind die Deutschen und Polen einmarschiert, und alle Bahn- und Postverbindung ist seit langem futsch. <pb/>Aber heute schrieb mir <persName key="71">Landauer</persName>, dass das <name type="wrk" key="2844">Buch</name> nun doch ausgedruckt und bald gebunden sei, und nun wird es also die viele Wochen lange Reise in den Westen und in die <placeName key="108">Schweiz</placeName> antreten koennen, wenn nicht neue Schwierigkeiten oder verlorene Kriege dazwischentreten.</p>
-        <lb/>
-        <p>In einer Nacht sassen schon <persName key="2034">Landshoff</persName> und <persName key="71">Landauer</persName> und ich in <placeName key="2783">Amsterdam</placeName> beisammen, und besprachen, was wir tun wuerden, wenn am Morgen die Deutschen durch <placeName key="2783">Amsterdam</placeName> marschierten; die Hollaender versprechen naemlich, sie wuerden die sieben Provinzen oder die dreizehn ersaeufen, aber es ist kein Verlass mehr auf sie. Kein Prinz von Oranien<note type="com">Gemeint ist vermutlich <persName key="4866">Wilhelm III.</persName>, König der <placeName key="2782">Niederlande</placeName>, der bis zu seiner Regentschaft den Titel Prinz von Oranien trug. Nach seinem Tod im Jahr 1890 folgte ihm seine Tochter <persName key="2272">Wilhelmina</persName> auf den Thron. Diese wiederum wurde 1948 von ihrer Tochter <persName key="4025">Juliana</persName> beerbt.</note> wacht mehr, sondern ein lippischer Prinz<note type="com">Gemeint ist <persName key="4865">Bernhard von Lippe-Biesterfeld</persName>. Im Januar 1937 hatte er <persName key="4025">Juliana</persName>, die spätere Königin der <placeName key="2782">Niederlande</placeName>, geheiratet und war somit zukünftiger Prinz der <placeName key="2782">Niederlande</placeName>.</note> aus der schlechtesten Linie, mit homosexuellen Tennisspielern verwandt, ein ehemaliger <orgName key="1532">SS</orgName>-Mann.</p>
-        <lb/>
+        <lb/> 
+        <p>anbei schicke ich Ihnen einen Durchschlag meines <name type="wrk" key="2848">Vorworts</name>. Bei <orgName key="1543">Sebastian Brant</orgName> sagte man mir, dass Ihr <name type="wrk" key="2847">Buch</name> nun bald erscheinen werde. Ich bekomme diese Woche noch Korrekturen des <name type="wrk" key="2848">Vorworts</name>. Wenn Sie also mit irgend einer Stelle darin nicht zufrieden w&#228;ren, so k&#246;nnte ich noch wohl aendern.</p>
+        <lb/> 
+        <p>Vor paar Tagen sass ich im <orgName key="5039">Caf&#233; Lutetia</orgName>, gegen&#252;ber dem <orgName key="3561">Bonmarch&#233;</orgName> und las die Uebersetzung Ihres <name type="wrk" key="2847">Buches</name> von <persName key="1950">Hardekopf</persName>, in seiner Handschrift, da fragte mich ein <persName key="2302">Herr</persName> am Nebentisch pl&#246;tzlich, auf franzoesisch, ob ich ein Manuskript von <persName key="1707">Schickele</persName> laese. Er hatte, mir ueber die Schulter schielend, und durch den <persName key="1950">Hardekopf</persName> hindurch, an ein paar Zeilen Ihren Stil erkannt. Er erzaehlte mir, er sei ein Elsaesser, habe das <name type="wrk" key="4867">Vorwort</name> von <persName key="2070">Thomas Mann</persName> zu Ihrer <name type="wrk" key="2849">Witwe Bosca</name> ins Franzoesische uebersetzt (wo, erscheint diese <name type="wrk" key="2849">Witwe</name>?) ferner habe er die <name type="wrk" key="99">Babylonische Wanderung</name> v <persName key="109">Doeblins</persName> uebersetzt usw. Seinen Namen verstand ich nicht, wie heisst er, er erzaehlte, er habe Sie jetzt in <placeName key="5">Sanary</placeName> getroffen, und er sei Stammgast im <orgName key="5039">Lutetia</orgName>, wo ich ihn wiedertreffen koennte. Wer ist es?</p>
+        <lb/> 
+        <p>Ich habe, wie alle Welt, schlimme Wochen hinter mir. Ich f&#252;rchte den Krieg und diesen Frieden, verabscheue dieses neue <placeName key="40">Europa</placeName> und haenge am alten Erdteil, moechte fliehen und habe weder Papier noch Geld. Kurz, man kennt die alte Leier. Obendrein hatte ich noch besondern Aerger, sozusagen ueberfluessigen, als ob der andere notwendig gewesen waere! <persName key="71">Landauer</persName> hatte den sinnigen Einfall, meinen neusten Roman <name type="wrk" key="2844">"Die Kinder von Gernika"</name>, in <placeName key="3117">Maehrisch-Ostrau</placeName> drucken zu lassen, das liegt in diesem Finger, der noch tschechisch blieb, aber ringsum sind die Deutschen und Polen einmarschiert, und alle Bahn- und Postverbindung ist seit langem futsch. <pb/>Aber heute schrieb mir <persName key="71">Landauer</persName>, dass das <name type="wrk" key="2844">Buch</name> nun doch ausgedruckt und bald gebunden sei, und nun wird es also die viele Wochen lange Reise in den Westen und in die <placeName key="108">Schweiz</placeName> antreten koennen, wenn nicht neue Schwierigkeiten oder verlorene Kriege dazwischentreten.</p>
+        <lb/> 
+        <p>In einer Nacht sassen schon <persName key="2034">Landshoff</persName> und <persName key="71">Landauer</persName> und ich in <placeName key="2783">Amsterdam</placeName> beisammen, und besprachen, was wir tun wuerden, wenn am Morgen die Deutschen durch <placeName key="2783">Amsterdam</placeName> marschierten; die Hollaender versprechen naemlich, sie wuerden die sieben Provinzen oder die dreizehn ersaeufen, aber es ist kein Verlass mehr auf sie. Kein Prinz von Oranien<note type="com"> Gemeint ist vermutlich <persName key="4866">Wilhelm III.</persName>, K&#246;nig der <placeName key="2782">Niederlande</placeName>, der bis zu seiner Regentschaft den Titel Prinz von Oranien trug. Nach seinem Tod im Jahr 1890 folgte ihm seine Tochter <persName key="2272">Wilhelmina</persName> auf den Thron. Diese wiederum wurde 1948 von ihrer Tochter <persName key="4025">Juliana</persName> beerbt.</note> wacht mehr, sondern ein lippischer Prinz<note type="com"> Gemeint ist <persName key="4865">Bernhard von Lippe-Biesterfeld</persName>. Im Januar 1937 hatte er <persName key="4025">Juliana</persName>, die sp&#228;tere K&#246;nigin der <placeName key="2782">Niederlande</placeName>, geheiratet und war somit zuk&#252;nftiger Prinz der <placeName key="2782">Niederlande</placeName>.</note> aus der schlechtesten Linie, mit homosexuellen Tennisspielern verwandt, ein ehemaliger <orgName key="1532">SS</orgName>-Mann.</p>
+        <lb/> 
         <p>Und wie geht es Ihnen in <placeName key="3664">Vence</placeName>? Wir moechten teils nach <placeName key="3663">Oslo</placeName>, wohin man uns nicht hereinlaesst, teils nach <placeName key="46">Nice</placeName>, was Geld kostet. Wenn es Leute mit Autos gaebe, die uns abholten, das waere fein! Aber wo gibt es noch Leute!</p>
-        <lb/>
-        <p>Aber ich glaube doch, dass wir im Dezember in den Sueden<note type="com">Die französiche Mittelmeerküste um <placeName key="46">Nizza</placeName>.</note> kommen werden. Ich werde sehr froh sein, Sie wiederzusehen und mit Ihnen im Café lange Kunstgespraeche zu fuehren.</p>
-        <lb/>
+        <lb/> 
+        <p>Aber ich glaube doch, dass wir im Dezember in den Sueden<note type="com"> Die franz&#246;siche Mittelmeerk&#252;ste um <placeName key="46">Nizza</placeName>.</note> kommen werden. Ich werde sehr froh sein, Sie wiederzusehen und mit Ihnen im Caf&#233; lange Kunstgespraeche zu fuehren.</p>
+        <lb/> 
         <p>Bitte schreiben Sie mir eine Zeile, ob ich etwas im <name type="wrk" key="2848">Vorwort</name> aendern sollte.</p>
-        <lb/>
+        <lb/> 
         <p>Mit den herzlichsten Gruessen an Ihre liebe <persName key="2185">Frau</persName> und Sie</p>
-        <lb/>
+        <lb/> 
         <p rend="text-align:right">stets Ihr</p>
       </div>
     </body>

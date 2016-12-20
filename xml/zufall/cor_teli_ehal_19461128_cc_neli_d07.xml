@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,7 +15,7 @@
             </publicationStmt>
             <sourceDesc>
                 <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
-                <p><bibl>A:Kläber</bibl></p>
+                <p><bibl>A:Kl&#228;ber</bibl></p>
 
 
                 <ab type="copyright"><persName key="78491">Christiane Dornheim-Tetzner</persName></ab>
@@ -33,10 +29,8 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F1</ab>
-                <ab type="location"><placeName key="75550" type="write" cert="high"
-                        evidence="Brieftext">Carona</placeName></ab>
-                <ab type="date"><date when="1946-11-28" cert="high" evidence="Brieftext"
-                        >28.11.1946</date></ab>
+                <ab type="location"><placeName key="75550" type="write" cert="high" evidence="Brieftext">Carona</placeName></ab>
+                <ab type="date"><date when="1946-11-28" cert="high" evidence="Brieftext">28.11.1946</date></ab>
                 <ab type="role"><persName key="8154" role="aut">Lisa Tetzner</persName></ab>
                 <ab type="role"><persName key="12472" role="rec">Albert Ehrenstein</persName></ab>
                 <ab type="no">323383</ab>
@@ -60,8 +54,7 @@
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2014-06-06">6.6.2014</date>, <date when="2014-10-10">10.10.2014</date>,
-                    <date when="2014-11-24">24.11.2014</date>, <date when="2014-05-07"
-                    >7.5.2014</date>
+                    <date when="2014-11-24">24.11.2014</date>, <date when="2014-05-07">7.5.2014</date>
             </change>
 
             <change n="collation">
@@ -92,6 +85,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -100,28 +94,23 @@
                     <graphic n="1" url="cor_teli_ehal_19461128_cc_01"/>
                 </figure>
 
-                <p>Dr. A. Ehrenstein. <placeName key="49021">New York</placeName> 25<lb/>60 west /
+                <p>Dr. A. Ehrenstein. <placeName key="49021">New York</placeName> 25<lb/> 60 west /
                     94 th street.</p>
 
-                <p rend="right"><placeName key="75550" type="write">Carona</placeName> den <date
-                        when="1946-11-28" cert="high">28.11.46.</date></p>
+                <p rend="right"><placeName key="75550" type="write">Carona</placeName> den <date when="1946-11-28" cert="high">28.11.46.</date></p>
 
-                <p><emph n="salutation">Lieber <persName key="12472" role="rec"
-                            >Ehrenstein</persName></emph>,</p>
+                <p><emph n="salutation">Lieber <persName key="12472" role="rec">Ehrenstein</persName></emph>,</p>
 
-                <p>schoenen Dank fuer Ihren Brief<note type="intern">Nicht ermittelt.</note>. Ich
-                    antworte Ihnen gleich, weil ich morgen fuer einige Tage nach <placeName
-                        key="49284">Basel</placeName> gehe um der Weltgeschichte wieder einmal etwas
-                    naeher zu sein. Es ist an sich furchtbar, was man täglich sieht und hoert, und
+                <p>schoenen Dank fuer Ihren Brief<note type="intern"> Nicht ermittelt.</note>. Ich
+                    antworte Ihnen gleich, weil ich morgen fuer einige Tage nach <placeName key="49284">Basel</placeName> gehe um der Weltgeschichte wieder einmal etwas
+                    naeher zu sein. Es ist an sich furchtbar, was man t&#228;glich sieht und hoert, und
                     es ist so beunruhigend, dass das Herz und auch der Kopf kaum noch zur Ruhe
                     kommt. Bald beneiden wir sie um <placeName key="49021">New York</placeName>,
-                    wenn wahrscheinlich <placeName key="50085">Chile</placeName> oder <placeName
-                        key="76066">Alaska</placeName> noch besser ist. Wir stecken tatsaechlich
+                    wenn wahrscheinlich <placeName key="50085">Chile</placeName> oder <placeName key="76066">Alaska</placeName> noch besser ist. Wir stecken tatsaechlich
                     erst ganz im Anfang der schweren Zeit. Ich rechne noch mit mindestens 5 Jahre
                     bis wir den jetzigen Tiefstand ueberwunden haben, und noch mit weiteren 5
-                    Jahren, bis wir uns langssm davon erholen. Ich traure nicht weiter um <placeName
-                        key="49105">Deutschland</placeName>, diese Dinge haben Zeit, obwohl sie auch
-                    furchtbar sind, meine trauer gilt vor allen den kleinen Länder wo man zwar
+                    Jahren, bis wir uns langssm davon erholen. Ich traure nicht weiter um <placeName key="49105">Deutschland</placeName>, diese Dinge haben Zeit, obwohl sie auch
+                    furchtbar sind, meine trauer gilt vor allen den kleinen L&#228;nder wo man zwar
                     ueberall bereits wieder die besten Uniformen fuer die Soldaten un und Millionen
                     fuer Aeroplane und Tanks hat, aber keinen roten Rappen fuer Milch, oder
                     Kinderkleider. Ach, es ist ein Jammer, diese verfaulte menschliche Gesellschaft.
@@ -131,8 +120,8 @@
                     Nein, das Zeugnis muss man ihnen schon ausstellen. Immerhin bezahlen sie auch
                     fuer Arbeit und geben den Leuten die arbeiten muessen genuegend zu essen.
                     Schlimm ist bei den Russen das gesitige Niveau. Was ich zur Zeit bekomme ist
-                    selbst für einen Kindergarten zu nierdig. Gedichte. Geschichten, Märchen. Ihnen
-                    würden sich alle Haare schon beim lesen straeuben. Noch grausiger ist von hier
+                    selbst f&#252;r einen Kindergarten zu nierdig. Gedichte. Geschichten, M&#228;rchen. Ihnen
+                    w&#252;rden sich alle Haare schon beim lesen straeuben. Noch grausiger ist von hier
                     die Tatsache, dass man fuer den Krieg alles, dass man fuer den Frieden nichts
                     mobilisieren kann. Es fehlt Kohle, Zement, Baumwolle, Eisen, kurz es fehlt
                     alles. Es fehlt das Werkzeug um den Schutt wegzuraeumen. Ja, man ist heute noch
@@ -147,8 +136,7 @@
                     die Alliierten tuen es. Ein General bleint fuer die Leute eben ein General und
                     ein Straefling ein Straefling. Toll wie auch dir Kirche jetzt alle Nazis als
                     ihre Schaefchens sammelt. Diese Parteilen schwellen an, als ob sie geschwaengert
-                    waeren, aber von was. Denken Sie noch an den kleinen Mueller.<note type="intern"
-                        >Nicht ermittelt.</note> Er schrieb gestern auch recht verzweifelt aus
+                    waeren, aber von was. Denken Sie noch an den kleinen Mueller.<note type="intern"> Nicht ermittelt.</note> Er schrieb gestern auch recht verzweifelt aus
                         <placeName key="49025">Berlin</placeName>. Er hofft, dass er bald wieder
                     emigrieren kann. Die Sucht der Deutschen (auch der deutschen Arbeiter) nach
                     Besitz und Kleinburgertum waere einfach nicht aufzuhalten! Natuerlich waren die
@@ -159,16 +147,11 @@
                     bleibt nur weiter ein grosses Raetsel. Nun, Sie kennen ja unsere Eidgenossen in
                     diesen Dingen. Augenblicklich verte teilen wacker Zensuren an die ganze Welt,
                     werfen sich in die Brust und sagen, jeder hat eben bekommen was er verdient hat.
-                    Dabei pilgern sie täglich zu Tausenden nach <placeName key="48900"
-                        >Italien</placeName> und schoepfen dort das letzte Fett ab, dass in Schuhen,
-                    Pelsen, Kleidern und aehnlichen Dingen besteht. Ja, so sind wir. Aus <placeName
-                        key="51109">Ascona</placeName> hören wir sond wenig. Wir wollten zweimla zu
-                    Frau Meyer<note type="com" cert="high">Wahrscheinlich <persName
-                            key="75332">Auguste Mayer</persName>.</note>, einmal war ich krank,
-                    einmal hatten wir kein Geld. Jetzt werden wir wohl in <placeName key="49153"
-                        >Zuerich</placeName> einmal nach Ihr sehen. Wann kommen Sie übrigens wieder?
-                    Wir hoffen es doch noch zu erleben. Bitte den Brief<note type="intern"
-                        >Nicht ermittelt.</note> an <persName key="5235">Victor</persName>. Er hatte seine
+                    Dabei pilgern sie t&#228;glich zu Tausenden nach <placeName key="48900">Italien</placeName> und schoepfen dort das letzte Fett ab, dass in Schuhen,
+                    Pelsen, Kleidern und aehnlichen Dingen besteht. Ja, so sind wir. Aus <placeName key="51109">Ascona</placeName> h&#246;ren wir sond wenig. Wir wollten zweimla zu
+                    Frau Meyer<note type="com" cert="high"> Wahrscheinlich <persName key="75332">Auguste Mayer</persName>.</note>, einmal war ich krank,
+                    einmal hatten wir kein Geld. Jetzt werden wir wohl in <placeName key="49153">Zuerich</placeName> einmal nach Ihr sehen. Wann kommen Sie &#252;brigens wieder?
+                    Wir hoffen es doch noch zu erleben. Bitte den Brief<note type="intern"> Nicht ermittelt.</note> an <persName key="5235">Victor</persName>. Er hatte seine
                     Adresse vergessen und ich finde sie nicht mehr. <emph n="salute">Noch alles
                         Gute</emph></p>
 

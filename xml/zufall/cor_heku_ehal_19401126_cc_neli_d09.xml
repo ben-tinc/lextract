@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +15,7 @@
       </publicationStmt>
       <sourceDesc>
         <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
-        <p><bibl>A:Kläber</bibl></p>
+        <p><bibl>A:Kl&#228;ber</bibl></p>
 
 
 
@@ -34,10 +30,8 @@
         <ab type="paper"/>
         <ab type="language">deutsch</ab>
         <ab type="PA">F1</ab>
-        <ab type="location"><placeName key="75336" type="write" cert="high" evidence="Brieftext"
-            >Massagno</placeName></ab>
-        <ab type="date"><date when="1940-11-26" cert="high" evidence="Brieftext"
-          >26.11.1940</date></ab>
+        <ab type="location"><placeName key="75336" type="write" cert="high" evidence="Brieftext">Massagno</placeName></ab>
+        <ab type="date"><date when="1940-11-26" cert="high" evidence="Brieftext">26.11.1940</date></ab>
         <ab type="role"><persName key="8427" role="aut">Kurt Held</persName></ab>
         <ab type="role"><persName key="12472" role="rec">Albert Ehrenstein</persName></ab>
         <ab type="no">322691</ab>
@@ -60,17 +54,12 @@
 
       <change n="collation">
         <persName key="71921">Angelika Kreh</persName>
-        <date when="2014-03-19">19.3.2014</date>, <date when="2014-03-24">24.3.2014</date>, <date
-          when="2014-04-04">4.4.2014</date>, <date when="2014-04-15">15.4.2014</date>, <date
-          when="2014-04-29">29.4.2014</date>, <date when="2014-05-07">7.5.2014</date>
+        <date when="2014-03-19">19.3.2014</date>, <date when="2014-03-24">24.3.2014</date>, <date when="2014-04-04">4.4.2014</date>, <date when="2014-04-15">15.4.2014</date>, <date when="2014-04-29">29.4.2014</date>, <date when="2014-05-07">7.5.2014</date>
       </change>
 
       <change n="collation">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2014-04-02">2.4.2014</date>, <date when="2014-04-11">11.4.2014</date>, <date
-          when="2014-04-16">16.4.2014</date>, <date when="2014-04-30">30.4.2014</date>, <date
-          when="2014-05-21">21.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date
-          when="2014-11-24">24.11.2014</date>, <date when="2015-04-07">7.4.2015</date>
+        <date when="2014-04-02">2.4.2014</date>, <date when="2014-04-11">11.4.2014</date>, <date when="2014-04-16">16.4.2014</date>, <date when="2014-04-30">30.4.2014</date>, <date when="2014-05-21">21.5.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>, <date when="2015-04-07">7.4.2015</date>
       </change>
 
       <change n="collation">
@@ -96,6 +85,7 @@
 
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -104,38 +94,30 @@
           <graphic n="1" url="cor_heku_ehal_19401126_cc_01"/>
         </figure>
 
-        <p rend="right"><placeName key="75336" type="write">Massagno</placeName> den <date
-            when="1940-11-26" cert="high">26. November 40.</date></p>
+        <p rend="right"><placeName key="75336" type="write">Massagno</placeName> den <date when="1940-11-26" cert="high">26. November 40.</date></p>
 
 
         <p><emph n="salutation">Lieber <persName key="12472" role="rec">Albert
             Ehrenstein</persName></emph>,</p>
 
         <p>Wegen <persName key="8093">Brechts</persName> Adresse wenden Sie sich doch bitte an
-          Fraeulein <persName key="75337">Drittenbass</persName>/<placeName key="49153"
-            >Zuerich</placeName> 7/Streulistrasse 12. Ich habe die meine in <placeName key="75550"
-            >Carona</placeName>. Sie wird sie Ihnen gern geben, und kann Ihnen vielleicht auch sonst
+          Fraeulein <persName key="75337">Drittenbass</persName>/<placeName key="49153">Zuerich</placeName> 7/Streulistrasse 12. Ich habe die meine in <placeName key="75550">Carona</placeName>. Sie wird sie Ihnen gern geben, und kann Ihnen vielleicht auch sonst
           bei Ihrer Arbeit helfen.</p>
 
-        <p>Ich waere Ihnen nun sehr dankbar, wenn Sie etwas fuer <persName key="329"
-            >Friedlaender</persName> machen koennten. Ich glaube der <persName key="329"
-            >Mann</persName> hat auch Buecher geschrieben und seine jetzige Verlassenheit muss
+        <p>Ich waere Ihnen nun sehr dankbar, wenn Sie etwas fuer <persName key="329">Friedlaender</persName> machen koennten. Ich glaube der <persName key="329">Mann</persName> hat auch Buecher geschrieben und seine jetzige Verlassenheit muss
           belohnt werden. Koennen Sie sich vorstellen, dass die St..inisten dieses Lagers, schon
           wissen dass der <persName key="329">Mann</persName> an mich geschrieben hat, und man mich
           schon warnte ihn zu helfen?!</p>
 
         <p>Ja, darin sind die Leute auch heute noch gross.</p>
 
-        <p>Meine Frau<note type="reg"><persName key="8154">Tetzner, Lisa</persName></note> schrieb
+        <p>Meine Frau<note type="reg"> <persName key="8154">Tetzner, Lisa</persName></note> schrieb
           mir nun, dass die Frau <persName key="75339">Dudow</persName> bei Ihnen war. Ich sagte den
-          Leuten schon hier, sie sollten sich doch einmal direkt an <persName key="75333"
-            >Meyer</persName>, oder ueber Sie an <persName key="75333">Meyer</persName>, nun scheint
+          Leuten schon hier, sie sollten sich doch einmal direkt an <persName key="75333">Meyer</persName>, oder ueber Sie an <persName key="75333">Meyer</persName>, nun scheint
           es ja geklappt zu haben. Obwohl ich hier alles fuer die Leute getan habe, was sich
           ueberhaupt tun liess, verfolgt mich die <persName key="75339">Frau</persName> mit einer
           ganz schlimmen Art von Klatsch. Wahrscheinlich kommt es daher, weil ich bei den
-            Beiden<note type="reg"><persName key="75333">Mayer, Bernhard</persName> und <persName
-              key="75332">Mayer, Auguste</persName></note>, wie im Fall Peter<note type="reg"
-              ><persName key="75340">Bihalji-Merin, Oto</persName></note>, der Meinung bin, dass sie
+            Beiden<note type="reg"> <persName key="75333">Mayer, Bernhard</persName> und <persName key="75332">Mayer, Auguste</persName></note>, wie im Fall Peter<note type="reg"> <persName key="75340">Bihalji-Merin, Oto</persName></note>, der Meinung bin, dass sie
           in ihrem Vaterland besser aufgehoben sind als hier (Wirtschaftlich und auch politisch.)
           und ihnen das auch gesagt habe.</p>
 
@@ -144,11 +126,10 @@
           wo Sie doch geneigt waeren zu glauben, erst rueckzufragen. Ja, wir leben in einer schoenen
           Welt.</p>
 
-        <p>Ich wollte schon zweimal von ihnen wissen wo Muellers<note type="com" cert="high">Nicht
+        <p>Ich wollte schon zweimal von ihnen wissen wo Muellers<note type="com" cert="high"> Nicht
             ermittelt.</note> sind und ihre Adresse. Bekomme ich sie diesmal. Ich hatte mich auch
           schon gefreut, Sie in <placeName key="49153">Zuerich</placeName> zu sehen, aber nun wird
-          leider nichts aus der Reise, sagen Sie das bitte auch Fraeulein <persName key="75337"
-            >Drittenbass</persName></p>
+          leider nichts aus der Reise, sagen Sie das bitte auch Fraeulein <persName key="75337">Drittenbass</persName></p>
 
         <p rend="right"><emph n="salute">mit den herzlichsten Gruessem</emph></p>
 

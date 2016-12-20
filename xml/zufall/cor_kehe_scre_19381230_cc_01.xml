@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 2259</bibl>
@@ -44,7 +43,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <persName role="aut" key="17">Kesten, Hermann</persName>
         </ab>
         <ab type="role">
-          <persName role="rec" key="1707">Schickele, René</persName>
+          <persName role="rec" key="1707">Schickele, Ren&#233;</persName>
         </ab>
         <ab type="no">fud-879</ab>
         <ab type="reg"/>
@@ -67,27 +66,28 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
         <figure>
           <graphic n="0" url="cor_kehe_scre_19381230_cc_01.tif"/>
         </figure>
-        <p><persName key="17">Hermann Kesten</persName>,<lb/><placeName key="3106">85, rue Vaneau</placeName>, <placeName key="18">Paris VIIe</placeName></p>
-        <lb/>
+        <p><persName key="17">Hermann Kesten</persName>,<lb/> <placeName key="3106">85, rue Vaneau</placeName>, <placeName key="18">Paris VIIe</placeName></p>
+        <lb/> 
         <p rend="text-align:right">
           <date type="write">30.XII.38.</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ F1">Lieber Herr <name role="rec"><persName key="1707">Schickele</persName></name>,</span>
         </p>
-        <lb/>
-        <p>schönsten Dank für Ihr liebes Telegramm, dessen freundschaftlicher Lakonismus mich sehr gefreut hat. Wir hoffen, Mitte Januar in <placeName key="46">Nice</placeName> zu sein und freuen uns sehr, Ihre liebe <persName key="2185">Frau</persName> und Sie wiederzusehen. Inzwischen wünschen wir Ihnen beiden<note type="com"><persName key="2185">Anna Schickele</persName>, <persName key="1707">René Schickele</persName></note> aufs Allerherzlichste ein gutes neues Jahr, Gesundheit, Glück, Erfolg, viel Geld und Frieden.</p>
-        <lb/>
-        <p rend="text-align:center">Mitden schönsten Grüssen Ihr sehr ergebener</p>
+        <lb/> 
+        <p>sch&#246;nsten Dank f&#252;r Ihr liebes Telegramm, dessen freundschaftlicher Lakonismus mich sehr gefreut hat. Wir hoffen, Mitte Januar in <placeName key="46">Nice</placeName> zu sein und freuen uns sehr, Ihre liebe <persName key="2185">Frau</persName> und Sie wiederzusehen. Inzwischen w&#252;nschen wir Ihnen beiden<note type="com"> <persName key="2185">Anna Schickele</persName>, <persName key="1707">Ren&#233; Schickele</persName></note> aufs Allerherzlichste ein gutes neues Jahr, Gesundheit, Gl&#252;ck, Erfolg, viel Geld und Frieden.</p>
+        <lb/> 
+        <p rend="text-align:center">Mitden sch&#246;nsten Gr&#252;ssen Ihr sehr ergebener</p>
       </div>
     </body>
   </text>

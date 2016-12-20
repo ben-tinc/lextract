@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,10 +28,8 @@
         <ab type="paper"/>
         <ab type="language">deutsch</ab>
         <ab type="AF">F1</ab>
-        <ab type="location"><placeName key="73075" type="write" cert="high" evidence="Brieftext"
-            >Saint-Cyr-sur-Mer</placeName></ab>
-        <ab type="date"><date when="1933-02-14" cert="low" evidence="erschlossen"
-          >14.2.1933</date></ab>
+        <ab type="location"><placeName key="73075" type="write" cert="high" evidence="Brieftext">Saint-Cyr-sur-Mer</placeName></ab>
+        <ab type="date"><date when="1933-02-14" cert="low" evidence="erschlossen">14.2.1933</date></ab>
         <ab type="role"><persName key="434" role="aut">Julius Meier-Graefe</persName></ab>
         <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
         <ab type="no">321333</ab>
@@ -65,10 +59,7 @@
 
       <change n="collation">
         <persName key="71922">Anne Lorenz</persName>
-        <date when="2014-05-19">19.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date
-          when="2014-07-31">31.7.2014</date>, <date when="2014-08-12">12.8.2014</date>, <date
-          when="2014-09-01">1.9.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date
-          when="2014-11-24">24.11.2014</date>
+        <date when="2014-05-19">19.5.2014</date>, <date when="2014-05-27">27.5.2014</date>, <date when="2014-07-31">31.7.2014</date>, <date when="2014-08-12">12.8.2014</date>, <date when="2014-09-01">1.9.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date when="2014-11-24">24.11.2014</date>
       </change>
 
       <change n="collation">
@@ -93,6 +84,7 @@
 
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -106,37 +98,30 @@
 
         <p rend="right"><date when="1933-02-14" cert="high">14. II</date></p>
 
-        <p><emph n="salutation">Lieber Herr <persName key="7721" role="rec"
-            >Krakauer</persName></emph></p>
+        <p><emph n="salutation">Lieber Herr <persName key="7721" role="rec">Krakauer</persName></emph></p>
 
-        <p>Ihr Lebenszeichen ist sehr freundlich und vergrößert mein Bedauern, Sie nicht in
-            <placeName key="49025">Berlin</placeName> gesehen zu haben. Natürlich infame
-          Schlamperei. Während der Zeit hat man die Einbildung, keine Minute übrig zu haben. Sieht
-          man zurück, hat man die Zeit mit Albernheiten vertrödelt.</p>
+        <p>Ihr Lebenszeichen ist sehr freundlich und vergr&#246;&#223;ert mein Bedauern, Sie nicht in
+            <placeName key="49025">Berlin</placeName> gesehen zu haben. Nat&#252;rlich infame
+          Schlamperei. W&#228;hrend der Zeit hat man die Einbildung, keine Minute &#252;brig zu haben. Sieht
+          man zur&#252;ck, hat man die Zeit mit Albernheiten vertr&#246;delt.</p>
 
-        <p>Ich freue mich, daß Ihnen die Geschichte<note type="reg"><name type="wrk" key="74020">Der
-              Gauguin mit dem Baum</name></note> gefallen hat. Ja, eine ganze Ausgabe<note
-            type="reg"><name type="wrk" key="73220">Geschichten neben der Kunst</name></note> dieser
-          Geschichten erscheint im nächsten Herbst bei <orgName key="66802">Fischer</orgName>. Man
-          muß alles zu Gelde machen. Ich bin grade dabei, die Dinge ein wenig herzurichten. Ihre
-          Aufsätze lese ich immer mit Nutzen und Genuß. Kann mir denken, was Sie durchmachen. Wir
-          erleben es hier in heiterer Sonne, sozusagen mit einer Soma-Pille <persName key="10014"
-            >Huxleys</persName> (lesen Sie das nächste Reiseblatt der <name type="per" key="70860"
-            >N.Z.</name>!). Wohl ist einem dabei auch nicht. Ich traf grade <persName key="12466"
-            >Herzog</persName> in <placeName key="73073">Sanary</placeName>, der heute von
+        <p>Ich freue mich, da&#223; Ihnen die Geschichte<note type="reg"> <name type="wrk" key="74020">Der
+              Gauguin mit dem Baum</name></note> gefallen hat. Ja, eine ganze Ausgabe<note type="reg"> <name type="wrk" key="73220">Geschichten neben der Kunst</name></note> dieser
+          Geschichten erscheint im n&#228;chsten Herbst bei <orgName key="66802">Fischer</orgName>. Man
+          mu&#223; alles zu Gelde machen. Ich bin grade dabei, die Dinge ein wenig herzurichten. Ihre
+          Aufs&#228;tze lese ich immer mit Nutzen und Genu&#223;. Kann mir denken, was Sie durchmachen. Wir
+          erleben es hier in heiterer Sonne, sozusagen mit einer Soma-Pille <persName key="10014">Huxleys</persName> (lesen Sie das n&#228;chste Reiseblatt der <name type="per" key="70860">N.Z.</name>!). Wohl ist einem dabei auch nicht. Ich traf grade <persName key="12466">Herzog</persName> in <placeName key="73073">Sanary</placeName>, der heute von
             <placeName key="49025">Berlin</placeName> eingetroffen ist, voll
             <unclear>bester</unclear> Dinge. In der <name type="per" key="70949">F.Z.</name> scheint
-          es erste Revirements zu geben. <persName key="74021">Gubler</persName> weg, Welte<note
-            type="com" cert="high">Vermutlich <persName key="76866">Erich Welter</persName>.</note>
-          geht, und <persName key="9900">Sieburg</persName> ist mir recht unheimlich. Die zukünftige
+          es erste Revirements zu geben. <persName key="74021">Gubler</persName> weg, Welte<note type="com" cert="high"> Vermutlich <persName key="76866">Erich Welter</persName>.</note>
+          geht, und <persName key="9900">Sieburg</persName> ist mir recht unheimlich. Die zuk&#252;nftige
           Feuilletonredaktion scheint etwas schleierhaft bisher.</p>
 
         <p>Wenn Sie es mal dicke haben in <placeName key="49025">Berlin</placeName> und sich erholen
-          wollen, kommen Sie her. Schickeles<note type="reg"><persName key="5454">Schickele,
-              René</persName> und <persName key="7093">Schickele, Anna</persName></note> sind in
+          wollen, kommen Sie her. Schickeles<note type="reg"> <persName key="5454">Schickele,
+              Ren&#233;</persName> und <persName key="7093">Schickele, Anna</persName></note> sind in
             <placeName key="73073">Sanary</placeName> und auch noch ein paar andere nette Leute.
-          Billet <placeName key="49025">Berlin</placeName>-<placeName key="48967"
-            >Marseille</placeName> III. III. Kl. 60 RM. <emph n="salute">Herzlich</emph></p>
+          Billet <placeName key="49025">Berlin</placeName>-<placeName key="48967">Marseille</placeName> III. III. Kl. 60 RM. <emph n="salute">Herzlich</emph></p>
 
         <p rend="right"><emph n="salute">Ihr</emph>
           <persName key="434" role="signed">Meier-Graefe</persName></p>

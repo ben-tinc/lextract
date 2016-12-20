@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 1385a</bibl>
@@ -64,6 +63,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -71,18 +71,18 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <graphic n="0" url="cor_zwst_kehe_19410109_b_or_01.tif"/>
         </figure>
         <p rend="text-align:right"><placeName key="76">Rio</placeName>, <date type="write">9. Januar 1941</date>.</p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="17">Kesten</persName></name>!</span>
         </p>
-        <lb/>
-        <p>Ich habe auf Ihr Telegramm<note type="com">Das Telegramm ist nicht Teil des vorliegenden Korpus.</note> hin sofort Dr. <persName key="2300">Alemann</persName> vom <name type="per" key="2679">Argentinischen Tageblatt</name> in <placeName key="3717">Buenos Aires</placeName> verständigt und ihn gebeten, sich der Sache<note type="com">Vgl. den <ref target="fud://826">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="17">Hermann Kesten</persName> vom 8.1.1941.</note> nochmals znzunehmen, und Sie direkt zu verständigen,<note type="com">Am Fuß ergänzt.</note> da ich der Meinung bin, dass nur ein Telephonanruf oder eine persönliche Rücksprache Erfolg hat, während Briefe und selbst Telegramme von auswärts zunächst einmal unerledigt bleiben. Ich bin verzweifelt, dass in der Angelegenheit jener drei Visen<note type="com">Wohl die Visen für <persName key="71">Walter Landauer</persName> und seine Mutter <persName key="2470">Margarete Landauer</persName> sowie das Visum für <persName key="2378">Richard Friedenthal</persName> (vgl. den <ref target="fud://273">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="17">Hermann Kesten</persName> vom 31.10.1940). </note> immer neue Schwierigkeiten auftauchen. <persName key="2034">Landshoff</persName> scheint das seine glücklich erhalten zu haben, dafür erhielt ich aber vor vierzehn Tagen ein Telegramm, dass der Konsul<note type="com">Gemeint ist der argentinische Botschafter in <placeName key="2951">London</placeName>, <persName key="6153">Tomás A. Le Breton</persName> (vgl. den <ref target="fud://823">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="17">Hermann Kesten</persName>, geschrieben nach dem 21.11.1940).</note> in <placeName key="2951">London</placeName> behaupte, für <persName key="2378">Friedenthal</persName> kein Visum erhalten zu haben. Ich telegraphierte zurück, dass <persName key="2034">Landshoff</persName> seines auf Grund jenes zweiten Telegramms, das ich veranlasste, erhalten habe und dass ebenso für <persName key="2378">Friedenthal</persName> der Auftrag vorliegen müsse. Seitdem habe ich noch keine Nachricht und hoffe nur, dass da jetzt alles glatt geht, denn ich reise jetzt von <placeName key="76">Rio</placeName> ab – die Hitze wird allmählich schwer erträglich – halte mich noch im Norden von <placeName key="2785">Brasilien</placeName> kurze Zeit auf und reise dann nach <placeName key="41">USA</placeName> weiter, wo ich mich dann gleich bei Ihnen melden werde.</p>
-        <lb/>
-        <p>Herzliche Grüsse also inzwischen, und hoffentlich klappt jene Visenangelegenheit jetzt endlich!</p>
-        <lb/>
-        <p rend="text-align:right">Ihr<lb/><span type="Signatur"><name role="aut"><persName key="72">Stefan Zweig</persName></name></span></p>
+        <lb/> 
+        <p>Ich habe auf Ihr Telegramm<note type="com"> Das Telegramm ist nicht Teil des vorliegenden Korpus.</note> hin sofort Dr. <persName key="2300">Alemann</persName> vom <name type="per" key="2679">Argentinischen Tageblatt</name> in <placeName key="3717">Buenos Aires</placeName> verst&#228;ndigt und ihn gebeten, sich der Sache<note type="com"> Vgl. den <ref target="fud://826">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="17">Hermann Kesten</persName> vom 8.1.1941.</note> nochmals znzunehmen, und Sie direkt zu verst&#228;ndigen,<note type="com"> Am Fu&#223; erg&#228;nzt.</note> da ich der Meinung bin, dass nur ein Telephonanruf oder eine pers&#246;nliche R&#252;cksprache Erfolg hat, w&#228;hrend Briefe und selbst Telegramme von ausw&#228;rts zun&#228;chst einmal unerledigt bleiben. Ich bin verzweifelt, dass in der Angelegenheit jener drei Visen<note type="com"> Wohl die Visen f&#252;r <persName key="71">Walter Landauer</persName> und seine Mutter <persName key="2470">Margarete Landauer</persName> sowie das Visum f&#252;r <persName key="2378">Richard Friedenthal</persName> (vgl. den <ref target="fud://273">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="17">Hermann Kesten</persName> vom 31.10.1940). </note> immer neue Schwierigkeiten auftauchen. <persName key="2034">Landshoff</persName> scheint das seine gl&#252;cklich erhalten zu haben, daf&#252;r erhielt ich aber vor vierzehn Tagen ein Telegramm, dass der Konsul<note type="com"> Gemeint ist der argentinische Botschafter in <placeName key="2951">London</placeName>, <persName key="6153">Tom&#225;s A. Le Breton</persName> (vgl. den <ref target="fud://823">Brief</ref> von <persName key="72">Stefan Zweig</persName> an <persName key="17">Hermann Kesten</persName>, geschrieben nach dem 21.11.1940).</note> in <placeName key="2951">London</placeName> behaupte, f&#252;r <persName key="2378">Friedenthal</persName> kein Visum erhalten zu haben. Ich telegraphierte zur&#252;ck, dass <persName key="2034">Landshoff</persName> seines auf Grund jenes zweiten Telegramms, das ich veranlasste, erhalten habe und dass ebenso f&#252;r <persName key="2378">Friedenthal</persName> der Auftrag vorliegen m&#252;sse. Seitdem habe ich noch keine Nachricht und hoffe nur, dass da jetzt alles glatt geht, denn ich reise jetzt von <placeName key="76">Rio</placeName> ab &#8211; die Hitze wird allm&#228;hlich schwer ertr&#228;glich &#8211; halte mich noch im Norden von <placeName key="2785">Brasilien</placeName> kurze Zeit auf und reise dann nach <placeName key="41">USA</placeName> weiter, wo ich mich dann gleich bei Ihnen melden werde.</p>
+        <lb/> 
+        <p>Herzliche Gr&#252;sse also inzwischen, und hoffentlich klappt jene Visenangelegenheit jetzt endlich!</p>
+        <lb/> 
+        <p rend="text-align:right">Ihr<lb/> <span type="Signatur"><name role="aut"><persName key="72">Stefan Zweig</persName></name></span></p>
       </div>
     </body>
   </text>

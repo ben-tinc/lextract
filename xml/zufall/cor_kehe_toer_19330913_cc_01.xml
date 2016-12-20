@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 2417</bibl>
@@ -67,27 +66,28 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
         <figure>
           <graphic n="0" url="cor_kehe_toer_19330913_cc_01.tif"/>
         </figure>
-        <p><persName key="17">Hermann Kesten</persName><lb/><orgName key="5162">Maison Constans</orgName>, <placeName key="5161">rue Granet</placeName><lb/><placeName key="5">Sanary-sur-Mer</placeName> (<placeName key="2896">Var</placeName>) <placeName key="47">France</placeName></p>
-        <lb/>
+        <p><persName key="17">Hermann Kesten</persName><lb/> <orgName key="5162">Maison Constans</orgName>, <placeName key="5161">rue Granet</placeName><lb/> <placeName key="5">Sanary-sur-Mer</placeName> (<placeName key="2896">Var</placeName>) <placeName key="47">France</placeName></p>
+        <lb/> 
         <p rend="text-align:right"><placeName type="write"><placeName key="5">Sanary</placeName></placeName>, <date type="write">13.9.33.</date></p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ P3">Lieber <name role="rec"><persName key="51">Toller</persName></name>,</span>
         </p>
-        <lb/>
-        <p>es tut mir herzlich leid, dass Sie nicht in den Midi<note type="com">Der Süden <placeName key="47">Frankreichs</placeName>.</note> reisen und wir so um ein lang entbehrtes Wiedersehen kommen. Ich werde Ende Oktober, spätestens Anfang November in <placeName key="18">Paris</placeName> sein, und dort hoffe ich Sie einmal doch wiederzusehen. Ich bin sehr niedergedrückt und arbeite schwerer als je in meinem Leben. Leider ist die Arbeit auch sinnloser als je geworden. Ich bewundere den Mut und die Frische, mit denen Sie immer wieder Ihre Kraft und Ihr Leben für öffentliche Dinge einsetzen. Freilich haben Sie recht. Man darf über einige kleine Rückschläge in der Geschichte der Menschheit noch nicht verzweifeln. Sicher wird es besser werden mit den Menschen – wenn wir erst nur einmal tot sind – diese Hoffnung kann uns bis zum grabe keiner rauben. Was werden Sie nach <placeName key="2951">London</placeName> tun, oder bleiben Sie sehr lange in <placeName key="2951">London</placeName>?</p>
-        <lb/>
-        <p>Schreiben Sie mir wieder. Die Briefe meiner Freunde sind das Beste meiner trüben Tage.</p>
-        <lb/>
-        <p>Herzlichst grüsst Sie IHr</p>
+        <lb/> 
+        <p>es tut mir herzlich leid, dass Sie nicht in den Midi<note type="com"> Der S&#252;den <placeName key="47">Frankreichs</placeName>.</note> reisen und wir so um ein lang entbehrtes Wiedersehen kommen. Ich werde Ende Oktober, sp&#228;testens Anfang November in <placeName key="18">Paris</placeName> sein, und dort hoffe ich Sie einmal doch wiederzusehen. Ich bin sehr niedergedr&#252;ckt und arbeite schwerer als je in meinem Leben. Leider ist die Arbeit auch sinnloser als je geworden. Ich bewundere den Mut und die Frische, mit denen Sie immer wieder Ihre Kraft und Ihr Leben f&#252;r &#246;ffentliche Dinge einsetzen. Freilich haben Sie recht. Man darf &#252;ber einige kleine R&#252;ckschl&#228;ge in der Geschichte der Menschheit noch nicht verzweifeln. Sicher wird es besser werden mit den Menschen &#8211; wenn wir erst nur einmal tot sind &#8211; diese Hoffnung kann uns bis zum grabe keiner rauben. Was werden Sie nach <placeName key="2951">London</placeName> tun, oder bleiben Sie sehr lange in <placeName key="2951">London</placeName>?</p>
+        <lb/> 
+        <p>Schreiben Sie mir wieder. Die Briefe meiner Freunde sind das Beste meiner tr&#252;ben Tage.</p>
+        <lb/> 
+        <p>Herzlichst gr&#252;sst Sie IHr</p>
       </div>
     </body>
   </text>

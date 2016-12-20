@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>KM B 246</bibl>
@@ -38,7 +37,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
 1933-10-12          </date>
         </ab>
         <ab type="role">
-          <persName role="aut" key="1707">Schickele, René</persName>
+          <persName role="aut" key="1707">Schickele, Ren&#233;</persName>
         </ab>
         <ab type="role">
           <persName role="rec" key="16">Mann, Klaus</persName>
@@ -46,7 +45,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-974</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Handschriftliches Original auf einer Postkarte mit eingedruckter Briefmarke. Die Empfängeradresse auf der Vorderseite lautet: "Mr Klaus Mann, Editions Quirido, &lt;ul2&gt;Amsterdam&lt;/ul2&gt;, Keizersgracht 333, Hollande". Neben dem Text auf der Rückseite gibt es einen Nachtrag im Korrespondenzfeld auf der Vorderseite der Karte.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Handschriftliches Original auf einer Postkarte mit eingedruckter Briefmarke. Die Empf&#228;ngeradresse auf der Vorderseite lautet: "Mr Klaus Mann, Editions Quirido, &lt;ul2&gt;Amsterdam&lt;/ul2&gt;, Keizersgracht 333, Hollande". Neben dem Text auf der R&#252;ckseite gibt es einen Nachtrag im Korrespondenzfeld auf der Vorderseite der Karte.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -64,6 +63,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -71,29 +71,29 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
           <graphic n="0" url="cor_scre_klma_19331012_or_01.tif"/>
           <graphic n="1" url="cor_scre_klma_19331012_or_02.tif"/>
         </figure>
-        <p rend="text-align:right"><pb n="1" facs="cor_scre_klma_19331012_or_02"/><placeName type="write"><placeName key="5">Sanarÿ</placeName></placeName>, <date type="write">12. X. 33.</date></p>
-        <lb/>
+        <p rend="text-align:right"><pb n="1" facs="cor_scre_klma_19331012_or_02"/><placeName type="write"><placeName key="5">Sanar&#255;</placeName></placeName>, <date type="write">12. X. 33.</date></p>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ P3">L. <name role="rec"><persName key="16">K. M.</persName></name>,</span>
         </p>
-        <lb/>
+        <lb/> 
         <p>alles in Ordnung!</p>
-        <lb/>
-        <p><orgName key="2786">"Deux magots"</orgName> + P. M. genügt.</p>
-        <lb/>
+        <lb/> 
+        <p><orgName key="2786">"Deux magots"</orgName> + P. M. gen&#252;gt.</p>
+        <lb/> 
         <p>"Geburtstagspredigt" ist ein mir unbekanntes Wort. Bei uns zu Hause predigte man nicht zum Geburtstag.</p>
-        <lb/>
-        <p>Schön, dass sich die dumme Geschichte in Gelächter auflöst. Aber es scheint Menschen zu geben, denen es grosse Freude macht, ihren Bekannten Unangenehmes zu sagen, hauptsächlich auf Kosten anderer.</p>
-        <lb/>
-        <p>Aus <placeName key="27">Zürich</placeName> wird grosser Erfolg der <orgName key="2674">"Pfeffermühle"</orgName> gemeldet. Herzl. Grüsse</p>
-        <lb/>
+        <lb/> 
+        <p>Sch&#246;n, dass sich die dumme Geschichte in Gel&#228;chter aufl&#246;st. Aber es scheint Menschen zu geben, denen es grosse Freude macht, ihren Bekannten Unangenehmes zu sagen, haupts&#228;chlich auf Kosten anderer.</p>
+        <lb/> 
+        <p>Aus <placeName key="27">Z&#252;rich</placeName> wird grosser Erfolg der <orgName key="2674">"Pfefferm&#252;hle"</orgName> gemeldet. Herzl. Gr&#252;sse</p>
+        <lb/> 
         <p rend="text-align:right">Ihres <name role="aut"><span type="Signatur"><persName key="1707">R. S.</persName></span></name></p>
-        <lb/>
+        <lb/> 
         <p><pb n="2" facs="cor_scre_klma_19331012_or_01"/>Die <name type="per" key="763">"Voss"</name> bringt den <name type="wrk" key="2849">Roman</name> nun doch, vermutlich kastriert!</p>
-        <lb/>
+        <lb/> 
         <p>Aber wie das Geld herausbringen?</p>
-        <lb/>
-        <p>Schon setzen neue Kämpfe mit <placeName key="3902">B.</placeName> ein. – Auf die Dauer ein unhaltbarer Zustand. – Ich erwähne P. M. gegenüber nichts von der Geschichte. Weiss aber genug.</p>
+        <lb/> 
+        <p>Schon setzen neue K&#228;mpfe mit <placeName key="3902">B.</placeName> ein. &#8211; Auf die Dauer ein unhaltbarer Zustand. &#8211; Ich erw&#228;hne P. M. gegen&#252;ber nichts von der Geschichte. Weiss aber genug.</p>
       </div>
     </body>
   </text>

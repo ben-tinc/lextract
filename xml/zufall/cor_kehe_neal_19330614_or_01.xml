@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
-<TEI>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </publicationStmt>
       <sourceDesc>
         <p>
-          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, München</orgName>
+          <orgName key="2773">Monacensia - Literaturarchiv und Bibliothek, M&#252;nchen</orgName>
         </p>
         <p>
           <bibl>HK B 2099</bibl>
@@ -49,7 +48,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         <ab type="no">fud-854</ab>
         <ab type="reg"/>
         <ab type="lang">Deutsch</ab>
-        <ab type="desc">Durchschlag mit der handschriftlichen Signatur Hermann Kestens sowie einigen Korrekturen. Die Signatur sowie eine anschließende handschriftliche Ergänzung sind durchgestrichen und wurden bei der Transkription nicht berücksichtigt.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
+        <ab type="desc">Durchschlag mit der handschriftlichen Signatur Hermann Kestens sowie einigen Korrekturen. Die Signatur sowie eine anschlie&#223;ende handschriftliche Erg&#228;nzung sind durchgestrichen und wurden bei der Transkription nicht ber&#252;cksichtigt.&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;&lt;lb/&gt;</ab>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -67,6 +66,7 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
       </change>
     </revisionDesc>
   </teiHeader>
+  
   <text>
     <body>
       <div>
@@ -76,45 +76,45 @@ Herausgeberinformation:           <ref>http://kompz.uni-trier.de</ref>
         </figure>
         <p>
           <persName key="17">Hermann Kesten</persName>
-          <lb/>
+          <lb/> 
           <placeName key="18">Paris (1.)</placeName>
-          <lb/>
+          <lb/> 
           <placeName key="4268">11 place Dauphine</placeName>
         </p>
-        <lb/>
+        <lb/> 
         <p rend="text-align:right">
           <date type="write">14.6.1933.</date>
         </p>
-        <lb/>
+        <lb/> 
         <space/>
-        <lb/>
+        <lb/> 
         <p>
           <span type="Anrede" n="Typ F3">Sehr verehrter Herr <name role="rec"><persName key="2113">Alfred Neumann</persName></name>,</span>
         </p>
-        <lb/>
+        <lb/> 
         <p>ich wende micht heute mit folgender Bitte an Sie.</p>
-        <lb/>
-        <p>Ich mache für den <orgName key="4244">Allert de Lange Verlag</orgName>, <placeName key="2783">Amsterdam (C.)</placeName> <placeName key="4269">Damrak 62</placeName>.– eine <name type="wrk" key="102">Anthologie</name> von Novellen berühmter gegenwärtiger deutscher Autoren, die <hi rend="spaced">Juden</hi> sind.</p>
-        <lb/>
-        <p>Der holländische Verlag <orgName key="4244">Allert de Lange</orgName> hat in <placeName key="2783">Amsterdam</placeName> einen deutschen Verlag gegründet, der unter der Leitung von Frau <persName key="2144">van Praag-Sanders</persName> steht und bereits eine Reihe von deutschen Autoren erworben hat, und für den ich das Lektorat übernommen habe.</p>
-        <lb/>
-        <p>Ich wende mich u. a. an folgende Autoren:<lb/><persName key="3179">Beer-Hofmann</persName>. <persName key="1831">Max Brod</persName>. <persName key="109">Alfred Döblin</persName>, <persName key="1889">Lion Feuchtwanger</persName>. <persName key="4267">Georg Hermann</persName>, <persName key="1986">H. E. Jacob</persName>. <persName key="2113">Alfred Neumann</persName>. <persName key="75">Robert Neumann</persName>. <persName key="26">Joseph Roth</persName>. <persName key="2179">Felix Salten</persName>. <persName key="51">Ernst Toller</persName>. <persName key="2259">Jakob Wassermann</persName>. <persName key="2264">Ernst Weiss</persName>. <persName key="2267">Franz Werfel</persName>. <persName key="2290">Arnold Zweig</persName>. <persName key="72">Stefan Zweig</persName>.</p>
-        <lb/>
-        <p>Ich bitte um unveröffentlichte Novellen, bin aber bereit auch eine schon veröffentlichte Novelle aufzunehmen. Der <orgName key="4244">Verlag</orgName> will generell 60 holländische Gulden (das sind circa 105 Reichsmark) per Druckbogen zahlen. Der <orgName key="4244">Verlag</orgName> plant eine Erstauflage von 5000 Exemplaren, einen Gesamtumfang von etwa 20 Bogen. Ich denke also an Erzählungen zwischen 15–4o Seiten etwa. Das <name type="wrk" key="102">Buch</name> soll noch diesen Herbst erscheinen. Der Schlusstermin für die Einsendungen wäre der 15. August.</p>
-        <lb/>
-        <p>Doch bitte ich Sie sehr nir recht bald schreiben zu wollen, ob Sie geneigt wären für diese <name type="wrk" key="102">Anthologie</name> eine Novelle zu geben, da der <orgName key="4244">Verlag</orgName> und ich sehr bald schon wissen möchten, auf welche Autoren wir fest rechnen dürfen. Der <orgName key="4244">Verlag</orgName> will am Ende des <name type="wrk" key="102">Buches</name> ein bibliographisches <pb/>Verzeichnis des Gesamtwerks der Autoren geben. Ich würde Sie also bitten, im Falle Ihrer Mitarbeit mir ein Verzeichnis aller Ihrer Schriften mitsenden zu wollen.</p>
-        <lb/>
+        <lb/> 
+        <p>Ich mache f&#252;r den <orgName key="4244">Allert de Lange Verlag</orgName>, <placeName key="2783">Amsterdam (C.)</placeName> <placeName key="4269">Damrak 62</placeName>.&#8211; eine <name type="wrk" key="102">Anthologie</name> von Novellen ber&#252;hmter gegenw&#228;rtiger deutscher Autoren, die <hi rend="spaced">Juden</hi> sind.</p>
+        <lb/> 
+        <p>Der holl&#228;ndische Verlag <orgName key="4244">Allert de Lange</orgName> hat in <placeName key="2783">Amsterdam</placeName> einen deutschen Verlag gegr&#252;ndet, der unter der Leitung von Frau <persName key="2144">van Praag-Sanders</persName> steht und bereits eine Reihe von deutschen Autoren erworben hat, und f&#252;r den ich das Lektorat &#252;bernommen habe.</p>
+        <lb/> 
+        <p>Ich wende mich u. a. an folgende Autoren:<lb/> <persName key="3179">Beer-Hofmann</persName>. <persName key="1831">Max Brod</persName>. <persName key="109">Alfred D&#246;blin</persName>, <persName key="1889">Lion Feuchtwanger</persName>. <persName key="4267">Georg Hermann</persName>, <persName key="1986">H. E. Jacob</persName>. <persName key="2113">Alfred Neumann</persName>. <persName key="75">Robert Neumann</persName>. <persName key="26">Joseph Roth</persName>. <persName key="2179">Felix Salten</persName>. <persName key="51">Ernst Toller</persName>. <persName key="2259">Jakob Wassermann</persName>. <persName key="2264">Ernst Weiss</persName>. <persName key="2267">Franz Werfel</persName>. <persName key="2290">Arnold Zweig</persName>. <persName key="72">Stefan Zweig</persName>.</p>
+        <lb/> 
+        <p>Ich bitte um unver&#246;ffentlichte Novellen, bin aber bereit auch eine schon ver&#246;ffentlichte Novelle aufzunehmen. Der <orgName key="4244">Verlag</orgName> will generell 60 holl&#228;ndische Gulden (das sind circa 105 Reichsmark) per Druckbogen zahlen. Der <orgName key="4244">Verlag</orgName> plant eine Erstauflage von 5000 Exemplaren, einen Gesamtumfang von etwa 20 Bogen. Ich denke also an Erz&#228;hlungen zwischen 15&#8211;4o Seiten etwa. Das <name type="wrk" key="102">Buch</name> soll noch diesen Herbst erscheinen. Der Schlusstermin f&#252;r die Einsendungen w&#228;re der 15. August.</p>
+        <lb/> 
+        <p>Doch bitte ich Sie sehr nir recht bald schreiben zu wollen, ob Sie geneigt w&#228;ren f&#252;r diese <name type="wrk" key="102">Anthologie</name> eine Novelle zu geben, da der <orgName key="4244">Verlag</orgName> und ich sehr bald schon wissen m&#246;chten, auf welche Autoren wir fest rechnen d&#252;rfen. Der <orgName key="4244">Verlag</orgName> will am Ende des <name type="wrk" key="102">Buches</name> ein bibliographisches <pb/>Verzeichnis des Gesamtwerks der Autoren geben. Ich w&#252;rde Sie also bitten, im Falle Ihrer Mitarbeit mir ein Verzeichnis aller Ihrer Schriften mitsenden zu wollen.</p>
+        <lb/> 
         <p>Ich bitte Sie, mir mitteilen zu wollen, ob Sie mit den vom <orgName key="4244">Verlag</orgName> vorgeschlagenen Bedingungen einverstanden sind.</p>
-        <lb/>
-        <p>Ich hoffe keine Fehlbitte zu tun. Ich darf Sie versichern, wie ausserordentlich viel dem <orgName key="4244">Verlage</orgName> und mir daranliegt, gerade von Ihnen eine Arbeit<note type="com">Von <persName key="2113">Alfred Neumann</persName> erscheint kein Beitrag in der <name type="wrk" key="102">Anthologie</name>. Zu den Gründen siehe den <ref target="fud://734">Brief</ref> von <persName key="2113">Alfred Neumann</persName> an <persName key="17">Hermann Kesten</persName> vom 30.6.1933.</note> zu erhalten.</p>
-        <lb/>
-        <p>Dieses <name type="wrk" key="102">Buch</name> soll durch nichts anderes wirken als durch die dichterische Qualität seiner Beiträge.</p>
-        <lb/>
-        <p>Wie geht es Ihnen? Ich werde mich sehr freuen, von Ihnen zu hören und ich hoffe eine zustimmende Antwort von Ihnen zu erhalten.</p>
-        <lb/>
+        <lb/> 
+        <p>Ich hoffe keine Fehlbitte zu tun. Ich darf Sie versichern, wie ausserordentlich viel dem <orgName key="4244">Verlage</orgName> und mir daranliegt, gerade von Ihnen eine Arbeit<note type="com"> Von <persName key="2113">Alfred Neumann</persName> erscheint kein Beitrag in der <name type="wrk" key="102">Anthologie</name>. Zu den Gr&#252;nden siehe den <ref target="fud://734">Brief</ref> von <persName key="2113">Alfred Neumann</persName> an <persName key="17">Hermann Kesten</persName> vom 30.6.1933.</note> zu erhalten.</p>
+        <lb/> 
+        <p>Dieses <name type="wrk" key="102">Buch</name> soll durch nichts anderes wirken als durch die dichterische Qualit&#228;t seiner Beitr&#228;ge.</p>
+        <lb/> 
+        <p>Wie geht es Ihnen? Ich werde mich sehr freuen, von Ihnen zu h&#246;ren und ich hoffe eine zustimmende Antwort von Ihnen zu erhalten.</p>
+        <lb/> 
         <space/>
-        <lb/>
-        <p rend="text-align:right">Ich bin mit besten Grüssen<lb/>Ihnen stets ergeben</p>
+        <lb/> 
+        <p rend="text-align:right">Ich bin mit besten Gr&#252;ssen<lb/> Ihnen stets ergeben</p>
       </div>
     </body>
   </text>

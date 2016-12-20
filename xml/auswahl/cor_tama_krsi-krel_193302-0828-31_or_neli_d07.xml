@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,8 +18,7 @@
                 <p><bibl>A:Kracauer</bibl></p>
 
 
-                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName
-                        key="77608">Aase Gjerdrum</persName></ab>
+                <ab type="copyright"><persName key="77607">Tove Gjerdrum</persName><persName key="77608">Aase Gjerdrum</persName></ab>
                 <ab type="leaves">1</ab>
                 <ab type="pages">2</ab>
                 <ab type="type">lt</ab>
@@ -34,10 +29,8 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">P3</ab>
-                <ab type="location"><placeName key="49025" type="write" cert="medium"
-                        evidence="Vordruck">Berlin</placeName></ab>
-                <ab type="date"><date from="1933-02-28" to="1933-08-31" cert="low"
-                        evidence="erschlossen">1933</date></ab>
+                <ab type="location"><placeName key="49025" type="write" cert="medium" evidence="Vordruck">Berlin</placeName></ab>
+                <ab type="date"><date from="1933-02-28" to="1933-08-31" cert="low" evidence="erschlossen">1933</date></ab>
                 <ab type="role"><persName key="74658" role="aut">Max Tau</persName></ab>
                 <ab type="role"><persName key="7721" role="rec">Siegfried Kracauer</persName></ab>
                 <ab type="role"><persName key="74110" role="rec">Elisabeth Kracauer</persName></ab>
@@ -45,7 +38,7 @@
                 <ab type="reg"/>
                 <ab type="desc">Original mit der Unterschrift von Max Tau. Als Vordruck ist mittig
                     im Briefkopf die Adresse ("Bruno Cassirer Verlagsbuchhhandlung, Derfflingerstr.
-                    15") angegeben, am linken Rand die Fernsprechernummer ("Fernsprecher: Lützow 809
+                    15") angegeben, am linken Rand die Fernsprechernummer ("Fernsprecher: L&#252;tzow 809
                     und 9735"), am rechten Rand die Datumszeile mit Ort ("Berlin W35, den"). Das
                     Briefpapier ist im Querformat beschrieben. Die Datumsangabe fehlt, der Inhalt
                     des Briefes und ein weiterer Brief Taus vom 31.8.1933 deuten aber auf den
@@ -64,8 +57,7 @@
             <change n="collation">
                 <persName key="77556">Roberta Toscano</persName>
                 <date when="2014-08-12">12.8.2014</date>, <date when="2014-11-12">12.11.2014</date>,
-                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-14"
-                    >14.1.2015</date>, <date when="2015-01-28">28.1.2015</date>
+                    <date when="2014-12-10">10.12.2014</date>, <date when="2015-01-14">14.1.2015</date>, <date when="2015-01-28">28.1.2015</date>
             </change>
 
             <change n="collation">
@@ -76,8 +68,7 @@
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2015-01-14">14.1.2015</date>, <date when="2015-01-22">22.1.2015</date>,
-                    <date when="2015-03-20">20.3.2015</date>, <date when="2015-03-26"
-                        >26.3.2015</date>, <date when="2015-04-07">7.4.2015</date>
+                    <date when="2015-03-20">20.3.2015</date>, <date when="2015-03-26">26.3.2015</date>, <date when="2015-04-07">7.4.2015</date>
             </change>
 
 
@@ -106,6 +97,7 @@
 
     </teiHeader>
 
+    
     <text>
         <body>
             <div>
@@ -115,20 +107,17 @@
                     <graphic n="2" url="cor_tama_krsi_19330228_or_02"/>
                 </figure>
 
-                <p><emph n="salutation">Meine lieben, guten Freunde<note type="reg"><persName
-                                key="7721" role="rec">Kracauer, Siegfried</persName> und <persName
-                                key="74110" role="rec">Kracauer,
+                <p><emph n="salutation">Meine lieben, guten Freunde<note type="reg"> <persName key="7721" role="rec">Kracauer, Siegfried</persName> und <persName key="74110" role="rec">Kracauer,
                     Elisabeth</persName></note></emph>,</p>
 
-                <p>Selbstverständlich war ich in der Wohnung. Die Bücher habe
-                    ich gefunden; sie gehen mit gleicher Post an Sie ab. Es war für mich sehr sehr
-                    schwer aus der Wohnung Abschied zu nehmen wo wir Stunden echter Gemeinschaft<pb
-                        n="2"/> und echten Rates verlebten.</p>
+                <p>Selbstverst&#228;ndlich war ich in der Wohnung. Die B&#252;cher habe
+                    ich gefunden; sie gehen mit gleicher Post an Sie ab. Es war f&#252;r mich sehr sehr
+                    schwer aus der Wohnung Abschied zu nehmen wo wir Stunden echter Gemeinschaft<pb n="2"/> und echten Rates verlebten.</p>
 
                 <p>Ich bin nicht sentimental: aber Sie meine Lieben fehlen mir sehr!</p>
 
-                <p>Ich hoffe es geht Ihnen einigermaßen! Für mich wird es täglich schwerer. Aber nur
-                    nicht klagen. Es muß weiter gehen.</p>
+                <p>Ich hoffe es geht Ihnen einigerma&#223;en! F&#252;r mich wird es t&#228;glich schwerer. Aber nur
+                    nicht klagen. Es mu&#223; weiter gehen.</p>
 
                 <p><emph n="salute">Von Herzen und immer bin ich Ihr</emph></p>
 

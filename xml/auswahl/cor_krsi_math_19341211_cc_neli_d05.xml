@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,18 +29,16 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">F2</ab>
-                <ab type="location"><placeName key="49096" type="write" cert="medium"
-                        evidence="Adresszeile">Paris</placeName></ab>
-                <ab type="date"><date when="1934-12-11" cert="high" evidence="Brieftext"
-                        >11.12.1934</date></ab>
+                <ab type="location"><placeName key="49096" type="write" cert="medium" evidence="Adresszeile">Paris</placeName></ab>
+                <ab type="date"><date when="1934-12-11" cert="high" evidence="Brieftext">11.12.1934</date></ab>
                 <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
                 <ab type="role"><persName key="8771" role="rec">Thomas Mann</persName></ab>
                 <ab type="no">323311</ab>
                 <ab type="reg"/>
                 <ab type="desc">Ein unsignierter Durchschlag mit handschriftlichen Korrekturen. Auf
-                    der Rückseite des ersten Blattes wurde der Text mit blauer Tinte durchgestrichen
-                    und auf dem zweiten Blatt im Wortlaut identisch übernommen und fortgeführt.
-                    Diese Seite wie auch die Rückseite des ersten Blattes sind oben mittig
+                    der R&#252;ckseite des ersten Blattes wurde der Text mit blauer Tinte durchgestrichen
+                    und auf dem zweiten Blatt im Wortlaut identisch &#252;bernommen und fortgef&#252;hrt.
+                    Diese Seite wie auch die R&#252;ckseite des ersten Blattes sind oben mittig
                     nummeriert ("II.").</ab>
             </sourceDesc>
 
@@ -64,8 +58,7 @@
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2014-05-06">6.5.2014</date>, <date when="2014-05-15">15.5.2014</date>,
-                    <date when="2014-08-18">18.8.2014</date>, <date when="2014-10-13"
-                    >13.10.2014</date>, <date when="2014-11-25">25.11.2014</date>
+                    <date when="2014-08-18">18.8.2014</date>, <date when="2014-10-13">13.10.2014</date>, <date when="2014-11-25">25.11.2014</date>
             </change>
 
             <change n="collation">
@@ -96,6 +89,7 @@
 
         </revisionDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div>
@@ -106,73 +100,59 @@
                     <graphic n="3" url="cor_krsi_math_19341211_cc_03"/>
                 </figure>
 
-                <p><hi rend="ul">Adresse:</hi><lb/><placeName key="49096" type="write"
-                        >Paris</placeName> (6<hi rend="sup">e</hi>)<lb/><orgName key="69059"
-                        >Madison-Hotel</orgName>,<lb/>143, Boulevard Saint-Germain.<space/>
+                <p><hi rend="ul">Adresse:</hi><lb/> <placeName key="49096" type="write">Paris</placeName> (6<hi rend="sup">e</hi>)<lb/> <orgName key="69059">Madison-Hotel</orgName>,<lb/> 143, Boulevard Saint-Germain.<space/>
                     <date when="1934-12-11" cert="high">11. Dezember 1934.</date></p>
 
-                <p><emph n="salutation">Sehr geehrter Herr <persName key="8771" role="rec"
-                            >Mann</persName></emph>,</p>
+                <p><emph n="salutation">Sehr geehrter Herr <persName key="8771" role="rec">Mann</persName></emph>,</p>
 
-                <p>ich möchte Ihnen gleich sagen, wie sehr es mich beglückt, dass Sie Ihren Eindruck
-                    von meinem Manuskript<note type="reg"><name type="wrk" key="74424"
-                        >Georg</name></note> in solche Worte fassen. Ihre Formulierungen bedeuten
-                    mir die schönste und ehrendste Bestätigung, die ich auf meinem literarischen Weg
-                    hätte finden können. Und wie für diese Worte, so danke ich Ihnen auch für die
-                    Erwägung, die Sie der Titelfrage widmen und die mich darum mit besonderer
-                    Genugtuung erfüllt, weil ich die Schwierigkeit des Titels auf genau dieselbe
-                    Ursache zurückführe wie Sie: auf die Doppelseitigkeit des <name type="wrk"
-                        key="74424">Buchs</name>, das teils die Gesellschaft, teils die Geschichte
+                <p>ich m&#246;chte Ihnen gleich sagen, wie sehr es mich begl&#252;ckt, dass Sie Ihren Eindruck
+                    von meinem Manuskript<note type="reg"> <name type="wrk" key="74424">Georg</name></note> in solche Worte fassen. Ihre Formulierungen bedeuten
+                    mir die sch&#246;nste und ehrendste Best&#228;tigung, die ich auf meinem literarischen Weg
+                    h&#228;tte finden k&#246;nnen. Und wie f&#252;r diese Worte, so danke ich Ihnen auch f&#252;r die
+                    Erw&#228;gung, die Sie der Titelfrage widmen und die mich darum mit besonderer
+                    Genugtuung erf&#252;llt, weil ich die Schwierigkeit des Titels auf genau dieselbe
+                    Ursache zur&#252;ckf&#252;hre wie Sie: auf die Doppelseitigkeit des <name type="wrk" key="74424">Buchs</name>, das teils die Gesellschaft, teils die Geschichte
                     eines einzelnen Menschen reflektiert.</p>
 
                 <p>Was nun die Verlagsangelegenheit betrifft, so befinde ich mich wirklich in einer
-                    äusserst fatalen Lage, aus der ich keinen anderen Ausweg sehe, als an Ihr
-                    Verständnis zu appellieren. Die Fatalität besteht darin, dass ich genötigt bin,
-                    der wahrhaft ausserordentlichen Hilfsbereitschaft, mit der Sie sich <name
-                        type="wrk" key="74424">meines Manuskripts</name> annehmen, gewissermassen in
+                    &#228;usserst fatalen Lage, aus der ich keinen anderen Ausweg sehe, als an Ihr
+                    Verst&#228;ndnis zu appellieren. Die Fatalit&#228;t besteht darin, dass ich gen&#246;tigt bin,
+                    der wahrhaft ausserordentlichen Hilfsbereitschaft, mit der Sie sich <name type="wrk" key="74424">meines Manuskripts</name> annehmen, gewissermassen in
                     die Arme zu fallen. Glauben Sie mir bitte, dass mir nichts schwerer wird als
-                    dies. Aber verschiedene Gründe, mit denen ich Ihre Zeit nicht in Anspruch nehmen
-                    möchte &#x2013; Gründe jedenfalls, die für mich persönlich so zwingender Art
-                    sind, dass ich ihnen trotz der Ungunst der Zeit Rechnung tragen muss &#x2013;
-                    hindern mich daran, eine Verbindung mit den beiden holländischen Verlagen<note
-                        type="reg"><orgName key="73074">Querido-Verlag</orgName> und <orgName
-                            key="73072">Allert de Lange</orgName></note> ins Auge zu fassen. (Ich
+                    dies. Aber verschiedene Gr&#252;nde, mit denen ich Ihre Zeit nicht in Anspruch nehmen
+                    m&#246;chte &#8211; Gr&#252;nde jedenfalls, die f&#252;r mich pers&#246;nlich so zwingender Art
+                    sind, dass ich ihnen trotz der Ungunst der Zeit Rechnung tragen muss &#8211;
+                    hindern mich daran, eine Verbindung mit den beiden holl&#228;ndischen Verlagen<note type="reg"> <orgName key="73074">Querido-Verlag</orgName> und <orgName key="73072">Allert de Lange</orgName></note> ins Auge zu fassen. (Ich
                     hatte mich in meinem ersten <rs n="323313">Brief</rs> an Sie leider mit der zu
-                    vagen Andeutung begnügt,<pb n="2"/> dass ich zur Erlangung einer <name
-                        type="wrk" key="74424">deutschen Ausgabe</name> "manche an sich gangbare
-                    Wege aus triftigen Gründen nicht einschlagen" wolle; hierbei hatte ich gerade
-                    die beiden holländischen Verlage gemeint, deren Repräsentanten ich ja aus meinen
-                    Berliner Jahren<note type="com" cert="high">Als Leiter der Berliner Redaktion
+                    vagen Andeutung begn&#252;gt,<pb n="2"/> dass ich zur Erlangung einer <name type="wrk" key="74424">deutschen Ausgabe</name> "manche an sich gangbare
+                    Wege aus triftigen Gr&#252;nden nicht einschlagen" wolle; hierbei hatte ich gerade
+                    die beiden holl&#228;ndischen Verlage gemeint, deren Repr&#228;sentanten ich ja aus meinen
+                    Berliner Jahren<note type="com" cert="high"> Als Leiter der Berliner Redaktion
                         der <name type="per" key="70949">Frankfurter Zeitung</name> von April 1930
-                        bis Februar 1933.</note> grösstenteils persönlich kenne.)</p>
+                        bis Februar 1933.</note> gr&#246;sstenteils pers&#246;nlich kenne.)</p>
 
-                <p>Aus dieser Sachlage (richtiger: dieser unglücklichen Verkettung von Umständen)
-                    ergibt sich für mich die leidige Notwendigkeit, Sie darum zu bitten, <name
-                        type="wrk" key="74424">mein Manuskript</name>
+                <p>Aus dieser Sachlage (richtiger: dieser ungl&#252;cklichen Verkettung von Umst&#228;nden)
+                    ergibt sich f&#252;r mich die leidige Notwendigkeit, Sie darum zu bitten, <name type="wrk" key="74424">mein Manuskript</name>
                     <hi rend="ul">nicht</hi> an Herrn Dr. <persName key="12997">Landshoff</persName>
                     zu schicken; bzw., wenn das schon geschehen sein sollte, mir zu gestatten, dass
                     ich meinerseits Herrn Dr. <persName key="12997">Landshoff</persName> um die
-                    Rücksendung des <name type="wrk" key="74424">Manuskripts</name> bitte.
+                    R&#252;cksendung des <name type="wrk" key="74424">Manuskripts</name> bitte.
                     (Vorausgesetzt, dass es Ihnen dann nicht passender erscheint, ihm selber in
-                    diesem Sinne zu schreiben.) Die derzeitige Adresse von Herrn Dr. <persName
-                        key="12997">Landshoff</persName> ist mir freilich unbekannt.</p>
+                    diesem Sinne zu schreiben.) Die derzeitige Adresse von Herrn Dr. <persName key="12997">Landshoff</persName> ist mir freilich unbekannt.</p>
 
-                <p>Es ist mir &#x2013; ich kann es nicht anders ausdrücken &#x2013; ganz beklommen
+                <p>Es ist mir &#8211; ich kann es nicht anders ausdr&#252;cken &#8211; ganz beklommen
                     dabei zumute, wenn ich solcherart einer von Ihnen in der freundlichsten,
-                    gütigsten Absicht eingeleiteten Aktion widerstrebe und Ihnen gar noch eine Mühe
+                    g&#252;tigsten Absicht eingeleiteten Aktion widerstrebe und Ihnen gar noch eine M&#252;he
                     mache, deren Sie sich nicht versehen konnten.</p>
 
-                <p>Ich wage zu hoffen, dass Sie, sehr geehrter Herr Mann, trotz dieses Zwischenfalls dem Schicksal <name type="wrk"
-                        key="74424">meines Buches</name> weiter mit Anteil begegnen, und füge darum
-                    noch hinzu, dass ich tatsächlich an den einen oder anderen Schweizer Verlag
+                <p>Ich wage zu hoffen, dass Sie, sehr geehrter Herr Mann, trotz dieses Zwischenfalls dem Schicksal <name type="wrk" key="74424">meines Buches</name> weiter mit Anteil begegnen, und f&#252;ge darum
+                    noch hinzu, dass ich tats&#228;chlich an den einen oder anderen Schweizer Verlag
                         (<orgName key="70065">Rascher</orgName> z.B.) gedacht hatte; Ihre
-                    Aufklärungen in dieser Hinsicht sind mir sehr wertvoll. Neuerdings denke ich an
-                        <orgName key="74590">Julius Kittl</orgName> (<placeName key="74488"
-                        >Mährisch-Ostrau</placeName>), der Bücher von <persName key="76053"
-                        >Céline</persName>, <persName key="366">Julien Green</persName> und
+                    Aufkl&#228;rungen in dieser Hinsicht sind mir sehr wertvoll. Neuerdings denke ich an
+                        <orgName key="74590">Julius Kittl</orgName> (<placeName key="74488">M&#228;hrisch-Ostrau</placeName>), der B&#252;cher von <persName key="76053">C&#233;line</persName>, <persName key="366">Julien Green</persName> und
                         <persName key="75309">Ernst Weiss</persName> herausgebracht hat.</p>
 
-                <p rend="center"><emph n="salute">Mit aufrichtiger Verehrung<lb/>Ihr sehr
+                <p rend="center"><emph n="salute">Mit aufrichtiger Verehrung<lb/> Ihr sehr
                         ergebener</emph></p>
 
 

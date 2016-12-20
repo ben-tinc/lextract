@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
 
-<!-- DOM-Version: DOM_briefe_v18_d01.xmind -->
-
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?><!-- DOM-Version: DOM_briefe_v18_d01.xmind --><TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>René Schickele an Stefan Zweig</title>
+                <title>Ren&#233; Schickele an Stefan Zweig</title>
             </titleStmt>
             <publicationStmt>
                 <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
@@ -33,22 +29,20 @@
                 <ab type="paper"/>
                 <ab type="language">deutsch</ab>
                 <ab type="AF">P3</ab>
-                <ab type="location"><placeName key="49697" type="write" cert="high"
-                        evidence="Brieftext">Nizza</placeName></ab>
-                <ab type="date"><date when="1938-04-25" cert="high" evidence="Brieftext"
-                        >25.4.1938</date></ab>
-                <ab type="role"><persName key="5454" role="aut">René Schickele</persName></ab>
+                <ab type="location"><placeName key="49697" type="write" cert="high" evidence="Brieftext">Nizza</placeName></ab>
+                <ab type="date"><date when="1938-04-25" cert="high" evidence="Brieftext">25.4.1938</date></ab>
+                <ab type="role"><persName key="5454" role="aut">Ren&#233; Schickele</persName></ab>
                 <ab type="role"><persName key="10182" role="rec">Stefan Zweig</persName></ab>
                 <ab type="no">321013</ab>
                 <ab type="reg"/>
-                <ab type="desc">Abschrift mit handschriftlichen Korrekturen von René Schickele. In
+                <ab type="desc">Abschrift mit handschriftlichen Korrekturen von Ren&#233; Schickele. In
                     der rechten oberen Ecke ist mit Bleistift "An Stefan Zweig" vermerkt. Zu dem
                     Brief existieren ein zweiseitiger Entwurf und ein Durchschlag, der ebenfalls mit
-                    handschriftlichen Korrekturen in blauer Farbe und der nachträglich mit Bleistift
-                    hinzugefügten Angabe "An Stefan Zweig" am oberen Rand rechts versehen ist. Auf
+                    handschriftlichen Korrekturen in blauer Farbe und der nachtr&#228;glich mit Bleistift
+                    hinzugef&#252;gten Angabe "An Stefan Zweig" am oberen Rand rechts versehen ist. Auf
                     dem Durchschlag ist der Adresszusatz "La Florida" mit Bleistift unterstrichen,
-                    die Anführungszeichen sind durchgestrichen, das Datum wurde um einen Punkt
-                    hinter der Jahreszahl ergänzt. Unter dem Adressblock steht in roter Schrift "in
+                    die Anf&#252;hrungszeichen sind durchgestrichen, das Datum wurde um einen Punkt
+                    hinter der Jahreszahl erg&#228;nzt. Unter dem Adressblock steht in roter Schrift "in
                     der Gesamtausgabe", der letzte Teil des Wortes ist unterstrichen.</ab>
             </sourceDesc>
 
@@ -68,8 +62,7 @@
             <change n="collation">
                 <persName key="71922">Anne Lorenz</persName>
                 <date when="2014-11-04">4.11.2014</date>, <date when="2014-11-14">14.11.2014</date>,
-                    <date when="2014-11-19">19.11.2014</date>, <date when="2014-11-25"
-                    >25.11.2014</date>, <date when="2015-04-20">20.4.2015</date>
+                    <date when="2014-11-19">19.11.2014</date>, <date when="2014-11-25">25.11.2014</date>, <date when="2015-04-20">20.4.2015</date>
             </change>
 
             <change n="collation">
@@ -102,6 +95,7 @@
 
     </teiHeader>
 
+    
     <text>
         <body>
             <div>
@@ -110,82 +104,71 @@
                     <graphic n="1" url="cor_scre_zwst_19380425_tr_01"/>
                 </figure>
 
-                <p rend="right"><placeName key="49697" type="write">Nice</placeName> &#x2013;
-                    Fabron<lb/>"La Florida"<lb/>Chemin de la Lanterne<lb/><date when="1938-04-25"
-                        cert="high">25.4.1938</date></p>
+                <p rend="right"><placeName key="49697" type="write">Nice</placeName> &#8211;
+                    Fabron<lb/> "La Florida"<lb/> Chemin de la Lanterne<lb/> <date when="1938-04-25" cert="high">25.4.1938</date></p>
 
-                <p><emph n="salutation">Lieber <persName key="10182" role="rec"
-                        >Freund</persName></emph>,</p>
+                <p><emph n="salutation">Lieber <persName key="10182" role="rec">Freund</persName></emph>,</p>
 
-                <p>haben Sie vielen Dank für Ihre freundschaftliche Gesinnung &#x2013; ich habe
+                <p>haben Sie vielen Dank f&#252;r Ihre freundschaftliche Gesinnung &#8211; ich habe
                     nichts andres von Ihnen erwartet. Das Bild, das ich von Ihnen habe, steht fest
-                    seit den um Jahrhunderte zurückliegenden Tagen, da ich Sie bei <persName
-                        key="73217">E. M. Lilien</persName> in dem wüsten Hofatelier der wüsten
+                    seit den um Jahrhunderte zur&#252;ckliegenden Tagen, da ich Sie bei <persName key="73217">E. M. Lilien</persName> in dem w&#252;sten Hofatelier der w&#252;sten
                     Grossbeerenstrasse kennen lernte. Aber lassen Sie mich Ihnen sagen, dass Sie der
                     letzte sind der mit dem Schwert auch die Leier ins Korn werfen sollte, obwohl
-                    unser Fähnlein sich gewiss in vollem Rückzug befindet und die Aussicht auf
-                    Verstärkung zur Zeit gering ist. Sie haben ja das doppelte Geleis schon lange
-                    und auf jedem den denkbar grössten Erfolg. Sie sind auf beiden rund um die Erde
-                    gefahren &#x2013; ein wahrer Trost und herzstärkender Trank für uns alle, dass
+                    unser F&#228;hnlein sich gewiss in vollem R&#252;ckzug befindet und die Aussicht auf
+                    Verst&#228;rkung zur Zeit gering ist. Sie haben ja das doppelte Geleis schon lange
+                    und auf jedem den denkbar gr&#246;ssten Erfolg. Sie sind auf beiden rund um die Erde
+                    gefahren &#8211; ein wahrer Trost und herzst&#228;rkender Trank f&#252;r uns alle, dass
                     dies einem von uns mit sauberen Mitteln gelang!</p>
 
-                <p>Niederlagen, wie wir sie erleben, haben mehr Grösse als die Siege, die
-                    hauptsächlich mit dem ungewaschensten Maul aller Zeiten erfochten werden. Wobei
-                    wir noch froh sein können, dass vorderhand noch der Lautsprecher die Verrichtung
-                    der Artillerie ausübt, die Flüsterpropaganda die des Mikrobenkriegs ausübt, und
+                <p>Niederlagen, wie wir sie erleben, haben mehr Gr&#246;sse als die Siege, die
+                    haupts&#228;chlich mit dem ungewaschensten Maul aller Zeiten erfochten werden. Wobei
+                    wir noch froh sein k&#246;nnen, dass vorderhand noch der Lautsprecher die Verrichtung
+                    der Artillerie aus&#252;bt, die Fl&#252;sterpropaganda die des Mikrobenkriegs aus&#252;bt, und
                     die "friedliche Durchdringung" die der Minierarbeit mit Gas und Dynamit. Kommt
-                    das dicke Ende, dann wird es keinesfalls unser Ende sein, auch wenn wir darüber
-                    das Zeitliche segnen sollten. Der Verlust <placeName key="48958"
-                        >Oesterreichs</placeName> ist grauenhaft. Das Beste, was vom alten
-                        <placeName key="49105">Deutschland</placeName> übriggeblieben war, sein
-                    süssester Kern, seine Musik, seine Lebensfreude, ja, dies vor allem: die
-                    köstliche von göttlichem Leichtsinn gleichsam duftende Lebensbejahung, der
+                    das dicke Ende, dann wird es keinesfalls unser Ende sein, auch wenn wir dar&#252;ber
+                    das Zeitliche segnen sollten. Der Verlust <placeName key="48958">Oesterreichs</placeName> ist grauenhaft. Das Beste, was vom alten
+                        <placeName key="49105">Deutschland</placeName> &#252;briggeblieben war, sein
+                    s&#252;ssester Kern, seine Musik, seine Lebensfreude, ja, dies vor allem: die
+                    k&#246;stliche von g&#246;ttlichem Leichtsinn gleichsam duftende Lebensbejahung, der
                     sinnliche Liebreiz, wie er allein schon in seiner Sprechweise zum Ausdruck kam,
-                    das ist dahin &#x2013; zumindest als gesellschaftliches Phänomen.
+                    das ist dahin &#8211; zumindest als gesellschaftliches Ph&#228;nomen.
                     Niedergetrampelt, niedergeschien, verdreht und verlogen, verpestet. Ich kann mir
                     aber nicht denken, dass die echten Wiener und Erben einer jahrhundertalten
                     Kultur, die es doch noch gibt und noch eine ganze Weile geben wird, dass die
                     nicht soviel von der Kostbarkeit ihres Eigenlebens bewahren wie ein Tropfen
-                    Rosenöl, von dessen Duft bewahrt, ein Duft, wovon bekanntlich ein Tropfen
-                    genügt, um einen Raum mit Wohlgeruch zu erfüllen. Das muss so sein, es kann
+                    Rosen&#246;l, von dessen Duft bewahrt, ein Duft, wovon bekanntlich ein Tropfen
+                    gen&#252;gt, um einen Raum mit Wohlgeruch zu erf&#252;llen. Das muss so sein, es kann
                     nicht anders sein. das "Klima" wird sich trotz allem behaupten. Ihre Heimat ist
                     nicht gestorben, mein Freund, sie ist versklavt. Darin kann ein Segen liegen.
-                    Die Sklaven sind zäher als die Herren und aus vielen Gründen die natürlichen
-                    Anwärter auf die Herrschaft. Sie haben ihren Glauben und halten daran fest, weil
-                    er das einzige ist, was sie besitzen. Auf diesem Boden wurde <placeName
-                        key="73086">Israel</placeName> im Geiste stark und erstand das
+                    Die Sklaven sind z&#228;her als die Herren und aus vielen Gr&#252;nden die nat&#252;rlichen
+                    Anw&#228;rter auf die Herrschaft. Sie haben ihren Glauben und halten daran fest, weil
+                    er das einzige ist, was sie besitzen. Auf diesem Boden wurde <placeName key="73086">Israel</placeName> im Geiste stark und erstand das
                     Christentum.</p>
 
-                <p>Doch, für uns handelt es sich nur daraum auszuhalten, zu dauern. Allerdings
-                    umschliesst das Aushalten (<foreign n="frz">à qui le dites-vous!</foreign>) den
-                    ganzen Mülleimer, aus dem Sie in Ihrem <rs n="321021">Brief</rs> einige
-                    alltägliche Stücke ans Licht ziehn. Sie werden auch den Mülleimer bereinigen,
-                    lieber Freund, und ich hoffe, will hoffen, ich auch &#x2013; obwohl meine
-                    "Manövrierfähigkeit" auf dem Gebiet der "tausend dreckigen
-                        Aeusserlichkeiten"<note type="com" cert="high">Vgl. Zweigs <rs n="321021"
-                            >Brief</rs> vom 22.4.1938.</note> soviel geringer und, die Wahrheit zu
-                    sagen, in kaum erträglicher Weise eingeschränkt ist.</p>
+                <p>Doch, f&#252;r uns handelt es sich nur daraum auszuhalten, zu dauern. Allerdings
+                    umschliesst das Aushalten (<foreign n="frz">&#224; qui le dites-vous!</foreign>) den
+                    ganzen M&#252;lleimer, aus dem Sie in Ihrem <rs n="321021">Brief</rs> einige
+                    allt&#228;gliche St&#252;cke ans Licht ziehn. Sie werden auch den M&#252;lleimer bereinigen,
+                    lieber Freund, und ich hoffe, will hoffen, ich auch &#8211; obwohl meine
+                    "Man&#246;vrierf&#228;higkeit" auf dem Gebiet der "tausend dreckigen
+                        Aeusserlichkeiten"<note type="com" cert="high"> Vgl. Zweigs <rs n="321021">Brief</rs> vom 22.4.1938.</note> soviel geringer und, die Wahrheit zu
+                    sagen, in kaum ertr&#228;glicher Weise eingeschr&#228;nkt ist.</p>
 
-                <p>Der Verlag<note type="com" cert="high">Es handelt sich um den Verlag <orgName
-                            key="73087">Forum-Bücher</orgName>, den die drei Exilverlage <orgName
-                            key="77125">Bermann Fischer</orgName>, <orgName key="73074"
-                            >Querido</orgName> und <orgName key="73072">Allert de Lange</orgName>
-                        1938 als Gemeinschaftsproduktion gründen.</note>, von dem Sie sprechen, wäre
-                    mehr als eine Wendung zum Guten, er wäre das Tor ins Freie. Hoffentlich gelingt
-                    das Unternehmen. Inzwischen will ich auf den sagenhaften Herrn <persName
-                        key="14512">Hübsch</persName> hoffen. Sagen Sie mir, bitte, seine Adresse.
-                    Ich schicke ihm dann die Vorrede.<note type="reg"><name type="wrk" key="73085"
-                            >Vorwort zu "La Veuve Bosca"</name></note></p>
+                <p>Der Verlag<note type="com" cert="high"> Es handelt sich um den Verlag <orgName key="73087">Forum-B&#252;cher</orgName>, den die drei Exilverlage <orgName key="77125">Bermann Fischer</orgName>, <orgName key="73074">Querido</orgName> und <orgName key="73072">Allert de Lange</orgName>
+                        1938 als Gemeinschaftsproduktion gr&#252;nden.</note>, von dem Sie sprechen, w&#228;re
+                    mehr als eine Wendung zum Guten, er w&#228;re das Tor ins Freie. Hoffentlich gelingt
+                    das Unternehmen. Inzwischen will ich auf den sagenhaften Herrn <persName key="14512">H&#252;bsch</persName> hoffen. Sagen Sie mir, bitte, seine Adresse.
+                    Ich schicke ihm dann die Vorrede.<note type="reg"> <name type="wrk" key="73085">Vorwort zu "La Veuve Bosca"</name></note></p>
 
-                <p>Kann Ihre Mutter<note type="reg"><persName key="73083">Zweig,
+                <p>Kann Ihre Mutter<note type="reg"> <persName key="73083">Zweig,
                         Ida</persName></note> nicht von <placeName key="49451">Wien</placeName> weg?
-                    Wo ist Ihre Frau<note type="reg"><persName key="7914">Zweig,
+                    Wo ist Ihre Frau<note type="reg"> <persName key="7914">Zweig,
                             Friderike</persName></note>? Wie recht hatten Sie, als Sie seinerzeit
                     auf der Liquidierung <placeName key="49190">Salzburgs</placeName> bestanden!</p>
 
                 <p rend="center"><emph n="salute">Vielen Dank und herzliche
-                    Grüsse<lb/>Ihres</emph></p>
-                <p rend="right">René Schickele.</p>
+                    Gr&#252;sse<lb/> Ihres</emph></p>
+                <p rend="right">Ren&#233; Schickele.</p>
 
             </div>
         </body>
