@@ -5,7 +5,7 @@ from os import path, walk
 
 from lxml import etree
 import nltk
-# import spacy # nltk suffices atm
+# import spacy # not neccessary, nltk suffices atm
 
 ###############################################################################
 # Configuration
@@ -56,7 +56,11 @@ def fix_whitespace(tree):
 
 
 def remove_notes(tree):
-    raise NotImplementedError("Elimination of notes is not supported yet.")
+    for note in tree.getroot().iter("note"):
+        parent = note.getparent()
+        parent.text += note.tail
+        parent.remove(note)
+    return tree
 
 
 def extract_ps(root):
@@ -84,14 +88,13 @@ def tokenize_p(p):
     return tokens
 
 
-def write_edited(tree, group, filename):
+def write_edited(tree, filepath):
     """Write an etree to an xml file in the MOD_DIR."""
-    filepath = path.join(MOD_DIR, group, filename)
     tree.write(filepath)
 
 
-def write_reference(ps, group, filename):
-    with open(path.join(REF_DIR, group, filename + ".txt"), "w") as f:
+def write_reference(ps, filename):
+    with open(path.join(filename), "w") as f:
         for stuff in ps:
             for idx, s in enumerate(stuff):
                 if idx != 0:
@@ -100,11 +103,11 @@ def write_reference(ps, group, filename):
             f.write("\n\n")
 
 
-def write_plain_text(tree, group, filename):
+def write_plain_text(tree, filename):
     """Take any xml file, get its text tag and write its plaintext
     content into a corresponding file in the PLAIN_DIR.
     """
-    filepath = path.join(PLAIN_DIR, group, filename + ".txt")
+    filepath = path.join(filename)
     el = tree.getroot().find("text")
     with open(filepath, "w") as f:
         f.write(etree.tostring(el, method="text", encoding="unicode"))
@@ -115,9 +118,9 @@ def write_xml(ps, tree, filename):
 
 
 if __name__ == "__main__":
-
     parser = argparse.ArgumentParser()
     parser.add_argument("source", help="directory with source xml files")
+    # Flags wether preprocess and to write certain files
     parser.add_argument(
         "-n", "--no-notes", action="store_true",
         help="exclude all <note> tags from the source files")
@@ -126,7 +129,10 @@ if __name__ == "__main__":
         help="preprocess the xml before tokenization")
     parser.add_argument(
         "-r", "--write-reference", action="store_true",
-        help="write reference files")
+        help="write reference text files")
+    parser.add_argument(
+        "-e", "--write-edited", action="store_true",
+        help="write preprocessed xml into a file")
     parser.add_argument(
         "-p", "--write-plaintext", action="store_true",
         help="write plaintext files")
@@ -134,6 +140,7 @@ if __name__ == "__main__":
         "-x", "--write-xml", action="store_true",
         help="write tokenized xml files")
 
+    # Location where to write files
     parser.add_argument(
         "--mod-dir",
         help="where to create intermediate xml files with fixed whitespace. Implies -f option.")
@@ -147,6 +154,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     opts = {
+        "no_notes": args.no_notes,
+        "fix_whitespace": args.fix_whitespace,
         "write_ref": args.write_reference or bool(args.ref_dir),
         "write_plain": args.write_plaintext or bool(args.plain_dir),
         "write_xml": args.write_xml or bool(args.xml_dir),
@@ -159,34 +168,37 @@ if __name__ == "__main__":
 
     # Determine files to process.
     files = []
-    path = None
-    for (dirpath, dirnames, filenames) in walk(path.join(opts.src_dir)):
+    filepath = None
+    for (dirpath, dirnames, filenames) in walk(path.join(opts["src_dir"])):
         files.extend(filenames)
-        path = dirpath
+        filepath = dirpath
         break
 
     # Process files.
     for filename in files:
         tree = None
-        tree = load_file(path.join(dirpath, filename))
+        tree = load_file(path.join(filepath, filename))
 
         # Preprocessing steps
-        if opts.no_notes:
+        if opts["no_notes"]:
             tree = remove_notes(tree)
-        if opts.fix_whitespace:
+        if opts["fix_whitespace"]:
             tree = fix_whitespace(tree)
+
+        if opts["mod_dir"] or opts["write_edited"]:
+            write_edited(tree, path.join(opts["mod_dir"], filename))
 
         # Processing and output generation
         paragraphs = None
         # Do we actually need to tokenize?
-        if opts.write_reference or opts.write_xml:
+        if opts["write_ref"] or opts["write_xml"]:
             paragraphs = extract_ps(tree)
 
-        if opts.write_plain:
-            write_plain_text(tree, path.join(opts.plain_dir, filename + ".txt"))
+        if opts["write_plain"]:
+            write_plain_text(tree, path.join(opts["plain_dir"], filename + ".txt"))
 
-        if opts.write_reference and paragraphs is not None:
-            write_reference(paragraphs, path.join(opts.ref_dir, filename + ".txt"))
+        if opts["write_ref"] and paragraphs is not None:
+            write_reference(paragraphs, path.join(opts["ref_dir"], filename + ".txt"))
 
-        if opts.write_xml and paragraphs is not None:
-            write_xml(tree, paragraphs, path.join(opts.xml_dir, filename))
+        if opts["write_xml"] and paragraphs is not None:
+            write_xml(tree, paragraphs, path.join(opts["xml_dir"], filename))
