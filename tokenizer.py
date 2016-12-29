@@ -16,11 +16,10 @@ PLAIN_DIR = path.join(".", "plaintext")
 REF_DIR = path.join(".", "reference")
 XML_DIR = path.join(".", "results")
 
-GROUPS = ['zufall', 'auswahl']
+# GROUPS = ['zufall', 'auswahl']
 # GROUPS = ['one', ]
 
 ###############################################################################
-# Strategy:
 # nlp = spacy.load('de')
 
 nltk.data.path.append(path.join(".", "nltk_data"))
