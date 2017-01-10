@@ -2,3 +2,4 @@ edited/
 plaintext/
 reference/
 nltk_data/
+__pycache__/
