@@ -22,6 +22,7 @@ from os import path, walk
 
 from lxml import etree
 import nltk
+from nltk.stem.snowball import SnowballStemmer
 
 ###############################################################################
 # Configuration
@@ -87,8 +88,12 @@ def remove_notes(tree):
     """Exclude all <note> tags from the tree."""
     for note in tree.getroot().iter("note"):
         parent = note.getparent()
-        parent.text += note.tail
-        parent.remove(note)
+        try:
+            parent.text += note.tail
+        except TypeError:
+            pass
+        finally:
+            parent.remove(note)
     return tree
 
 
@@ -99,22 +104,22 @@ def extract_ps(root):
     text = root.find("text")
     for p in text.iter("p"):
         s = etree.tostring(p, method="text", encoding="unicode")
-        ps.append(tokenize_p(s))
+        ps.append(tokenize_paragraph(s))
     return ps
 
 
-def tokenize_p(p):
+def tokenize_paragraph(p):
     """Tokenize a Paragraph with nltk and remove redundant whitespace.
     'Tokens' which end up being only punctuation are also removed."""
     tokenizer = nltk.data.load("tokenizers/punkt/german.pickle")
-    sents = tokenizer.tokenize(p)
+    sentences = tokenizer.tokenize(p)
     tokens = []
-    for s in sents:
+    for s in sentences:
         tokens.extend(nltk.tokenize.word_tokenize(s))
     tokens = [
         t.strip() for t in tokens
         if not (t.strip().isspace() or t.strip() in [",", ".", ";", "!", "?",
-                "-", '"', "'", "``", "''", ":", "(", ")"])
+                "-", '"', "'", "``", "''", ":", "(", ")", "–"])
     ]
     return tokens
 
@@ -145,6 +150,7 @@ def write_stemmed_plain_text(tree, filename):
     """Write a plain text file, with each token of the text replaced
     by its stemmed version
     """
+    stemmer = SnowballStemmer("german")
     plaintext = etree.tostring(
         tree.getroot().find("text"),
         method="text", enocding="utf-8"
@@ -211,7 +217,7 @@ if __name__ == "__main__":
         "write_xml": args.write_xml or bool(args.xml_dir),
         "src_dir": args.source,
         "mod_dir": args.mod_dir or MOD_DIR,
-        "ste_dir": args.ste_dir or STE_DIR,
+        "ste_dir": args.stemm_dir or STE_DIR,
         "ref_dir": args.ref_dir or REF_DIR,
         "xml_dir": args.xml_dir or XML_DIR,
         "plain_dir": args.plain_dir or PLAIN_DIR,
