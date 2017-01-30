@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-#    tokenizer.py -- A small script to (pre-)process TEI XML files
+#    lextract.py -- A small script to (pre-)process TEI XML files
 #
 #    Copyright (c) 2017 Henning Gebhard
 #
@@ -40,7 +40,7 @@ XML_DIR = path.join(PROJECT_DIR, "results")
 ###############################################################################
 
 """
-tokenizer.py
+lextract.py
 
 A library as well as a script to (pre-)process TEI XML files. It mainly
 provides tokenization and text extraction, but it can also fix some
