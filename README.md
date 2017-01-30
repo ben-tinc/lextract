@@ -38,3 +38,9 @@ View its usage notes by specifying the --help parameter:
 ```
 python3 tokenizer.py --help
 ```
+
+Let's say, you have your source xml files in the directory ~/xml. You want to fix erroneous whitespace, remove note tags and write the files' content as plaintext into the directory ~/plaintext. You can achieve this by using
+
+```
+python3 tokenizer.py ~/xml -f -n --plain-dir ~/plaintext
+```
