@@ -7,6 +7,7 @@ A script to automate (pre-) processing of the xml corpus for the course
 - whitespace fixes
 - removal of <note> tags
 - tokenization (save as reference txt or inside of xml)
+- stemming
 - extraction of document body as plain text
 
 
@@ -28,9 +29,12 @@ in the directory, where tokenizer.py resides.
 
 You can start it on the console like this:
 
+```
 python3 tokenizer.py
+```
 
 View its usage notes by specifying the --help parameter:
 
+```
 python3 tokenizer.py --help
-
+```
