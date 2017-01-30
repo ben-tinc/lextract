@@ -153,9 +153,20 @@ def write_stemmed_plain_text(tree, filename):
     stemmer = SnowballStemmer("german")
     plaintext = etree.tostring(
         tree.getroot().find("text"),
-        method="text", enocding="utf-8"
+        method="text", encoding="utf-8"
     )
-    raise NotImplementedError("")
+    tokenizer = nltk.data.load("tokenizers/punkt/german.pickle")
+    sentences = tokenizer.tokenize(plaintext.decode())
+    tokens = []
+    for s in sentences:
+        t = nltk.tokenize.word_tokenize(s)
+        for word in t:
+            if not (word.strip().isspace() or
+                    word.strip() in [",", ".", ";", "!", "?", "-", '"', "'", "``",
+                                     "''", ":", "(", ")", "–"]):
+                tokens.append(stemmer.stem(word))
+    with open(filename, "w") as f:
+        f.write(" ".join(tokens))
 
 
 def write_xml(ps, tree, filename):
