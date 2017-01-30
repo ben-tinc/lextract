@@ -1,4 +1,4 @@
-# tokenizer.py
+# lextract.py
 
 
 A script to automate (pre-) processing of the xml corpus for the course
@@ -22,7 +22,7 @@ pip install nltk
 ``` 
 
 Afterwards download the german language data for nltk to a folder 'nltk_data'
-in the directory, where tokenizer.py resides. 
+in the directory, where lextract.py resides. 
 
 
 ## Basic Usage
@@ -30,17 +30,17 @@ in the directory, where tokenizer.py resides.
 You can start it on the console like this:
 
 ```
-python3 tokenizer.py
+python3 lextract.py
 ```
 
 View its usage notes by specifying the --help parameter:
 
 ```
-python3 tokenizer.py --help
+python3 lextract.py --help
 ```
 
 Let's say, you have your source xml files in the directory ~/xml. You want to fix erroneous whitespace, remove note tags and write the files' content as plaintext into the directory ~/plaintext. You can achieve this by using
 
 ```
-python3 tokenizer.py ~/xml -f -n --plain-dir ~/plaintext
+python3 lextract.py ~/xml -f -n --plain-dir ~/plaintext
 ```
