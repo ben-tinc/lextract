@@ -21,19 +21,20 @@ pip install lxml
 pip install nltk
 ``` 
 
-Afterwards download the german language data for nltk to a folder 'nltk_data'
+Afterwards download the german language data for nltk to a folder 'nltk_data/'
 in the directory, where lextract.py resides. 
 
 
 ## Basic Usage
 
-You can start it on the console like this:
+This script assumes that you have language data in the directory `./nltk_data/` and your source files a directory `./source/`.  You can start it on the console like this:
 
 ```
 python3 lextract.py
 ```
 
-View its usage notes by specifying the --help parameter:
+Most directories used can be specified via parameters. 
+View more detailed usage notes by specifying the --help parameter:
 
 ```
 python3 lextract.py --help
